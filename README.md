@@ -1,6 +1,6 @@
 # A-Painted-World
 
-![banner image](https://staticdelivery.nexusmods.com/images/101/36661530-1726112708.png))
+![banner image](https://staticdelivery.nexusmods.com/images/101/36661530-1726112708.png)
 
 Oblivion Wabbajack Modlist by Sasquatch.
 
