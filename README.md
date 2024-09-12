@@ -60,3 +60,61 @@ The following steps are required to be completed before downloading A Painted Wo
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
 :warning: **NOTE**: A Painted World will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
+
+***
+
+### Wabbajack Installation
+
+#### Installing Wabbajack
+
+Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
+
+:warning: **NOTE**: LoreRim will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
+
+**Installation Video:**
+https://www.youtube.com/watch?v=nApuOZWp12c
+
+#### Downloading and Installing LoreRim
+
+Downloading and installing LoreRim can take a while depending on your internet connection and computer. To install LoreRim, complete the following steps.
+
+1. Open Wabbajack and click on browse modlists.
+2. Press the download button on LoreRim and wait for it to download.
+3. Set the installation folder to be somewhere like C:\LoreRim. **Do not install it to your desktop or downloads folder.**
+4. The download location does not need to be on a SSD but it makes installing a bit faster.
+5. Press the play button to begin.
+6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
+7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
+
+***
+
+##### Problems with installation
+
+It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
+
+- Failed Downloads
+	- If you get a failed downloads error in wabbajack from these mods, please download from the links below and manually move them to the downloads folder of the modlist, then rerun wabbajack.
+
+   Fire Retexture 1k 1.2
+   https://www.mediafire.com/download/ctd689d2etnlabw/fire+retexture+1k+1.2.rar
+
+- x is not a whitelisted download:
+
+	 - This will happen when I update the modlist. Please check if there is a new update or wait until you see a release ping.
+
+- Wabbajack could not find my game folder:
+
+	- Either buy the game or go back to the [Pre-Installation](#pre-installation) step.
+
+- Antivirus reports a virus:
+	- You did not follow the steps in [Pre-Installation](#pre-installation). Go back and follow it.
+	- If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+
+## Post-Installation
+
+### Stock Game & Root Builder
+
+A Painted World utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Oblivion installation within the installation location of the list. This enables greater compatibility with other mod-lists and keeps your original game folder clean of any outside files.
+
+A Painted World also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and other mods which would ordinarily require being installed to the game folder. Please see our guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
+***
