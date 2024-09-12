@@ -108,6 +108,16 @@ A Painted World utilizes a Wabbajack technology called Stock Game. What this ess
 A Painted World also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and other mods which would ordinarily require being installed to the game folder. Please see our guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
 ***
 
+### Controller Support
+
+APW is only able to support Playstation controllers. If you are interested and able to create a layout for xbox, please let me know.
+
+Copy and paste the following link to a web browser. Hit enter.
+
+steam://controllerconfig/22330/3299476272
+
+A prompt will appear to open it with Steam, select Open Link. An image of the layout will appear, use ⏹️ to import the layout. From here you can launch the list normally through MO2 and use the controller to play. 
+
 ### OPTIONAL MODS - ULTRAWIDE SUPPORT & PERFORMANCE
 
 A Painted World comes with several list customization options. 
@@ -126,3 +136,22 @@ If you need a boost in FPS, you can choose to enable the Performance LODs.
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
 Make sure the dropdown box on the right is set to `A Painted World` and press the `Run` button.
+
+## Known Issues
+1. On the main menu the background of the confirmation box when starting a new game is transparent. Darnified UI issue.
+2. The Save Game screenshot has a black bar/graphical artifacting. This is an issue when running the game at higher resolutions. Remember, Oblivion was originally intended to be played on 4:3 aspect ratios.
+3. The game can stutter or fps can drop quite heavily in certain areas. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Elsewyr cities in particular tank fps.
+
+## Updating the modlist
+
+Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
+
+Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating.
+
+## Removing the Modlist
+Simply delete the folder, and you have uninstalled it.
+
+- _YOU_ for reading this.
+- biggie_boss for answering all my questions, motivating me to create APW, and introducing me to Wabbajack in the first place with his Youtube content.
+- Halgari and everyone on the WJ Team - Wabbajack is an amazing tool.
+
