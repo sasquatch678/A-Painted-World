@@ -1,4 +1,4 @@
-# A-Painted-World
+# A-Painted-World - Oblivion Wabbajack Modlist
 
 ![banner image](https://staticdelivery.nexusmods.com/images/101/36661530-1726112708.png)
 
