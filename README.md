@@ -156,5 +156,6 @@ Simply delete the folder, and you have uninstalled it.
 
 - _YOU_ for reading this.
 - biggie_boss for answering all my questions, motivating me to create APW, and introducing me to Wabbajack in the first place with his Youtube content.
+- everyone in the Discord making reports and providing feedback. The list would not be in the current state without you.
 - Halgari and everyone on the WJ Team - Wabbajack is an amazing tool.
 
