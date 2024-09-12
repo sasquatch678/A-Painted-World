@@ -63,24 +63,13 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 ***
 
-### Wabbajack Installation
+#### Downloading and Installing A Painted World
 
-#### Installing Wabbajack
-
-Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
-
-:warning: **NOTE**: LoreRim will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
-
-**Installation Video:**
-https://www.youtube.com/watch?v=nApuOZWp12c
-
-#### Downloading and Installing LoreRim
-
-Downloading and installing LoreRim can take a while depending on your internet connection and computer. To install LoreRim, complete the following steps.
+Downloading and installing the list can take a while depending on your internet connection and computer. To install A Painted World, complete the following steps.
 
 1. Open Wabbajack and click on browse modlists.
-2. Press the download button on LoreRim and wait for it to download.
-3. Set the installation folder to be somewhere like C:\LoreRim. **Do not install it to your desktop or downloads folder.**
+2. Press the download button on A Painted World and wait for it to download.
+3. Set the installation folder to be somewhere like C:\APW. **Do not install it to your desktop or downloads folder.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster.
 5. Press the play button to begin.
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
