@@ -121,7 +121,7 @@ A prompt will appear to open it with Steam, select Open Link. An image of the la
 
 ### OPTIONAL MODS - ULTRAWIDE SUPPORT & PERFORMANCE
 
-A Painted World comes with several list customization options. 
+A Painted World comes with several customization options. 
 
 There is 21x9 ultrawide support under the "ULTRAWIDE OPTIONALS (21x9)" section of Mod Organizer 2. 
 
