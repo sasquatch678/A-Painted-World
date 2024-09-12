@@ -45,8 +45,9 @@ The following steps are required to be completed before downloading A Painted Wo
 4. Fully disable OneDrive and any other programs which hook into user file areas.
 5. Reinstall Oblivion into a location that is not Program files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-7. Navigate to Documents\My Games\Oblivion and open RendererInfo.txt in a text editor. On the last line you should see ```Shader Package         : 19``` If this does not say 19 for you, change it so that it does. Close and save the file, then right click it and select Properties. Make a checkmark on Read-only.
-8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
+7. Navigate to Documents\My Games\Oblivion and open RendererInfo.txt in a text editor.
+   On the last line you should see ```Shader Package         : 19``` If this does not say 19 for you, change it so that it does. Close and save the file, then right click it and select Properties. Make a checkmark on Read-only.
+9. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
 
 ***
 
