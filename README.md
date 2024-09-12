@@ -77,7 +77,7 @@ Downloading and installing the list can take a while depending on your internet 
 
 ***
 
-##### Problems with installation
+#### Problems with installation
 
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
