@@ -107,3 +107,22 @@ A Painted World utilizes a Wabbajack technology called Stock Game. What this ess
 
 A Painted World also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and other mods which would ordinarily require being installed to the game folder. Please see our guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
 ***
+
+### OPTIONAL MODS - ULTRAWIDE SUPPORT & PERFORMANCE
+
+A Painted World comes with several list customization options. 
+
+There is 21x9 ultrawide support under the "ULTRAWIDE OPTIONALS (21x9)" section of Mod Organizer 2. 
+
+You can choose to enable ENB, and there are several presets to choose from.
+
+By default skills do not increase by using them and instead you get skill points you can distribute when leveling up. You can choose to enable skill based leveling again.
+
+When you die you will respawn as a ghost and after 30 seconds rematerialize, as an alternative and safer option to reloading saves. This can be disabled if you wish.
+
+If you need a boost in FPS, you can choose to enable the Performance LODs.
+
+### Starting up the list
+Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
+
+Make sure the dropdown box on the right is set to `A Painted World` and press the `Run` button.
