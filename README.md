@@ -152,6 +152,8 @@ Updating is like installing the list. Simply make sure your paths are the same a
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
 
+## Credits and Thanks
+
 - _YOU_ for reading this.
 - biggie_boss for answering all my questions, motivating me to create APW, and introducing me to Wabbajack in the first place with his Youtube content.
 - Halgari and everyone on the WJ Team - Wabbajack is an amazing tool.
