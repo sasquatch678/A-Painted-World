@@ -20,7 +20,7 @@ Oblivion Wabbajack Modlist by Sasquatch.
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-## Introduction
+## Overview
 
 **A Painted World** is a complete overhaul of TES IV: Oblivion with a focus on stylized and timeless visuals, modernized combat, deeper rpg mechanics, and meaningful progression. It features expanded cities, additional quests, a more refined leveling system, more unique and detailed landscapes, and new lands such as Elsweyr. It is heavily focused on immersion and progression, and additionally has many slice of life features such as crafting, animal taming, fishing, home building/decorating, and more.
 
