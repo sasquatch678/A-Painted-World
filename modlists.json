@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "A Painted World",
+    "description": "A Painted World is a complete overhaul of Oblivion with a focus on stylized and timeless visuals, modernized combat, deeper rpg mechanics, and meaningful progression. It features expanded cities, additional quests, a more refined leveling system, more unique and detailed landscapes, and new lands. It is heavily focused on immersion and progression, and additionally has many slice of life features such as crafting, animal taming, fishing, home building/decorating, and more.",
+    "author": "<Sasquatch>",
+    "maintainers": [
+      "github/<sasquatch678>"
+    ],
+    "game": "oblivion",
+    "tags": [
+      "Visuals","Roleplay","MOO","OOO","New Lands",
+      "<any tags you want in the UI, each in its own string"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "<https://staticdelivery.nexusmods.com/images/101/36661530-1726112708.png>",
+      "readme": "<https://github.com/sasquatch678/A-Painted-World/blob/main/README.md>",
+      "download": "https://authored-files.wabbajack.org/A%20Painted%20World.wabbajack_eba980c4-15a7-401b-8133-3c95031ee4d2",
+      "machineURL": "machineURL",
+      "discordURL": "<https://discord.gg/bungalo>"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "UqVHP9MH1+k=",
+      "Size": 899567080,
+      "NumberOfArchives": 845,
+      "SizeOfArchives": 35312091676,
+      "NumberOfInstalledFiles": 144619,
+      "SizeOfInstalledFiles": 55855900434
+    },
+    "version": "0.3.4"
+  }
+]
+
