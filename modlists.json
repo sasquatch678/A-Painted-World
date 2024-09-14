@@ -1,37 +1,36 @@
 [
   {
-    "$type":_"ModListMetadata, Wabbajack.Lib",
-    "title":_"A Painted World",
-    "description":_"A Painted World is a complete overhaul of Oblivion with a focus on stylized and timeless visuals, modernized combat, deeper rpg mechanics, and meaningful progression. It features expanded cities, additional quests, a more refined leveling system, more unique and detailed landscapes, and new lands. It is heavily focused on immersion and progression, and additionally has many slice of life features such as crafting, animal taming, fishing, home building/decorating, and more.",
-    "author":_"<Sasquatch>",
-    "maintainers":_[
+    "$type":"ModListMetadata, Wabbajack.Lib",
+    "title":"A Painted World",
+    "description":"A Painted World is a complete overhaul of Oblivion with a focus on stylized and timeless visuals, modernized combat, deeper rpg mechanics, and meaningful progression. It features expanded cities, additional quests, a more refined leveling system, more unique and detailed landscapes, and new lands. It is heavily focused on immersion and progression, and additionally has many slice of life features such as crafting, animal taming, fishing, home building/decorating, and more.",
+    "author":"Sasquatch",
+    "maintainers":[
       "github/sasquatch678"
     ],
-    "game":_"oblivion",
-    "tags":_[
-      "Visuals","Roleplay","MOO","OOO","New_Lands",
+    "game":"oblivion",
+    "tags":["Visuals","Roleplay","MOO","OOO","New Lands"
     ],
-    "nsfw":_false,
-    "image_contains_title":_false,
-    "force_down":_false,
-    "links":_{
-      "$type":_"Links, Wabbajack.Lib",
-      "image":_"https://staticdelivery.nexusmods.com/images/101/36661530-1726112708.png",
-      "readme":_"https://github.com/sasquatch678/A-Painted-World/blob/main/README.md",
-      "download":_"https://authored-files.wabbajack.org/A%20Painted%20World.wabbajack_eba980c4-15a7-401b-8133-3c95031ee4d2",
-      "machineURL":_"machineURL",
-      "discordURL":_"https://discord.gg/bungalo"
+    "nsfw":false,
+    "image_contains_title":false,
+    "force_down":false,
+    "links":{
+      "$type":"Links, Wabbajack.Lib",
+      "image":"https://staticdelivery.nexusmods.com/images/101/36661530-1726112708.png",
+      "readme":"https://github.com/sasquatch678/A-Painted-World/blob/main/README.md",
+      "download":"https://authored-files.wabbajack.org/A%20Painted%20World.wabbajack_eba980c4-15a7-401b-8133-3c95031ee4d2",
+      "machineURL":"machineURL",
+      "discordURL":"https://discord.gg/bungalo"
     },
-    "download_metadata":_{
-      "$type":_"DownloadMetadata, Wabbajack.Lib",
-      "Hash":_"UqVHP9MH1+k=",
-      "Size":_899567080,
-      "NumberOfArchives":_845,
-      "SizeOfArchives":_35312091676,
-      "NumberOfInstalledFiles":_144619,
-      "SizeOfInstalledFiles":_55855900434
+    "download_metadata":{
+      "$type":"DownloadMetadata, Wabbajack.Lib",
+      "Hash":"UqVHP9MH1+k=",
+      "Size":899567080,
+      "NumberOfArchives":845,
+      "SizeOfArchives":35312091676,
+      "NumberOfInstalledFiles":144619,
+      "SizeOfInstalledFiles":55855900434
     },
-    "version":_"0.3.4"
+    "version":"0.3.4"
   }
 ]
 
