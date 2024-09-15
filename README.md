@@ -127,6 +127,11 @@ A Painted World utilizes a Wabbajack technology called Stock Game. What this ess
 A Painted World also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and other mods which would ordinarily require being installed to the game folder. Please see this guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
 ***
 
+### Starting up the list
+Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
+
+Make sure the dropdown box on the right is set to `A Painted World` and press the `Run` button.
+
 ### Controller Support
 
 Copy and paste the following link to a web browser. Hit enter.
@@ -147,15 +152,11 @@ When you die you will respawn as a ghost and after 30 seconds rematerialize, as 
 
 If you need a boost in FPS, you can choose to enable the Performance LODs.
 
-### Starting up the list
-Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
-
-Make sure the dropdown box on the right is set to `A Painted World` and press the `Run` button.
-
 ## Known Issues
 1. On the main menu the background of the confirmation box when starting a new game is transparent. Darnified UI issue.
 2. The Save Game screenshot has a black bar/graphical artifacting. This is an issue when running the game at higher resolutions. Remember, Oblivion was originally intended to be played on 4:3 aspect ratios.
 3. The game can stutter or fps can drop quite heavily in certain areas. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Elsewyr cities in particular tank fps.
+4. When starting a new game the camera is a bit janky, just unsheathe and resheathe your fists and it should fix it
 
 ## Updating the modlist
 
