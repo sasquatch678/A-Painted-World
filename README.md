@@ -40,16 +40,16 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 
 ### Recommended System Requirements
 
-LoreRim requires a mid-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
+If you can run vanilla Skyrim, you should be able to run APW without issue.
+
+Recommended specs:
 
 | Component    | Recommended for 1080p | 
 |:--------------:|:-------------:|
-| CPU | Dual Core 2.0GHz or equivalent processor
+| CPU | Quad-core Intel or AMD CPU
 | Ram | 4GB DDR4 Ram  + 40GB Pagefile 
 | Storage | SATA SSD or higher
 | GPU | Direct X 9.0c and Vulkan compliant video card with 6gb of VRAM
-
-If you can run vanilla Skyrim, you should be able to run APW without issue.
 
 Space required: ~85GB Total 
 
