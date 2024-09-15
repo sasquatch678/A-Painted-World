@@ -42,9 +42,7 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 
 If you can run vanilla Skyrim, you should be able to run APW without issue.
 
-Recommended specs:
-
-| Component    | Recommended for 1080p | 
+| Component    | Recommended | 
 |:--------------:|:-------------:|
 | CPU | Quad-core Intel or AMD CPU
 | Ram | 4GB DDR4 Ram  + 40GB Pagefile 
