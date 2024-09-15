@@ -38,6 +38,21 @@ Only Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lighte
 
 Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
 
+### Recommended System Requirements
+
+LoreRim requires a mid-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
+
+| Component    | Recommended for 1080p | 
+|:--------------:|:-------------:|
+| CPU | Dual Core 2.0GHz or equivalent processor
+| Ram | 4GB DDR4 Ram  + 40GB Pagefile 
+| Storage | SATA SSD or higher
+| GPU | Direct X 9.0c and Vulkan compliant video card with 6gb of VRAM
+
+If you can run vanilla Skyrim, you should be able to run APW without issue.
+
+Space required: ~85GB Total 
+
 ## Installation
 
 Due to being a Wabbajack list installing A Painted World is painless and easy, taking a fraction of the time it would to create a modlist like this yourself. You will need to own a Steam copy of Oblivion GOTY Deluxe Edition before proceeding.
