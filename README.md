@@ -133,7 +133,7 @@ Copy and paste the following link to a web browser. Hit enter.
 
 steam://controllerconfig/22330/3299476272
 
-A prompt will appear to open it with Steam, select Open Link. An image of the layout will appear, use :stop_button:  or :regional_indicator_x: to import the layout. From here you can launch the list normally through MO2 and use the controller to play. 
+A prompt will appear to open it with Steam, select Open Link. An image of the layout will appear, use :stop_button: or X to import the layout. From here you can launch the list normally through MO2 and use the controller to play. 
 
 ### OPTIONAL MODS - ULTRAWIDE SUPPORT & PERFORMANCE
 
