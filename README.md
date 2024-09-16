@@ -130,7 +130,7 @@ A Painted World also utilizes Root Builder alongside Stock Game to enable easier
 ### Starting up the list
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-Make sure the dropdown box on the right is set to `A Painted World` and press the `Run` button.
+Make sure the dropdown box on the right is set to `Oblivion` and press the `Run` button.
 
 ### Controller Support
 
