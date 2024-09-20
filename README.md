@@ -101,6 +101,9 @@ Downloading and installing the list can take a while depending on your internet 
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
 - Failed Downloads
+	
+	- Missing Manual Downloads: Oblivion.exe - You did not follow the steps in pre-installation. Go back and read thoroughly.
+	
 	- If you get a failed downloads error in wabbajack from these mods, please download from the links below and manually move them to the downloads folder of the modlist, then rerun wabbajack.
 
    Fire Retexture 1k 1.2
