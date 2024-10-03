@@ -11,11 +11,11 @@
     "tags":["Visuals","Roleplay","MOO","OOO","New Lands"
     ],
     "nsfw":false,
-    "image_contains_title":false,
+    "image_contains_title":true,
     "force_down":false,
     "links":{
       "$type":"Links, Wabbajack.Lib",
-      "image":"https://staticdelivery.nexusmods.com/images/101/36661530-1726112708.png",
+      "image":"https://github.com/sasquatch678/A-Painted-World/blob/main/horizcover.png",
       "readme":"https://github.com/sasquatch678/A-Painted-World/blob/main/README.md",
       "download":"https://authored-files.wabbajack.org/A%20Painted%20World.wabbajack_eba980c4-15a7-401b-8133-3c95031ee4d2",
       "machineURL":"APaintedWorld",
