@@ -21,7 +21,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://github.com/sasquatch678/A-Painted-World/blob/main/horizcover.png",
+      "image": "https://raw.githubusercontent.com/sasquatch678/A-Painted-World/refs/heads/main/horizcover.png",
       "readme": "https://github.com/sasquatch678/A-Painted-World/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/A Painted World.wabbajack_afd5e1ff-ac32-4a16-81ad-fef79cb4d86a",
       "machineURL": "APaintedWorld",
