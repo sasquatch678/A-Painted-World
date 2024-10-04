@@ -1,36 +1,43 @@
 [
   {
-    "$type":"ModListMetadata, Wabbajack.Lib",
-    "title":"A Painted World",
-    "description":"A Painted World is a complete overhaul of Oblivion with a focus on stylized and timeless visuals, modernized combat, deeper rpg mechanics, and meaningful progression. It features expanded cities, additional quests, a more refined leveling system, more unique and detailed landscapes, and new lands. It is heavily focused on immersion and progression, and additionally has many slice of life features such as crafting, animal taming, fishing, home building/decorating, and more.",
-    "author":"Sasquatch",
-    "maintainers":[
+    "title": "A Painted World",
+    "description": "A Painted World is a complete overhaul of Oblivion with a focus on stylized and timeless visuals, modernized combat, deeper rpg mechanics, and meaningful progression. It features expanded cities, additional quests, a more refined leveling system, more unique and detailed landscapes, and new lands. It is heavily focused on immersion and progression, and additionally has many slice of life features such as crafting, animal taming, fishing, home building/decorating, and more.",
+    "author": "Sasquatch",
+    "maintainers": [
       "github/sasquatch678"
     ],
-    "game":"oblivion",
-    "tags":["Visuals","Roleplay","MOO","OOO","New Lands"
+    "game": "oblivion",
+    "official": false,
+    "tags": [
+      "Visuals",
+      "Roleplay",
+      "MOO",
+      "OOO",
+      "New Lands"
     ],
-    "nsfw":false,
-    "image_contains_title":true,
-    "force_down":false,
-    "links":{
-      "$type":"Links, Wabbajack.Lib",
-      "image":"https://github.com/sasquatch678/A-Painted-World/blob/main/horizcover.png",
-      "readme":"https://github.com/sasquatch678/A-Painted-World/blob/main/README.md",
-      "download":"https://authored-files.wabbajack.org/A%20Painted%20World.wabbajack_eba980c4-15a7-401b-8133-3c95031ee4d2",
-      "machineURL":"APaintedWorld",
-      "discordURL":"https://discord.gg/bungalo"
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://github.com/sasquatch678/A-Painted-World/blob/main/horizcover.png",
+      "readme": "https://github.com/sasquatch678/A-Painted-World/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/A Painted World.wabbajack_6e8db1ca-2272-4f9c-a302-5b41f5bfe69e",
+      "machineURL": "APaintedWorld",
+      "discordURL": "https://discord.gg/bungalo"
     },
-    "download_metadata":{
-      "$type":"DownloadMetadata, Wabbajack.Lib",
-      "Hash":"UqVHP9MH1+k=",
-      "Size":899567080,
-      "NumberOfArchives":845,
-      "SizeOfArchives":35312091676,
-      "NumberOfInstalledFiles":144619,
-      "SizeOfInstalledFiles":55855900434
+    "download_metadata": {
+      "Hash": "2ylTFWjLJSs=",
+      "Size": 369657444,
+      "NumberOfArchives": 877,
+      "SizeOfArchives": 61026017996,
+      "NumberOfInstalledFiles": 138360,
+      "SizeOfInstalledFiles": 67608876299
     },
-    "version":"0.3.4"
+    "version": "0.4.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-10-04T01:17:57.8222306Z",
+    "repositoryName": ""
   }
 ]
-
