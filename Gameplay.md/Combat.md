@@ -29,3 +29,9 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 - Poise: Between 1-34 Agility actors will take two hits to stagger, between 35-59 Agility they will take 3 hits, etc. Power attacks count as 2 hits in this system. Two handed weapons deal twice as much poise damage.
 
 ### Archery
+
+You can perform Charged Shots or Power Shots while a bow is equipped. You can toggle between the two by pressing H.
+
+#### Charged Shots
+
+#### Power Shots
