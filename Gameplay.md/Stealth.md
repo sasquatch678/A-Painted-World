@@ -25,11 +25,11 @@ Master:            x3    x6      x10     x15
 
 | Sneak | Weak | Standard | | Strong | | Deadly |
 |:--------------:|:-------------:||:--------------:|:-------------:||:--------------:|
-| Novice | 2x| 2x | 2x | 2x |
-| Novice | 2x| 2x | 2x | 2x |
-| Novice | 2x| 2x | 2x | 2x |
-| Novice | 2x| 2x | 2x | 2x |
-| Novice | 2x| 2x | 2x | 2x |
+| Novice | 1x | 2x | 2x | 3x |
+| Apprentice | 2x | 4x | 4x | 6x |
+| Journeyman | 2x | 4x | 6x | 9x |
+| Expert | 3x | 6x | 8x | 12x |
+| Master | 3x | 6x | 10x | 15x |
 
 Weak: Slow 1h weapon (Slow Waraxes, Fast Maces, Fast Longswords)
 Standard: Katana/Waraxe
