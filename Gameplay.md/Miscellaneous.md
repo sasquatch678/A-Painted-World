@@ -26,8 +26,3 @@ Each Divine Altar restores one attribute up to 100 points. The attribute restore
 | Zenithar | Fortify Luck 5 points for 6480 seconds.
 
 Wayshrine Blessings are twice as potent. Additionally, once per day you can enhance a bandage at an Altar of the Nine, improving the effects. 
-
-### Fishing
-Head to The Flowing Bowl in Anvil and talk to Maenlorn. You can buy various fishing rods and the guide book "All About Fishing" from him, as well as ask him several things about fishing. Alternatively, the standard wooden fishing rod is available in the Imperial City (Jensine, Sergius from Three Brothers), Bravil (The Fair Deal), and Leyawiin (Best Goods and Guarantees)
-
-Equip a fishing rod, and swing facing a body of water. There will be a small "splash", and your "bobber" will have landed. Once you see a big splash, quickly reel in by blocking (right-click) to get your catch.
