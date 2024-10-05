@@ -1,4 +1,4 @@
-### LEVELING
+## LEVELING
 
 You should forget any retained knowledge from Vanilla Oblivion on efficient leveling, it does not exist here.
 
