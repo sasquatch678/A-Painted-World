@@ -25,11 +25,11 @@ Master:            x3    x6      x10     x15
 
 | Sneak    | Weak | Standard | | Strong | | Deadly |
 |:--------------:|:-------------:|
-| Novice | | Quad-core Intel or AMD CPU | | 2x  | | 2x  | | 2x |
-| Novice | | Quad-core Intel or AMD CPU | | 2x  | | 2x  | | 2x |
-| Novice | | Quad-core Intel or AMD CPU | | 2x  | | 2x  | | 2x |
-| Novice | | Quad-core Intel or AMD CPU | | 2x  | | 2x  | | 2x |
-| Novice | | Quad-core Intel or AMD CPU | | 2x  | | 2x  | | 2x |
+| Novice | Quad-core Intel or AMD CPU | 2x | 2x | 2x |
+| Novice | Quad-core Intel or AMD CPU | 2x | 2x | 2x |
+| Novice | Quad-core Intel or AMD CPU | 2x | 2x | 2x |
+| Novice | Quad-core Intel or AMD CPU | 2x | 2x | 2x |
+| Novice | Quad-core Intel or AMD CPU | 2x | 2x | 2x |
 
 Weak: Slow 1h weapon (Slow Waraxes, Fast Maces, Fast Longswords)
 Standard: Katana/Waraxe
