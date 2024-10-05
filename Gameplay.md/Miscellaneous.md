@@ -13,7 +13,7 @@ Soulgems can be filled by multiple souls, ie. trapping enough petty souls in a s
 
 ### Nine Divines
 Each Divine Altar restores one attribute up to 100 points. The attribute restored is the same as their blessing. Altars of the Nine will restore all attributes. Blessings of the Divine have also been reworked, their bonuses are as follows:
-| Divine | | Blessing |
+| Divine    | Blessing | 
 |:--------------:|:-------------:|
 | Akatosh | Fortify Speed 5 points for 6480 seconds.
 | Arkay | Fortify Health 15 points for 6480 seconds, cures all disease.
