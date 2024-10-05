@@ -24,8 +24,9 @@ Sneak-attack damage with melee weapons is now dependent on the weapon type and s
 | Deadly | Dagger
 | No Sneak Multiplier | 2h and very slow 1h weapons (Longsword/Mace)
 
-| Sneak Level/Weapon Type | Weak | Standard | Strong | Deadly |
+| Weapon Type | Weak | Standard | Strong | Deadly |
 |:--------------:|:-------------:|:--------------:|:-------------:|:--------------:|
+| Sneak Level | | | | | |
 | Novice | 1x | 2x | 2x | 3x |
 | Apprentice | 2x | 4x | 4x | 6x |
 | Journeyman | 2x | 4x | 6x | 9x |
