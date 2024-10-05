@@ -14,11 +14,11 @@ Fatigue is like your second health bar and affects your damage dealt, swing spee
 
 - Power Attacks: Power attacks break blocks and deal extra damage. They can be performed by holding the left mouse button. Additional effects are added to power attacks depending on an actor's skill with their equipped weapon.
 
-| Weapon Type    | Effect | 
-|:--------------:|:-------------:|
-| Blade | Bleed for 3 seconds
-| One-Handed Blunt | Fatigue damage + Silence 
-| Two-Handed Blunt | Weaken the target's armor
+  | Weapon Type    | Effect | 
+  |:--------------:|:-------------:|
+  | Blade | Bleed for 3 seconds
+  | One-Handed Blunt | Fatigue damage + Silence 
+  | Two-Handed Blunt | Weaken the target's armor
 
 - Bashing: You can bash by holding block and using left click. Bashing deals 1 Poise damage and will interrupt and stagger Powerattacking/Blocking enemies. Bashing has a 1.5 second cooldown and requires 50 strength.
 
