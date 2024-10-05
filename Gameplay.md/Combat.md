@@ -19,8 +19,8 @@ Additionally, there are many new mechanics to take advantage of, listed below.
   | Weapon Type    | Effect | 
   |:--------------:|:-------------:|
   | Blade | Bleed for 3 seconds
-  | One-Handed Blunt | Fatigue damage + Silence 
-  | Two-Handed Blunt | Weaken the target's armor
+  | One-Handed Blunt | Fatigue damage + Silence for 3/4/5 seconds
+  | Two-Handed Blunt | Weaken the target's armor for 3/4/5 seconds
 
 - Bashing: You can bash by holding block and using left click. Bashing deals 1 Poise damage and will interrupt and stagger Powerattacking/Blocking enemies. Bashing has a 1.5 second cooldown and requires 50 strength.
 
