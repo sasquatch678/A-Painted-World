@@ -1,25 +1,25 @@
-🇶 How much space? 
+#### 🇶 How much space? 
 🅰️ ~115gb total. 
 
-🇶 I have a black screen on the main menu but can still hear sounds. 
+#### 🇶 I have a black screen on the main menu but can still hear sounds. 
 🅰️ you have an AMD graphics card. Set bFullScreen to 0 in Oblivon.ini in the profiles folder of wherever you installed the list. Set the file to read-only so this doesn’t get reverted. 
 
-### 🇶 I am crashing or stuttering constantly
+#### 🇶 I am crashing or stuttering constantly
 🅰️ Some random crashes are expected, Oblivion is an old game and crashes even without mods. I am still trying to make improvements but nothing will get fixed if you don’t report it. If it can't be replicated it is very difficult to actually solve. Ensure you have followed all pre-install steps. Try changing the heap mode in ORC.ini. It's also possible you may need to perform driver updates or rollbacks, or something else is wrong with your system. Check this link for other tweaks you can try. https://en.m.uesp.net/wiki/Oblivion:Tweaking
 
-🇶 My mouse isn’t working 
+#### 🇶 My mouse isn’t working 
 🅰️ Restart steam
 
-🇶 There are a bunch of plugins unchecked 
+#### 🇶 There are a bunch of plugins unchecked 
 🅰️ This is intentional. These plugins are merged to avoid the esp limit. You should not enable them yourself or do anything with them.
 
-🇶 I am moving very slowly 
+#### 🇶 I am moving very slowly 
 🅰️ By default you will walk, press X to toggle running. Hold shift while running to sprint.
 
-🇶 Why aren't my stats regenerating faster?
+#### 🇶 Why aren't my stats regenerating faster?
 🅰️ Many birthsigns offer some form of stat regeneration. Out of combat you should sometimes use the wait function to restore stats. Potions should be used to restore stats in combat or when waiting is otherwise not possible. This is an intentional design choice. 
 
-🇶 Combat is too hard 
+#### 🇶 Combat is too hard 
 🅰️ Combat is lethal on both sides. Make good use of the added combat mechanics and utilize spacing and reach to avoid being hit. My goal is for combat to feel engaging and require some strategy but not be overly punishing. If you think I’ve missed the mark here let me know about it.
 
 Your race, class, and major skills will have a major effect on how your character scales for the entire game. Make sure you are primarily using your major skills. There are class changing profession books you can find in the world if you aren't happy with what you originally selected.
@@ -32,9 +32,9 @@ Many enemies have been unleveled to no longer scale with the player and this is 
 
 If all else fails, use the ingame difficulty slider to fine tune the game to your tastes. 
 
-🇶 How do I take screenshots? 
+#### 🇶 How do I take screenshots? 
 🅰️ Use the Del key on the numpad to take screenshots with reshade. They are saved to Modding/screenshots. You can change the key and path in the reshade ui which is opened with Home. Using tm (toggles hud) or tfc (toggles free cam) might help when taking the shot.
 
-🇶 There is an update in Mod Organizer 2, should I update it? 
+#### 🇶 There is an update in Mod Organizer 2, should I update it? 
 🅰️ No, the list will no longer work and you will need to reinstall it through Wabbajack. 
 
