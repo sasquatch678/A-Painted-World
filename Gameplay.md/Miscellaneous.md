@@ -1,4 +1,4 @@
-## Miscellaneous Changes
+## MISC CHANGES
 For new mechanics which don't fit cleanly into another section.
 
 ### Lock Bashing
