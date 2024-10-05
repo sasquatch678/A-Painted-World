@@ -25,11 +25,11 @@ Master:            x3    x6      x10     x15
 
 | Sneak    | Weak | Standard | | Strong | | Deadly |
 |:--------------:|:-------------:|
-| Novice | Quad-core Intel or AMD CPU
-| Apprentice | 4GB DDR4 Ram  + 40GB Pagefile 
-| Journeyman | SATA SSD or higher
-| Expert | Direct X 9.0c and Vulkan compliant video card with 6gb of VRAM
-| Master |
+| Novice | | Quad-core Intel or AMD CPU | |   | |   | |   |
+| Novice | | Quad-core Intel or AMD CPU | |   | |   | |   |
+| Novice | | Quad-core Intel or AMD CPU | |   | |   | |   |
+| Novice | | Quad-core Intel or AMD CPU | |   | |   | |   |
+| Novice | | Quad-core Intel or AMD CPU | |   | |   | |   |
 
 Weak: Slow 1h weapon (Slow Waraxes, Fast Maces, Fast Longswords)
 Standard: Katana/Waraxe
