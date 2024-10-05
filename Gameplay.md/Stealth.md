@@ -23,8 +23,8 @@ Journeyman:        x2    x4      x6      x9
 Expert:            x3    x6      x8      x12
 Master:            x3    x6      x10     x15 
 
-| Sneak    | Weak | Standard | | Strong | | Deadly |
-|:--------------:|:-------------:|
+| Sneak | Weak | Standard | | Strong | | Deadly |
+|---|---|
 | Novice | Quad-core Intel or AMD CPU | 2x | 2x | 2x |
 | Novice | Quad-core Intel or AMD CPU | 2x | 2x | 2x |
 | Novice | Quad-core Intel or AMD CPU | 2x | 2x | 2x |
