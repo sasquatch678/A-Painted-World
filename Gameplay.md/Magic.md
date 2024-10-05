@@ -1,15 +1,15 @@
-#### MAGIC
+## MAGIC
 
 Your starting magicka pool is determined by your total intelligence (3.5 magicka per point). Altmer and Bretons have a 10% multiplier to all magicka increases. Certain races start with higher or lower intelligence and certain birthsigns further increase the pool. Interacting with Ayleid Wells will give a permanent and stacking +5 bonus to your magicka.
 
-## Magic Sneak Attacks
+### Magic Sneak Attacks
 Touch spells start with a 1x sneak multiplier at novice sneak and increase up to 2x at a master level of sneak. (0.25x increase per level of sneak mastery).
 Target spells start with a 1x sneak multiplier at novice sneak and increase up to 1.4x at a master level of sneak. (0.1x increase per level of sneak mastery).
 
-## Projectile Control
+### Projectile Control
 Continue holding cast key after releasing a spell to have (limited) control over the projectile during flight. This requires a skill of 25 or higher in respective spell school.
 
-## Spell Favoriting 
+### Spell Favoriting 
 You can favorite spells by pressing F on them in the magic menu. Outside of the menu, pressing F will open the favorites menu which you can scroll through with the mouse wheel. 
 
 ### Various Changes to Magic
