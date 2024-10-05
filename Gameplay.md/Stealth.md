@@ -34,15 +34,7 @@ Sneak-attack damage with melee weapons is now dependent on the weapon type and s
 
 ### Marksman Sneak Attacks:
 Sneak attack damage with a bow is determined by the Sneak skill
-as well as the Marksman Skill:
-
-                             Marksman
-Sneak                Novice Apprentice Journeyman Expert Master
-Novice:               x1     x1         x2         x3     x3
-Apprentice:           x1     x2         x3         x4     x4
-Journeyman:           x2     x3         x4         x5     x5
-Expert:               x3     x4         x5         x6     x6
-Master:               x3     x4         x5         x6     x7
+as well as the Marksman skill.
 
 | Sneak Level/Marksman Level | Novice | Apprentice | Journeyman | Expert | Master |
 |:--------------:|:-------------:|:--------------:|:-------------:|:--------------:|:--------------:|
