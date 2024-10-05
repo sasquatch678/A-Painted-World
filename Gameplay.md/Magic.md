@@ -28,7 +28,7 @@ A new rare item called Welkynd Essence can be found - using it allows creation o
 
 ### Various Changes to Spell Mechanics
 
-Magic Effect Combinations occur when the same target is hit by 2 interacting effects. The first time that happens, you'll see a tutorial message.
+- Magic Effect Combinations occur when the same target is hit by 2 interacting effects. The first time that happens, you'll see a tutorial message.
 
 New Concentration Spells will continue their effects as long as Cast key is held or until Magicka runs out.
 
