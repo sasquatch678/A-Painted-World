@@ -1,1 +1,180 @@
+### TRAVEL
 
+Fast traveling costs gold, to simulate the amount you would spend resting at inns and cost of resources. It is generally more expensive than using the alternative methods mentioned below as it is far more convenient. Fast traveling while on a horse will cut the time and cost in half.
+
+As an alternative to fast travel, there are npcs in the basement of each Mages Guild who will teleport you to the guild of each major city. There are also npcs at each stable who will take you to other stables by carriage, and npcs at each dock location who will transport you by boat. 
+LEVELING
+
+You should forget any retained knowledge from Vanilla Oblivion on efficient leveling, it does not exist here.
+
+Experience is no longer gained by increasing your skills, and skills are no longer raised by using them. You gain experience from doing almost any task in the world. Unlocking chests and disarming traps, killing enemies, doing quests, finding lucky horseshoes, eating new ingredients, closing oblivion gates, etc. Thusly, training no longer increases your skills either but gives a flat amount of character xp instead. Sleeping will give up to an 8hr 25% bonus experience buff.
+
+When you gain enough experience to increase your level, a message box will appear and you will be given a predetermined amount of attribute and skill points. In the character menu you can allocate these in any way that you wish. You will get a separate amount of skill points dedicated for your major skills and a lesser amount dedicated for using on minor skills.
+
+There is an optional mod you can enable to change the system more similarly to vanilla where you level by raising your major/minor skills and skills are increased by using them. However you will still get a designated amount of attribute points to spend however you please each level, the min-maxing of vanilla will still not exist. 
+COMBAT
+
+Fatigue is like your second health bar and affects your damage dealt, swing speed, and movement speed. At high fatigue you should look to go in and be aggressive while at low fatigue it’s usually preferable to hang back and play more defensively. With no perks and starting attributes, fatigue regenerates at a rate of 10 per second. Running consumes 4 fatigue per second and sprinting consumes 16. Additionally, there are many new mechanics to take advantage of, listed below.
+
+Sprinting: Hold shift to sprint.
+
+Dodge: At 50 Agility you can tap left alt to sidestep, and tap it again to roll.
+
+Backstab: enemies will take 20% more damage from behind
+
+Crititcal strikes: normal attacks have a chance to deal critical damage depending on your Luck. 20% crit chance at 100 Luck
+
+Parry: the player gets a 0.2 sec parry window when they start blocking. Attacks made against the player during this time will result in a parry. A successful parry will stagger the enemy, reset the player's Poise, and refund 20% of base fatique.
+
+Power Attacks: Power attacks break blocks and deal extra damage. They can be performed by holding the left mouse button. Additional effects are added to power attacks depending on an actor's skill with their equipped weapon.
+Blade weapons can make the target bleed for 3 seconds
+One-Handed Blunt weapons deal Fatigue damage + Silence.
+Two-Handed Blunt weapons can weaken the target's armor.
+
+
+Bashing: You can bash by holding block and using left click. Bashing deals 1 Poise damage and will interrupt and stagger Powerattacking/Blocking enemies. Bashing has a 1.5 second cooldown and requires 50 strength.
+
+Lock-On: you can lock on to enemies who are directly targeting you by pressing Q
+
+Poise: Between 1-34 Agility actors will take two hits to stagger, between 35-59 Agility they will take 3 hits, etc. Power attacks count as 2 hits in this system. Two handed weapons deal twice as much poise damage.
+ 
+MAGIC
+
+Your starting magicka pool is determined by your total intelligence (3.5 magicka per point). Altmer and Bretons have a 10% multiplier to all magicka increases. Certain races start with higher or lower intelligence and certain birthsigns further increase the pool. Interacting with Ayleid Wells will give a permanent and stacking +5 bonus to your magicka.
+
+Magic Sneak Attacks
+Touch spells start with a 1x sneak multiplier at novice sneak and increase up to 2x at a master level of sneak. (0.25x increase per level of sneak mastery).
+
+Target spells start with a 1x sneak multiplier at novice sneak and increase up to 1.4x at a master level of sneak. (0.1x increase per level of sneak mastery).
+
+Projectile Control
+Continue holding cast key after releasing a spell to have (limited) control over the projectile during flight. This requires a skill of 25 or higher in respective spell school.
+
+Spell Favoriting you can favorite spells by pressing F on them in the magic menu. Outside of the menu, pressing F will open the favorites menu which you can scroll through with the mouse wheel. 
+Various Changes to Magic
+
+Magic Effect Combinations occur when the same target is hit by 2 interacting effects. The first time that happens, you'll see a tutorial message.
+
+New Concentration Spells will continue their effects as long as Cast key is held or until Magicka runs out.
+
+A new rare item called Welkynd Essence can be found - using it allows creation of one custom spell for free.
+
+Different spells with the same beneficial effect will no longer stack with each other, instead the total effect power will be no more than the strongest of the spells. Feather is the only exception to this.
+
+Fire, Frost and Shock Shield effects no longer provide physical armor bonus, instead they will damage attackers in melee range when struck, as well as provide elemental resistance. They will also add 25% of their effect as unarmed damage, however this costs magicka with each swing.
+
+It is now possible to summon more than one minion at a time, with sufficient Conjuration and Willpower. The number of creatures the player can simultaneously summon is calculated by the following formula: (Willpower + Conjuration)/60, rounded down - meaning that you can potentially have up to 3 summoned creatures at high levels. It is displayed in magic menu, below spell list.
+ 
+Reanimation has been given a big expansion. Instead of being used on only one unique staff, this effect is now available in form of multiple spells, spread throughout the world and can also be used in spellmaking.
+
+Environmental effects such as weather and location will affect elemental Destruction spells. All modifiers are multiplicative.
+Rain: Fire spells are 25% weaker; Frost spells are 15% stronger; Shock spells are 25% stronger
+Snow: Fire spells are 25% weaker; Frost spells are 25% stronger;
+Swimming: Fire spells are 75% weaker; Frost spells are 25% stronger; Shock spells are 35% stronger
+Inside Oblivion: Fire spells are 25% stronger
+
+At Destruction skill of 50 and 75, elemental magic effects will unlock impact effects. Chance to inflict them scales with Destruction skill and target’s resistance to particular element. At Journeyman level all effects have a chance to cause recoil; at Expert level Fire spells can knock back, Frost sometimes freezes the target in place, and Shock may inflict a short paralysis.
+
+Chameleon is capped at 75%. Resist Magic and Reflect Damage are capped at 85%
+
+Spell Absorption now behaves differently – instead of being chance-based, it always works and absorbs the percentage of incoming spell’s Magicka, but doesn’t protect from the spell itself
+
+Power attacks with an enchanted weapon will shoot a projectile of the enchanted effect, consuming charge.
+ 
+STEALTH
+
+Armor Penalty
+Any shield or heavy armor will add a sneak penalty equal to 1/3 the weight of the shield or each armor piece. Being unarmored gives a 10% bonus to sneak. Light armor has no penalty or bonus.
+
+Weapon Penalty
+When you hold a weapon while sneaking a penalty to your sneak skill is applied depending on the weapon's general type and reach.
+
+Bows & Staves: -6
+Two Handed:  -12
+One Handed: 11 * reach -5 (rounded up)
+
+When the equipped weapon is a dagger the penalty is further reduced by your grade of mastery in the Sneak Skill
+(Novice = 0 ... Master = 4)
+
+Melee Sneak Attacks:
+Sneak-attack damage with melee weapons is now dependent on the weapon type and speed, and sneak skill has a greater effect on the damage.
+                           Weapon Type
+Sneak              Weak Standard Strong Deadly
+Novice:            x1x     x2              x2          x3
+Apprentice:    x2      x4              x4          x6
+Journeyman: x2      x4              x6          x9
+Expert:            x3      x6              x8          x12
+Master:           x3      x6              x10        x15 
+
+Weak: Slow 1h weapon (Slow Waraxes, Fast Maces, Fast Longswords)
+Standard: Katana/Waraxe
+Strong: Shortsword
+Deadly: Dagger
+No Sneak Multiplier: 2h and very slow 1h weapons (Longsword/Mace)
+
+Marksman Sneak Attacks:
+Sneak attack damage with a bow is determined by the Sneak skill
+as well as the Marksman Skill:
+
+                             Marksman
+Sneak                Novice Apprentice Journeyman Expert Master
+Novice:               x1          x1                   x2                     x3         x3
+Apprentice:      x1           x2                  x3                    x4         x4
+Journeyman:   x2          x3                  x4                     x5         x5
+Expert:              x3         x4                   x5                     x6         x6
+Master:             x3         x4                   x5                     x6         x7
+CRAFTING
+
+Many different items can be crafted using various crafting tools. Large crafting tools can be purchased from merchants and placed inside and near any buildings you or your faction owns. Examples of large crafting objects are forges, anvils and tanning racks. Small crafting objects can both be purchased and found as loot. They can be used from the player character's inventory. Examples of small crafting objects are sewing kits and tinker's tools.
+
+Wells, fountains, kegs, large barrels, forges and anvils are automatically converted into usable objects. These objects can be used for crafting.
+
+Craft manuals include recipes of all craftable items and tools. There are 6 crafting manuals, which cover blacksmithing, carpentry, cooking, inscription, tailoring and tinkering. Manuals can be crafted using inscription. Crafting tools can be purchased from many merchants. Large objects like forges, anvils and tanning racks can be purchased as deeds. Deeds can be used by hotkeying the deed and using it while being in gamemode. This can only be done inside or near a building you or your faction owns. As example, to place a forge, hotkey a forge deed. Using the hotkey will place a forge, which is considered a marker. Use the deed again to place the forge somewhere else, or target the forge to remove the forge. When activating the forge (press spacebar) the deed is removed and the forge is placed into the game-world. The forge can be picked up by grabbing it (press z key).
+Blacksmithing
+Mined ore can be smelted into ingots using a blacksmith's hammer and a forge. To do this, add the ore to the forge and hit the forge with a hammer. The ingots can then be added to an anvil to craft equipment (or be used for tinkering). This is done in a similar way, by hitting the anvil with a blacksmith's hammer.
+Carpentry
+Logs, collected through lumberjacking, can be converted into boards using a saw pit. To do this, add the logs to the saw pit and then activate (press spacebar) the pit saw. The pit saw is part of the saw pit. A workbench is used to craft items from these boards. The workbench is used similar to the saw pit. Add boards (and possibly other items, like cloth and ingots) and activate the tools lying on the workbench.
+Tailoring
+Animal pelts can be converted into leather using a tanning rack. To do this, add the animal pelts to the tanning rack and then hit it with a skinning knife.
+A spinning wheel is used to convert wool into yarn. A loom turns the yarn into cloth, which can then be used to craft clothing using a sewing kit.
+Tinkering
+Tinker's tools can be used to create lockpicks, repair hammers, scissors and many other small items. Simply use/equip the tinker's tools to start crafting.
+Fletching
+The fletching jig is used to craft arrows. To craft arrows you'll need shafts, arrow heads and feathers. Shafts are created using boards and a workbench. Arrow heads are made with ingots and tinker's tools. Feathers can be purchased from merchants and are found on birds, like chickens and archer npcs.
+Cooking
+A Grain Grinder, Rolling Pin, Skillet and Pitcher are tools to cook food, like bread, fish and meat. A Wine Maker is used to make wine. Eating cooked food will give a temporary bonus to certain attributes (strength, intelligence, etc.), which is based on the type of food. Cooked food will remain cooked for several hours. Some food, like meat and fish can be cooked again after cooling down. Freshly made wine requires some time to turn into sweet, semi-sweet, dry or spoiled wine (poison). A Skillet is used to barbecue meat and fish. This requires being near a working fire to be successful. A Rolling Pin is used to bake bread, pies and cakes, which also requires being near a working fire. Some ingredients require flour, which can be made by grinding Wheat Grain in a Grain Grinder. A pitcher is used to store water or milk. Use an empty pitcher on a well (or other water source) to collect water, or a cow to collect milk. Full pitchers can be emptied by equipping them. Wine can be made using grapes and a Wine Maker. A Wine Maker can be purchased from any merchants selling food. They will also sell all other cooking tools. Cooking tools can be crafted using Tinker's Tools.
+Stone crafting
+Use a pickaxe on any rocks to collect stones. Use these stones to craft large objects like houses and wells.
+Inscription
+A Quill, inkwell and parchments can be used to craft books, like crafting manuals. Book selling merchants sell Book Writing Kits, which include everything necessary to write books.
+Sasquatch — 09/08/2024 12:19 PM
+OTHER VARIOUS CHANGES
+
+Lock Bashing
+Locks can be bashed by attacking them with your weapon or fists. Your weapon or gloves/you will be damaged. Blunt and heavy weapons are best suited to the task. Player strength, weapon skill, and current fatigue are all accounted for in the formula. Power attacks give a 3x  bonus, but deal more damage back to the weapon/gloves/you. Bashing locks is a crime and can't be attempted while sneaking.
+
+Enchantment Charging & Soulgems
+Enchanted weapons will automatically be recharged by 10% of your mysticism skill every ingame hour. 
+
+Your Mysticism skill will now increase the amount of weapon charge restored by soulgems, up to +50% at a Mysticism skill of 100.
+
+Soulgems can be filled by multiple souls, ie. trapping enough petty souls in a single Grand soulgem will behave as if you had trapped one Grand soul. The percentage filled is displayed in the inventory when placing the cursor over the soulgem.
+
+Nine Divines
+Each Divine Altar restores one attribute up to 100 points. The attribute restored is the same as their blessing. Altars of the Nine will restore all attributes. Blessings of the Divine have also been reworked, their bonuses are as follows:
+Akatosh - Fortify Speed 5 points for 6480 seconds.
+Arkay - Fortify Health 20 points for 6480 seconds, cures all disease.
+Dibella - Fortify Personality 5 points for 6480 seconds.
+Julianos - Fortify Intelligence 5 points.
+Kynareth - Fortify Agility 5 points for 6480 seconds.
+Mara - Fortify Willpower 5 points for 6480 seconds.
+Stendarr - Fortify Endurance 5 points for 6480 seconds.
+Talos - Fortify Strength 5 points for 6480 seconds.
+Zenithar - Fortify Luck 5 points for 6480 seconds.
+
+Wayshrine Blessings are twice as potent. Additionally, once per day you can enhance a bandage at an Altar of the Nine, improving the effects. 
+Sasquatch — 09/24/2024 3:02 PM
+Fishing
+Head to The Flowing Bowl in Anvil and talk to Maenlorn. You can buy various fishing rods and the guide book "All About Fishing" from him, as well as ask him several things about fishing. Alternatively, the standard wooden fishing rod is available in the Imperial City (Jensine, Sergius from Three Brothers), Bravil (The Fair Deal), and Leyawiin (Best Goods and Guarantees)
+
+Equip a fishing rod, and swing facing a body of water. There will be a small "splash", and your "bobber" will have landed. Once you see a big splash, quickly reel in by blocking (right-click) to get your catch.
