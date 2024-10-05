@@ -23,6 +23,14 @@ Journeyman:        x2    x4      x6      x9
 Expert:            x3    x6      x8      x12
 Master:            x3    x6      x10     x15 
 
+| Sneak    | Weak | Standard | | Strong | | Deadly |
+|:--------------:|:-------------:|
+| Novice | Quad-core Intel or AMD CPU
+| Apprentice | 4GB DDR4 Ram  + 40GB Pagefile 
+| Journeyman | SATA SSD or higher
+| Expert | Direct X 9.0c and Vulkan compliant video card with 6gb of VRAM
+| Master |
+
 Weak: Slow 1h weapon (Slow Waraxes, Fast Maces, Fast Longswords)
 Standard: Katana/Waraxe
 Strong: Shortsword
