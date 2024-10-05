@@ -8,7 +8,7 @@
 
 🇶There are a bunch of plugins unchecked 🅰️ This is intentional. These plugins are merged to avoid the esp limit. You should not enable them yourself or do anything with them.
 
-🇶I am moving very slowly 🅰️ By default you will walk, press X to toggle running. Hold shift while running to sprint. At a base you regenerate 10 fatigue per second scaling with endurance. Walking costs no fatigue, running costs 4 fatigue, and sprinting costs 16 fatigue. Total movement speed is determined by a combination of your athletics, speed attribute and equipped weight. Using offhand equipment also reduces your speed and athletics by 10.
+🇶I am moving very slowly 🅰️ By default you will walk, press X to toggle running. Hold shift while running to sprint.
 
 🇶Why aren't my stats regenerating faster?🅰️Many birthsigns offer some form of stat regeneration. Out of combat you should sometimes use the wait function to restore stats. Potions should be used to restore stats in combat or when waiting is otherwise not possible. This is an intentional design choice. 
 
