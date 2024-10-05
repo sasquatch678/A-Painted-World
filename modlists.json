@@ -23,21 +23,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/sasquatch678/A-Painted-World/refs/heads/main/cover_16x9.png",
       "readme": "https://github.com/sasquatch678/A-Painted-World/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/A Painted World.wabbajack_02698ef3-33de-484b-8662-c2e45b148569",
+      "download": "https://authored-files.wabbajack.org/A Painted World.wabbajack_6fd7547d-4ab8-4e07-b988-cee5a7b0c8d0",
       "machineURL": "APaintedWorld",
       "discordURL": "https://discord.gg/bungalo"
     },
     "download_metadata": {
-      "Hash": "keJ/GXoEOb0=",
-      "Size": 369678412,
+      "Hash": "/rOQBG+WoTA=",
+      "Size": 369678893,
       "NumberOfArchives": 877,
       "SizeOfArchives": 61026017996,
       "NumberOfInstalledFiles": 138816,
-      "SizeOfInstalledFiles": 67758731854
+      "SizeOfInstalledFiles": 67758731940
     },
     "version": "0.4.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-10-05T20:32:19.9409239Z",
+    "dateUpdated": "2024-10-05T21:04:28.7576987Z",
     "repositoryName": ""
   }
 ]
