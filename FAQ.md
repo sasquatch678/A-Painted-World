@@ -1,4 +1,4 @@
-🇶 How much space? 🅰️  ~85gb total. 
+🇶 How much space? 🅰️  ~115gb total. 
 
 🇶I have a black screen on the main menu but can still hear sounds. 🅰️ you have an AMD graphics card. Set bFullScreen to 0 in Oblivon.ini in the profiles folder of wherever you installed the list. Set the file to read-only so this doesn’t get reverted. 
 
