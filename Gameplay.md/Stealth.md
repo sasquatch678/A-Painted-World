@@ -16,6 +16,7 @@ When the equipped weapon is a dagger the penalty is further reduced by your grad
 ### Melee Sneak Attacks:
 Sneak-attack damage with melee weapons is now dependent on the weapon type and speed, and sneak skill has a greater effect on the damage.
 
+          Weapon Type
 | Sneak | Weak | Standard | Strong | Deadly |
 |:--------------:|:-------------:|:--------------:|:-------------:|:--------------:|
 | Novice | 1x | 2x | 2x | 3x |
