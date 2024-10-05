@@ -1,6 +1,11 @@
 ## MISC CHANGES
 For new mechanics which don't fit cleanly into another section.
 
+### TRAVEL
+Fast traveling costs gold, to simulate the amount you would spend resting at inns and cost of resources. It is generally more expensive than using the alternative methods mentioned below as it is far more convenient. Fast traveling while on a horse will cut the time and cost in half.
+
+As an alternative to fast travel, there are npcs in the basement of each Mages Guild who will teleport you to the guild of each major city. There are also npcs at each stable who will take you to other stables by carriage, and npcs at each dock location who will transport you by boat. 
+
 ### Lock Bashing
 Locks can be bashed by attacking them with your weapon or fists. Your weapon or gloves/you will be damaged. Blunt and heavy weapons are best suited to the task. Player strength, weapon skill, and current fatigue are all accounted for in the formula. Power attacks give a 3x  bonus, but deal more damage back to the weapon/gloves/you. Bashing locks is a crime and can't be attempted while sneaking.
 
