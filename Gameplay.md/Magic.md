@@ -12,6 +12,15 @@ Continue holding cast key after releasing a spell to have (limited) control over
 ### Spell Favoriting 
 You can favorite spells by pressing F on them in the magic menu. Outside of the menu, pressing F will open the favorites menu which you can scroll through with the mouse wheel. 
 
+### Environmental Effects
+Weather and location will affect elemental Destruction spells. All modifiers are multiplicative.
+| Weather    | Effect | 
+|:--------------:|:-------------:|
+| Rain | Fire spells are 25% weaker; Frost spells are 15% stronger; Shock spells are 25% stronger
+| Snow | Fire spells are 25% weaker; Frost spells are 25% stronger;
+| Swimming | Fire spells are 75% weaker; Frost spells are 25% stronger; Shock spells are 35% stronger
+| Inside Oblivion | Fire spells are 25% stronger
+
 ### Magic Effect Combinations occur when the same target is hit by 2 interacting effects. The first time that happens, you'll see a tutorial message.
 
 ### New Concentration Spells will continue their effects as long as Cast key is held or until Magicka runs out.
