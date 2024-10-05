@@ -43,3 +43,11 @@ Apprentice:           x1     x2         x3         x4     x4
 Journeyman:           x2     x3         x4         x5     x5
 Expert:               x3     x4         x5         x6     x6
 Master:               x3     x4         x5         x6     x7
+
+| Sneak Level/Marksman Level | Novice | Apprentice | Journeyman | Expert | Master |
+|:--------------:|:-------------:|:--------------:|:-------------:|:--------------:|:--------------:|
+| Novice | 1x | 1x | 2x | 3x | 3x |
+| Apprentice | 1x | 2x | 3x | 4x | 4x |
+| Journeyman | 2x | 3x | 4x | 5x | 5x |
+| Expert | 3x | 4x | 5x | 6x | 6x |
+| Master | 3x | 4x | 5x | 6x | 7x |
