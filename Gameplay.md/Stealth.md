@@ -38,6 +38,7 @@ as well as the Marksman skill.
 
 | Sneak Level/Marksman Level | Novice | Apprentice | Journeyman | Expert | Master |
 |:--------------:|:-------------:|:--------------:|:-------------:|:--------------:|:--------------:|
+| Sneak | | | | | |
 | Novice | 1x | 1x | 2x | 3x | 3x |
 | Apprentice | 1x | 2x | 3x | 4x | 4x |
 | Journeyman | 2x | 3x | 4x | 5x | 5x |
