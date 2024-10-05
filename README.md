@@ -49,7 +49,7 @@ If you can run vanilla Skyrim, you should be able to run APW without issue.
 | Storage | SATA SSD or higher
 | GPU | Direct X 9.0c and Vulkan compliant video card with 6gb of VRAM
 
-Space required: ~85GB Total 
+Space required: ~115GB Total 
 
 ## Installation
 
@@ -156,8 +156,7 @@ When you die you will respawn as a ghost and after 30 seconds rematerialize, as 
 If you need a boost in FPS, you can choose to enable the Performance LODs.
 
 ## Known Issues
-1. The game can stutter or fps can drop quite heavily in certain areas. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Elsewyr cities in particular tank fps.
-2. When starting a new game the camera is a bit janky, just unsheathe and resheathe your fists and it should fix it
+1. The game can stutter or fps can drop quite heavily in certain areas. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Elsewyr cities in particular tank fps. Torches and light spells can cause fps to dip very heavily ias well. This is unfortunately just an engine limitation which gets exasperated by some of the mods adding more objects and detail to the landscape. There is no real solution except to avoid using lights in these areas at night.
 
 ## Updating the modlist
 
