@@ -14,7 +14,7 @@ Fatigue is like your second health bar and affects your damage dealt, swing spee
 
 - Power Attacks: Power attacks break blocks and deal extra damage. They can be performed by holding the left mouse button. Additional effects are added to power attacks depending on an actor's skill with their equipped weapon.
 
-- | Weapon Type    | Effect | 
+| Weapon Type    | Effect | 
 |:--------------:|:-------------:|
 | Blade | Bleed for 3 seconds
 | One-Handed Blunt | Fatigue damage + Silence 
