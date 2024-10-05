@@ -32,13 +32,13 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 
 You can perform Charged Shots or Power Shots while a bow is equipped. You can toggle between the two by pressing H.
 
+#### Power Shots
+
+Power Shots can be performed by holding the attack key until your character briefly flashes, then releasing the attack key. A Power Shot deals 15% increased damage and can be performed in or out of combat. The timing of the flash is slightly randomized on each attack.
+
 #### Charged Shots
 Hold the attack key while a bow is equipped to charge your current shot. Charged shots will become more powerful the longer the attack key is held, however can only be performed while the player is in combat and are cancelled if the player is hit while charging.
 
 Your maximum charge level depends on your Marksman skill. New ranks will become available at 25, 50, and 75 Marksman skill.
 
 Charged Shots deal increased damage & poise damage depending on how long they have been charged. Ranks 3 and 4 will also cause the target to bleed for 3 seconds.
-
-#### Power Shots
-
-Power Shots can be performed by holding the attack key until your character briefly flashes, then releasing the attack key. A Power Shot deals 15% increased damage and can be performed in or out of combat. The timing of the flash is slightly randomized on each attack.
