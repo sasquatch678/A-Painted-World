@@ -27,3 +27,5 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 - Lock-On: you can lock on to enemies who are directly targeting you by pressing Q
 
 - Poise: Between 1-34 Agility actors will take two hits to stagger, between 35-59 Agility they will take 3 hits, etc. Power attacks count as 2 hits in this system. Two handed weapons deal twice as much poise damage.
+
+### Archery
