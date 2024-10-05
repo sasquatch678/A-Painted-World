@@ -1,4 +1,4 @@
-### TRAVEL
+## TRAVEL
 
 Fast traveling costs gold, to simulate the amount you would spend resting at inns and cost of resources. It is generally more expensive than using the alternative methods mentioned below as it is far more convenient. Fast traveling while on a horse will cut the time and cost in half.
 
