@@ -38,3 +38,5 @@ If all else fails, use the ingame difficulty slider to fine tune the game to you
 #### 🇶 There is an update in Mod Organizer 2, should I update it? 
 🅰️ No, the list will no longer work and you will need to reinstall it through Wabbajack. 
 
+#### 🇶 How do I start the main quest?
+🅰️ Get arrested in the Imperial City
