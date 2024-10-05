@@ -30,20 +30,20 @@ A new rare item called Welkynd Essence can be found - using it allows creation o
 
 - Magic Effect Combinations occur when the same target is hit by 2 interacting effects. The first time that happens, you'll see a tutorial message.
 
-New Concentration Spells will continue their effects as long as Cast key is held or until Magicka runs out.
+- New Concentration Spells will continue their effects as long as Cast key is held or until Magicka runs out.
 
-Different spells with the same beneficial effect will no longer stack with each other, instead the total effect power will be no more than the strongest of the spells. Feather is the only exception to this.
+- Different spells with the same beneficial effect will no longer stack with each other, instead the total effect power will be no more than the strongest of the spells. Feather is the only exception to this.
 
-Fire, Frost and Shock Shield effects no longer provide physical armor bonus, instead they will damage attackers in melee range when struck, as well as provide elemental resistance. They will also add 25% of their effect as unarmed damage, however this costs magicka with each swing.
+- Fire, Frost and Shock Shield effects no longer provide physical armor bonus, instead they will damage attackers in melee range when struck, as well as provide elemental resistance. They will also add 25% of their effect as unarmed damage, however this costs magicka with each swing.
 
-It is now possible to summon more than one minion at a time, with sufficient Conjuration and Willpower. The number of creatures the player can simultaneously summon is calculated by the following formula: (Willpower + Conjuration)/60, rounded down - meaning that you can potentially have up to 3 summoned creatures at high levels. It is displayed in magic menu, below spell list.
+- It is now possible to summon more than one minion at a time, with sufficient Conjuration and Willpower. The number of creatures the player can simultaneously summon is calculated by the following formula: (Willpower + Conjuration)/60, rounded down - meaning that you can potentially have up to 3 summoned creatures at high levels. It is displayed in magic menu, below spell list.
  
-Reanimation has been given a big expansion. Instead of being used on only one unique staff, this effect is now available in form of multiple spells, spread throughout the world and can also be used in spellmaking.
+- Reanimation has been given a big expansion. Instead of being used on only one unique staff, this effect is now available in form of multiple spells, spread throughout the world and can also be used in spellmaking.
 
-At Destruction skill of 50 and 75, elemental magic effects will unlock impact effects. Chance to inflict them scales with Destruction skill and target’s resistance to particular element. At Journeyman level all effects have a chance to cause recoil; at Expert level Fire spells can knock back, Frost sometimes freezes the target in place, and Shock may inflict a short paralysis.
+- At Destruction skill of 50 and 75, elemental magic effects will unlock impact effects. Chance to inflict them scales with Destruction skill and target’s resistance to particular element. At Journeyman level all effects have a chance to cause recoil; at Expert level Fire spells can knock back, Frost sometimes freezes the target in place, and Shock may inflict a short paralysis.
 
-Chameleon is capped at 75%. Resist Magic and Reflect Damage are capped at 85%
+- Chameleon is capped at 75%. Resist Magic and Reflect Damage are capped at 85%
 
-Spell Absorption now behaves differently – instead of being chance-based, it always works and absorbs the percentage of incoming spell’s Magicka, but doesn’t protect from the spell itself
+- Spell Absorption now behaves differently – instead of being chance-based, it always works and absorbs the percentage of incoming spell’s Magicka, but doesn’t protect from the spell itself
 
-Power attacks with an enchanted weapon will shoot a projectile of the enchanted effect, consuming charge.
+- Power attacks with an enchanted weapon will shoot a projectile of the enchanted effect, consuming charge.
