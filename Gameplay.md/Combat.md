@@ -13,6 +13,7 @@ Fatigue is like your second health bar and affects your damage dealt, swing spee
 - Parry: the player gets a 0.2 sec parry window when they start blocking. Attacks made against the player during this time will result in a parry. A successful parry will stagger the enemy, reset the player's Poise, and refund 20% of base fatique.
 
 - Power Attacks: Power attacks break blocks and deal extra damage. They can be performed by holding the left mouse button. Additional effects are added to power attacks depending on an actor's skill with their equipped weapon.
+
 | Weapon Type    | Effect | 
 |:--------------:|:-------------:|
 | Blade | Bleed for 3 seconds
