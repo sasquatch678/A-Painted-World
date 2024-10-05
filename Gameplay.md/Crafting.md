@@ -30,3 +30,8 @@ Use a pickaxe on any rocks to collect stones. Use these stones to craft large ob
 
 ### Inscription
 A Quill, inkwell and parchments can be used to craft books, like crafting manuals. Book selling merchants sell Book Writing Kits, which include everything necessary to write books.
+
+### Fishing
+Head to The Flowing Bowl in Anvil and talk to Maenlorn. You can buy various fishing rods and the guide book "All About Fishing" from him, as well as ask him several things about fishing. Alternatively, the standard wooden fishing rod is available in the Imperial City (Jensine, Sergius from Three Brothers), Bravil (The Fair Deal), and Leyawiin (Best Goods and Guarantees)
+
+Equip a fishing rod, and swing facing a body of water. There will be a small "splash", and your "bobber" will have landed. Once you see a big splash, quickly reel in by blocking (right-click) to get your catch.
