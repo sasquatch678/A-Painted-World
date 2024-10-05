@@ -15,13 +15,6 @@ When the equipped weapon is a dagger the penalty is further reduced by your grad
 
 ### Melee Sneak Attacks:
 Sneak-attack damage with melee weapons is now dependent on the weapon type and speed, and sneak skill has a greater effect on the damage.
-                           Weapon Type
-Sneak              Weak Standard Strong Deadly
-Novice:            x1    x2      x2      x3
-Apprentice:        x2    x4      x4      x6
-Journeyman:        x2    x4      x6      x9
-Expert:            x3    x6      x8      x12
-Master:            x3    x6      x10     x15 
 
 | Sneak | Weak | Standard | | Strong | | Deadly |
 |:--------------:|:-------------:||:--------------:|:-------------:||:--------------:|
