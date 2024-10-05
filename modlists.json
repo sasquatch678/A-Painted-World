@@ -1,5 +1,5 @@
 [
-{
+  {
     "title": "A Painted World",
     "description": "A Painted World is a complete overhaul of Oblivion with a focus on stylized and timeless visuals, modernized combat, deeper rpg mechanics, and meaningful progression. It features expanded cities, additional quests, a more refined leveling system, more unique and detailed landscapes, and new lands. Additionally, it has many slice of life features such as crafting, animal taming, fishing, home building/decorating, and more.",
     "author": "Sasquatch",
@@ -23,21 +23,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/sasquatch678/A-Painted-World/refs/heads/main/horizcover.png",
       "readme": "https://github.com/sasquatch678/A-Painted-World/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/A Painted World.wabbajack_afd5e1ff-ac32-4a16-81ad-fef79cb4d86a",
+      "download": "https://authored-files.wabbajack.org/A Painted World.wabbajack_d5a2e50d-7b58-4204-a341-e56bdadfccc5",
       "machineURL": "APaintedWorld",
       "discordURL": "https://discord.gg/bungalo"
     },
     "download_metadata": {
-      "Hash": "+IyKGIhuIPs=",
-      "Size": 403160608,
-      "NumberOfArchives": 885,
-      "SizeOfArchives": 61070543353,
-      "NumberOfInstalledFiles": 163922,
-      "SizeOfInstalledFiles": 99235187973
+      "Hash": "2LDZIYZ2e9A=",
+      "Size": 369672491,
+      "NumberOfArchives": 877,
+      "SizeOfArchives": 61026017996,
+      "NumberOfInstalledFiles": 138818,
+      "SizeOfInstalledFiles": 67758747537
     },
     "version": "0.4.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-10-04T04:24:37.8966632Z",
+    "dateUpdated": "2024-10-05T17:47:56.5018952Z",
     "repositoryName": ""
   }
 ]
