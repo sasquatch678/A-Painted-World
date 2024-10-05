@@ -1,6 +1,8 @@
 # COMBAT
 
-Fatigue is like your second health bar and affects your damage dealt, swing speed, and movement speed. At high fatigue you should look to go in and be aggressive while at low fatigue it’s usually preferable to hang back and play more defensively. With no perks and starting attributes, fatigue regenerates at a rate of 10 per second. Running consumes 4 fatigue per second and sprinting consumes 16. Additionally, there are many new mechanics to take advantage of, listed below.
+Fatigue is like your second health bar and affects your damage dealt, swing speed, and movement speed. At high fatigue you should look to go in and be aggressive while at low fatigue it’s usually preferable to hang back and play more defensively. With no perks and starting attributes, fatigue regenerates at a rate of 10 per second. Running consumes 4 fatigue per second and sprinting consumes 16. 
+
+Additionally, there are many new mechanics to take advantage of, listed below.
 
 - Sprinting: Hold shift to sprint.
 
