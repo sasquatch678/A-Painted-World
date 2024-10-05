@@ -24,7 +24,7 @@ Expert:            x3    x6      x8      x12
 Master:            x3    x6      x10     x15 
 
 | Sneak | Weak | Standard | | Strong | | Deadly |
-|---|---|
+|:--------------:|:-------------:||:--------------:|:-------------:||:--------------:|
 | Novice | 2x| 2x | 2x | 2x |
 | Novice | 2x| 2x | 2x | 2x |
 | Novice | 2x| 2x | 2x | 2x |
