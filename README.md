@@ -102,7 +102,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Failed Downloads
 	
-	- Missing Manual Downloads: Oblivion.exe - You did not apply the 4gb patch. Go back to pre-installation and read thoroughly.
+	- Missing Manual Downloads: Oblivion.exe - You did not apply the 4gb patch. Go back to [Pre-Installation](#pre-installation)  and read thoroughly.
 	
 	- If you get a failed downloads error in wabbajack from these mods, please download from the links below and manually move them to the downloads folder of the modlist, then rerun wabbajack.
 
