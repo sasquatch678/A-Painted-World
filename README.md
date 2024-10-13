@@ -49,7 +49,7 @@ If you can run vanilla Skyrim, you should be able to run APW without issue.
 | Storage | SATA SSD or higher
 | GPU | Direct X 9.0c and Vulkan compliant video card with 6gb of VRAM
 
-Space required: ~115GB Total 
+Space required: ~120GB Total 
 
 ## Installation
 
@@ -102,7 +102,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Failed Downloads
 	
-	- Missing Manual Downloads: Oblivion.exe - You did not follow the steps in pre-installation. Go back and read thoroughly.
+	- Missing Manual Downloads: Oblivion.exe - You did not apply the 4gb patch. Go back to pre-installation and read thoroughly.
 	
 	- If you get a failed downloads error in wabbajack from these mods, please download from the links below and manually move them to the downloads folder of the modlist, then rerun wabbajack.
 
