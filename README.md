@@ -151,8 +151,6 @@ There is 21x9 ultrawide support under the "ULTRAWIDE OPTIONALS (21x9)" section o
 
 By default skills do not increase by using them and instead you get skill points you can distribute when leveling up. You can choose to enable skill based leveling again.
 
-When you die you will respawn as a ghost and after 30 seconds rematerialize, as an alternative and safer option to reloading saves. This can be disabled if you wish.
-
 If you need a boost in FPS, you can choose to enable the Performance LODs.
 
 ## Known Issues
