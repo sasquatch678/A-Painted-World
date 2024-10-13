@@ -45,7 +45,7 @@ If you can run vanilla Skyrim, you should be able to run APW without issue.
 | Component    | Recommended | 
 |:--------------:|:-------------:|
 | CPU | Quad-core Intel or AMD CPU
-| Ram | 4GB DDR4 Ram  + 40GB Pagefile 
+| Ram | 4GB DDR4 Ram
 | Storage | SATA SSD or higher
 | GPU | Direct X 9.0c and Vulkan compliant video card with 6gb of VRAM
 
