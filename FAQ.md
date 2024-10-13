@@ -17,7 +17,7 @@
 🅰️ By default you will walk, press X to toggle running. Hold shift while running to sprint.
 
 #### 🇶 Why aren't my stats regenerating faster?
-🅰️ Many birthsigns offer some form of stat regeneration. Out of combat you should sometimes use the wait function to restore stats. Potions should be used to restore stats in combat or when waiting is otherwise not possible. This is an intentional design choice. 
+🅰️ Many birthsigns offer some form of stat regeneration. Out of combat you should sometimes use the wait function to restore stats. Potions or spells should be used to restore stats in combat or when waiting is otherwise not possible. This is an intentional design choice. 
 
 #### 🇶 Combat is too hard 
 🅰️ Combat is lethal on both sides. Make good use of the added combat mechanics and utilize spacing and reach to avoid being hit. My goal is for combat to feel engaging and require some strategy but not be overly punishing. If you think I’ve missed the mark here let me know about it.
