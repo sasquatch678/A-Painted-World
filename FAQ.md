@@ -32,6 +32,9 @@ Many enemies have been unleveled to no longer scale with the player and this is 
 
 If all else fails, use the ingame difficulty slider to fine tune the game to your tastes. 
 
+#### 🇶 There are a lot of disabled plugins, should I enable them?
+🅰️ No, they are already part of a merged plugin to bypass the 255 limit. You should not enable or do anything with them.
+
 #### 🇶 How do I take screenshots? 
 🅰️ Use the Del key on the numpad to take screenshots with reshade. They are saved to Modding/screenshots. You can change the key and path in the reshade ui which is opened with Home. Using tm (toggles hud) or tfc (toggles free cam) might help when taking the shot.
 
