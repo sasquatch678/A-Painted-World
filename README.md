@@ -125,8 +125,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Frequently Asked Questions
 
-Please consult the FAQ page here to see if your question is already answered.
-https://github.com/sasquatch678/A-Painted-World/blob/main/FAQ.md
+Please consult the  [FAQ](https://github.com/sasquatch678/A-Painted-World/blob/main/FAQ.md) page here to see if your question is already answered.
 
 ### Stock Game & Root Builder
 
