@@ -123,6 +123,11 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ## Post-Installation
 
+### Frequently Asked Questions
+
+Please consult the FAQ page here to see if your question is already answered.
+https://github.com/sasquatch678/A-Painted-World/blob/main/FAQ.md
+
 ### Stock Game & Root Builder
 
 A Painted World utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Oblivion installation within the installation location of the list. This enables greater compatibility with other mod-lists and keeps your original game folder clean of any outside files.
