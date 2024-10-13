@@ -151,7 +151,7 @@ steam://controllerconfig/22330/3299476272
 
 A prompt will appear to open it with Steam, select Open Link. An image of the layout will appear, use :stop_button: or X to import the layout. From here you can launch the list normally through MO2 and use the controller to play. 
 
-### OPTIONAL MODS - ULTRAWIDE SUPPORT & PERFORMANCE
+### Optional Mods - Ultrawide Support & Performance
 
 A Painted World comes with several customization options. 
 
@@ -160,6 +160,8 @@ There is 21x9 ultrawide support under the "ULTRAWIDE OPTIONALS (21x9)" section o
 By default skills do not increase by using them and instead you get skill points you can distribute when leveling up. You can choose to enable skill based leveling again.
 
 If you need a boost in FPS, you can choose to enable the Performance LODs.
+
+If you add any mods yourself or change major game functions through the ingame mods menu or ini files you will void all official support for the modlist.
 
 ## Known Issues
 1. The game can stutter or fps can drop quite heavily in certain areas. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Elsewyr cities in particular tank fps. Torches and light spells can cause fps to dip very heavily ias well. This is unfortunately just an engine limitation which gets exasperated by some of the mods adding more objects and detail to the landscape. There is no real solution except to avoid using lights in these areas at night.
