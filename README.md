@@ -164,7 +164,7 @@ If you need a boost in FPS, you can choose to enable the Performance LODs.
 If you add any mods yourself or change major game functions through the ingame mods menu or ini files you will void all official support for the modlist.
 
 ## Known Issues
-1. The game can stutter or fps can drop quite heavily in certain areas. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Elsewyr cities in particular tank fps. Torches and light spells can cause fps to dip very heavily ias well. This is unfortunately just an engine limitation which gets exasperated by some of the mods adding more objects and detail to the landscape. There is no real solution except to avoid using lights in these areas at night.
+1. The game can stutter or fps can drop quite heavily in certain areas. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Elsewyr cities in particular tank fps. Torches and light spells can cause fps to dip very heavily as well. This is unfortunately just an engine limitation which gets worsened by some of the mods adding more objects and detail to the landscape. There is no real solution except to avoid using lights in these areas at night.
 
 ## Updating the modlist
 
