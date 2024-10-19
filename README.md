@@ -1,4 +1,4 @@
-# A Painted World - Oblivion Wabbajack Modlist
+# A Painted World
 
 ![banner image](https://github.com/sasquatch678/A-Painted-World/blob/main/cover_16x9.png)
 
