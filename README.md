@@ -130,7 +130,7 @@ Please consult the  [FAQ](https://github.com/sasquatch678/A-Painted-World/blob/m
 
 ### Gameplay Changes
 
-A Painted World plays very differently from vanilla Oblivion, please review [Gameplay](https://github.com/sasquatch678/A-Painted-World/tree/main/Gameplay.md) for a summary of some of the new mechanics.
+A Painted World plays very differently from vanilla Oblivion, please review [Gameplay](https://github.com/sasquatch678/A-Painted-World/tree/main/Gameplay.md) for an overview of some of the new mechanics.
 
 ### Stock Game & Root Builder
 
@@ -143,6 +143,10 @@ A Painted World also utilizes Root Builder alongside Stock Game to enable easier
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
 Make sure the dropdown box on the right is set to `Oblivion` and press the `Run` button.
+
+You will start the game in a ship cabin, here you can choose your race and create your character like normal. Once you are finished with all of the prompts there is a passport on a table across from the dresser. Interact with the passport once to change any of the choices you already made, and then use it to finalize your character. Finally, sleep in the bed and you will be given a prompt for a starting city.
+
+Depending on your class/skill selection you will be given some starting equipment and spells. Depending on your race and class/skill selection, some of this equipment may be too heavy for immediate use, so you'll need to drop some of it.
 
 ### Controller Support
 
