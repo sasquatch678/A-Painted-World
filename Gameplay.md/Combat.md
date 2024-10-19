@@ -24,7 +24,7 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 
 - Bashing: You can bash by holding block and using left click. Bashing deals 1 Poise damage and will interrupt and stagger Powerattacking/Blocking enemies. Bashing has a 1.5 second cooldown and requires 50 strength.
 
-- Lock-On: you can lock on to enemies who are directly targeting you by pressing Q
+- Lock-On: you can lock on to enemies who are directly targeting you by pressing Q. Cancel it by holding right click and pressing Q again.
 
 - Poise: Between 1-34 Agility actors will take two hits to stagger, between 35-59 Agility they will take 3 hits, etc. Power attacks count as 2 hits in this system. Two handed weapons deal twice as much poise damage.
 
