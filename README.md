@@ -140,7 +140,7 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 2. Change the game path to the Stock Game folder in the list installation folder.
 3. Select **Decompress**, then close the tool once it has finished. Your vanilla BSA files will now be decompressed.
 
-![](https://github.com/TDarkShadow/heartland/blob/master/img/BSADecompress.png)
+![](https://github.com/sasquatch678/A-Painted-World/blob/main/BSA%20decompressor.png)
 
 ### Frequently Asked Questions
 
