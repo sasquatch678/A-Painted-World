@@ -16,14 +16,14 @@ required. The Marshals will know if your skills are up to par.
 
 Here are the ranks for the Fighters Guild, the total # of additional quests required to achieve that rank, and the skill certifications required.
 
-Rank	    Quests	Skill Requirements
----------   -------	------------------
-Associate
-Apprentice	1	4 Apprentice
-Journeyman	3	4 Apprentice, 1 Journeyman
-Swordsman	6	4 Apprentice, 2 Journeyman
-Protector	10	4 Apprentice, 3 Journeyman
-Defender	15	4 Apprentice, 3 Journeyman, 1 Expert
-Warder		21	4 Apprentice, 3 Journeyman, 2 Expert
-Guardian	28	4 Apprentice, 3 Journeyman, 3 Expert
-Champion	36	4 Apprentice, 3 Journeyman, 3 Expert, 1 Master
+| Rank   | Quests | Skill Requirements
+|:--------------:|:-------------:|
+|Associate| |
+|Apprentice|	1	| 4 Apprentice
+|Journeyman|	3	| 4 Apprentice, 1 Journeyman
+|Swordsman	| 6	| 4 Apprentice, 2 Journeyman
+|Protector	| 10	| 4 Apprentice, 3 Journeyman
+|Defender|	15|	4 Apprentice, 3 Journeyman, 1 Expert
+|Warder	|	21	| 4 Apprentice, 3 Journeyman, 2 Expert
+|Guardian|	28	| 4 Apprentice, 3 Journeyman, 3 Expert
+|Champion|	36	| 4 Apprentice, 3 Journeyman, 3 Expert, 1 Master
