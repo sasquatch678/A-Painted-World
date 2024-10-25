@@ -76,3 +76,56 @@ Here are the ranks for the Mages Guild, the total # of additional quests require
 |Wizard	|	28|	7 Apprentice, 3 Journeyman, 3 Expert
 |Master Wizard|	36|	7 Apprentice, 3 Journeyman, 3 Expert, 1 Master
 |Arch-Mage| |
+
+## DLC Quests
+
+1) Shivering Isles
+   1.1) Player level >= 20
+   1.2) Player is in the Bravil worldspace.
+   1.3) Also starts if the player finds the Strange Door on their own.
+
+2) Knights of the Nine
+   2.1) Player level >= 15
+   2.2) Player's (Fame - Infamy) >= 15
+   2.3) Player is not in the vicinity of Anvil and not in prison.
+
+3) Battlehorn Castle (Fighters Stronghold)
+   3.1) Player's Fighters Guild rank >= 3 (Swordsman)
+   3.2) Sum of player's seven combat skills >= 200
+   3.3) Player is in the Chorrol worldspace.
+   3.4) Also starts if the player finds castle and attackers.
+
+4) Frostcrag Spire (Wizard's Tower)
+   4.1) Player's Mages Guild rank >= 3 (Evoker)
+   4.2) Sum of player's seven magic skills >= 200
+   4.3) Player is in the Bruma worldspace.
+
+5) Thieves Den (Black Flag Ship)
+   5.1) Player's Thieves Guild rank >= 3 (Prowler)
+   5.2) Sum of player's seven stealth skills >= 200
+   5.3) Player is in the Anvil worldspace.
+   5.4) If the door is enabled and player finds Black Flag ship area.
+
+6) Vile Lair (Deepscorn Hollow)
+   6.1) Player's Dark Brotherhood rank >= 3 (Assassin) OR
+   6.2) Player has been a vampire for at least 7 days
+   AND
+   6.3) Player's Infamy >= 10
+   6.4) Player is in the Leyawiin worldspace.
+
+7) Horse Armor Pack
+   7.1) Player's level >= 4
+   7.2) Player has at least 2000 gold
+   7.3) Player's fame >= 4
+   7.4) Player is in the IC Talos Plaza District.
+
+8) Mehrunes Razor
+   8.1) Player's level >= 10
+   8.2) Player's infamy >= 10
+   8.3) Player is in the IC Elven Gardens District.
+   8.4) Also starts if the player finds Sundercliff Watch and enters.
+
+9) Orrery
+   9.1) Player's Mages Guild >= 1 (Apprentice)
+   9.2) Distance to Bothiel <= 200.
+   9.3) If distance check is off, then Player must be in the Arcane University.
