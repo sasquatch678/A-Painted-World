@@ -104,7 +104,6 @@ Player is in the Bruma worldspace.<br />
 Player's Thieves Guild rank >= 3 (Prowler)<br />
 Sum of player's seven stealth skills >= 200<br />
 Player is in the Anvil worldspace.<br />
-If the door is enabled and player finds Black Flag ship area.<br />
 
 8) Vile Lair (Deepscorn Hollow)<br />
 Player's Dark Brotherhood rank >= 3 (Assassin) OR<br />
