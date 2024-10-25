@@ -79,53 +79,53 @@ Here are the ranks for the Mages Guild, the total # of additional quests require
 
 ## DLC Quests
 
-1) Shivering Isles
-Player level >= 20
-Player is in the Bravil worldspace.
-Also starts if the player finds the Strange Door on their own.
+1) Shivering Isles <br />
+Player level >= 20<br />
+Player is in the Bravil worldspace.<br />
+Also starts if the player finds the Strange Door on their own.<br />
 
-3) Knights of the Nine
-Player level >= 15
-Player's (Fame - Infamy) >= 15
-Player is not in the vicinity of Anvil and not in prison.
+3) Knights of the Nine<br />
+Player level >= 15<br />
+Player's (Fame - Infamy) >= 15<br />
+Player is not in the vicinity of Anvil and not in prison.<br />
 
-4) Battlehorn Castle (Fighters Stronghold)
-Player's Fighters Guild rank >= 3 (Swordsman)
-Sum of player's seven combat skills >= 200
-Player is in the Chorrol worldspace.
-Also starts if the player finds castle and attackers.
+4) Battlehorn Castle (Fighters Stronghold)<br />
+Player's Fighters Guild rank >= 3 (Swordsman)<br />
+Sum of player's seven combat skills >= 200<br />
+Player is in the Chorrol worldspace.<br />
+Also starts if the player finds castle and attackers.<br />
 
-5) Frostcrag Spire (Wizard's Tower)
-Player's Mages Guild rank >= 3 (Evoker)
-Sum of player's seven magic skills >= 200
-Player is in the Bruma worldspace.
+5) Frostcrag Spire (Wizard's Tower)<br />
+Player's Mages Guild rank >= 3 (Evoker)<br />
+Sum of player's seven magic skills >= 200<br />
+Player is in the Bruma worldspace.<br />
 
-6) Thieves Den (Black Flag Ship)
-Player's Thieves Guild rank >= 3 (Prowler)
-Sum of player's seven stealth skills >= 200
-Player is in the Anvil worldspace.
-If the door is enabled and player finds Black Flag ship area.
+6) Thieves Den (Black Flag Ship)<br />
+Player's Thieves Guild rank >= 3 (Prowler)<br />
+Sum of player's seven stealth skills >= 200<br />
+Player is in the Anvil worldspace.<br />
+If the door is enabled and player finds Black Flag ship area.<br />
 
-8) Vile Lair (Deepscorn Hollow)
-Player's Dark Brotherhood rank >= 3 (Assassin) OR
-Player has been a vampire for at least 7 days
-AND
-Player's Infamy >= 10
-Player is in the Leyawiin worldspace.
+8) Vile Lair (Deepscorn Hollow)<br />
+Player's Dark Brotherhood rank >= 3 (Assassin) OR<br />
+Player has been a vampire for at least 7 days<br />
+AND<br />
+Player's Infamy >= 10<br />
+Player is in the Leyawiin worldspace.<br />
 
-9) Horse Armor Pack
-Player's level >= 4
-Player has at least 2000 gold
-Player's fame >= 4
-Player is in the IC Talos Plaza District.
+9) Horse Armor Pack<br />
+Player's level >= 4<br />
+Player has at least 2000 gold<br />
+Player's fame >= 4<br />
+Player is in the IC Talos Plaza District.<br />
 
-10) Mehrunes Razor
-Player's level >= 10
-Player's infamy >= 10
-Player is in the IC Elven Gardens District.
-Also starts if the player finds Sundercliff Watch and enters.
+10) Mehrunes Razor<br />
+Player's level >= 10<br />
+Player's infamy >= 10<br />
+Player is in the IC Elven Gardens District.<br />
+Also starts if the player finds Sundercliff Watch and enters.<br />
 
-11) Orrery
-Player's Mages Guild >= 1 (Apprentice)
-Distance to Bothiel <= 200.
+11) Orrery<br />
+Player's Mages Guild >= 1 (Apprentice)<br />
+Distance to Bothiel <= 200.<br />
 
