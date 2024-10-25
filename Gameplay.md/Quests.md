@@ -79,6 +79,8 @@ Here are the ranks for the Mages Guild, the total # of additional quests require
 
 ## DLC Quests
 
+All of the DLC's have new triggers so the player isn't spammed with new quests on starting a new game.
+
 1) Shivering Isles <br />
 Player level >= 20<br />
 Player is in the Bravil worldspace.<br />
