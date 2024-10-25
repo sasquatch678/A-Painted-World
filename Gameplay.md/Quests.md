@@ -51,3 +51,16 @@ Note that a few things may change during the quest line. You will get dialog to 
 obtaining your apprentice skill certificate, but you will need both to advance to the Arcane University.
 
 Here are the ranks for the Mages Guild, the total # of additional quests required to achieve that rank, and the skill certifications required.
+
+|Rank	|    Quests	|Skill Requirements
+|:--------------:|:-------------:|:-------------:|
+|Associate||
+|Apprentice|	|	7 Apprentice
+|Journeyman|	3|	7 Apprentice, 1 Journeyman
+|Evoker|		6	|7 Apprentice, 2 Journeyman
+|Conjurer	|10	|7 Apprentice, 3 Journeyman
+|Magician	|15|	7 Apprentice, 3 Journeyman, 1 Expert
+|Warlock	|	21|	7 Apprentice, 3 Journeyman, 2 Expert
+|Wizard	|	28|	7 Apprentice, 3 Journeyman, 3 Expert
+|Master Wizard|	36|	7 Apprentice, 3 Journeyman, 3 Expert, 1 Master
+|Arch-Mage| |
