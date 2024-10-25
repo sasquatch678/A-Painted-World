@@ -4,7 +4,7 @@ The player begins the game on board a ship rather than starting in the Imperial 
 
 To start the main quest, simply get arrested in the Imperial City and choose to go to jail (as long as "Scheduled for Execution" is not currently active). The Emperor and his entourage will find you in your cell and you will go through the usual tutorial dungeon; the enemies are now leveled and the special "tutorial" versions of items have been replaced with the real deal. Please note that the goblins will probably be rather difficult for a character who relies heavily on equipment – it may be preferable to simply pick the lock and follow the Blades and the Emperor as soon as you first part.
 
-References to the player’s imprisonment and the Emperor’s death will be blocked until the main quest begins. The Dragonfires burn in the Temple of the One, the Emperor attends court every day in the Elder Council Chambers, Jauffre lives peacefully at Weynon Priory, and Slythe Seringi wanders around his farm, terrified of the Sunken One’s imminent wrath. Kvatch has no Oblivion gate before the Crisis starts, though you cannot enter the city (and if you have Kvatch Rebuilt, the city’s walls will be intact).
+References to the player’s imprisonment and the Emperor’s death will be blocked until the main quest begins. The Dragonfires burn in the Temple of the One, the Emperor attends court every day in the Elder Council Chambers, Jauffre lives peacefully at Weynon Priory, and Slythe Seringi wanders around his farm, terrified of the Sunken One’s imminent wrath. Kvatch has no Oblivion gate before the Crisis starts.
 
 ## Faction Quests
 
