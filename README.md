@@ -129,6 +129,19 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 Due to the way Reshade interacts with Vulkan, if you want to use the custom Reshade with the list it is required to install it yourself. You can download it here. https://reshade.me/downloads/ReShade_Setup_6.2.0.exe
 When it asks, point it to the Oblivion.exe in the Stock Game folder wherever you installed the mod list. Select Vulkan when given the prompt, and uncheck all effects.
 
+### Decompressing Vanilla Game BSAs
+Courtesy of Zilav:
+
+_"Back when Oblivion was released in 2006 for old generation consoles the overall size occupied by the game mattered so vanilla BSA archives use zlib compression to reduce overall assets size on the disk. However assets need to be decompressed by the game on the go which takes extra time leading to longer loading times and additional stutter when moving in exterior worldspaces while cells being loaded in background._
+
+_BSA Decompressor recreates BSA archives without zlib compression so the game is limited only by your hardware disk system performance. All vanilla assets remain in uncompressed BSA archives."_
+
+1. Navigate to mods\Oblivion BSA Decompressor in the list installation folder and **Run Oblivion BSA Decompressor.exe**.
+2. Change the game path to the Stock Game folder in the list installation folder.
+3. Select **Decompress**, then close the tool once it has finished. Your vanilla BSA files will now be decompressed.
+
+![](https://github.com/TDarkShadow/heartland/blob/master/img/BSADecompress.png)
+
 ### Frequently Asked Questions
 
 Please consult the  [FAQ](https://github.com/sasquatch678/A-Painted-World/blob/main/FAQ.md) page here to see if your question is already answered.
