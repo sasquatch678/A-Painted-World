@@ -17,7 +17,7 @@ required. The Marshals will know if your skills are up to par.
 Here are the ranks for the Fighters Guild, the total # of additional quests required to achieve that rank, and the skill certifications required.
 
 | Rank   | Quests | Skill Requirements
-|:--------------:|:-------------:|
+|:--------------:|:-------------:|:-------------:|
 |Associate| |
 |Apprentice|	1	| 4 Apprentice
 |Journeyman|	3	| 4 Apprentice, 1 Journeyman
