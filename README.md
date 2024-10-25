@@ -124,6 +124,11 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ## Post-Installation
 
+### Reshade
+
+Due to the way Reshade interacts with Vulkan, if you want to use the custom Reshade with the list it is required to install it yourself. You can download it here. https://reshade.me/downloads/ReShade_Setup_6.2.0.exe
+When it asks, point it to the Oblivion.exe in the Stock Game folder wherever you installed the mod list. Select Vulkan when given the prompt, and uncheck all effects.
+
 ### Frequently Asked Questions
 
 Please consult the  [FAQ](https://github.com/sasquatch678/A-Painted-World/blob/main/FAQ.md) page here to see if your question is already answered.
