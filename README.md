@@ -126,8 +126,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Reshade
 
-Due to the way Reshade interacts with Vulkan, if you want to use the custom Reshade with the list it is required to install it yourself. You can download it here. https://reshade.me/downloads/ReShade_Setup_6.2.0.exe
+Due to the way Reshade interacts with Vulkan, if you want to use the custom Reshade with the list it is required to install the Reshade binaries yourself. You can download it here. https://reshade.me/downloads/ReShade_Setup_6.2.0.exe
 When it asks, point it to the Oblivion.exe in the Stock Game folder wherever you installed the mod list. Select Vulkan when given the prompt, and uncheck all effects.
+That's it, it will automatically read the preset in the list.
 
 ### Decompressing Vanilla Game BSAs
 Courtesy of Zilav:
