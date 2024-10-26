@@ -174,6 +174,8 @@ steam://controllerconfig/22330/3299476272
 
 A prompt will appear to open it with Steam, select Open Link. An image of the layout will appear, use :stop_button: or X to import the layout. From here you can launch the list normally through MO2 and use the controller to play. 
 
+If no prompt appears or it does not take you to a Steam page to import the layout, you may need to use a different internet browser. Chrome and Firefox definitely work.
+
 ### Optional Mods - Ultrawide Support & Performance
 
 A Painted World comes with several customization options. 
