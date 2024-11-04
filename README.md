@@ -40,8 +40,6 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 
 ### Recommended System Requirements
 
-If you can run vanilla Skyrim, you should be able to run APW without issue.
-
 | Component    | Recommended | 
 |:--------------:|:-------------:|
 | CPU | Quad-core Intel or AMD CPU
