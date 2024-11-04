@@ -43,3 +43,6 @@ If all else fails, use the ingame difficulty slider to fine tune the game to you
 
 #### 🇶 How do I start the main quest?
 🅰️ Get arrested in the Imperial City
+
+#### 🇶 How do you feed as a vampire?
+🅰️ Hold shift while activating sleeping NPCs to use vampire ability, otherwise talk/pickpocket.
