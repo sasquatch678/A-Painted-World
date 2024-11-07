@@ -52,7 +52,7 @@ You will also need to focus on training your magic skills to high levels. Skills
 | Skill   | City | Leader
 |:--------------:|:-------------:|:-------------:|
 |Alchemy| 	Bruma	|	Jeanne Frasoric
-|Alteration| 	Cheydinhal|	Falcar
+|Alteration| 	Cheydinhal|	Falcar/Deetsan
 |Conjuration |	Chorrol	|	Teekeeus
 |Destruction |	Skingrad	|Adrienne Berene
 |Illusion |	Bravil	|	Kud-Ei
