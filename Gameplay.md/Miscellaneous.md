@@ -14,8 +14,6 @@ Enchanted weapons will automatically be recharged by 10% of your mysticism skill
 
 Your Mysticism skill will now increase the amount of weapon charge restored by soulgems, up to +50% at a Mysticism skill of 100.
 
-Soulgems can be filled by multiple souls, ie. trapping enough petty souls in a single Grand soulgem will behave as if you had trapped one Grand soul. The percentage filled is displayed in the inventory when placing the cursor over the soulgem.
-
 ### Nine Divines
 Each Divine Altar restores one attribute up to 100 points. The attribute restored is the same as their blessing. Altars of the Nine will restore all attributes. Blessings of the Divine have also been reworked, their bonuses are as follows:
 | Divine    | Blessing | 
@@ -31,3 +29,7 @@ Each Divine Altar restores one attribute up to 100 points. The attribute restore
 | Zenithar | Fortify Luck 5 points for 6480 seconds.
 
 Wayshrine Blessings are twice as potent. Additionally, once per day you can enhance a bandage at an Altar of the Nine, improving the effects. 
+
+### Doomstones
+
+Doomstones now act as permanent constant effects, giving a small boost to an attribute or skill.
