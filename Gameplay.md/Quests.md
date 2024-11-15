@@ -81,35 +81,35 @@ Here are the ranks for the Mages Guild, the total # of additional quests require
 
 All of the DLC's have new triggers so the player isn't spammed with new quests on starting a new game.
 
-# Shivering Isles <br />
+### Shivering Isles <br />
 Player level >= 15<br />
 Also starts if the player finds the Strange Door on their own.<br />
 
-# Knights of the Nine<br />
+### Knights of the Nine<br />
 Player level >= 10<br />
 You must hear a rumor that the chapel has been destroyed<br />
 
-# Battlehorn Castle (Fighters Stronghold)<br />
+### Battlehorn Castle (Fighters Stronghold)<br />
 Player level >= 5 at which point you will hear a rumor.<br />
 Also starts if the player finds castle and attackers.<br />
 
-# Frostcrag Spire (Wizard's Tower)<br />
+### Frostcrag Spire (Wizard's Tower)<br />
 Player level >=5<br />
 Sleep after joining Mages Guild as an associate, deed is mysteriously delivered to you.<br />
 
-# Thieves Den (Black Flag Ship)<br />
+### Thieves Den (Black Flag Ship)<br />
 Player level >=5, must hear by rumor<br />
 
-# Vile Lair (Deepscorn Hollow)<br />
+### Vile Lair (Deepscorn Hollow)<br />
 Player level >=5<br />
 Sleep after committing one murder, deed is mysteriously delivered to you.<br />
 
-# Horse Armor Pack<br />
+### Horse Armor Pack<br />
 Must hear by rumor<br />
 
-# Mehrunes Razor<br />
+### Mehrunes Razor<br />
 Player's level >= 10, must hear by rumor.<br />
 
-# Orrery<br />
+### Orrery<br />
 Rumor and note can be provided from Mages Guild members or you can directly speak to Bothiel.<br />
 
