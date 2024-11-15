@@ -81,52 +81,35 @@ Here are the ranks for the Mages Guild, the total # of additional quests require
 
 All of the DLC's have new triggers so the player isn't spammed with new quests on starting a new game.
 
-1) Shivering Isles <br />
-Player level >= 20<br />
-Player is in the Bravil worldspace.<br />
+# Shivering Isles <br />
+Player level >= 15<br />
 Also starts if the player finds the Strange Door on their own.<br />
 
-3) Knights of the Nine<br />
-Player level >= 15<br />
-Player's (Fame - Infamy) >= 15<br />
-Player is not in the vicinity of Anvil and not in prison.<br />
+# Knights of the Nine<br />
+Player level >= 10<br />
+You must hear a rumor that the chapel has been destroyed<br />
 
-4) Battlehorn Castle (Fighters Stronghold)<br />
-Player's Fighters Guild rank >= 3 (Swordsman)<br />
-Sum of player's seven combat skills >= 200<br />
-Player is in the Chorrol worldspace.<br />
+# Battlehorn Castle (Fighters Stronghold)<br />
+Player level >= 5 at which point you will hear a rumor.<br />
 Also starts if the player finds castle and attackers.<br />
 
-5) Frostcrag Spire (Wizard's Tower)<br />
-Player's Mages Guild rank >= 3 (Evoker)<br />
-Sum of player's seven magic skills >= 200<br />
-Player is in the Bruma worldspace.<br />
+# Frostcrag Spire (Wizard's Tower)<br />
+Player level >=5<br />
+Sleep after joining Mages Guild as an associate, deed is mysteriously delivered to you.<br />
 
-6) Thieves Den (Black Flag Ship)<br />
-Player's Thieves Guild rank >= 3 (Prowler)<br />
-Sum of player's seven stealth skills >= 200<br />
-Player is in the Anvil worldspace.<br />
+# Thieves Den (Black Flag Ship)<br />
+Player level >=5, must hear by rumor<br />
 
-8) Vile Lair (Deepscorn Hollow)<br />
-Player's Dark Brotherhood rank >= 3 (Assassin) OR<br />
-Player has been a vampire for at least 7 days<br />
-AND<br />
-Player's Infamy >= 10<br />
-Player is in the Leyawiin worldspace.<br />
+# Vile Lair (Deepscorn Hollow)<br />
+Player level >=5<br />
+Sleep after committing one murder, deed is mysteriously delivered to you.<br />
 
-9) Horse Armor Pack<br />
-Player's level >= 4<br />
-Player has at least 2000 gold<br />
-Player's fame >= 4<br />
-Player is in the IC Talos Plaza District.<br />
+# Horse Armor Pack<br />
+Must hear by rumor<br />
 
-10) Mehrunes Razor<br />
-Player's level >= 10<br />
-Player's infamy >= 10<br />
-Player is in the IC Elven Gardens District.<br />
-Also starts if the player finds Sundercliff Watch and enters.<br />
+# Mehrunes Razor<br />
+Player's level >= 10, must hear by rumor.<br />
 
-11) Orrery<br />
-Player's Mages Guild >= 1 (Apprentice)<br />
-Distance to Bothiel <= 200.<br />
+# Orrery<br />
+Rumor and note can be provided from Mages Guild members or you can directly speak to Bothiel.<br />
 
