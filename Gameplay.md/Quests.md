@@ -31,14 +31,14 @@ Here are the ranks for the Fighters Guild, the total # of additional quests requ
 | Rank   | Quests | Skill Requirements
 |:--------------:|:-------------:|:-------------:|
 |Associate| |
-|Apprentice|	1	| 4 Apprentice
-|Journeyman|	3	| 4 Apprentice, 1 Journeyman
-|Swordsman	| 6	| 4 Apprentice, 2 Journeyman
-|Protector	| 10	| 4 Apprentice, 3 Journeyman
-|Defender|	15|	4 Apprentice, 3 Journeyman, 1 Expert
-|Warder	|	21	| 4 Apprentice, 3 Journeyman, 2 Expert
-|Guardian|	28	| 4 Apprentice, 3 Journeyman, 3 Expert
-|Champion|	36	| 4 Apprentice, 3 Journeyman, 3 Expert, 1 Master
+|Apprentice|	1	| 3 Apprentice
+|Journeyman|	3	| 3 Apprentice, 1 Journeyman
+|Swordsman	| 6	| 3 Apprentice, 2 Journeyman
+|Protector	| 9	| 3 Apprentice, 3 Journeyman
+|Defender|	12|	3 Apprentice, 3 Journeyman, 1 Expert
+|Warder	|	15	| 3 Apprentice, 3 Journeyman, 2 Expert
+|Guardian|	18	| 3 Apprentice, 3 Journeyman, 3 Expert
+|Champion|	21	| 3 Apprentice, 3 Journeyman, 3 Expert, 1 Master
 
 ### Mages Guild
 
@@ -67,14 +67,14 @@ Here are the ranks for the Mages Guild, the total # of additional quests require
 |Rank	|    Quests	|Skill Requirements
 |:--------------:|:-------------:|:-------------:|
 |Associate||
-|Apprentice|	|	7 Apprentice
-|Journeyman|	3|	7 Apprentice, 1 Journeyman
-|Evoker|		6	|7 Apprentice, 2 Journeyman
-|Conjurer	|10	|7 Apprentice, 3 Journeyman
-|Magician	|15|	7 Apprentice, 3 Journeyman, 1 Expert
-|Warlock	|	21|	7 Apprentice, 3 Journeyman, 2 Expert
-|Wizard	|	28|	7 Apprentice, 3 Journeyman, 3 Expert
-|Master Wizard|	36|	7 Apprentice, 3 Journeyman, 3 Expert, 1 Master
+|Apprentice|	|	3 Apprentice
+|Journeyman|	3|	3 Apprentice, 1 Journeyman
+|Evoker|		6	|3 Apprentice, 2 Journeyman
+|Conjurer	|9	|3 Apprentice, 3 Journeyman
+|Magician	|12|	3 Apprentice, 3 Journeyman, 1 Expert
+|Warlock	|	15|	3 Apprentice, 3 Journeyman, 2 Expert
+|Wizard	|	18|	3 Apprentice, 3 Journeyman, 3 Expert
+|Master Wizard|	21|	3 Apprentice, 3 Journeyman, 3 Expert, 1 Master
 |Arch-Mage| |
 
 ## DLC Quests
