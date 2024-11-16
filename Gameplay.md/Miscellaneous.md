@@ -14,6 +14,9 @@ Enchanted weapons will automatically be recharged by 10% of your mysticism skill
 
 Your Mysticism skill will now increase the amount of weapon charge restored by soulgems, up to +50% at a Mysticism skill of 100.
 
+### Alchemy
+The total number of potions you can consume at once is determined by the following formula - (Endurance + Alchemy)/25
+
 ### Nine Divines
 Each Divine Altar restores one attribute up to 100 points. The attribute restored is the same as their blessing. Altars of the Nine will restore all attributes. Blessings of the Divine have also been reworked, their bonuses are as follows:
 | Divine    | Blessing | 
