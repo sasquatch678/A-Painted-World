@@ -79,7 +79,7 @@ Here are the ranks for the Mages Guild, the total # of additional quests require
 
 ## DLC Quests
 
-All of the DLC's have new triggers so the player isn't spammed with new quests on starting a new game.
+All of the DLC's have new triggers so the player isn't spammed with new quests on starting a new game. Most/all of these will only trigger after you've completed the tutorial mission in the sewers.
 
 ### Shivering Isles <br />
 Player level >= 15<br />
