@@ -6,9 +6,6 @@ Your starting magicka pool is determined by your total intelligence. Altmer have
 Touch spells start with a 1x sneak multiplier at novice sneak and increase up to 3x at a master level of sneak. (0.5x increase per level of sneak mastery).
 Target spells start with a 1x sneak multiplier at novice sneak and increase up to 2x at a master level of sneak. (0.25x increase per level of sneak mastery).
 
-### Projectile Control
-Continue holding cast key after releasing a spell to have (limited) control over the projectile during flight. This requires a skill of 25 or higher in respective spell school.
-
 ### Spell Favoriting 
 You can favorite spells by pressing F on them in the magic menu. Outside of the menu, pressing F will open the favorites menu which you can scroll through with the mouse wheel. 
 
@@ -23,7 +20,6 @@ Weather and location will affect elemental Destruction spells. All modifiers are
 
 ### Spellcrafting
 There are npcs in each Mage's Guildhall who will craft spells and enchant items for you, it is no longer locked behind access to the Arcane University.
-
 A new rare item called Welkynd Essence can be found - using it allows creation of one custom spell for free.
 
 ### Various Changes to Spell Mechanics
@@ -45,5 +41,3 @@ A new rare item called Welkynd Essence can be found - using it allows creation o
 - Chameleon is capped at 75%. Resist Magic and Reflect Damage are capped at 85%
 
 - Spell Absorption now behaves differently – instead of being chance-based, it always works and absorbs the percentage of incoming spell’s Magicka, but doesn’t protect from the spell itself
-
-- Power attacks with an enchanted weapon will shoot a projectile of the enchanted effect, consuming charge.
