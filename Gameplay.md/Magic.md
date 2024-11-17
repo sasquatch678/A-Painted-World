@@ -1,6 +1,6 @@
 ## MAGIC
 
-Your starting magicka pool is determined by your total intelligence (3.5 magicka per point). Altmer and Bretons have a 10% multiplier to all magicka increases. Certain races start with higher or lower intelligence and certain birthsigns further increase the pool. Interacting with Ayleid Wells will give a permanent and stacking +5 bonus to your magicka.
+Your starting magicka pool is determined by your total intelligence. Altmer have a 10% multiplier to all magicka increases. Certain races start with higher or lower intelligence and certain birthsigns further increase the pool. Interacting with Ayleid Wells will give a permanent and stacking +5 bonus to your magicka.
 
 ### Magic Sneak Attacks
 Touch spells start with a 1x sneak multiplier at novice sneak and increase up to 3x at a master level of sneak. (0.5x increase per level of sneak mastery).
