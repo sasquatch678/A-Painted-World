@@ -9,6 +9,21 @@ Target spells start with a 1x sneak multiplier at novice sneak and increase up t
 ### Spell Favoriting 
 You can favorite spells by pressing F on them in the magic menu. Outside of the menu, pressing F will open the favorites menu which you can scroll through with the mouse wheel. 
 
+### Magic Effect Combinations
+These occur when the same target is hit by 2 interacting effects. The first time that happens, you'll see a tutorial message.
+
+Convulsions:
+Paralyze + Shock Damage
+
+Deep Freeze:
+Burden + Frost Damage
+
+Ignition:
+Poison + Fire Damage
+
+Meltdown:
+Elemental Weapons + Disintegrate Weapon
+
 ### Environmental Effects
 Weather and location will affect elemental Destruction spells. All modifiers are multiplicative.
 | Weather    | Effect | 
@@ -23,8 +38,6 @@ There are npcs in each Mage's Guildhall who will craft spells and enchant items 
 A new rare item called Welkynd Essence can be found - using it allows creation of one custom spell for free.
 
 ### Various Changes to Spell Mechanics
-
-- Magic Effect Combinations occur when the same target is hit by 2 interacting effects. The first time that happens, you'll see a tutorial message.
 
 - New Concentration Spells will continue their effects as long as Cast key is held or until Magicka runs out.
 
