@@ -1,6 +1,3 @@
-#### 🇶 How much space? 
-🅰️ ~119gb total. 
-
 #### 🇶 I have a black screen on the main menu but can still hear sounds. 
 🅰️ You have an AMD graphics card or did not disable your Nvidia Overlay. Set bFullScreen to 0 in Oblivon.ini in the profiles folder of wherever you installed the list. Set the file to read-only so this doesn’t get reverted. 
 
