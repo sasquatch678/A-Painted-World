@@ -2,7 +2,7 @@
 🅰️ You have an AMD graphics card or did not disable your Nvidia Overlay. Set bFullScreen to 0 in Oblivon.ini in the profiles folder of wherever you installed the list. Set the file to read-only so this doesn’t get reverted. 
 
 #### 🇶 I am crashing or stuttering constantly
-🅰️ Some random crashes are expected, Oblivion is an old game and crashes even without mods. I am still trying to make improvements but nothing will get fixed if you don’t report it. If it can't be replicated it is very difficult to actually solve. Ensure you have followed all pre-install steps. Try changing the heap mode in ORC.ini. It's also possible you may need to perform driver updates or rollbacks, or something else is wrong with your system. Check this link for other tweaks you can try. https://en.m.uesp.net/wiki/Oblivion:Tweaking
+🅰️ Some random crashes are expected, Oblivion is an old game and crashes even without mods. I am still trying to make improvements but nothing will get fixed if you don’t report it. If it can't be replicated it is very difficult to actually solve. Ensure you have followed all pre-install steps. It's also possible you may need to perform driver updates or rollbacks, or something else is wrong with your system. Check this link for other tweaks you can try. https://en.m.uesp.net/wiki/Oblivion:Tweaking
 
 #### 🇶 My mouse isn’t working 
 🅰️ Restart steam
