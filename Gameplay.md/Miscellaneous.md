@@ -10,7 +10,7 @@ As an alternative to fast travel, there are npcs in the basement of each Mages G
 Locks can be bashed by attacking them with your weapon or fists. Your weapon or gloves/you will be damaged. Blunt and heavy weapons are best suited to the task. Player strength, weapon skill, and current fatigue are all accounted for in the formula. Power attacks give a 3x  bonus, but deal more damage back to the weapon/gloves/you. Bashing locks is a crime and can't be attempted while sneaking.
 
 ### Enchantment Charging & Soulgems
-Enchanted weapons will automatically be recharged by 10% of your mysticism skill every ingame hour. 
+Enchanted weapons will automatically be recharged overtime based on your mysticism skill. 
 
 Your Mysticism skill will now increase the amount of weapon charge restored by soulgems, up to +50% at a Mysticism skill of 100.
 
