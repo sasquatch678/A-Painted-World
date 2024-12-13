@@ -9,7 +9,7 @@ References to the player’s imprisonment and the Emperor’s death will be bloc
 ## Faction Quests
 
 One of the quirks of Oblivion is that it's possible to become the Arch-mage of Cyrodiil without ever casting a single spell. Or, less likely but still possible,
-to become head of the Fighters Guild with scarcely more than novice combat skills. You will now need to complete about 3 times as many quests to finish the Mages Guild & Fighters Guild Quest lines, and meet minimum standards in certain skills.
+to become head of the Fighters Guild with scarcely more than novice combat skills. You will now need to complete twice as many quests to finish the Mages Guild & Fighters Guild Quest lines, and meet minimum standards in certain skills.
 
 ### Dark Brotherhood
 
@@ -17,7 +17,7 @@ The main problems are with the beginning and ending. It only takes a single murd
 
 ### Fighters Guild
 
-In vanilla Oblivion, you need to complete 19 quests to rise to the top of the Fighters Guild. You will now need to complete a total of 55 quests. The extra quests
+In vanilla Oblivion, you need to complete 19 quests to rise to the top of the Fighters Guild. You will now need to complete a total of 40 quests. The extra quests
 are from the Fighters Guild Quests mod, and are obtained from guildmembers in various guildhalls. Since Fighters Guild Quests adds almost 60 quests, you won't need
 to complete all the available quests, but you will need to do a lot (36) of them. For the most part they can be done at any time. The quests are unleveled, so be
 careful. Some of them may be too much for a low level character. If you can't complete a quest, try another guildhall and come back later.
@@ -42,7 +42,7 @@ Here are the ranks for the Fighters Guild, the total # of additional quests requ
 
 ### Mages Guild
 
-In vanilla Oblivion, you need to complete 18 quests to rise to the top of the Mages Guild. You will now need to complete a total of 54 quests. The extra quests
+In vanilla Oblivion, you need to complete 18 quests to rise to the top of the Mages Guild. You will now need to complete a total of 39 quests. The extra quests
 are from the Mages Guild Quests mod. For the most part the quests are repeatable missions, either gathering ingredients for the guild or rooting out necromancer lairs.
 Raminus Polus will steer lower ranking mages towards ingredient gathering. As the quest line advances, he will point you to the necromancer quests. However, all quests
 are available and can be done at any time. Be aware that some of the necromancer bosses may be too much for a low level character.
