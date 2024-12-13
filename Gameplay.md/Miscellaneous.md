@@ -35,4 +35,26 @@ Wayshrine Blessings are twice as potent. Additionally, once per day you can enha
 
 ### Doomstones
 
-Doomstones now act as permanent constant effects, giving a small boost to an attribute or skill.
+Doomstones now act as permanent constant effects, giving a small boost to an attribute or skill. The effects of each stone are as follows.
+
+- Aetherius - Resist Magic 5 points
+- Apprentice - Fortify Illusion & Alchemy 10 points
+- Atronach - Spell Absorption 10 points
+- Dragon - Fortify Health, Magicka, Fatigue 10 points
+- Jode - Fortify Health 20 points
+- Jone - Fortify Sneak & Acrobatics 10 points
+- Lady - Fortify Willpower & Endurance 5 points
+- Lord - Resist Frost, Fortify Light Armor & Heavy Armor 10 points
+- Lover - Fortify Personality & Luck 5 points
+- Mage - Fortify Magicka 20 points
+- Magnus - Fortify every magic skill 5 points
+- Nirn - Fortify Health & Fatigue 15 points
+- Ritual - Shield 5 points & 10 points of shock shield
+- Serpent - Fortify Fatigue 40 points
+- Shadow - Chameleon 10 points
+- Shezarr - Fortify Block, Heavy & Light Armor, and Armorer 5 points
+- Sithian - Fortify Speech & Mercantile 15 points
+- Steed - Fortify Speed 5 points and Acrobatics 10 points
+- Thief - Fortify Agility & Luck 5 points
+- Tower - Resist Normal Weapons 10 points Fortify Armorer 20 points, Weakness to Shock 5 points
+- Warrior - Fortify Strength, Blade, Blunt, and Hand to Hand 5 points
