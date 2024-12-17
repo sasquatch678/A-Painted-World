@@ -102,11 +102,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 	
 	- Missing Manual Downloads: Oblivion.exe - You did not apply the 4gb patch. Go back to [Pre-Installation](#pre-installation)  and read thoroughly.
 	
-	- If you get a failed downloads error in wabbajack from these mods, please download from the links below and manually move them to the downloads folder of the modlist, then rerun wabbajack.
-
-   Fire Retexture 1k 1.2
-   https://www.mediafire.com/download/ctd689d2etnlabw/fire+retexture+1k+1.2.rar
-
 - x is not a whitelisted download:
 
 	 - This will happen when I update the modlist. Please check if there is a new update or wait until you see a release ping.
