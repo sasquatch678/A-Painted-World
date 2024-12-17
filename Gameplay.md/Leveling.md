@@ -1,12 +1,7 @@
-## LEVELING WIP
+## LEVELING
 
 You should forget any retained knowledge from Vanilla Oblivion on efficient leveling, it does not exist here.
 
-Experience is no longer gained by increasing your skills, and skills are no longer raised by using them. You gain experience from doing almost any task in the world. Unlocking chests and disarming traps, killing enemies, doing quests, discovering locations, eating new ingredients, closing oblivion gates, etc. 
+Experience is no longer gained by increasing your skills, and skills are no longer raised by using them. You gain experience from doing almost any task in the world. Unlocking chests and disarming traps, killing enemies, doing quests, discovering locations, gaining fame/infamy, closing oblivion gates, etc. Sleeping will also give a rested experience buff. 
 
-Thusly, training no longer increases your skills either but gives a flat amount of character xp instead. You gain 10% experience of the character's current level when training a major skill, or 5% for a minor skill, and you can train 5 times per level. This is further modified by the current skill level, resulting in lower skills giving less experience.Sleeping will also give up to an 8hr 25% bonus experience buff.
-
-When you gain enough experience to increase your level, a message box will appear and you will be given a predetermined amount of attribute and skill points. In the character menu you can allocate these in any way that you wish. You will get a separate amount of skill points dedicated for your major skills and a lesser amount dedicated for using on minor skills.
-
-There is an optional mod you can enable to change the system more similarly to vanilla where you level by raising your major/minor skills and skills are increased by using them. However you will still get a designated amount of attribute points to spend however you please each level, the min-maxing of vanilla will still not exist. 
-
+The player's level is capped at 50. When you gain enough experience to increase your level, the levelup icon will appear on the hud. You may open your character sheet, and click on the text that says click to levelup. In the levelup menu you will have 10 attribute points and 35 skill points. You can only put at most 5 points into a single attribute or skill per level. Additionally, to raise skills up to Journeyman the player must be at least level 5, up to Expert at least level 10, and up to Master at least level 20. Skills cost 5 skill points to raise by 1, however the cost is reduced by 1 if the skill is one of the skills in your class, and is reduced again by 1 if the skill is part of your class specialization. Skills will also cost 1 extra skill point per mastery level.
