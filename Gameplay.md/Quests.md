@@ -88,30 +88,27 @@ Player level >= 15<br />
 Also starts if the player finds the Strange Door on their own.<br />
 
 ### Knights of the Nine<br />
-Player level >= 10<br />
-You must hear a rumor that the chapel has been destroyed<br />
+Player must be at least level 10, overall Fame (Fame - Infamy) is greater than 15, and must not be in any Anvil related cell.<br />
 
 ### Battlehorn Castle (Fighters Stronghold)<br />
-Player level >= 5 at which point you will hear a rumor.<br />
+Player must be at least Journeyman rank in the Fighters guild, and have a sum of at least 200 in any Combat skills.<br />
 Also starts if the player finds castle and attackers.<br />
 
 ### Frostcrag Spire (Wizard's Tower)<br />
-Player level >=5<br />
-Sleep after joining Mages Guild as an associate, deed is mysteriously delivered to you.<br />
+Player must be at least Journeyman rank in the Mages guild, and have a sum of at least 200 in any Magic skills.<br />
 
 ### Thieves Den (Black Flag Ship)<br />
-Player level >=5, must hear by rumor<br />
+Player must be at least Bandit rank in the Thieves Guild, and have a sum of at least 200 in any Stealth skills.<br />
 
 ### Vile Lair (Deepscorn Hollow)<br />
-Player level >=5<br />
-Sleep after committing one murder, deed is mysteriously delivered to you.<br />
+Player must be at least Eliminator rank in the Dark Brotherhood, and have an infamy of at least 10.<br />
 
 ### Horse Armor Pack<br />
-Must hear by rumor<br />
+Player must be at least level 4, have at least 2,000 gold, have a minimum fame of 4, and be within the Talos Plaza District.<br />
 
 ### Mehrunes Razor<br />
-Player's level >= 10, must hear by rumor.<br />
+Player's level >= 10 and in the Elven Gardens District.<br />
 
 ### Orrery<br />
-Rumor and note can be provided from Mages Guild members or you can directly speak to Bothiel.<br />
+Player must be at least an Associate in the Mages guild and within 200 units of Bothiel.<br />
 
