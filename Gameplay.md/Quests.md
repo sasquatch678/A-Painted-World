@@ -1,3 +1,5 @@
+# Quests WIP
+
 ## Main Quest
 
 The player begins the game on board a ship rather than starting in the Imperial Prison. You can choose from a variety of starting options which will affect what equipment you start with (choosing a wealthier background will give you better starting equipment and therefore make the start of the game easier; to start with no equipment or spells, choose the "beggar" option), and then choose a city in which to dock -- Anvil, Bravil, the Imperial City, or Leyawiin. You can also choose to start the game as a vampire.
