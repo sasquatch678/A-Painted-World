@@ -21,7 +21,7 @@
 
 Your race, class, and major skills will have a major effect on how your character scales for the entire game. Make sure you are primarily using your major skills. There are class changing profession books you can find in the world if you aren't happy with what you originally selected.
 
-If you are a magic character, you should select a magically inclined race and a class with magic as a primary specialization or your magicka pool will not scale very well. Make use of spellcrafting, there are npcs in each guild hall which will do this for you without having to join the Arcane University. You can also sometimes find Welkynd Essence in Ayleid ruins which will let you craft one new spell for free.
+If you are a magic character, you should select a magically inclined race and a class with magic as a primary specialization. Make use of spellcrafting, there are npcs in each guild hall which will do this for you without having to join the Arcane University. You can also sometimes find Welkynd Essence in Ayleid ruins which will let you craft one new spell for free.
 
 As a melee or ranged character, make sure you are managing your fatigue as it affects the total damage you can deal as well as how fast you can swing your weapon. At low fatigue you are prone to being knocked down.
 
