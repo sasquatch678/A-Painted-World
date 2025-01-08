@@ -173,6 +173,7 @@ If you add any mods yourself or change major game functions through the ingame m
 
 ## Known Issues
 1. The game can stutter or fps can drop quite heavily in certain areas. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Any area with a large cluster of npcs can cause this. Torches and light spells can cause fps to dip very heavily as well. This is unfortunately just an engine limitation which gets worsened by some of the mods adding more objects and detail to the landscape. There is no real solution except to avoid using lights in these areas at night.
+2. If you die while resisting arrest in the Imperial City, you will crash. This is due to a conflict with the alternate start and respawn mechanic.
 
 ## Updating the modlist
 
