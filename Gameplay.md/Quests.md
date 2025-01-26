@@ -70,13 +70,13 @@ Here are the ranks for the Mages Guild, the total # of additional quests require
 |:--------------:|:-------------:|:-------------:|
 |Associate||
 |Apprentice|	|	3 Apprentice
-|Journeyman|	3|	3 Apprentice, 1 Journeyman
-|Evoker|		6	|3 Apprentice, 2 Journeyman
-|Conjurer	|9	|3 Apprentice, 3 Journeyman
-|Magician	|12|	3 Apprentice, 3 Journeyman, 1 Expert
-|Warlock	|	15|	3 Apprentice, 3 Journeyman, 2 Expert
-|Wizard	|	18|	3 Apprentice, 3 Journeyman, 3 Expert
-|Master Wizard|	21|	3 Apprentice, 3 Journeyman, 3 Expert, 1 Master
+|Journeyman|	3|	1 Journeyman
+|Evoker|		6	|2 Journeyman
+|Conjurer	|9	|3 Journeyman
+|Magician	|12|1 Expert
+|Warlock	|	15|2 Expert
+|Wizard	|	18|3 Expert
+|Master Wizard|	21|1 Master
 |Arch-Mage| |
 
 ## DLC Quests
