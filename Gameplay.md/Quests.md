@@ -117,3 +117,37 @@ Player must be at least an Associate in the Mages guild and within 200 units of 
 ### Hackdirt The Deep Ones
 Have you ever wondered who the DEEP ONES really were? What secrets or treasures to they hold in their caverns? Now you can, but beware of what you may find, a secret so terrible that it could shake Tamriel apart<br /> https://www.nexusmods.com/oblivion/mods/36224
 
+### Thieves Guild HQ - Unhealthy Competition
+This mod is both a player home and a full questline that continues the Thieves Guild story. After becoming the Gray Fox and assuming responsibility for the Thieves Guild, there is still more to be done. Complete contracts for clients and help your guild combat a new threat in Cyrodiil, while residing in a fully equipped hideout/player home. Steal valuable items, manage the Thieves Guild's operations, recruit new members to see an increase in profit, and solve the mystery that threatens the Thieves Guild and the rest of Cyrodiil.<br /> https://www.nexusmods.com/oblivion/mods/34465
+
+### Companion Vilja
+The young nord alchemist Vilja has her own mission in Cyrodiil - but she needs your help! Will you let her tag along? Will you let your Cyrodiil life be changed by a talkative, curious and unpredictable girl who might be a nuisance at times, but who also will offer a strong, indepth friendship, and later on also optional romance. <br /> https://www.nexusmods.com/oblivion/mods/28977
+
+### Knights of the Nine Revelation
+Umaril has been vanquished and the people of Cyrodiil hail you as the Divine Crusader. But little do they know that Pelinal's relics hold the key to protecting the freedom of all humankind... or enslaving it. <br /> https://www.nexusmods.com/oblivion/mods/42490
+
+### The Ayleid Steps
+Discover the ancient Ayleid teleporting network of Step stones, find out how to activate it, and then use the Steps to discover a new way of traveling around Cyrodiil, and search for new unknown Ayleid sites. <br /> https://www.nexusmods.com/oblivion/mods/16316
+
+### Mudwater
+This mod adds an Argonian village called Mudwater to the Blackwood Forest. The village is made almost completely from new meshes and comes with four quests. The quests are rather short, but they are hopefully fun - there is much more to see than just the village. <br /> https://www.nexusmods.com/oblivion/mods/35434
+
+### Thievery in the Imperial City
+Not all merchants in the Imperial City are through and through honest. Derrien Venoit runs the Discount Merchandise in the market district; not only has he no qualms about buying stolen goods, the thieves in the Imperial City know that Derrien even gives tips about where to find worthwhile loot. <br /> https://www.nexusmods.com/oblivion/mods/52785
+
+### The Well of Minlorada
+Deep beneath the surface of Cyrodiil lies a long-lost Ayleid Ruin known as Minlorada. It is a legendary location, and it is said that a special Ayleid Well resides inside. This well is said to have been a gift to the Ayleids from Meridia, and it grants extended or eternal life to whoever draws from its power. Discover the lost ruins of Minlorada. Reveal the truth in the legends. Find the many secrets inside its walls! <br /> https://www.nexusmods.com/oblivion/mods/38816
+
+### Into The Void
+On the shores of Niben Bay, the scenic Cadlew Chapel hides underneath itself a dark secret... Will you enter the hallowed halls and uncover the mysteries laid before you by an ancient evil? Into The Void offers a unique horror experience in Oblivion. Explore dark dungeons and traverse surreal hellscapes in this quest-driven mod which focuses on themes of madness, humanity, the passing of time, power and the corruption which often follows said power. To start the quest simply enter Cadlew Chapel and go from there.<br /> https://www.nexusmods.com/oblivion/mods/52365
+
+### Elsweyr the Deserts of Anequina
+High beyond the hills of the Niben lies the great desert plateau of central Elsweyr. From sandy desert wastes to rocky, red badlands, from grassy savannah to jungle coast, the lands of Anequina beckon. This new region, spanning the section of Elsweyr between Skingrad and Leyawiin, includes four new landscapes (desert to jungle), four new towns, several villages, a couple of dozen small quests, three small player homes and a monster-filled wilderness to explore. <br /> https://www.nexusmods.com/oblivion/mods/25023
+
+### Frostcrag Reborn
+A complete overhaul of Frostcrag, replete with added backstory, massive quests, and rewards galore. What secrets are within the wizard tower? <br /> 
+https://www.nexusmods.com/oblivion/mods/9769?tab=description
+
+### Vampire Hunting - Order of the Virtuous Blood
+Cyrodiil is suffering from a plague of vampirism. With the Oblivion crisis, the attentions of the authorities have been focused elsewhere, and things are starting to get out of hand.  You may encounter vampires at night on isolated country roads, and even walking the streets of the cities. Vampire hunting is not without its risks. It really isn't safe to get infected with porphyric hemophilia over and over. You must have a pure heart and a steadfast resolve if you are to avoid turning into one of the things you are fighting so hard against. If the work does not destroy your body, it still might destroy your mind and your soul. But if nobody is willing to take the risks and make the sacrifices, things may become very bad for Cyrodiil indeed. <br /> https://www.nexusmods.com/oblivion/mods/30568
+
