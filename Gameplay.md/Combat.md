@@ -18,10 +18,6 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 
 - Knockdown: If the player runs out of fatigue, they will be knocked down.
 
-- Predictable Offense (Light Attacks, Power Attacks, Bashing): If the player repeats the same attack too many times, the opponent will be able to predict the next similar attack and attempt to knockdown the player with a counterattack.
-
-- Predictable Defense (Block, Dodge): If player repeats the same defensive move too many times, the opponent will be able to predict the next defensive move and the player's next defensive move may not be effective.
-
 - Timed Block: If the player blocks an attack within X amount of time of holding the block key (1s for shield, 0.5s with weapon or unarmed), then they will take no damage from the attack and potential stagger will be reduced.
 
 - Locational Damage: By aiming at the lower legs or feet of an opponent the player has a chance of knocking down the opponent. If the player's aim is off the NPC may counter with a bash and knock the player down. By aiming at the head of an opponent the player has a chance of stunning or knocking out the opponent.
