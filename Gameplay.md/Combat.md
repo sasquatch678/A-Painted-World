@@ -16,7 +16,7 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 
 - Fatigue Drain: Two handed weapons drain fatigue when striking targets.
 
-- Knockdown: If the player is hit from behind, there is a chance the player will be knocked down, based on the enemies blade or blunt skill. The chance is increased when the player is running.
+- Knockdown: If the player runs out of fatigue, they will be knocked down.
 
 - Predictable Offense (Light Attacks, Power Attacks, Bashing): If the player repeats the same attack too many times, the opponent will be able to predict the next similar attack and attempt to knockdown the player with a counterattack.
 
