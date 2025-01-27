@@ -117,7 +117,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ## Post-Installation
 
-### Resolution
+### Resolution :warning: **IMPORTANT**: YOUR GAME WILL NOT WORK UNLESS YOU DO THIS :warning:
 
 In the directory you installed the list to, open profiles/A Painted World/Oblivion.ini and ensure that iSize H and iSize W match your screen resolution.
 
