@@ -51,7 +51,7 @@ The total number of potions you can consume at once is determined by the followi
 
 - Different spells with the same beneficial effect will no longer stack with each other, instead the total effect power will be no more than the strongest of the spells. Feather is the only exception to this.
 
-- Fire, Frost and Shock Shield effects no longer provide physical armor bonus, instead they will damage attackers in melee range when struck, as well as provide elemental resistance. They will also add 25% of their effect as unarmed damage, however this costs magicka with each swing.
+- Fire, Frost and Shock Shield effects no longer provide physical armor bonus, instead they will damage attackers in melee range when struck, as well as provide elemental resistance. They will also add 25% of their effect as unarmed damage.
 
 - It is now possible to summon more than one minion at a time, with sufficient Conjuration and Willpower. The number of creatures the player can simultaneously summon is calculated by the following formula: (Willpower + Conjuration)/60, rounded down - meaning that you can potentially have up to 3 summoned creatures at high levels. It is displayed in magic menu, below spell list.
  
