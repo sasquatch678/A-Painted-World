@@ -47,7 +47,6 @@ Doomstones now act as permanent constant effects, giving a small boost to an att
 - Lover - Fortify Personality & Luck 5 points
 - Mage - Fortify Magicka 20 points
 - Magnus - Fortify every magic skill 5 points
-- Nirn - Fortify Health & Fatigue 15 points
 - Ritual - Shield 5 points & 10 points of shock shield
 - Serpent - Fortify Fatigue 40 points
 - Shadow - Chameleon 10 points
