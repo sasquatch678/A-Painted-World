@@ -145,7 +145,7 @@ On the shores of Niben Bay, the scenic Cadlew Chapel hides underneath itself a d
 High beyond the hills of the Niben lies the great desert plateau of central Elsweyr. From sandy desert wastes to rocky, red badlands, from grassy savannah to jungle coast, the lands of Anequina beckon. This new region, spanning the section of Elsweyr between Skingrad and Leyawiin, includes four new landscapes (desert to jungle), four new towns, several villages, a couple of dozen small quests, three small player homes and a monster-filled wilderness to explore. <br /> https://www.nexusmods.com/oblivion/mods/25023
 
 ### Frostcrag Reborn
-A complete overhaul of Frostcrag, replete with added backstory, massive quests, and rewards galore. What secrets are within the wizard tower? <br /> 
+A complete overhaul of Frostcrag, replete with added backstory, massive quests, and rewards galore. What secrets await within the wizard tower? <br /> 
 https://www.nexusmods.com/oblivion/mods/9769?tab=description
 
 ### Vampire Hunting - Order of the Virtuous Blood
