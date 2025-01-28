@@ -37,6 +37,14 @@ Weather and location will affect elemental Destruction spells. All modifiers are
 There are npcs in each Mage's Guildhall who will craft spells and enchant items for you, it is no longer locked behind access to the Arcane University.
 A new rare item called Welkynd Essence can be found - using it allows creation of one custom spell for free.
 
+### Enchantment Charging & Soulgems
+Enchanted weapons will automatically be recharged overtime based on your mysticism skill. 
+
+Your Mysticism skill will now increase the amount of weapon charge restored by soulgems, up to +50% at a Mysticism skill of 100.
+
+### Alchemy
+The total number of potions you can consume at once is determined by the following formula - (Endurance + Alchemy)/25
+
 ### Various Changes to Spell Mechanics
 
 - New Concentration Spells will continue their effects as long as Cast key is held or until Magicka runs out.
