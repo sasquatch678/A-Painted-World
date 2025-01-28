@@ -35,7 +35,7 @@ Weather and location will affect elemental Destruction spells. All modifiers are
 
 ### Spellcrafting
 There are npcs in each Mage's Guildhall who will craft spells and enchant items for you, it is no longer locked behind access to the Arcane University.
-A new rare item called Welkynd Essence can be found - using it allows creation of one custom spell for free.
+A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - using it allows creation of one custom spell for free.
 
 ### Enchantment Charging & Soulgems
 Enchanted weapons will automatically be recharged overtime based on your mysticism skill. 
