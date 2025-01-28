@@ -16,14 +16,6 @@ Eating or drinking any item considered to be food by the game contributes to you
 
 Sleeping in a bed provides a 'Well Rested' bonus that increases Fatigue by 50 points for a long period of time. Sleeping in a safe indoors location provides the bonus for 12 hours, and any other location provides it for 6 hours. You will also gain rested experience based on the amount of time slept.
 
-### Enchantment Charging & Soulgems
-Enchanted weapons will automatically be recharged overtime based on your mysticism skill. 
-
-Your Mysticism skill will now increase the amount of weapon charge restored by soulgems, up to +50% at a Mysticism skill of 100.
-
-### Alchemy
-The total number of potions you can consume at once is determined by the following formula - (Endurance + Alchemy)/25
-
 ### Nine Divines
 Each Divine Altar restores one attribute up to 100 points. The attribute restored is the same as their blessing. Altars of the Nine will restore all attributes. Blessings of the Divine have also been reworked, their bonuses are as follows:
 | Divine    | Blessing | 
