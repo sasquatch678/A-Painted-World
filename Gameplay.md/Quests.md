@@ -132,6 +132,9 @@ Discover the ancient Ayleid teleporting network of Step stones, find out how to 
 ### Mudwater
 This mod adds an Argonian village called Mudwater to the Blackwood Forest. The village is made almost completely from new meshes and comes with four quests. The quests are rather short, but they are hopefully fun - there is much more to see than just the village. <br /> https://www.nexusmods.com/oblivion/mods/35434
 
+### Kvatch Rebuilt
+Rebuild Kvatch, become the new count(ess) or find the rightful heir of the throne. Get your own statue in the city and fight in the arena to become the new champion! And just as you thought it was all done, uncover the dark secrets of old Kvatch! <br /> https://www.nexusmods.com/oblivion/mods/15412
+
 ### Thievery in the Imperial City
 Not all merchants in the Imperial City are through and through honest. Derrien Venoit runs the Discount Merchandise in the market district; not only has he no qualms about buying stolen goods, the thieves in the Imperial City know that Derrien even gives tips about where to find worthwhile loot. <br /> https://www.nexusmods.com/oblivion/mods/52785
 
