@@ -183,7 +183,7 @@ If you add any mods yourself or change major game functions through the ingame m
 
 Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
 
-Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating.
+Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. You may also need to reset your resolution in the Oblivion.ini in the profiles folder. **Note**: Any mods you have added will be deleted when updating unless prefixed with [NoDelete].
 
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
