@@ -39,7 +39,7 @@ Other lore-appropriate shrines have been added:
 
 - Members of the Thieves Guild may have a shrine to Nocturnal, hinting at their true allegiance.
 
-- Sleeper agents of the Mythic Dawn may have a shrine to Merhunes Dagon in their dwellings, hinting at their true allegiance.
+- Sleeper agents of the Mythic Dawn may have a shrine to Mehrunes Dagon in their dwellings, hinting at their true allegiance.
 
 - Members of the Dark Brotherhood may have a shrine to the Night Mother in the guise of the Lucky Old Lady, hinting at their true allegiance.
 
