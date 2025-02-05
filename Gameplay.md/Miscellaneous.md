@@ -59,7 +59,7 @@ Doomstones now act as permanent constant effects, giving a small boost to an att
 
 ### Runestones
 
-Runestones no longer give a piece of bound armor and a bound weapon, but instead each gives a unique and permanent effect related to one of the three major specializations (combat, magic, stealth).
+Runestones no longer give a piece of bound armor and a bound weapon, but instead each gives a powerful, unique and permanent effect related to one of the three major specializations (combat, magic, stealth).
 
 #### Reman 
 Your power attacks that strike somebody who's blocking damages their shield's health by an amount equal to 3 times your skill in the weapon you're using. If they're blocking with a weapon, rather than a shield, the damage to the equipment is quartered.
