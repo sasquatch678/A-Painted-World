@@ -173,7 +173,7 @@ https://wiki.special-k.info/FAQ
 If you add any mods yourself or change major game functions through the ingame mods menu or ini files you will void all official support for the modlist.
 
 ## Known Issues
-1. The game can stutter or fps can drop heavily in certain areas. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Any area with a large cluster of npcs can cause this. Torches and light spells can cause fps to dip very heavily as well. This is unfortunately just an engine limitation which gets worsened by some of the mods adding more objects and detail to the landscape. There is no real solution except to avoid using lights in these areas at night.
+1. The game can stutter or fps can drop heavily in certain areas even on a powerful system. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Any area with a large cluster of npcs can cause this. Torches and light spells can cause fps to dip very heavily as well. This is unfortunately just an engine limitation which gets worsened by some of the mods adding more objects and detail to the landscape. There is no real solution except to avoid using lights in these areas at night.
    
 2. Rarely, random dungeon cells can be hit with sub 15 fps. To fix this, either restart the game or exit the cell, wait 24 hours ingame and go back. This may be an issue with OBSE and the virtual file system of MO2, as each time this happens hundreds of failed script errors appear in the obse log.
 
