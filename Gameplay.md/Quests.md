@@ -1,4 +1,6 @@
-# Quests WIP
+# Quests 
+
+Most quests will show up in the new Progress Tracker menu, which can be accessed in the stats or map menu. This will give you an overview of your current total progress as well as a small blurb on each questline and how they may be started.
 
 ## Main Quest
 
@@ -156,3 +158,27 @@ Cyrodiil is suffering from a plague of vampirism. With the Oblivion crisis, the 
 
 ### Render Unto Them Their Desert - An Inn of Ill Omen Overhaul
 The Inn of Iller Omen is an overhaul for everyone's favorite dingy little inn on the Green Road. This mod expands upon the Ill Omen in a number of ways. It also adds a highly detailed, open-ended story with a horror theme, taking place in an abandoned dungeon of the Imperial Empire. To start, find and interact with the skull hidden among the weeds in the ruins in front of the inn. <br /> https://www.nexusmods.com/oblivion/mods/54579
+
+### Tales of Cyrodiil
+Tales of Cyrodiil adds 14 quests for you to embark on. The quests are not of epic scales, but more of a... local scale. You will deal with commoners, nobles and the underworld with their little problems, like adventurers always do. These adventures are inspired by some of Daggerfall's side quests you can get from innkeepers and shopkeepers. Unlike Daggerfall, the Tales of Cyrodiil are unique and not randomly generated. <br /> https://www.nexusmods.com/oblivion/mods/48792
+
+### Ruined Tails Tale
+Ruined-Tail's Tale is a story-driven Companion-MOD featuring an Argonian Battlemage by the name of Ruined-Tail (or Ruin, for short). Throughout the course of your time together you will learn more about what drives Ruin and what haunts him, and through numerous multi-path conversations, complex scripted sequences, and challenging strategy-orientated encounters, you will play an integral part in shaping Ruined-Tail's Tale to its ultimate conclusion. <br /> https://www.nexusmods.com/oblivion/mods/3027
+
+### Dark Brotherhood Continued
+This mod allows you to continue taking contracts for the Dark Brotherhood after you have completed the dark brotherhood questline. Arquen now actually trusts you with more important jobs then running from Bravil to Cheydinhal! <br /> https://www.nexusmods.com/oblivion/mods/25689
+
+### Hoarfrost Castle
+Sitting high on a bluff above the steepest part of the Orange Road is Hoarfrost Castle. The keep and castle yard rest at the foot of the Jerall Mountains proper - at the edge of the snowfall. The yard is almost always half-covered with snow, ice and frost. The windswept keep tower provides an unsurpassed view over the Great Forest, the Heartlands, and the Nibenay basin: from Bruma, to Chorrol - to the Imperial City itself.
+
+Hoarfrost Castle is a cold place, but the roaring pit fire in the great hall always served to bar the chill from the keep itself. The keep and castle grounds played host to a chapel, graveyard, stables, master bedroom, dining chamber, kitchen, basement, smithy, servant's and guard's quarters, mage's study and workshop, display hall, and of course the warmest part of the keep: the great hall. A hive of activity and an outpost unto itself.
+
+At least, this was the case until the castle's previous occupants were lost to some malevolent force that rose up within the keep. Rumour has it that only the Castle Steward survived to tell the horrific tale; and is now willing to give ownership of the castle up to whoever proves powerful enough to wrest control of the keep from whatever monstrosities now dwell inside. He keeps a solitary watch over Hoarfrost Castle's gate; waiting for some brave soul to come, and offer their help. <br /> https://www.nexusmods.com/oblivion/mods/14714
+
+### Integration - The Stranded Light
+Integration: The Stranded Light includes more than 80 quests with a strong emphasis on thinking, character interaction, choices, consequences, and lore. It delivers a seamless integration of Cyrodiil and Shivering Isles along with other lore races. A new, joinable guild plays an important role in many of the quests, which are unlike any in Vanilla Oblivion: A bit thinking, often multiple solutions, quite heavy on social skills. It also reaches beyond the typical mold of quest mods, seeking to enrich the existing game world as whole.
+
+The quests in Integration: The Stranded Light don't all follow a single storyline. It's more like a collection of somewhat intertwined short stories than an epic novel. <br /> https://www.nexusmods.com/oblivion/mods/22320
+
+### Shadowcrest Vineyard
+Unlock the secret past of Shadowbanish Wine to obtain a large interactive vineyard and manor, located in rich fields surrounded by waterfalls and lakes. So come on over and have a drink...or are you scared of what lurks in the shadows? To start the quest visit the Chapel of Julianos, in Skingrad. On the first pew there is a note that you must read. The note is located on pew to the left if you are facing the altar. <br /> https://www.nexusmods.com/oblivion/mods/22810
