@@ -16,7 +16,7 @@ Eating or drinking any item considered to be food by the game contributes to you
 
 Sleeping in a bed provides a 'Well Rested' bonus that increases Fatigue by 50 points for a long period of time. Sleeping in a safe indoors location provides the bonus for 12 hours, and any other location provides it for 6 hours. You will also gain rested experience based on the amount of time slept.
 
-### Nine Divines
+### Gods and Worship
 You will often find shrines to different divines in homes and public spaces depending on the region. The Colovians, a militaristic and rustic people, comprise of the bulk of the Legion. The martial Colovians may have shrines to the Nine Divines, but these are scarcer than in the Heartlands. Cities dominated by Colovian subculture include Chorrol, Anvil, and Skingrad (Kvatch has been left untouched).     
 
 The cosmopolitan Nibenese, by contrast, are esoteric, philosophizing, and religious.  The Nibenese will have often a multitude of shrines in their homes and businesses.  Many Nibenese will have shrines related to more obscure cults, such as shrines to Cuhlecain (the Cult of Emperor Zero), Reman Cyrodiil (founder of the 2nd Empire), Alessia and Morihaus (leaders of the rebellion against the Ayleids), and shrines to various hero and animal cults.   Cities dominated by Nibenese subculture include Leyawiin, Bravil, Cheydinhal, Bruma, and the Imperial City.
