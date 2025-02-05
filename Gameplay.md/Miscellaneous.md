@@ -82,7 +82,7 @@ Pretty much what the title suggests. There are two variations of the game. One w
 - Double or Nothing:
 Basically a coin flip. Both parties bet 10 septims. Either you or the NPC will get to flip the coin. Whoever doesn't flip the coin calls heads or tails. If you get a match you get 20 septims. Depends on the caller's luck.
 
-- Dice: Blates
+- Dice: Blates:
 The game is played with a pair of six-sided dice and centers on various forms of the sum quantity 8. The score is the sum of the two face up values of the dice. The player with the lowest score wins. The various forms of the sum 8 have special meaning.
 
 4 and 4 is "Blates", and is worth 0. Certain victory, unless the opponent also rolls Blates.
@@ -93,15 +93,12 @@ It is impossible to actually roll 8 in Blates.
 
 If any players roll the same value in a round, they should take turns rolling against each other until the tie is broken. This is commonly referred to as a "roll off".
 
-- Dice: Parity
-
+- Dice: Parity:
 A 10 Septim bet is made on either an odd or even roll. Player rolls 1 die.
 
-- Dice: Double Parity
-
+- Dice: Double Parity:
 Same as Parity, but two dice are rolled. If a double is rolled the bet is doubled to 20.
 
 - High Stakes:
-
 Any NPC with a luck higher than 60 will give the option to play games at higher stakes. As far as I know all default NPCs in Oblivion have a luck of 50. So this should only affect the new gamblers with luck higher than 60 (or any other mod added NPC who has high luck and happens to be hanging in a tavern or inn. The options are 2x, 3x, 4x and one special gambler has 10x option. These option only show up if both parties can afford the larger transactions.
 
