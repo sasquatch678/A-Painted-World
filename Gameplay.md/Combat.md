@@ -1,6 +1,6 @@
 ## COMBAT
 
-Fatigue is like your second health bar and affects your damage dealt, swing speed, and movement speed. At high fatigue you should look to go in and be aggressive while at low fatigue it’s usually preferable to hang back and play more defensively. With no perks and starting attributes, fatigue regenerates at a rate of 14 per second. Running consumes 5 fatigue per second and sprinting consumes 16. 
+Fatigue is like your second health bar and affects your damage dealt, swing speed, and movement speed. At high fatigue you should look to go in and be aggressive while at low fatigue it’s usually preferable to hang back and play more defensively. With no perks and starting attributes, fatigue regenerates at a rate of 14 per second. Running consumes 5 fatigue per second and sprinting consumes 18. 
 
 In vanilla Oblivion, your weapon skill affects your damage 3x as much as your Strength, but in APW this is normalized so that weapon skill and Strength affect melee damage equally.
 
