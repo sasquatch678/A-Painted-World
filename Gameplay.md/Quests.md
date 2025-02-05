@@ -141,6 +141,15 @@ Discover the ancient Ayleid teleporting network of Step stones, find out how to 
 ### Mudwater
 This mod adds an Argonian village called Mudwater to the Blackwood Forest. The village is made almost completely from new meshes and comes with four quests. The quests are rather short, but they are hopefully fun - there is much more to see than just the village. <br /> https://www.nexusmods.com/oblivion/mods/35434
 
+### Bounty Quests Fixed and Polished
+In the lower-class inns in each city (except the Imperial City – see below), you'll find a bounty board with a notice on it. Activate it, and you'll receive a random bounty – either Kill, Exterminate, or Recovery. The inns are: The Flowing Bowl in Anvil; The Lonely Suitor Lodge in Bravil; Olav's Tap and Tack in Bruma; Newlands Lodge in Cheydinhal; The Grey Mare in Chorrol; Luther Broad's Boarding House in the IC Elven Gardens District; Five Claws Lodge in Leyawiin; Two Sisters Lodge in Skingrad.
+
+Kill bounties are "go find the NPC and kill him/her". Exterminate bounties involve finding and killing a creature, or clearing a creature lair. Recovery bounties require you to find and recover an item (or items). All NPCs, creatures, and items have specific names, so you'll know you got the right one when you find them (you'll also get a journal entry, so there's that too). 
+
+Except for special cases (noted in the journal entry), there are no quest markers! The journal entries will point you in the general direction and you'll get a map marker, but beyond that, you're on your own (if you can't find something, check the spoiler list at the end of this document). Likewise, the items are not marked as quest items – you can sell them, keep them, or even lose them if you're not careful. If you don't have the item when you report back to the innkeeper, you'll get the option to say you've failed the quest, in which case it will be marked complete, but you won't get paid for it.
+
+Bounties are chosen randomly from a list of 20 for each city, but you'll only be able to get 15 before that city's quest is "complete" (this is to ensure a random set of quests each time you play this mod). New bounties appear on the board every Sundas, but you won't be able to take a new one if you still have an active bounty (this is per city; you can have one active bounty for each city at any given time).  If you don't want a particular bounty for whatever reason, talk to the innkeeper and you can decline it. It'll go back into the pool and may pop up again. You will not, however, be able to choose a new bounty in that city until the next week (see below) – this mod is intended to be played when you have nothing better to do or need a little quick cash, not blown through in a couple game days. <br /> https://www.nexusmods.com/oblivion/mods/48330
+
 ### Kvatch Rebuilt
 Rebuild Kvatch, become the new count(ess) or find the rightful heir of the throne. Get your own statue in the city and fight in the arena to become the new champion! And just as you thought it was all done, uncover the dark secrets of old Kvatch! <br /> https://www.nexusmods.com/oblivion/mods/15412
 
