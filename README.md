@@ -179,6 +179,8 @@ If you add any mods yourself or change major game functions through the ingame m
 
 3. The Journeyman Alteration perk can occasionally cause spell magnitudes to multiply infinitely when reloading the game. Simply restart the game when loading rather than quickloading from within the game.
 
+4. DXVK can sometimes cause weird visual anomalies or random crashes, if your performance is good enough without it you can keep it disabled. Please note that DXVK is the only way to use Reshade with Oblivion Reloaded Combined, so Reshade will not work with it disabled.
+
 ## Updating the modlist
 
 Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
