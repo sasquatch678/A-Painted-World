@@ -37,7 +37,9 @@ Weather and location will affect elemental Destruction spells. All modifiers are
 There are npcs in each Mage's Guildhall who will craft spells and enchant items for you, it is no longer locked behind access to the Arcane University.
 A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - using it allows creation of one custom spell for free.
 
-### Enchantment Charging & Soulgems
+### Enchanting & Soulgems
+You cannot enchant an item unless you are at least an apprentice in the same school that effect is from. At Journeyman you can put two effects of that school, Expert 3, Master 4.
+
 Enchanted weapons will automatically be recharged overtime based on your mysticism skill. 
 
 Your Mysticism skill will now increase the amount of weapon charge restored by soulgems, up to +50% at a Mysticism skill of 100.
