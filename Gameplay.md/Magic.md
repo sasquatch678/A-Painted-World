@@ -1,6 +1,6 @@
 ## MAGIC
 
-Your starting magicka pool is determined by your total intelligence and your class specialization and major skills. Certain races start with higher or lower intelligence and certain birthsigns further increase the pool. Interacting with Ayleid Wells will give a permanent and stacking +2 bonus to your magicka.
+Your starting magicka pool is determined by your total intelligence and your class specialization and major skills. Certain races start with higher or lower intelligence and certain birthsigns further increase the pool. Interacting with Ayleid Wells will each give a permanent and stacking +5 bonus to your magicka, until you interact with 35 total at which point you will gain a permanent +200 magicka and a +1/s magicka regeneration buff.
 
 ### Magic Sneak Attacks
 Touch spells start with a 1x sneak multiplier at novice sneak and increase up to 3x at a master level of sneak. (0.5x increase per level of sneak mastery).
@@ -51,7 +51,7 @@ Your Mysticism skill will now increase the amount of weapon charge restored by s
 
 - Different spells with the same beneficial effect will no longer stack with each other, instead the total effect power will be no more than the strongest of the spells. Feather is the only exception to this.
 
-- Fire, Frost and Shock Shield effects no longer provide physical armor bonus, instead they will damage attackers in melee range when struck, as well as provide elemental resistance. They will also add 25% of their effect as unarmed damage.
+- Fire, Frost, Shock, and Poison Shield effects no longer provide physical armor bonus, instead they will damage attackers in melee range when struck, as well as provide elemental resistance. They will also add 25% of their effect as unarmed damage.
 
 - Potions will now restore over time. The total number of potions you can consume at once is determined by the following formula - (Endurance + Alchemy)/25
 
