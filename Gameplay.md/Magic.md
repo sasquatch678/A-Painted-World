@@ -64,3 +64,5 @@ Your Mysticism skill will now increase the amount of weapon charge restored by s
 - Chameleon is capped at 75%. Resist Magic and Reflect Damage are capped at 85%
 
 - Spell Absorption now behaves differently – instead of being chance-based, it always works and absorbs the percentage of incoming spell’s Magicka, but doesn’t protect from the spell itself
+
+- Rindir's Staffs in the Market District will now sell a variety of Channeling Staves, these staves have no active use but passively boost the power of all spells cast by a certain percentage. This is intended so that mages don't feel forced to always have a backup melee weapon.
