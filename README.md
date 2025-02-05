@@ -170,6 +170,8 @@ By default skills do not increase by using them and instead you get skill points
 Special K enables quite a few features, however it needs to generate the ini during runtime so is disabled by default. If you choose to enable it, the first time you launch the game you will have a prompt to enable native DXVK support, select Yes. Anything else you may want to use it for can be read about on the wiki link here.
 https://wiki.special-k.info/FAQ
 
+Food and Drink Quotes adds funny voicelines to your character when you eat or drink food/potions/ingredients. This can be safely disabled by disabling the mod in MO2.
+
 If you add any mods yourself or change major game functions through the ingame mods menu or ini files you will void all official support for the modlist.
 
 ## Known Issues
