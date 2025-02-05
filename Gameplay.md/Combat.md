@@ -10,7 +10,7 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 
 - Dodge: The player can tap left alt to duck, and tap it while moving to sidestep, at the cost of fagitue. The cost is increased based on the player's encumberance.
 
-- Bashing: You can bash by holding block and using left click. Bashing deals 1 Poise damage and will interrupt and stagger Powerattacking/Blocking enemies. Bashing has a 1.5 second cooldown and requires 50 strength.
+- Bashing: You can bash by holding block and using left click. This consumes fatigue but drains fatigue from the opponent and can stagger or knock them back.
 
 - Momentum: You gain a 33% damage multiplier when moving forward when hitting the target, or running left while performing a right to left attack, or running right while performing a left to right attack.
 
