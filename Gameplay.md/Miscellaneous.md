@@ -72,3 +72,36 @@ After spending an uninterrupted span of 10 seconds in darkness, you gain 25 poin
 Alcohol offers a variety of benefits, but also makes your character drunk which blurs your vision and can knock you down. Wine tends to buff magicka and personality while hard liquor and beers tend to buff fatigue and physical traits.
 
 Your character can now become addicted to Skooma. Most effects have been removed from the actual potion and added via script. The only effects you will see on the potion bottle are positive. In theory, it seems perfectly harmless on the outside, until you find out about the addiction and other effects. As you become addicted, there should be an "Addicts Diary" added to your Inventory. This will give you key insights into what level you are at, and how long you have until you absolutely must consume before going into withdrawal (at a daily rate as opposed to down to the hour). You will gain an increasing fortify speed effect while at the same time increasingly draining your willpower. Each addiction level has a requirement for skooma to be consumed, thus addiction can get quite expensive and without feeding that addiction the player goes into withdrawal however it can be refined using the newly added Skooma Apparatus, Moon Sugar, and Nightshade. The Apparatus can be purchased from Shady Sam, or picked up from a sack near the Prison Sewer Exit. If you become addicted and do not continue to drink Skooma, you will begin to suffer withdrawals. There are 5 levels of withdrawal symptoms, with each progressively draining more of your attributes. The higher level your addiction is, the higher level of withdrawals you will suffer. The only real cure of Skooma Addiction is to go through the levels of withdrawal and cure yourself. It's a choice that has to be made...although judicious use of WAIT and SLEEP can reduce the impact if you really want to disrupt the immersion.
+
+### Gambling and Minigames
+There are NPCs in all the main cities that will play chance games with the player. There are two in the Imperial City. Look for them around in plazas, around city landmarks or at taverns and inns. They have individual AI schedules, different levels of difficulty and available gold. Once they run out off gold they will go to work at certain times unless the player donates them money or until they gain their own gold back. However, there is one NPC that has unlimited gold, but is very hard to beat. You can also ask  "In the mood for a game?" to any NPC at a tavern or inn, provided they like you enough and that they have at least ten septims. The gold on these NPCs is handled by the game itself by leveled lists. So they will get some gold back after the leveled lists reset. There are 5 potential games they can play, which is completely random. 
+
+- Guess How Many Septims:
+Pretty much what the title suggests. There are two variations of the game. One where the NPCs hide up to five Septims in their hand and another version where you hide up to five Septims in your hand. The first version depends on your real life luck, meaning there is only one right choice. The second version depends on the NPCs luck. The payout is the choice selected, not the actual septims in hand. Meaning if you thought he had 3 septims, you will pay 3 septims and vice versa.
+
+- Double or Nothing:
+Basically a coin flip. Both parties bet 10 septims. Either you or the NPC will get to flip the coin. Whoever doesn't flip the coin calls heads or tails. If you get a match you get 20 septims. Depends on the caller's luck.
+
+- Dice: Blates
+The game is played with a pair of six-sided dice and centers on various forms of the sum quantity 8. The score is the sum of the two face up values of the dice. The player with the lowest score wins. The various forms of the sum 8 have special meaning.
+
+4 and 4 is "Blates", and is worth 0. Certain victory, unless the opponent also rolls Blates.
+3 and 5 form a "Gentleman's Eight" which is worth 1, making it the best roll in the game besides Blates.
+2 and 6 form a "Pauper's Eight" which is worth 13, making it the worst roll in the game.
+
+It is impossible to actually roll 8 in Blates.
+
+If any players roll the same value in a round, they should take turns rolling against each other until the tie is broken. This is commonly referred to as a "roll off".
+
+- Dice: Parity
+
+A 10 Septim bet is made on either an odd or even roll. Player rolls 1 die.
+
+- Dice: Double Parity
+
+Same as Parity, but two dice are rolled. If a double is rolled the bet is doubled to 20.
+
+- High Stakes:
+
+Any NPC with a luck higher than 60 will give the option to play games at higher stakes. As far as I know all default NPCs in Oblivion have a luck of 50. So this should only affect the new gamblers with luck higher than 60 (or any other mod added NPC who has high luck and happens to be hanging in a tavern or inn. The options are 2x, 3x, 4x and one special gambler has 10x option. These option only show up if both parties can afford the larger transactions.
+
