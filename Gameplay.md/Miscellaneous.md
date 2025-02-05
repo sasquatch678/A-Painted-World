@@ -17,6 +17,11 @@ Eating or drinking any item considered to be food by the game contributes to you
 Sleeping in a bed provides a 'Well Rested' bonus that increases Fatigue by 50 points for a long period of time. Sleeping in a safe indoors location provides the bonus for 12 hours, and any other location provides it for 6 hours. You will also gain rested experience based on the amount of time slept.
 
 ### Nine Divines
+
+Each Nine Divines faction and 2 Knightly Orders can be joined. Joining a faction requires you to have basic knowledge about one of the faction's required skills, and you must perform a pilgrimage to the god's wayshrine. Ask the priests to know where you may find a wayshrine.
+
+You can join only ONE god faction OR one Knightly Order. You cannot join both a Knightly Order and its associated priesthood. The benefits of joining a faction are that you have reduced prices for the healing service, lodgings in the temple/HQ, access to privileged services (For some religions) and the god/Knightly Order's outfit. The friends of the god you worship are your friends. His enemies are your enemies. Ghosts in your faction's Undercroft will not attack you. Killing a member of your faction or stealing will result in being expelled. Once expelled, you cannot join again and you cannot switch to another god. There are no quests or possibility of advancements, it's just meant for roleplaying.
+
 Each Divine Altar restores one attribute up to 100 points, cures disease, and restores health. The attribute restored is the same as their blessing. Altars of the Nine will restore all attributes. Blessings of the Divine have also been reworked, their bonuses are as follows:
 | Divine    | Blessing | 
 |:--------------:|:-------------:|
