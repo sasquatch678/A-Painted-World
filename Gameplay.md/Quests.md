@@ -1,6 +1,6 @@
 # Quests 
 
-Most quests will show up in the new Progress Tracker menu, which can be accessed in the stats or map menu. This will give you an overview of your current total progress as well as a small blurb on each questline and how they may be started.
+Most quests will show up in the new Progress Tracker menu, which can be accessed in the stats or map menu. This will give you an overview of your current total progress in the game as well as a small blurb on each questline and how they may be started.
 
 ## Main Quest
 
@@ -117,6 +117,11 @@ Player must be at least an Associate in the Mages guild and within 200 units of 
 ## Modded Quests
 
 If you get stuck or are unsure how to start any of these quests, please consult the mod page or readme file inside the mod before asking for help.
+
+### Join the Order of the Black Worm
+Have you ever been playing through the Mages Guild questline and thought, "I wonder what it would be like to join the Order of the Black Worm and become a necromancer working for the King of Worms?" 
+This mod lets you join the Necromancer faction, the Order of the Black Worm, part way through the Mages Guild questline. It has around a dozen new quests, which mostly mirror the Mages Guild quests but with you helping the necromancers instead. If you decide to stay loyal to the Mages Guild, the questline should be unaffected, as should the rest of the game. But if you do join the Order of the Black Worm, you leave the Mages Guild and all of its benefits, but the necromancers will provide you with equivalent benefits. <br /> https://www.nexusmods.com/oblivion/mods/54847
+
 
 ### Hackdirt The Deep Ones
 Have you ever wondered who the DEEP ONES really were? What secrets or treasures to they hold in their caverns? Now you can, but beware of what you may find, a secret so terrible that it could shake Tamriel apart<br /> https://www.nexusmods.com/oblivion/mods/36224
