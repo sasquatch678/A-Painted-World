@@ -63,8 +63,6 @@ When accessing the enchanting menu, please wait until the "EM: Ready To Enchant!
 - Potions will now restore over time. The total number of potions you can consume at once is determined by the following formula - (Endurance + Alchemy)/25
 
 - It is now possible to summon more than one minion at a time, with sufficient Conjuration and Willpower. The number of creatures the player can simultaneously summon is calculated by the following formula: (Willpower + Conjuration)/60, rounded down - meaning that you can potentially have up to 3 summoned creatures at high levels. It is displayed in magic menu, below spell list.
- 
-- Reanimation has been given a big expansion. Instead of being used on only one unique staff, this effect is now available in form of multiple spells, spread throughout the world and can also be used in spellmaking.
 
 - At Destruction skill of 50 and 75, elemental magic effects will unlock impact effects. Chance to inflict them scales with Destruction skill and target’s resistance to particular element. At Journeyman level all effects have a chance to cause recoil; at Expert level Fire spells can knock back, Frost sometimes freezes the target in place, and Shock may inflict a short paralysis.
 
@@ -73,3 +71,9 @@ When accessing the enchanting menu, please wait until the "EM: Ready To Enchant!
 - Spell Absorption now behaves differently – instead of being chance-based, it always works and absorbs the percentage of incoming spell’s Magicka, but doesn’t protect from the spell itself
 
 - Rindir's Staffs in the Market District will now sell a variety of Channeling Staves, these staves have no active use but passively boost the power of all spells cast by a certain percentage. This is intended so that mages don't feel forced to always have a backup melee weapon.
+
+### Necromancy and Lichdom
+
+- Reanimation has been given a big expansion. Instead of being used on only one unique staff, this effect is now available in form of multiple spells, spread throughout the world and can also be used in spellmaking.
+
+- Necromancy and Lichdom introduces a new necromancy system where you create leveled undead followers using body parts, as well as the ability to transform into a Lich, complete with the accompanying animations. A Skeleton and Wraith form are also options. It begins when you pick up the Tome of Unlife during the quest "Where the Spirits have Lease" By reading different chapters of the book, you will gain the ability to harvest bodies for parts which you can use to create various undead followers. When you have the required parts you will be able to create the body, and then use magic to animate them to act as permanent followers. The spells are locked behind skill prerequisites, so I would recommend leveling your Restoration, Conjuration, and Mysticism if you want to be able to use them. All followers levels will be scaled to the player at the time of creation (e.g. If you create a skeleton at level 1 it will be a normal skeleton, but if you create a skeleton at level 20 it will be a skeleton champion.) In order to toggle whether a minion follows you or not just interact with them.
