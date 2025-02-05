@@ -40,7 +40,7 @@ A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - usi
 
 ### Enchanting & Soulgems
 
-When accessing the enchanting menu, please wait until the "EM: Ready To Enchant!" message before selecting an item or Soul Stone! If you try to do so before the message, you won't see any of your enchanted items in there. This message usually takes 0-3 seconds to appear. After the item is enchanted, you won't be able to do anything until Enchantment Mastery finishing processing it, this usually takes 0-3 seconds as well.
+When accessing the enchanting menu, please wait until the "EM: Ready To Enchant!" message appears before selecting an item or Soul Stone! If you try to do so before the message, you won't see any of your enchanted items in there. This message usually takes 0-3 seconds to appear. After the item is enchanted, you won't be able to do anything until Enchantment Mastery finishing processing it, this usually takes 0-3 seconds as well.
     
 - To enchant a weapon with a constant enchantment, enter the enchantment screen as normal. You will see two of every weapon, one of them will have a (C) appended to the beginning of it's name (it also won't have an icon). Select that item, and enchant it as normal.
 
