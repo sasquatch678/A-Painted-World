@@ -14,7 +14,7 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 
 - Momentum: You gain a 33% damage multiplier when moving forward when hitting the target, or running left while performing a right to left attack, or running right while performing a left to right attack.
 
-- Fatigue Drain: Two handed weapons drain fatigue when striking targets.
+- Fatigue Drain: Two handed weapons drain fatigue when striking targets. The total fatigue drain is determined by the following formula: 5 + ((0.1 *attacker's weapon weight) *(attacker's strength) / (target's strength))
 
 - Knockdown: If the player runs out of fatigue, they will be knocked down.
 
