@@ -17,11 +17,11 @@ Eating or drinking any item considered to be food by the game contributes to you
 Sleeping in a bed provides a 'Well Rested' bonus that increases Fatigue by 50 points for a long period of time. Sleeping in a safe indoors location provides the bonus for 12 hours, and any other location provides it for 6 hours. You will also gain rested experience based on the amount of time slept.
 
 ### Nine Divines
-Each Divine Altar restores one attribute up to 100 points. The attribute restored is the same as their blessing. Altars of the Nine will restore all attributes. Blessings of the Divine have also been reworked, their bonuses are as follows:
+Each Divine Altar restores one attribute up to 100 points, cures disease, and restores health. The attribute restored is the same as their blessing. Altars of the Nine will restore all attributes. Blessings of the Divine have also been reworked, their bonuses are as follows:
 | Divine    | Blessing | 
 |:--------------:|:-------------:|
 | Akatosh | Fortify Speed 5 points for 6480 seconds.
-| Arkay | Fortify Health 15 points for 6480 seconds, cures all disease.
+| Arkay | Fortify Health 15 points for 6480 seconds.
 | Dibella | Fortify Personality 5 points for 6480 seconds.
 | Julianos | Fortify Intelligence 5 points for 6480 seconds.
 | Kynareth | Fortify Agility 5 points for 6480 seconds.
