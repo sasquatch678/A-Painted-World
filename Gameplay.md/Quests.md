@@ -116,6 +116,8 @@ Player must be at least an Associate in the Mages guild and within 200 units of 
 
 ## Modded Quests
 
+If you get stuck or are unsure how to start any of these quests, please consult the mod page or readme file inside the mod before asking for help.
+
 ### Hackdirt The Deep Ones
 Have you ever wondered who the DEEP ONES really were? What secrets or treasures to they hold in their caverns? Now you can, but beware of what you may find, a secret so terrible that it could shake Tamriel apart<br /> https://www.nexusmods.com/oblivion/mods/36224
 
