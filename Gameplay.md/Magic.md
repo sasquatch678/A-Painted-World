@@ -50,7 +50,7 @@ Your Mysticism skill will now increase the amount of weapon charge restored by s
 
 - Fire, Frost and Shock Shield effects no longer provide physical armor bonus, instead they will damage attackers in melee range when struck, as well as provide elemental resistance. They will also add 25% of their effect as unarmed damage.
 
-- The total number of potions you can consume at once is determined by the following formula - (Endurance + Alchemy)/25
+- Potions will now restore over time. The total number of potions you can consume at once is determined by the following formula - (Endurance + Alchemy)/25
 
 - It is now possible to summon more than one minion at a time, with sufficient Conjuration and Willpower. The number of creatures the player can simultaneously summon is calculated by the following formula: (Willpower + Conjuration)/60, rounded down - meaning that you can potentially have up to 3 summoned creatures at high levels. It is displayed in magic menu, below spell list.
  
