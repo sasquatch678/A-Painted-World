@@ -165,7 +165,7 @@ A Painted World comes with several customization options.
 
 There is 21x9 ultrawide support under the "ULTRAWIDE OPTIONALS (21x9)" section of Mod Organizer 2. 
 
-By default skills do not increase by using them and instead you get skill points you can distribute when leveling up. You can choose to enable skill based leveling again.
+By default skills do not increase by using them and instead you get skill points you can distribute when leveling up. You can choose to enable skill based leveling again by disabling Oblivion XP Update. If you also want to avoid the vanilla leveling minmax, you should also consider enabling Skill Diary Undone and Attribute Progression Redesign.
 
 Special K enables quite a few features, however it needs to generate the ini during runtime so is disabled by default. If you choose to enable it, the first time you launch the game you will have a prompt to enable native DXVK support, select Yes. Anything else you may want to use it for can be read about on the wiki link here.
 https://wiki.special-k.info/FAQ
