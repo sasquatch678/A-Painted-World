@@ -34,7 +34,8 @@ Weather and location will affect elemental Destruction spells. All modifiers are
 | Inside Oblivion | Fire spells are 25% stronger
 
 ### Spellcrafting
-There are npcs in each Mage's Guildhall who will craft spells and enchant items for you, it is no longer locked behind access to the Arcane University.
+There are many new spellcrafting and enchanting altars all over Cyrodiil, it is no longer locked behind access to the Arcane University. First, each Mages Guild hall now has an enchanting altar. Second, magic shops like Mystic Emporium, Rindir's Staffs, and Warlock's Luck now have them added.  Third, a few private dwellings of mage characters have them added (Henantier, Fathis Aren, etc.)  Last, many have been added to necromancer and sorcerer dungeons.
+
 A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - using it allows creation of one custom spell for free.
 
 ### Enchanting & Soulgems
