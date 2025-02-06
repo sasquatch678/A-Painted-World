@@ -64,10 +64,9 @@ The following steps are required to be completed before downloading A Painted Wo
 5. Reinstall Oblivion into a location that is not Program files. Somewhere like `C:\Games` is a good location. Avoid long file paths. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 7. Download and extract the 4gb patch from the link here. Run the exe on the Oblivion.exe in your game folder. <https://www.nexusmods.com/oblivion/mods/45576?tab=files>
-8. Download and install the lite version of the codecs pack here. This is important for audio to play correctly and can cause crashes if it is missing. You don't need to select anything in particular, the default options are fine. <https://www.codecguide.com/download_kl.htm>
-9. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
-10. Disable all Steam/Nvidia/Discord overlays.
-11. Cap fps to 60 through the Nvidia Control Panel or AMD equivalent.
+8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
+9. Disable all Steam/Nvidia/Discord overlays.
+10. Cap fps to 60 through the Nvidia Control Panel or AMD equivalent.
 
 ***
 
