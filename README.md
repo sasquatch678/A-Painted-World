@@ -46,7 +46,7 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 | CPU | Quad-core Intel or AMD CPU
 | Ram | 4GB DDR4 Ram
 | Storage | SATA SSD or higher
-| GPU | Direct X 9.0c and Vulkan compliant video card with at least 8gb of VRAM
+| GPU | Direct X 9.0c and Vulkan compliant video card with at least 6gb of VRAM
 
 Space required: ~140GB Total 
 
