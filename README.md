@@ -66,7 +66,7 @@ The following steps are required to be completed before downloading A Painted Wo
 7. Download and extract the 4gb patch from the link here. Run the exe on the Oblivion.exe in your game folder. <https://www.nexusmods.com/oblivion/mods/45576?tab=files>
 8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
 9. Disable all Steam/Nvidia/Discord overlays.
-10. Cap fps to 60 through the Nvidia Control Panel or AMD equivalent.
+10. Cap fps to 60 through the Nvidia Control Panel or AMD equivalent. You may also want to force Anti Aliasing here as the ingame AA is not an option.
 
 ***
 
