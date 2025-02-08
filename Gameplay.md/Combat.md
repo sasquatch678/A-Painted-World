@@ -23,3 +23,7 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 - Locational Damage: By aiming at the lower legs or feet of an opponent the player has a chance of knocking down the opponent. If the player's aim is off the NPC may counter with a bash and knock the player down. By aiming at the head of an opponent the player has a chance of stunning or knocking out the opponent.
 
 - Swing speed is determined by either Speed or Agility as a percentage from whichever is higher. This also applies to humanoid enemies, which opens up drain or absorb speed/agility as a way to counteract high swing speed from enemies.
+
+## Resistances and Weaknesses
+
+Most enemies have some form of resistance or weakness to specific damage types ie. Undead are weak to silver weapons, spectral enemies are weak to shock damage. Fast and quickly attacking enemies can be countered by absorb speed or burden effects. This is to incentivize strategic thinking, there is almost always something else you can do to make combat encounters easier.
