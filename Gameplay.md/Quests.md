@@ -179,7 +179,7 @@ The Inn of Iller Omen is an overhaul for everyone's favorite dingy little inn on
 Tales of Cyrodiil adds 14 quests for you to embark on. The quests are not of epic scales, but more of a... local scale. You will deal with commoners, nobles and the underworld with their little problems, like adventurers always do. These adventures are inspired by some of Daggerfall's side quests you can get from innkeepers and shopkeepers. Unlike Daggerfall, the Tales of Cyrodiil are unique and not randomly generated. <br /> https://www.nexusmods.com/oblivion/mods/48792
 
 ### Ruined Tails Tale 
-:warning: This mod was last updated in 2009 and can be a bit unstable. If you recruit Ruin and decide to do his questline, make sure to save often. :warning:
+:warning: This mod was last updated in 2009 and can be a bit unstable even in a vanilla game. If you recruit Ruin and decide to do his questline, make sure to save often. :warning:
 
 Ruined-Tail's Tale is a story-driven Companion-MOD featuring an Argonian Battlemage by the name of Ruined-Tail (or Ruin, for short). Throughout the course of your time together you will learn more about what drives Ruin and what haunts him, and through numerous multi-path conversations, complex scripted sequences, and challenging strategy-orientated encounters, you will play an integral part in shaping Ruined-Tail's Tale to its ultimate conclusion. <br /> https://www.nexusmods.com/oblivion/mods/3027
 
