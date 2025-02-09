@@ -182,7 +182,7 @@ If you add any mods yourself or change major game functions through the ingame m
 
 5. DXVK can sometimes cause weird visual anomalies or random crashes, if your performance is good enough without it you can keep it disabled. Please note that DXVK is the only way to use Reshade with Oblivion Reloaded Combined, so Reshade will not work with it disabled.
 
-	Naturally, with a game of this scope, not even my thousdands of hours ingame can cover every plausible scenario. One of the founding principles of QA is no one person can find every bug in a piece of software. If 		you find problems that aren't down to installation-error or missing certain advice above, let's discuss it in Discord.
+Naturally, with a game and list of this scope, not even my thousdands of hours ingame can cover every plausible scenario. One of the founding principles of QA is no one person can find every bug in a piece of software. If 		you find problems that aren't down to installation-error or missing certain advice above, let's discuss it in Discord.
 
 ## Updating the modlist
 
