@@ -174,7 +174,7 @@ If you add any mods yourself or change major game functions through the ingame m
 ## Known Issues
 1. The game can stutter or fps can drop heavily in certain areas even on a powerful system. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Any area with a large cluster of npcs can cause this. Torches and light spells can cause fps to dip very heavily as well. This is unfortunately just an engine limitation which gets worsened by some of the mods adding more objects and detail to the landscape. There is no real solution except to avoid using lights in these areas at night.
 
-Certain hardware also seems to have performance issues when it shouldn't with this being an older game, in particular AMD graphics cards. Experiment with setting the game to fullscreen in the Oblivion.ini in the profiles folder and disabling borderless in Oblivion Display Tweaks.ini in mods/A Painted World Configs/OBSE/plugins if you are experiencing this.
+	Certain hardware also seems to have performance issues when it shouldn't with this being an older game, in particular AMD graphics cards. Experiment with setting the game to fullscreen in the Oblivion.ini in the 		profiles folder and disabling borderless in Oblivion Display Tweaks.ini in mods/A Painted World Configs/OBSE/plugins if you are experiencing this.
    
 3. Rarely, random dungeon cells can be hit with sub 15 fps. To fix this, either restart the game or exit the cell, wait 24 hours ingame and go back. This may be an issue with OBSE and the virtual file system of MO2, as each time this happens hundreds of failed script errors appear in the obse log.
 
@@ -182,7 +182,7 @@ Certain hardware also seems to have performance issues when it shouldn't with th
 
 5. DXVK can sometimes cause weird visual anomalies or random crashes, if your performance is good enough without it you can keep it disabled. Please note that DXVK is the only way to use Reshade with Oblivion Reloaded Combined, so Reshade will not work with it disabled.
 
-Naturally, with a game of this scope, not even my thousdands of hours ingame can cover every plausible scenario. One of the founding principles of QA is no one person can find every bug in a piece of software. If you find problems that aren't down to installation-error or missing certain advice above, let's discuss it in Discord.
+	Naturally, with a game of this scope, not even my thousdands of hours ingame can cover every plausible scenario. One of the founding principles of QA is no one person can find every bug in a piece of software. If 		you find problems that aren't down to installation-error or missing certain advice above, let's discuss it in Discord.
 
 ## Updating the modlist
 
