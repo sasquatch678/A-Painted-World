@@ -172,7 +172,7 @@ Food and Drink Quotes adds funny voicelines to your character when you eat or dr
 If you add any mods yourself or change major game functions through the ingame mods menu or ini files you will void all official support for the modlist.
 
 ## Known Issues
-1. The game can stutter or fps can drop heavily in certain areas even on a powerful system. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Any area with a large cluster of npcs can cause this. Torches and light spells can cause fps to dip very heavily as well. This is unfortunately just an engine limitation which gets worsened by some of the mods adding more objects and detail to the landscape. There is no real solution except to avoid using lights in these areas at night.
+1. The game can stutter or fps can drop heavily in certain areas even on a powerful system. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Any area with a large cluster of npcs can cause this. Torches and light spells can cause fps to dip very heavily as well. This is unfortunately just an engine limitation which gets worsened by some of the mods adding more objects and detail to the landscape. There is no real solution except to avoid using lights in these areas.
 
 	Certain hardware also seems to have performance issues when it shouldn't with this being an older game, in particular AMD graphics cards. Experiment with setting the game to fullscreen in the Oblivion.ini in the 		profiles folder and disabling borderless in Oblivion Display Tweaks.ini in mods/A Painted World Configs/OBSE/plugins if you are experiencing this.
    
