@@ -118,6 +118,10 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 In the directory you installed the list to, open profiles/A Painted World/Oblivion.ini and ensure that iSize H and iSize W match your screen resolution. If they don't, change them so that they do and make sure to save your changes.
 
+### Antivirus Exception
+
+Modding tools and mod organizers are commonly flagged by antivirus software, including Windows Defender, as false positives. To get around this, you must set an exception for the modlist folder. For Windows Defender, follow these instructions (https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+
 ### Reshade (Optional)
 
 Due to the way Reshade interacts with DXVK/Vulkan, if you want to use the custom Reshade with the list it is required to install the Reshade binaries yourself. You can download it here. https://reshade.me/downloads/ReShade_Setup_6.2.0.exe
