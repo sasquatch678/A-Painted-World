@@ -128,29 +128,14 @@ Due to the way Reshade interacts with DXVK/Vulkan, if you want to use the custom
 When it asks, point it to the Oblivion.exe in the Stock Game folder wherever you installed the mod list. Select Vulkan when given the prompt, and uncheck all effects.
 That's it, it will automatically read the preset in the list.
 
-### Frequently Asked Questions
-
-Please consult the  [FAQ](https://github.com/sasquatch678/A-Painted-World/blob/main/FAQ.md) page here to see if your question is already answered.
-
-### Gameplay Changes
-
-A Painted World plays very differently from vanilla Oblivion, please review [Gameplay](https://github.com/sasquatch678/A-Painted-World/tree/main/Gameplay.md) for an overview of some of the new mechanics.
-
-### Stock Game & Root Builder
-
-A Painted World utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Oblivion installation within the installation location of the list. This enables greater compatibility with other mod-lists and keeps your original game folder clean of any outside files.
-
-A Painted World also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and other mods which would ordinarily require being installed to the game folder. Please see this guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
-***
-
-### Starting up the list
+## Starting up the list
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
 Make sure the dropdown box on the right is set to `Oblivion` and press the `Run` button.
 
 You will start the game in a ship cabin, here you can choose your race and create your character like normal. Once you are finished with all of the prompts give the game a good 30 seconds to finish loading all the scripts it needs to. You can loot whatever you want to bring with you in the ship, there is a table with some food and bottles of wine on a dresser. Once finished, there is a passport on a table across from the dresser. Interact with the passport once to change any of the choices you already made, and then use it to finalize your character. Finally, sleep in the bed and you will be given a prompt for a starting city. Depending on your class/skill selection you will be given some starting equipment and spells. What happens next is entirely up to you, the world is open for you to explore.
 
-### Controller Support
+## Controller Support
 
 Copy and paste the following link to a web browser. Hit enter.
 
@@ -160,7 +145,7 @@ A prompt will appear to open it with Steam, select Open Link. An image of the la
 
 If no prompt appears or it does not take you to a Steam page to import the layout, you may need to use a different internet browser. Chrome and Firefox definitely work.
 
-### Optional Mods - Ultrawide Support & Performance
+## Optional Mods - Ultrawide Support & Performance
 
 A Painted World comes with several customization options. 
 
@@ -174,6 +159,21 @@ https://wiki.special-k.info/FAQ
 Food and Drink Quotes adds funny voicelines to your character when you eat or drink food/potions/ingredients. This can be safely disabled by disabling the mod in MO2.
 
 If you add any mods yourself or change major game functions through the ingame mods menu or ini files you will void all official support for the modlist.
+
+## Frequently Asked Questions
+
+Please consult the  [FAQ](https://github.com/sasquatch678/A-Painted-World/blob/main/FAQ.md) page here to see if your question is already answered.
+
+## Gameplay Changes
+
+A Painted World plays very differently from vanilla Oblivion, please review [Gameplay](https://github.com/sasquatch678/A-Painted-World/tree/main/Gameplay.md) for an overview of some of the new mechanics.
+
+## Stock Game & Root Builder
+
+A Painted World utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Oblivion installation within the installation location of the list. This enables greater compatibility with other mod-lists and keeps your original game folder clean of any outside files.
+
+A Painted World also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and other mods which would ordinarily require being installed to the game folder. Please see this guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
+***
 
 ## Known Issues
 1. The game can stutter or fps can drop heavily in certain areas even on a powerful system. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Any area with a large cluster of npcs can cause this. Torches and light spells can cause fps to dip very heavily as well. This is unfortunately just an engine limitation which gets worsened by some of the mods adding more objects and detail to the landscape. There is no real solution except to avoid using lights in these areas.
