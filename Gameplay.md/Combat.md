@@ -26,4 +26,4 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 
 ## Resistances and Weaknesses
 
-Most enemies have some form of resistance or weakness to specific damage types ie. Undead are weak to silver weapons, spectral enemies are weak to shock damage. Fast and quickly attacking enemies can be countered by absorb speed or burden effects. This is to incentivize strategic thinking, there is almost always something else you can do to make combat encounters easier.
+Most enemies have some form of resistance or weakness to specific damage types ie. Undead are weak to silver weapons, spectral enemies are weak to shock damage. Fast and quickly attacking enemies can be countered by absorb speed or burden effects. This is to reward strategic thinking, there is almost always something else you can do to make combat encounters easier.
