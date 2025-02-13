@@ -9,9 +9,6 @@ Target spells start with a 1x sneak multiplier at novice sneak and increase up t
 ### Spell Favoriting 
 You can favorite spells by pressing F on them in the magic menu. Outside of the menu, pressing F will open the favorites menu which you can scroll through with the mouse wheel. 
 
-### Channeled Spells
-Any spell that uses these effects (Chameleon, Detect Life, Fire Shield, Frost Shield, Feather, Light, Lightning Shield, Night-Eye, Reflect Damage, Reflect Spell, Resist Disease, Resist Fire, Resist Frost, Resist Magic, Resist Normal Weapon, Resist Paralysis, Resist Poison, Resist Shock, Shield, Water Breathing, Water Walking) will have that effect remain permanently on the player, but reduce max magicka while they are active. This is meant as a quality of life improvement so that the player can avoid constantly recasting buff spells. To remove the effect, simply recast the spell or use the remove channeled spells lesser power.
-
 ### Magic Effect Combinations
 These occur when the same target is hit by 2 interacting effects. The first time that happens, you'll see a tutorial message.
 
