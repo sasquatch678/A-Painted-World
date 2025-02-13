@@ -12,16 +12,16 @@ You can favorite spells by pressing F on them in the magic menu. Outside of the 
 ### Magic Effect Combinations
 These occur when the same target is hit by 2 interacting effects. The first time that happens, you'll see a tutorial message.
 
-Convulsions:
+#### Convulsions:
 Paralyze + Shock Damage
 
-Deep Freeze:
+#### Deep Freeze:
 Burden + Frost Damage
 
-Ignition:
+#### Ignition:
 Poison + Fire Damage
 
-Meltdown:
+#### Meltdown:
 Elemental Weapons + Disintegrate Weapon
 
 ### Environmental Effects
