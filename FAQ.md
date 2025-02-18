@@ -27,7 +27,7 @@ If you are a magic character, you should select a magically inclined race and a 
 
 As a melee or ranged character, make sure you are managing your fatigue as it affects the total damage you can deal as well as how fast you can swing your weapon. At low fatigue you are prone to being knocked down.
 
-Many enemies have been unleveled to no longer scale with the player and this is an open world rpg with no true ending. You can always leave and come back stronger. 
+The world has been unleveled to no longer scale with the player and this is an open world rpg with no true ending. You can always leave and come back stronger. 
 
 If all else fails, use the ingame difficulty slider to fine tune the game to your tastes. 
 
