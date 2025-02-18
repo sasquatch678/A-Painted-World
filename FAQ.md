@@ -3,6 +3,9 @@
 #### 🇶 I am getting an application load error 5:0000065434 when trying to launch the game. 
 🅰️ Make sure steam is running when you launch the game through MO2.
 
+#### 🇶 Failed to initialize renderer. Desired render mode not found on Adapter.
+🅰️ You didn't set your resolution in the Oblivion.ini in the profiles folder, like it tells you to in the Post-installation steps of the readme.
+
 #### 🇶 I have a black screen on the main menu. 
 🅰️ Set bFullScreen to 0 in Oblivon.ini in the profiles folder of wherever you installed the list. Set the file to read-only so this doesn’t get reverted. Enable borderless windowed in mods/A Painted World Configs/oblivion__display_tweaks.ini. It's also possible that you enabled Special K and did not disable the Nvidia Overlay.
 
