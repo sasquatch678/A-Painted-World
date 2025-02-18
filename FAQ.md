@@ -3,8 +3,8 @@
 #### 🇶 I am getting an application load error 5:0000065434 when trying to launch the game. 
 🅰️ Make sure steam is running when you launch the game through MO2.
 
-#### 🇶 I have a black screen on the main menu but can still hear sounds. 
-🅰️ You have an AMD graphics card or did not disable your Nvidia Overlay. Set bFullScreen to 0 in Oblivon.ini in the profiles folder of wherever you installed the list. Set the file to read-only so this doesn’t get reverted. 
+#### 🇶 I have a black screen on the main menu. 
+🅰️ Set bFullScreen to 0 in Oblivon.ini in the profiles folder of wherever you installed the list. Set the file to read-only so this doesn’t get reverted. Enable borderless windowed in mods/A Painted World Configs/oblivion__display_tweaks.ini. It's also possible that you enabled Special K and did not disable the Nvidia Overlay.
 
 #### 🇶 I am crashing or stuttering constantly
 🅰️ Some random crashes are expected, Oblivion is an old game and crashes even without mods. I am still trying to make improvements but nothing will get fixed if you don’t report it. If it can't be replicated it is very difficult to actually solve. Ensure you have followed all pre-install steps. Sometimes Wabbajack does not fully install everything how it's supposed to, so sometimes simply overwriting the installation can fix this. I've found if you truly stress the engine, such as go interior > exterior > interior repeatedly during hectic fights, or repeatedly load a save after dying multiple times in the same cell, this can cause instability. It's also possible you may need to perform driver updates or rollbacks, or something else is wrong with your system. Check this link for other tweaks you can try. https://en.m.uesp.net/wiki/Oblivion:Tweaking
