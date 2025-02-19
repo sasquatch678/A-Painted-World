@@ -180,7 +180,7 @@ A Painted World also utilizes Root Builder alongside Stock Game to enable easier
 
 	Certain hardware also seems to have performance issues when it shouldn't with this being an older game, in particular AMD graphics cards. Experiment with setting the game to fullscreen in the Oblivion.ini in the 		profiles folder and disabling borderless in Oblivion Display Tweaks.ini in mods/A Painted World Configs/OBSE/plugins if you are experiencing this.
    
-3. Rarely, random dungeon cells can be hit with sub 15 fps. To fix this, either restart the game or exit the cell, wait 24 hours ingame and go back. This may be an issue with OBSE and the virtual file system of MO2, as each time this happens hundreds of failed script errors appear in the obse log.
+3. Rarely, random interior cells can be hit with crippling sub 15 fps. To fix this, either restart the game or exit the cell, wait 24 hours ingame and go back. This may be an issue with OBSE and the virtual file system of MO2, as each time this happens hundreds of failed script errors appear in the obse log.
 
 4. The Journeyman Alteration perk can occasionally cause spell magnitudes to multiply infinitely when reloading the game. Simply restart the game when loading rather than quickloading from within the game.
 
