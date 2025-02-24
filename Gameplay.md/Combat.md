@@ -14,7 +14,7 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 
 - Bashing: You can bash by holding block and using left click. This consumes fatigue but drains fatigue from the opponent and can stagger or knock them back.
 
-- Knockdown: If the player runs out of fatigue, they will be knocked down.
+- Knockdown: If the player runs out of fatigue, they will be knocked down. This is a vanilla mechanic, but I find it worth mentioning here.
 
 - Timed Block: If the player blocks an attack within 0.5s of holding the block key, then they will take no damage from the attack and potential stagger will be greatly reduced.
 
