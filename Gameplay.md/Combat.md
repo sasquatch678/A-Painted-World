@@ -2,6 +2,8 @@
 
 Fatigue is like your second health bar and affects your damage dealt, swing speed, and movement speed. At high fatigue you should look to go in and be aggressive while at low fatigue it’s usually preferable to hang back and play more defensively. Your regeneration rate is determined by your equipped armor and perks with that armor.
 
+Moving is overall more restricted, and wearing heavier armor causes you to move more slowly. You move more slowly when strafing or backpedaling. These penalties are reduced based on agility - At high agility, going backwards will barely slow you at all compared to at low agility. Furthermore, NPCs will now actually be slowed by their equipped encumbrance. This also means Burden is more useful - as it will slow enemies down when the magnitude isn't enough to halt them completely.
+
 In vanilla Oblivion, your weapon skill affects your damage 3x as much as your Strength, but in APW this is normalized so that weapon skill and Strength affect melee damage equally.
 
 Additionally, there are many new mechanics to take advantage of, listed below.
