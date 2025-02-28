@@ -69,17 +69,17 @@ The following steps are required to be completed before downloading A Painted Wo
 #### NVIDIA Users
 Open your NVIDIA control panel and change the following settings. Failure to do so may result in stuttering, low fps, or flickering/z fighting.
 
-Anisotropic filtering -> 16x
-Antialiasing - FXAA -> On
-Antialiasing - Mode -> Override any application setting
-Antialiasing - Setting -> 8x
-Antialiasing - Transparency -> 8x
-Low Latency Mode -> Ultra
-Texture filtering - Negative LOD bias -> Clamp
-Texture filtering - Quality -> High performance
-Texture filtering - Trilinear optimization -> On
-Triple Buffering -> On
-Vertical Sync -> On
+Anisotropic filtering -> 16x <br />
+Antialiasing - FXAA -> On<br />
+Antialiasing - Mode -> Override any application setting<br />
+Antialiasing - Setting -> 8x<br />
+Antialiasing - Transparency -> 8x<br />
+Low Latency Mode -> Ultra<br />
+Texture filtering - Negative LOD bias -> Clamp<br />
+Texture filtering - Quality -> High performance<br />
+Texture filtering - Trilinear optimization -> On<br />
+Triple Buffering -> On<br />
+Vertical Sync -> On<br />
 
 ***
 
