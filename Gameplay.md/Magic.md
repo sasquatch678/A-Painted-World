@@ -38,17 +38,7 @@ There are many new spellcrafting and enchanting altars all over Cyrodiil, it is 
 
 A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - using it allows creation of one custom spell for free.
 
-### Enchanting & Soulgems
-
-When accessing the enchanting menu, please wait until the "EM: Ready To Enchant!" message appears before selecting an item or Soul Stone! If you try to do so before the message, you won't see any of your enchanted items in there. This message usually takes 0-3 seconds to appear. After the item is enchanted, you won't be able to do anything until Enchantment Mastery finishing processing it, this usually takes 0-3 seconds as well.
-    
-- To enchant a weapon with a constant enchantment, enter the enchantment screen as normal. You will see two of every weapon, one of them will have a (C) appended to the beginning of it's name (it also won't have an icon). Select that item, and enchant it as normal.
-
-- To disenchant an item, enter the enchantment screen and proceed as normal, selecting the "Disenchant" effect from the list of enchantments. Disenchanting costs almost no gold, but does require a filled Soul Stone to be able to dislodge the energy tied to the enchanted item. When disenchanting arrows, the magnitude of the spells determines the number of arrows disenchanted It doesn't matter how many effect you add in the enchantment screen, as long as at least one of them is the disenchant effect, it will be the only one used.
-
-- You cannot enchant an item unless you are at least an apprentice in the same school that effect is from. At Journeyman you can put two effects of that school, Expert 3, Master 4.
-
-- Enchanted weapons will automatically be recharged overtime based on your mysticism skill. 
+### Enchanting & Soulgems (WIP)
 
 - Your Mysticism skill will now increase the amount of weapon charge restored by soulgems, up to +50% at a Mysticism skill of 100.
 
