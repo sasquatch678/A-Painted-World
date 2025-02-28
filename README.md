@@ -81,7 +81,7 @@ Texture filtering - Quality -> High performance<br />
 Texture filtering - Trilinear optimization -> On<br />
 Triple Buffering -> On<br />
 Vertical Sync -> On<br />
-Vulkan/OpenGL present method -> Auto
+Vulkan/OpenGL present method -> Auto <br />
 
 ***
 
