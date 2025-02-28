@@ -67,7 +67,7 @@ The following steps are required to be completed before downloading A Painted Wo
 10. Cap fps to 60 through the Nvidia Control Panel or AMD equivalent. You may also want to force Anti Aliasing here as the ingame AA is not an option.
 
 #### NVIDIA Users
-Open your NVIDIA control panel and change the following settings. Failure to do so may result in stuttering, low fps, or flickering/z fighting. If a setting is not mentioned here it should be left off or to use the global setting.
+Open your NVIDIA control panel and change the following Program Settings. Failure to do so may result in stuttering, low fps, or flickering. If a setting is not mentioned here it should be left off or to use the global setting.
 
 Image Scaling -> Off <br />
 Anisotropic filtering -> 16x <br />
