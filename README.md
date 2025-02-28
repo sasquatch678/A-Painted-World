@@ -66,6 +66,21 @@ The following steps are required to be completed before downloading A Painted Wo
 9. Disable all Steam/Nvidia/Discord overlays.
 10. Cap fps to 60 through the Nvidia Control Panel or AMD equivalent. You may also want to force Anti Aliasing here as the ingame AA is not an option.
 
+#### NVIDIA Users
+Open your NVIDIA control panel and change the following settings. Failure to do so may result in stuttering, low fps, or flickering/z fighting.
+
+Anisotropic filtering -> 16x
+Antialiasing - FXAA -> On
+Antialiasing - Mode -> Override any application setting
+Antialiasing - Setting -> 8x
+Antialiasing - Transparency -> 8x
+Low Latency Mode -> Ultra
+Texture filtering - Negative LOD bias -> Clamp
+Texture filtering - Quality -> High performance
+Texture filtering - Trilinear optimization -> On
+Triple Buffering -> On
+Vertical Sync -> On
+
 ***
 
 ### Wabbajack Installation
