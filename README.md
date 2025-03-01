@@ -82,9 +82,6 @@ Triple Buffering -> On<br />
 Vertical Sync -> On<br />
 Vulkan/OpenGL present method -> Auto <br />
 
-
-***
-
 ### Wabbajack Installation
 
 #### Installing Wabbajack
