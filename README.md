@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ef06caa8-a557-4df4-9264-12b37136f8af)![banner image](https://github.com/sasquatch678/A-Painted-World/blob/main/Oblivion%202025-02-08%2014-32-58.png)
+![banner image](https://github.com/sasquatch678/A-Painted-World/blob/main/Oblivion%202025-02-08%2014-32-58.png)
 
 Oblivion Wabbajack Modlist by Sasquatch.
 
