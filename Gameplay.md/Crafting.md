@@ -1,4 +1,4 @@
-## CRAFTING WIP
+## CRAFTING (WIP)
 
 Many different items can be crafted using various crafting tools. Large crafting tools can be purchased from merchants and placed inside and near any buildings you or your faction owns. Examples of large crafting objects are forges, anvils and tanning racks. Small crafting objects can both be purchased and found as loot. They can be used from the player character's inventory. Examples of small crafting objects are sewing kits and tinker's tools.
 
