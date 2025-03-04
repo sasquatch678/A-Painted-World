@@ -6,6 +6,10 @@ Moving is overall more restricted, and wearing heavier armor causes you to move 
 
 In vanilla Oblivion, your weapon skill affects your damage 3x as much as your Strength, but this is now normalized so that weapon skill and Strength affect melee damage equally.
 
+Hand to Hand damage now scales with the armor rating of your equipped gauntlets, and does additional elemental damage when an elemental shield effect is active.
+
+Blade, Blunt, Hand to Hand, Heavy Armor, and Light armor all have new and unique perks that will change how you play.
+
 Additionally, there are many new mechanics to take advantage of, listed below.
 
 - Sprinting: Hold shift to sprint.
