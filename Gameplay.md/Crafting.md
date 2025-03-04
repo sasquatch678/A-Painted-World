@@ -1,8 +1,18 @@
 ## CRAFTING (WIP)
 
-Many different items can be crafted using various crafting tools. Large crafting tools can be purchased from merchants and placed inside and near any buildings you or your faction owns. Examples of large crafting objects are forges, anvils and tanning racks. Small crafting objects can both be purchased and found as loot. They can be used from the player character's inventory. Examples of small crafting objects are sewing kits and tinker's tools.
+Many different and useful items can be crafted using various crafting tools. Crafting rewards experience based on the material cost of the item. Large crafting stations can be purchased from merchants or crafted themselves and placed inside and near any buildings you or your faction owns. Small crafting objects can both be purchased and found as loot. They can be used from the player character's inventory. 
 
-Wells, fountains, kegs, large barrels, forges and anvils are automatically converted into usable objects. These objects can be used for crafting.
+Wells, kegs, tanning racks, cooking pots, and anvils are automatically converted into usable objects. There are also smelters and workbenches placed in each blacksmith shop, and sewing stations in each Mages guildhall. These objects can all be used for crafting.
+
+Any rock in the world can be mined with a pickaxe. After a few swings a rock will drop on the ground. Rocks can be converted to stone at a workbench and are used in many crafting recipes.
+
+Any tree in the world can be chopped with any axe. After a few swings a log will drop onto the ground. Logs can be converted to planks at a workbench and are used in many crafting recipes.
+
+Any well can be interacted with while a pitcher is in the players inventory and the pitcher will be filled with water. Water can be boiled at a cooking pot and is used in several crafting recipes.
+
+Any cow can be milked while a pitcher is in the player's inventory and the pitcher will be filled with milk. Milk can be pasteurized at a cooking pot and is used in several crafting recipes.
+
+Any rock in a dungeon can be randomly converted into an ore vein. These ores can be turned into ingots at a smelter. Ingots are used primarily to craft armor and weapons at an anvil, but are also used in several other crafting recipes.
 
 ### Fishing
 Head to The Flowing Bowl in Anvil and talk to Maenlorn. You can buy various fishing rods and the guide book "All About Fishing" from him, as well as ask him several things about fishing. Alternatively, the standard wooden fishing rod is available in the Imperial City (Jensine, Sergius from Three Brothers), Bravil (The Fair Deal), and Leyawiin (Best Goods and Guarantees)
