@@ -6,9 +6,9 @@ There are also some smaller crafting tools like the fletching jig, toolbox, shea
 
 ### Resource Gathering
 
-Any rock in the world can be mined with a pickaxe. After a few swings a rock will drop on the ground. Rocks can be converted to stone at a workbench and are used in many crafting recipes.
+Any rock in the world can be mined with a pickaxe. After a few swings a rock will drop on the ground. Rocks can be converted to stone at a workbench which is used in many crafting recipes.
 
-Any tree in the world can be chopped with any axe. After a few swings a log will drop onto the ground. Logs can be converted to planks at a workbench and are used in many crafting recipes.
+Any tree in the world can be chopped with any axe. After a few swings a log will drop onto the ground. Logs can be converted to planks at a workbench which is used in many crafting recipes.
 
 Any well can be interacted with while a pitcher is in the players inventory and the pitcher will be filled with water. Water can be boiled at a cooking pot and is used in several crafting recipes.
 
