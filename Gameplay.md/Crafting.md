@@ -1,10 +1,10 @@
 ## CRAFTING (WIP)
 
-Many different and useful items can be crafted using various crafting tools. Crafting rewards experience based on the material cost of the item. Large crafting stations can be purchased from merchants or crafted themselves and placed inside and near any buildings you or your faction owns. Small crafting objects can both be purchased and found as loot. They can be used from the player character's inventory. 
+Many different and useful items can be crafted using various crafting tools. Crafting rewards experience based on the material cost of the item. Large crafting stations can be purchased from merchants or crafted themselves and placed inside and near any buildings you or your faction owns. Small crafting tools can both be purchased, crafted at a larger crafting station, and found as loot. They can be used from the player character's inventory. 
 
 
 
-Wells, kegs, tanning racks, cooking pots, and anvils are automatically converted into usable objects and can be found all over the world. There are also smelters and workbenches placed in each blacksmith shop, tanning racks in each Fighters guildhall, and sewing stations in each Mages guildhall. These objects can all be purchased or crafted into a placeable item ie. to put in player homes and are all used for crafting.
+Wells, kegs, tanning racks, cooking pots, and anvils are automatically converted into usable objects and can be found all over the world. There are also smelters and workbenches placed in each blacksmith shop, tanning racks in each Fighters guildhall, and sewing stations in each Mages guildhall. These stations can also all be purchased from miscellaneous vendors, or crafted into a placeable item ie. to put in player homes and are all used for crafting.
 
 Any rock in the world can be mined with a pickaxe. After a few swings a rock will drop on the ground. Rocks can be converted to stone at a workbench and are used in many crafting recipes.
 
@@ -12,7 +12,7 @@ Any tree in the world can be chopped with any axe. After a few swings a log will
 
 Any well can be interacted with while a pitcher is in the players inventory and the pitcher will be filled with water. Water can be boiled at a cooking pot and is used in several crafting recipes.
 
-Any cow can be milked while a pitcher is in the player's inventory and the pitcher will be filled with milk. Milk can be pasteurized at a cooking pot and is used in several crafting recipes.
+Any cow can be milked by pressing the interact key while a pitcher is in the player's inventory and the pitcher will be filled with milk. Milk can be pasteurized at a cooking pot and is used in several crafting recipes.
 
 Any rock in a dungeon can be randomly converted into an ore vein. These ores can be turned into ingots at a smelter. Ingots are used primarily to craft armor and weapons at an anvil, but are also used in several other crafting recipes.
 
