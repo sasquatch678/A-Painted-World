@@ -12,7 +12,7 @@ Locks can be bashed by attacking them with your weapon or fists. Your weapon or 
 ### Needs
 The list has simple and balanced bonuses for eating, drinking, and sleeping regularly. Encourages roleplaying, without burdening you with negative effects if you don't. 
 
-Eating or drinking any item considered to be food by the game contributes to your 'food pool', based on the weight and value of the item. Once your food pool reaches a threshold, you will be considered Well Fed. Whist 'Well Fed', you will gain slow Health regeneration outside of combat, which makes eating a meal before setting off on a dungeon crawl very beneficial. Your food pool depletes over time and when it reaches zero, you will no longer be Well Fed. 
+Eating or drinking any item considered to be food by the game contributes to your 'food pool', based on the weight and value of the item. Once your food pool reaches a threshold, you will be considered Well Fed. Whist 'Well Fed', you will gain slow Health regeneration outside of combat, which makes eating a meal before setting off on a dungeon crawl very beneficial. Your food pool depletes over time and when it reaches zero, you will no longer be Well Fed. Cooked foods crafted from the Cooking Pot also offer long lasting attribute buffs, in addition to filling your hunger meter.
 
 Sleeping in a bed provides a 'Well Rested' bonus that increases Fatigue by 50 points for a long period of time. Sleeping in a safe indoors location provides the bonus for 12 hours, and any other location provides it for 6 hours. You will also gain rested experience based on the amount of time slept.
 
