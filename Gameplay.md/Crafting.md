@@ -1,10 +1,8 @@
 ## CRAFTING (WIP)
 
-Many different and useful items can be crafted using various crafting tools. Crafting rewards experience based on the material cost of the item. Large crafting stations can be purchased from merchants or crafted themselves and placed inside and near any buildings you or your faction owns. Small crafting tools can both be purchased, crafted at a larger crafting station, and found as loot. They can be used from the player character's inventory. 
+Many different and useful items can be crafted using various crafting tools. Crafting rewards experience based on the material cost of the item. Wells, kegs, tanning racks, cooking pots, and anvils are automatically converted into usable objects and can be found all over the world. There are also smelters and workbenches placed in each blacksmith shop, tanning racks in each Fighters guildhall, and sewing stations in each Mages guildhall. These stations can also all be purchased from miscellaneous vendors, or crafted into a placeable item ie. to put in player homes and are all used for crafting.
 
-
-
-Wells, kegs, tanning racks, cooking pots, and anvils are automatically converted into usable objects and can be found all over the world. There are also smelters and workbenches placed in each blacksmith shop, tanning racks in each Fighters guildhall, and sewing stations in each Mages guildhall. These stations can also all be purchased from miscellaneous vendors, or crafted into a placeable item ie. to put in player homes and are all used for crafting.
+There are also some smaller crafting tools like the fletching jig, toolbox, shears, etc. Some of these are requirements to harvest a specific resource used at the larger stations ie. wool. Others are a way to craft certain smaller objects on the fly without having to visit a larger station.
 
 Any rock in the world can be mined with a pickaxe. After a few swings a rock will drop on the ground. Rocks can be converted to stone at a workbench and are used in many crafting recipes.
 
