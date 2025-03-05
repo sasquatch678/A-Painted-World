@@ -1,3 +1,5 @@
+:warning: THIS PROJECT IS NO LONGER SUPPORTED :warning:
+
 ![banner image](https://github.com/sasquatch678/A-Painted-World/blob/main/Oblivion%202025-02-08%2014-32-58.png)
 
 Oblivion Wabbajack Modlist by Sasquatch.
