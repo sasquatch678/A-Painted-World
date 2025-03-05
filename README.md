@@ -1,4 +1,4 @@
-:warning: THIS PROJECT IS NO LONGER SUPPORTED :warning:
+# :warning: THIS PROJECT IS NO LONGER SUPPORTED :warning:
 
 ![banner image](https://github.com/sasquatch678/A-Painted-World/blob/main/Oblivion%202025-02-08%2014-32-58.png)
 
@@ -7,8 +7,6 @@ Oblivion Wabbajack Modlist by Sasquatch.
 <table stlyle="border: none;">
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>	
 <td><a href="https://loadorderlibrary.com/lists/a-painted-world-2">Load Order Library</a></td>
-<td><a href="https://discord.gg/Tb5ETzBYjd"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
-<td><a href="https://ko-fi.com/sasquatch678">Ko-fi</a></td>
 </table>
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
