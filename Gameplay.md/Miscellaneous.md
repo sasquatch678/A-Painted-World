@@ -142,3 +142,15 @@ There is an underground Goblin Minigame carnival in the Garden of Dareloth at th
 |Wizard	|3 Expert
 |Master Wizard|1 Master
 |Arch-Mage| |
+
+| Rank   | Skill Requirements
+|:--------------:|:-------------:|
+|Associate| |
+|Apprentice| 3 Apprentice
+|Journeyman|  1 Journeyman
+|Swordsman	|  2 Journeyman
+|Protector	|   3 Journeyman
+|Defender|	 1 Expert
+|Warder	|	 2 Expert
+|Guardian|	 3 Expert
+|Champion|	 1 Master
