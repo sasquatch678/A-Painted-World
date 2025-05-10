@@ -129,3 +129,16 @@ Any NPC with a luck higher than 60 will give the option to play games at higher 
 #### Minigames
 There is an underground Goblin Minigame carnival in the Garden of Dareloth at the Waterfront District. There are a lot of different minigames added so I won't list them all here. Please consult the mod page for details. https://www.nexusmods.com/oblivion/mods/42462
 
+
+|Rank	|Skill Requirements
+|:--------------:|:-------------:|
+|Associate||
+|Apprentice|		3 Apprentice
+|Journeyman|	1 Journeyman
+|Evoker|2 Journeyman
+|Conjurer	|3 Journeyman
+|Magician	|1 Expert
+|Warlock	|2 Expert
+|Wizard	|3 Expert
+|Master Wizard|1 Master
+|Arch-Mage| |
