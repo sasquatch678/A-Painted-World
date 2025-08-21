@@ -64,7 +64,24 @@ You can join only ONE god faction OR one Knightly Order. You cannot join both a 
 
 ### Magical Stones
 
-#### Heaven Stones give a unique passive effect that stacks with the effects from other Heaven Stones, however have a fame requirement to activate. The effects of each stone are as follows.
+Doom Stones each have a unique greater power thematic with the birthsign they correspond to and a kiss/curse design. You may only have one doomstone power at a time. The effects of each stone are as follows.
+
+- Lady- Womb of Rebirth - Through the Lady you are given a chance at rebirth, fully restoring all your attributes. However, the process of rebirth leaves you weakened for a time, draining all of your attributes by 25 for 15s.
+- Lord - Rallying Cry - Rally yourself, fortifying endurance by 150 and becoming immune to fear for 120 seconds. However, you become 100% weaker to disease and poison for the duration, the bane of all kings.
+- Steed - Icarian Flight - Call upon the Steed to gallop across the sky, fortifying your speed by 1,000 and your acrobatics by 25,000 for 30s. Hopefully you land before the blessing wanes.
+- Warrior - Berserker Rage - Become a whirlwind of flesh and steel, fortifying your strength, blade, blunt, and hand to hand by 50 for 120 seconds. Each time you succumb to your rage you lose some of your humanity and become no better than the mindless beasts, damaging your intelligence by 10 points.
+- Apprentice - Arcane Fracture - Unleash a nova of pure arcane energy, causing enemies to be 100% weaker to magic in a 100 yard radius for 60 seconds. However, due to your reckless spellcasting you also become 100% weaker to magic for the duration.
+- Atronach - Null Field - Create a zone of no magicka, silencing, dispelling, and fully depleting magicka of all targets (including yourself) in a 100 yard radius for 60 seconds.
+- Mage - Elemental Triune - Conjure a massive storm of elemental power, dealing 10 points of fire, frost, and shock damage in a 75 yard radius for 60 seconds. The storm batters your own defenses, causing you to be 50% weaker to the elements for the duration.
+- Ritual - Profane Ritual - Drain 25 points of your own health for 120s while conjuring a full suit of bound armor, a mace, and a shield, and reanimate on touch for the duration of the drain effect.
+- Lover- Infatuation - Command any humanoid and restore their health, magicka, and fatigue by 3 for 120s. However when the command ends they will be frenzied for another 30s, attacking anything in sight including you.
+- Shadow- Aspect of Terror - Demoralize targets in a 100 yard radius causing them to run in fear for 60s. In doing so you lose your ability to sneak, creating a 600 yard area of light centered on yourself for the duration.
+- Thief - Dance with Fate - Make a deal with fate, becoming 100% resistant to magic and normal weapons for 30s, but draining your luck by 50 points for the duration.
+- Tower -  Fortified Walls - Envelop yourself with spiked and impenetrable walls, reflecting 85% of incoming damage for 30s, but paralyze yourself for 15s.
+- Serpent - Star Curse - Curse a target with 500% weakness to poison for 60s and paralyze them for 15s, but halt your natural regeneration, damaging your health, magicka, and fatigue by 1/s for 60s.
+
+
+Heaven Stones give a unique passive effect that stacks with the effects from other Heaven Stones, however have a fame requirement to activate. The effects of each stone are as follows.
 
 - Aetherius - Resist Magic 5 points
 - Dragon - Fortify Health, Magicka, Fatigue 10 points
@@ -74,7 +91,7 @@ You can join only ONE god faction OR one Knightly Order. You cannot join both a 
 - Shezarr - Fortify Block, Heavy & Light Armor, and Armorer 5 points
 - Sithian - Fortify Speech & Mercantile 15 points
 
-#### Runestones no longer give a piece of bound armor and a bound weapon, but instead each gives a powerful, unique and permanent effect related to one of the three major specializations (combat, magic, stealth).
+Rune Stones no longer give a piece of bound armor and a bound weapon, but instead each gives a powerful, unique and permanent effect related to one of the three major specializations (combat, magic, stealth).
 
 #### Reman 
 Your power attacks that strike somebody who's blocking damages their shield's health by an amount equal to 3 times your skill in the weapon you're using. If they're blocking with a weapon, rather than a shield, the damage to the equipment is quartered.
