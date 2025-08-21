@@ -10,9 +10,8 @@ An Oblivion Wabbajack Modlist by Sasquatch.
 <td><a href="https://www.nexusmods.com/oblivion/mods/55483">Nexus</a></td>
 <td><a href="https://ko-fi.com/sasquatch678">Ko-Fi</a></td>
 </table>
-</p>
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
