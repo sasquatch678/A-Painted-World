@@ -93,12 +93,9 @@ Heaven Stones give a unique passive effect that stacks with the effects from oth
 
 Rune Stones no longer give a piece of bound armor and a bound weapon, but instead each gives a powerful, unique and permanent effect related to one of the three major specializations (combat, magic, stealth).
 
-#### Reman 
-Your power attacks that strike somebody who's blocking damages their shield's health by an amount equal to 3 times your skill in the weapon you're using. If they're blocking with a weapon, rather than a shield, the damage to the equipment is quartered.
-#### Hestra
-The boon grants you a passive 35% elemental shield to either Fire, Frost, or Shock. The elemental shield changes whenever you cast a spell featuring Fire, Frost, or Shock damage, to reflect the element used (cast a fire damage spell and it changes to fire shield, for example). If the spell features multiple damage types then it chooses what element based on priority (earliest in the list governs the resistance): Fire > Frost > Shock.
-#### Sidri-Ashak
-After spending an uninterrupted span of 10 seconds in darkness, you gain 25 points of Chameleon. This effect lasts until you've spent 6 uninterrupted seconds outside of darkness.
+- Reman - Your power attacks that strike somebody who's blocking damages their shield's health by an amount equal to 3 times your skill in the weapon you're using. If they're blocking with a weapon, rather than a shield, the damage to the equipment is quartered.
+- Hestra - The boon grants you a passive 35% elemental shield to either Fire, Frost, or Shock. The elemental shield changes whenever you cast a spell featuring Fire, Frost, or Shock damage, to reflect the element used (cast a fire damage spell and it changes to fire shield, for example). If the spell features multiple damage types then it chooses what element based on priority (earliest in the list governs the resistance): Fire > Frost > Shock.
+- Sidri-Ashak - After spending an uninterrupted span of 10 seconds in darkness, you gain 25 points of Chameleon. This effect lasts until you've spent 6 uninterrupted seconds outside of darkness.
 
 ### Drugs & Alcohol
 Alcohol offers a variety of benefits, but also makes your character drunk which blurs your vision. Wine tends to buff magicka and personality while hard liquor and beers tend to buff fatigue and physical traits.
