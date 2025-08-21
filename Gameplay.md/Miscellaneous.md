@@ -62,34 +62,19 @@ Each Nine Divines faction and 2 Knightly Orders can be joined. Joining a faction
 
 You can join only ONE god faction OR one Knightly Order. You cannot join both a Knightly Order and its associated priesthood. The benefits of joining a faction are that you have reduced prices for the healing service, lodgings in the temple/HQ, access to privileged services (For some religions) and the god/Knightly Order's outfit. The friends of the god you worship are your friends. His enemies are your enemies. Ghosts in your faction's Undercroft will not attack you. Killing a member of your faction or stealing will result in being expelled. Once expelled, you cannot join again and you cannot switch to another god. There are no quests or possibility of advancements, it's just meant for roleplaying.
 
-### Doomstones
+### Magical Stones
 
-Doomstones now act as permanent constant effects, giving a small boost to an attribute or skill. The effects of each stone are as follows.
+#### Heaven Stones give a unique passive effect that stacks with the effects from other Heaven Stones, however have a fame requirement to activate. The effects of each stone are as follows.
 
 - Aetherius - Resist Magic 5 points
-- Apprentice - Fortify Illusion & Alchemy 10 points
-- Atronach - Spell Absorption 10 points
 - Dragon - Fortify Health, Magicka, Fatigue 10 points
 - Jode - Fortify Health 20 points
 - Jone - Fortify Sneak & Acrobatics 10 points
-- Lady - Fortify Willpower & Endurance 5 points
-- Lord - Resist Frost, Fortify Light Armor & Heavy Armor 10 points
-- Lover - Fortify Personality & Luck 5 points
-- Mage - Fortify Magicka 20 points
 - Magnus - Fortify every magic skill 5 points
-- Ritual - Shield 5 points & 10 points of shock shield
-- Serpent - Fortify Fatigue 40 points
-- Shadow - Chameleon 10 points
 - Shezarr - Fortify Block, Heavy & Light Armor, and Armorer 5 points
 - Sithian - Fortify Speech & Mercantile 15 points
-- Steed - Fortify Speed 5 points and Acrobatics 10 points
-- Thief - Fortify Agility & Luck 5 points
-- Tower - Resist Normal Weapons 10 points Fortify Armorer 20 points, Weakness to Shock 5 points
-- Warrior - Fortify Strength, Blade, Blunt, and Hand to Hand 5 points
 
-### Runestones
-
-Runestones no longer give a piece of bound armor and a bound weapon, but instead each gives a powerful, unique and permanent effect related to one of the three major specializations (combat, magic, stealth).
+#### Runestones no longer give a piece of bound armor and a bound weapon, but instead each gives a powerful, unique and permanent effect related to one of the three major specializations (combat, magic, stealth).
 
 #### Reman 
 Your power attacks that strike somebody who's blocking damages their shield's health by an amount equal to 3 times your skill in the weapon you're using. If they're blocking with a weapon, rather than a shield, the damage to the equipment is quartered.
