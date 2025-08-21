@@ -1,8 +1,8 @@
 # 2.0
 
 ## Added
-Remastered Attributes,
-Loot Menu,
+- Remastered Attributes
+- Loot Menu
 Take or Equip,
 Disable Detect Life During Dialog,
 Magic Visuals Overhaul - Destruction particle fix,
