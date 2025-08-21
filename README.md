@@ -1,5 +1,6 @@
-<p align="center">![banner image](https://github.com/sasquatch678/A-Painted-World/blob/main/Oblivion%202025-02-08%2014-32-58.png)</p>
+![banner image](https://github.com/sasquatch678/A-Painted-World/blob/main/Oblivion%202025-02-08%2014-32-58.png)
 
+<p align="center">
 An Oblivion Wabbajack Modlist by Sasquatch.
 
 <table stlyle="border: none;">
@@ -9,7 +10,7 @@ An Oblivion Wabbajack Modlist by Sasquatch.
 <td><a href="https://www.nexusmods.com/oblivion/mods/55483">Nexus</a></td>
 <td><a href="https://ko-fi.com/sasquatch678">Ko-Fi</a></td>
 </table>
-
+</p>
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
