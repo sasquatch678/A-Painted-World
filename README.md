@@ -3,8 +3,8 @@
 <p align="center">
 An Oblivion Wabbajack Modlist by Sasquatch.
 	
-<p align="center">
-<table stlyle="border: none;">
+
+<table style="border: none;">
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Wabbajack</a></td>	
 <td><a href="https://loadorderlibrary.com/lists/a-painted-world-2">Load Order Library</a></td>
 <td><a href="https://discord.gg/dGP9Vy7QMG">Discord</a></td>
