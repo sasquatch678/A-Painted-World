@@ -75,5 +75,4 @@
 - night brightness increased
 - removed xp from crafting with Oblivion XP
 - crates, sacks, and barrels in the starting ship will no longer have the stolen flag
-- removed xp from crafting with Oblivion XP
-- crates, sacks, and barrels in the starting ship will no longer have the stolen flag
+- Oblivion XP is now disabled by default
