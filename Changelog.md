@@ -1,6 +1,6 @@
-# 2.0
+## 2.0
 
-## Added
+**Added**
 - Remastered Attributes
 - Loot Menu
 - Take or Equip
@@ -35,7 +35,7 @@
  - AV Uncapper Settings
 - Modern Security Overhaul
 
-## Updated
+**Updated**
 - Maskar's Oblivion Overhaul
 - Better Cities
 - Kvatch Rebuilt
@@ -45,7 +45,7 @@
 - Let People Speak
 - AveSithis Engine Fixes
 
-## Removed
+**Removed**
 - Attribute Progression Redesign
 - Dark Brotherhood Continued
 - Curse of Hircine Resurrected
@@ -62,7 +62,7 @@
 - Unique Voices
 - Explosives
 
-## Bugfixes
+**Bugfixes**
 - ran Flora display fix through SNIFF which fixed several meshes that could cause crashes
 - fixed prowler wolves sometimes having two pelts
 - various clipping clutter disabled
