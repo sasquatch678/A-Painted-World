@@ -64,7 +64,7 @@ You can join only ONE god faction OR one Knightly Order. You cannot join both a 
 
 ### Magical Stones
 
-Doom Stones each have a unique greater power thematic with the birthsign they correspond to and a kiss/curse design. You may only have one doomstone power at a time. The effects of each stone are as follows.
+Doom Stones each have a unique greater power thematic with the birthsign they correspond to and a kiss/curse design, as a sort of ultimate ability you unlock through exploration. You may only have one doomstone power at a time. The effects of each stone are as follows.
 
 - Lady- Womb of Rebirth - Through the Lady you are given a chance at rebirth, fully restoring all your attributes. However, the process of rebirth leaves you weakened for a time, draining all of your attributes by 25 for 15s.
 - Lord - Rallying Cry - Rally yourself, fortifying endurance by 150 and becoming immune to fear for 120 seconds. However, you become 100% weaker to disease and poison for the duration, the bane of all kings.
