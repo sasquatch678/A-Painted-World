@@ -30,7 +30,7 @@
 
 **Bugfixes**
 - fixed skeleton key not working with new security system
-- made purchaseable cows require buckets and provide milk from OCRAFT for crafting
+- made purchaseable cows require empty buckets to milk and provide milk from OCRAFT for crafting
 - fixed some sheep from unique landscapes being unable to be sheared for wool
 - fixed invisible Akatosh cuirass and gloves (lingering bug from previous Better Cities mesh update)
 - reworked lighting in the Order of the Hour HQ in the Temple District to be less blinding
