@@ -38,6 +38,9 @@
 - fixed missing pickaxe mesh
 
 Details on Birthsign Changes
+
+Birthsigns which damage an attribute will damage the attribute permanently until it is restored through potion, spell, ingredient, or visiting a chapel shrine. This is done to create a soft cooldown without a hard once per day limit, and to create opportunities to roleplay as your character.
+
 - Apprentice - Those under the sign of the Apprentice regenerate magicka quickly, but their spells sometimes sputter out of control (5%). They can use the Apprentice's Folly lesser power to enhance their spellpower (30%), at further risk of mishaps (15%) for 30 seconds.
 - Atronach - Those under the sign of the Atronach have great wells of magicka (+150), but do not regenerate magicka on thier own. Instead, they siphon magicka with their melee attacks. They also gain the lesser power Atronach’s Thirst, which grants 50% spell absorption but damages their own magicka reserves over 30 seconds (3/s).
 - Lady - Those under the Sign of the Lady have improved willpower and restore fatigue (40 points) when they perform a well-timed block (within 0.5s). At will they may use the Lady’s Riposte, reflecting incoming weapons and spells (40% for 30s), but damaging their personality (2 points).
