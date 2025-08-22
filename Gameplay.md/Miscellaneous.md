@@ -102,9 +102,7 @@ Alcohol offers a variety of benefits. Wine tends to buff magicka and personality
 
 Your character can now become addicted to Skooma. Most effects have been removed from the actual potion and added via script. The only effects you will see on the potion bottle are positive. In theory, it seems perfectly harmless on the outside, until you find out about the addiction and other effects. As you become addicted, there should be an "Addicts Diary" added to your Inventory. This will give you key insights into what level you are at, and how long you have until you absolutely must consume before going into withdrawal. You will gain an increasing fortify speed effect while at the same time increasingly draining your willpower. Each addiction level has a requirement for skooma to be consumed, thus addiction can get quite expensive and without feeding that addiction the player goes into withdrawal. However it can be refined using a recipe at the Cooking pot. If you become addicted and do not continue to drink Skooma, you will begin to suffer withdrawals. There are 5 levels of withdrawal symptoms, with each progressively draining more of your attributes. The higher level your addiction is, the higher level of withdrawals you will suffer. The only real cure of Skooma Addiction is to go through the levels of withdrawal and cure yourself. It's a choice that has to be made...although judicious use of WAIT and SLEEP can reduce the impact if you really want to disrupt the immersion.
 
-### Gambling and Minigames
-
-#### Gambling
+### Gambling
 There are NPCs in all the main cities that will play chance games with the player. Look for them around plazas, around city landmarks or at taverns and inns. They have individual AI schedules, different levels of difficulty and available gold. Once they run out off gold they will go to work at certain times unless the player donates them money or until they gain their own gold back. There is one NPC that has unlimited gold, but is very hard to beat. You can also ask "In the mood for a game?" to any NPC at a tavern or inn, provided they like you enough and that they have at least ten septims. The gold on these NPCs is handled by the game itself via leveled lists. There are 5 potential games they can play, which is completely random. 
 
 - Guess How Many Septims:
@@ -124,6 +122,3 @@ Same as Parity, but two dice are rolled. If a double is rolled the bet is double
 
 - High Stakes:
 Any NPC with a luck higher than 60 will give the option to play games at higher stakes. As far as I know all default NPCs in Oblivion have a luck of 50. So this should only affect the new gamblers with luck higher than 60 (or any other mod added NPC who has high luck and happens to be hanging in a tavern or inn. The options are 2x, 3x, 4x and one special gambler has 10x option. These option only show up if both parties can afford the larger transactions.
-
-#### Minigames
-There is an underground Goblin Minigame carnival in the Garden of Dareloth at the Waterfront District. There are a lot of different minigames added so I won't list them all here. Please consult the mod page for details. https://www.nexusmods.com/oblivion/mods/42462
