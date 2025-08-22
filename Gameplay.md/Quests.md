@@ -118,6 +118,9 @@ Player must be at least an Associate in the Mages guild and within 200 units of 
 
 If you get stuck or are unsure how to start any of these quests, please consult the mod page or readme file inside the mod before asking for help.
 
+### The Blackwood Company
+You can join the Blackwood Company by talking first to Ja'Fazir, the Khajiit in the Blackwood Company Hall in Leyawiin, or Jeetum-Ze, the Argonian in the same place. You will also receive a journal update if you read the Black Horse Courier article about the Blackwood Company and are not already in the Fighters Guild; one of these can be found in the Leyawiin Mages Guild Hall. Membership is mutually exclusive with the Fighters Guild, so you cannot join the Fighters Guild if you are a member of the Blackwood Company, and vice versa. Features 18 main quests and up to 13 additional sidequests depending on your choices in the main quests.
+
 ### Join the Order of the Black Worm
 Have you ever been playing through the Mages Guild questline and thought, "I wonder what it would be like to join the Order of the Black Worm and become a necromancer working for the King of Worms?" 
 This mod lets you join the Necromancer faction, the Order of the Black Worm, part way through the Mages Guild questline. It has around a dozen new quests, which mostly mirror the Mages Guild quests but with you helping the necromancers instead. If you decide to stay loyal to the Mages Guild, the questline should be unaffected, as should the rest of the game. But if you do join the Order of the Black Worm, you leave the Mages Guild and all of its benefits, but the necromancers will provide you with equivalent benefits. <br /> https://www.nexusmods.com/oblivion/mods/54847
