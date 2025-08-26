@@ -12,7 +12,7 @@
 - turned off MOO level scaling, something I forgot to do when updating to v5. this means average enemy level should be lower.
 - nerfed multiplier to the attacker gauntlets' armor rating added as physical damage to hand to hand from 4x to 2x
 - nerfed duration of khajiit bleed passive from 5 to 3s and how much % max health damage it will do per stack from 1% to 0.75%. Sneak attacks now apply a full 3 stacks of bleed. Can no longer apply to blocking targets.
-- removed some starting spells from each magic school when chosen as a major skill so each will only give 2-3. there were far too many being added and it cluttered up the menu for magic classes
+- removed some starting spells from each magic school when chosen as a major skill so each will only give 2-3. there were far too many being added and it cluttered up the menu with spells you had no intention of using for magic classes
 - reduced number of starting health potions from 10 to 5
 - nerfed argonian regen while in rain/water from 3/s to 2/s
 - applied secondary elemental damage effects (drain speed, dmg health, damage magicka) to equivalent staves and scrolls. frost will now damage fatigue instead of drain speed
