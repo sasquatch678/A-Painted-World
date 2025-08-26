@@ -1,3 +1,38 @@
+## **2.0.2**
+
+**Added**
+- Qarl's Redimized - only fort textures
+- Enhanced Sounds Overhaul
+
+**Changes**
+- improved underwater visibility
+- Luck can now be leveled just as quickly as other attributes
+- reworked class specialization and skill bonuses. Magic now fortifies Intelligence, Willpower, and Personality +10, Stealth fortifies Speed, Agility, and Luck +10, and Combat fortifies Strength and Endurance +10 and adds +1 attack damage. Skill bonuses now give +5 to health/mag/fatigue instead of +10.
+- reworked enemy health and player damage scaling to reduce impact of additional flat damage added to all attacks. this mechanic is included to reduce chances of enemies becoming too health spongey, but was a bit too powerful and overshadowed your base character stats. Overall should feel very similar but slightly harder to kill high level enemies at low level.
+- turned off MOO level scaling, something I forgot to do when updating to v5. this means average enemy level should be lower.
+- nerfed multiplier to the attacker gauntlets' armor rating added as physical damage to hand to hand from 4x to 2x
+- nerfed duration of khajiit bleed passive from 5 to 3s and how much % max health damage it will do per stack from 1% to 0.75%. Sneak attacks now apply a full 3 stacks of bleed. Can no longer apply to blocking targets.
+- removed some starting spells from each magic school when chosen as a major skill so each will only give 2-3. there were far too many being added and it cluttered up the menu for magic classes
+- reduced number of starting health potions from 10 to 5
+- nerfed argonian regen while in rain/water from 3/s to 2/s
+- applied secondary elemental damage effects (drain speed, dmg health, damage magicka) to equivalent staves and scrolls. frost will now damage fatigue instead of drain speed
+- reduced sprint fatigue cost by 2/s
+- reduced jump fatigue cost to 15 (was 22)
+- reduced sneak penalty applied to the player while in combat from 50 to 35
+- enabled mechanic that slows down the player when moving backwards or sideways to make kiting more difficult. the player speeds up to normal speed over 4 seconds, reduced by agility.
+- increased maximum jump height from 140 to 164
+- increased gravity force from 80 to 120
+- bow fatigue costs now scale all the way to skill 100 instead of simply halving at skill level 25. at 100 marksman it will no longer cost fatigue to hold a drawn bow.
+
+**Bugfixes**
+- fixed a few missing snowy rock meshes
+- fixed several conflicts with the Blackwood Company questline
+- fixed Saudildorume in the Cheydinhal Newlands Lodge constantly force greeting the player after accepting his quest
+- SNIFF-ed and Ordenador-ed textures and meshes from KOTN Revelations
+- fixed class and specialization perks not being replaced if you changed your class with the passport
+- fixed Leyawiin Lazy Cat Tavern missing mesh
+- fixed issue which could cause extreme fps drops in Vilverin
+
 ## **2.0.1**
 
 **Added**
