@@ -19,7 +19,6 @@
 - reduced sprint fatigue cost by 2/s
 - reduced jump fatigue cost to 15 (was 22)
 - reduced sneak penalty applied to the player while in combat from 50 to 35
-- enabled mechanic that slows down the player when moving backwards or sideways to make kiting more difficult. the player speeds up to normal speed over 4 seconds, reduced by agility.
 - increased maximum jump height from 140 to 164
 - increased gravity force from 80 to 120
 - bow fatigue costs now scale all the way to skill 100 instead of simply halving at skill level 25. at 100 marksman it will no longer cost fatigue to hold a drawn bow.
