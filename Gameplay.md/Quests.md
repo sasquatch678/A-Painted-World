@@ -12,28 +12,20 @@ References to the player’s imprisonment and the Emperor’s death will be bloc
 
 ## Faction Quests
 
-One of the quirks of Oblivion is that it's possible to become the Arch-mage of Cyrodiil without ever casting a single spell. Or, less likely but still possible,
-to become head of the Fighters Guild with scarcely more than novice combat skills. You will now need to complete twice as many quests to finish the Mages Guild & Fighters Guild Quest lines, and meet minimum standards in certain skills.
+One of the quirks of Oblivion is that it's possible to become the Arch-mage of Cyrodiil without ever casting a single spell. Or, less likely but still possible, to become head of the Fighters Guild with scarcely more than novice combat skills. You will now need to meet minimum standards in certain skills to advance in rank and continue each questline.
 
-### Dark Brotherhood
+Each guild is also greatly expanded with many new optional handcrafted and radiant style quests. 
 
-The main problems are with the beginning and ending. It only takes a single murder to gain the attention of this notorious organization. It's even possible you complete this requirement completely by accident, as some npcs you wouldn't suspect are counted as murder as part of other quests. I've upped the requirement to 3 murders before Lucien Lachance will notice you and come calling.
+There is also an alternative faction the player may join for the Mages and Fighters Guild, either the Necromancers or the Blackwood Company, with a fully featured questline that mirrors the results of the original guilds.
 
 ### Fighters Guild
 
-In vanilla Oblivion, you need to complete 19 quests to rise to the top of the Fighters Guild. You will now need to complete a total of 40 quests. The extra quests
-are from the Fighters Guild Quests mod, and are obtained from guildmembers in various guildhalls. Since Fighters Guild Quests adds almost 60 quests, you won't need
-to complete all the available quests, but you will need to do a lot (36) of them. For the most part they can be done at any time. The quests are unleveled, so be
-careful. Some of them may be too much for a low level character. If you can't complete a quest, try another guildhall and come back later.
-
-You will also need to focus on training a few of your combat skills to high levels: Blade, Blunt, Block, Hand to Hand, Light Armor, Heavy Armor, Armorer and Marksman.
-There are Guild Marshals in Chorrol who will monitor your progress. Talk to them to get your certification for each level of a given skill. No formal exams are
-required. The Marshals will know if your skills are up to par.
+You will need to focus on training a few of your combat skills to high levels: Blade, Blunt, Block, Hand to Hand, Athletics, Heavy Armor,  and Armorer. Your skills will be certified automatically via quest update when you reach a new threshold. Consult the quest in your journal if you are uncertain what is required next.
 
 Here are the ranks for the Fighters Guild, the total # of additional quests required to achieve that rank, and the skill certifications required.
 
 | Rank   | Skill Requirements
-|:--------------:|:-------------:|:-------------:|
+|:--------------:|:-------------:|
 |Associate| |
 |Apprentice| 3 Apprentice
 |Journeyman| 3 Apprentice, 1 Journeyman
@@ -46,12 +38,7 @@ Here are the ranks for the Fighters Guild, the total # of additional quests requ
 
 ### Mages Guild
 
-In vanilla Oblivion, you need to complete 18 quests to rise to the top of the Mages Guild. You will now need to complete a total of 39 quests. The extra quests
-are from the Mages Guild Quests mod. For the most part the quests are repeatable missions, either gathering ingredients for the guild or rooting out necromancer lairs.
-Raminus Polus will steer lower ranking mages towards ingredient gathering. As the quest line advances, he will point you to the necromancer quests. However, all quests
-are available and can be done at any time. Be aware that some of the necromancer bosses may be too much for a low level character.
-
-You will also need to focus on training your magic skills to high levels. Here are the ranks for the Mages Guild and the skill certifications required.
+You will need to focus on training your magic skills to high levels. Your skills will be certified automatically via quest update when you reach a new threshold. Consult the quest in your journal if you are uncertain what is required next. Here are the ranks for the Mages Guild and the skill certifications required.
 
 |Rank	|Skill Requirements
 |:--------------:|:-------------:|
