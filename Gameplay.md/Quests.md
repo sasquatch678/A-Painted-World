@@ -32,17 +32,17 @@ required. The Marshals will know if your skills are up to par.
 
 Here are the ranks for the Fighters Guild, the total # of additional quests required to achieve that rank, and the skill certifications required.
 
-| Rank   | Quests | Skill Requirements
+| Rank   | Skill Requirements
 |:--------------:|:-------------:|:-------------:|
 |Associate| |
-|Apprentice|	1	| 3 Apprentice
-|Journeyman|	3	| 3 Apprentice, 1 Journeyman
-|Swordsman	| 6	| 3 Apprentice, 2 Journeyman
-|Protector	| 9	| 3 Apprentice, 3 Journeyman
-|Defender|	12|	3 Apprentice, 3 Journeyman, 1 Expert
-|Warder	|	15	| 3 Apprentice, 3 Journeyman, 2 Expert
-|Guardian|	18	| 3 Apprentice, 3 Journeyman, 3 Expert
-|Champion|	21	| 3 Apprentice, 3 Journeyman, 3 Expert, 1 Master
+|Apprentice| 3 Apprentice
+|Journeyman| 3 Apprentice, 1 Journeyman
+|Swordsman| 3 Apprentice, 2 Journeyman
+|Protector| 3 Apprentice, 3 Journeyman
+|Defender|	3 Apprentice, 3 Journeyman, 1 Expert
+|Warder	| 3 Apprentice, 3 Journeyman, 2 Expert
+|Guardian| 3 Apprentice, 3 Journeyman, 3 Expert
+|Champion| 3 Apprentice, 3 Journeyman, 3 Expert, 1 Master
 
 ### Mages Guild
 
@@ -51,34 +51,19 @@ are from the Mages Guild Quests mod. For the most part the quests are repeatable
 Raminus Polus will steer lower ranking mages towards ingredient gathering. As the quest line advances, he will point you to the necromancer quests. However, all quests
 are available and can be done at any time. Be aware that some of the necromancer bosses may be too much for a low level character.
 
-You will also need to focus on training your magic skills to high levels. Skills are certified by the local guildhall leaders, based on their specialization.
+You will also need to focus on training your magic skills to high levels. Here are the ranks for the Mages Guild and the skill certifications required.
 
-| Skill   | City | Leader
-|:--------------:|:-------------:|:-------------:|
-|Alchemy| 	Bruma	|	Jeanne Frasoric
-|Alteration| 	Cheydinhal|	Falcar/Deetsan
-|Conjuration |	Chorrol	|	Teekeeus
-|Destruction |	Skingrad	|Adrienne Berene
-|Illusion |	Bravil	|	Kud-Ei
-|Mysticism |	Leyawiin|	Dagail
-|Restoration |	Anvil	|	Carahil
-
-Note that a few things may change during the quest line. You will get dialog to advise you how to proceed. In most cases recommendations can be done before or after
-obtaining your apprentice skill certificate, but you will need both to advance to the Arcane University.
-
-Here are the ranks for the Mages Guild, the total # of additional quests required to achieve that rank, and the skill certifications required.
-
-|Rank	|    Quests	|Skill Requirements
-|:--------------:|:-------------:|:-------------:|
+|Rank	|Skill Requirements
+|:--------------:|:-------------:|
 |Associate||
 |Apprentice|	|	3 Apprentice
-|Journeyman|	3|	1 Journeyman
-|Evoker|		6	|2 Journeyman
-|Conjurer	|9	|3 Journeyman
-|Magician	|12|1 Expert
-|Warlock	|	15|2 Expert
-|Wizard	|	18|3 Expert
-|Master Wizard|	21|1 Master
+|Journeyman|	1 Journeyman
+|Evoker|2 Journeyman
+|Conjurer	|3 Journeyman
+|Magician	|1 Expert
+|Warlock	|2 Expert
+|Wizard	|3 Expert
+|Master Wizard|1 Master
 |Arch-Mage| |
 
 ## DLC Quests
