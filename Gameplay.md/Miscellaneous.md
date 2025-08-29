@@ -35,7 +35,7 @@ Trainers, skill books, and enchanted items with Fortify Horsemanship can be foun
 
 Saddlebags
 
-Each owned horse gives access to saddlebags. They can be accessed by pressing the inventory key, while having owned horse under the crosshair. Saddlebags capacity is limited to 500 units (configurable). Capacity is shown in container UI. Contents are shared between all owned horses. When a horse dies, all saddlebags contents are moved to it’s corpse. They can NOT be retrieved by accessing another horse’s bags at this point. An extra UI element shows saddlebags capacity while in inventory menu.
+Each owned horse gives access to saddlebags. They can be accessed by pressing the inventory key, while having owned horse under the crosshair. Saddlebags capacity is limited to 500 units. Capacity is shown in container UI. Contents are shared between all owned horses. When a horse dies, all saddlebags contents are moved to it’s corpse. They can NOT be retrieved by accessing another horse’s bags at this point. An extra UI element shows saddlebags capacity while in inventory menu.
 
 Whistle
 
