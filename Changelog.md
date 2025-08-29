@@ -42,6 +42,7 @@
 - fixed crash which could occur when leaving the arena after a match
 - fixed invisible Cuirass of the White Stallion, Dragonskin Cuirass, Gauntlets of Fury, and Gloves of Wrath
 - fixed bug which could cause pitch black foliage in certain interiors
+- fixed bug which could cause a random tumbling sound around the player
   
 ## **2.0.2**
 
