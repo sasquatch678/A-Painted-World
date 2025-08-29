@@ -1,3 +1,48 @@
+## **2.0.3**
+
+**Added**
+- Rainbow Argonians
+- Remade Vanilla Male Undergarments
+- AI Enhanced - Ruined Ruins
+
+**Updated**
+- Maskar's Oblivion Overhaul
+
+**Removed**
+- Improved Barter Calc Gold - redundant feature in MOO v5 and MOO does it better anyway
+- Drifting Mists - poor performance and too bright to look good in most situations
+- used xedit script to remove 30% of all coconut palms, they are just too numerous and also hurt performance
+- Qarl's Redimized - redundant
+- glowing cave mushrooms
+
+**Changes**
+- shader and visual improvements
+- added new default hud configuration for normal and ultrawide
+- light attacks now have a fatigue requirement to use scaled with weapon weight that gets removed at journeyman athletics. this means you can no longer light attack until you regen over the threshold unless you have this skill level.
+- enemies can turn again during light attacks, this change will make it more difficult to simply hold strafe and auto win against most enemies. power attacks are still movement restricted
+- increased torch and lantern radius 2x
+- imperial luck passive will now only trigger vs humanoids (aka other playable races)
+- disabled guar spawns
+- removed the spectral soldier in vilverin
+- spell scribing key changed to C to avoid conflict with spell favorites menu
+- reduced brightness of turn undead effect
+- replaced the fake enchanting altar at the Warlock's Luck at the Waterfront with a real one
+- removed annoying music in oblivifall cathedrals
+- Knight Commander Percy from Better Cities who roams the Waterfront and Temple District will now wear a set of Kynaran Order equipment from Oblivifall
+- Mazoga now wears a set of White Stallion Knight armor from Better Cities
+
+**Bugfixes**
+- fixed issue which could potentially cause purple square snow
+- fixed some capes which were making people bald
+- fixed gold trim on imperial palace helmet not matching the trim on the rest of the armor
+- moved a terrace in Bruma to prevent z-fighting
+- removed scamp in the vilverin puzzle room so the skeletons won't aggro it through the walls and stay locked on to it
+- fixed jerky third person camera movement when moving diagonally/uphill and other 3rd person offset improvements
+- fixed loot menu config for normal monitors so it doesn't run off the screen
+- fixed crash which could occur when leaving the arena after a match
+- fixed invisible Cuirass of the White Stallion, Dragonskin Cuirass, Gauntlets of Fury, and Gloves of Wrath
+- fixed bug which could cause pitch black foliage in certain interiors
+  
 ## **2.0.2**
 
 **Added**
