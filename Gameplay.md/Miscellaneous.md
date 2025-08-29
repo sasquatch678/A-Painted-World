@@ -19,10 +19,10 @@ Sleeping in a bed provides a 'Well Rested' bonus that increases Fatigue by 50 po
 ### Horsemanship
 A brand new skill is added which gradually increases horse acceleration, handling and jump height. It is increased by simply riding horses, as well as some other interactions and has a full set of perks:
 
-    Apprentice: Making small turns will no longer decrease galloping speed
-    Journeyman: Unlocks rearing.
-    Expert: Unlocks strafing.
-    Master: Horse can run on water, but only when galloping.
+- Apprentice: Making small turns will no longer decrease galloping speed
+   - Journeyman: Unlocks rearing.
+   - Expert: Unlocks strafing.
+   - Master: Horse can run on water, but only when galloping.
 
 Trainers, skill books, and enchanted items with Fortify Horsemanship can be found.
   - Walking - default horse walking speed had been slightly increased, but otherwise unchanged.
