@@ -1,6 +1,6 @@
 ## COMBAT
 
-Fatigue is like your second health bar and affects your damage dealt, swing speed, and movement speed. At high fatigue you should look to go in and be aggressive while at low fatigue it’s usually preferable to hang back and play more defensively. Your regeneration rate is determined by your equipped armor and perks with that armor.
+Fatigue is like your second health bar and affects your damage dealt and swing speed. At high fatigue you should look to go in and be aggressive while at low fatigue it’s usually preferable to hang back and play more defensively. Your regeneration rate is determined by your equipped armor and perks with that armor. At low fatigue you won't be able to use light or power attacks at all until you regenerate back over a certain threshold. The minimum amount required scales with the weight of your equipped weapon.
 
 Moving is overall more restricted, and wearing heavier armor causes you to move more slowly. You move more slowly when strafing or backpedaling. These penalties are reduced based on agility - At high agility, going backwards will barely slow you at all compared to at low agility. Furthermore, NPCs will now actually be slowed by their equipped encumbrance. This also means Burden is more useful - as it will slow enemies down when the magnitude isn't enough to halt them completely.
 
