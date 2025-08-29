@@ -18,7 +18,7 @@
 **Changes**
 - shader and visual improvements
 - added new default hud configuration for normal and ultrawide
-- light attacks now have a fatigue requirement to use scaled with weapon weight that gets removed at journeyman athletics. this means you can no longer light attack until you regen over the threshold unless you have this skill level.
+- light attacks now have a fatigue requirement to use, scaled with weapon weight that gets removed at journeyman athletics. this means you can no longer light attack until you regen over the threshold unless you have this skill level.
 - enemies can turn again during light attacks, this change will make it more difficult to simply hold strafe and auto win against most enemies. power attacks are still movement restricted
 - increased torch and lantern radius 2x
 - imperial luck passive will now only trigger vs humanoids (aka other playable races)
