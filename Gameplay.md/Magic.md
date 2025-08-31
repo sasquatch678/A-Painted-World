@@ -40,7 +40,7 @@ A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - usi
 
 ### Enchanting
 
-There is a completely new skill added just for Enchanting with unique perks, among other new features. Enchanting skill is gained through creating magic items, disenchanting magic items, scribing scrolls, recharging magic items with soulgems, using magic items, and using scrolls.
+There is a completely new skill added just for Enchanting with unique perks, among other new features. Enchanting experience is gained through creating magic items, disenchanting magic items, scribing scrolls, recharging magic items with soulgems, using magic items, and using scrolls.
 
 - Staff enchanting: while you could enchant staves in vanilla, the result was a staff that only fired on touch range. Now any staff you enchant yourself fires at target. There are also some unenchanted staves added to the staff loot lists. Their quality is tied to the level in which they start to appear, with wood staves appearing at level 1 and onwards and daedric staves at level 20. Since they are unenchanted, they will be useless until you enchant them.
 
