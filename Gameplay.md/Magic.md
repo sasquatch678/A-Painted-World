@@ -1,6 +1,6 @@
 ## MAGIC
 
-Your starting magicka pool is determined by your total intelligence and your class specialization and major skills. Certain races start with higher or lower intelligence and certain birthsigns further increase the pool. Interacting with Ayleid Wells will each give a permanent and stacking +5 bonus to your magicka, until you interact with 35 total at which point you will gain a permanent +200 magicka and a +1/s magicka regeneration buff.
+Magic has been greatly expanded, with over 30 new magic effects and spell types thanks to Av Latta Magicka. Your starting magicka pool is determined by your total intelligence and your class specialization and major skills. Certain races start with higher or lower intelligence and certain birthsigns further increase the pool. Interacting with Ayleid Wells will each give a permanent and stacking +5 bonus to your magicka, until you interact with 35 total at which point you will gain a permanent +200 magicka and a +1/s magicka regeneration buff.
 
 ### Magic Sneak Attacks
 Touch spells start with a 1x sneak multiplier at novice sneak and increase up to 3x at a master level of sneak. (0.5x increase per level of sneak mastery).
