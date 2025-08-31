@@ -46,7 +46,7 @@ There is a completely new skill added just for Enchanting with unique perks, amo
 
 - Magic item renaming and and disenchanting: While in the inventory menu, put any weapon, armor, clothing or self-made potion item under your cursor and hit C. Depending on the item's characteristics (whether its enchanted or not, and whether you have created it or it is from the game), you will have the option to rename it or disenchant it. Renaming is available for any weapon, armor, clothing or potion that you have enchanted or disenchanted yourself. Disenchanting is vailable for weapons, armor and clothes, whether they are created by you or not. You will have to pay the price difference between the enchanted and unenchanted item. Disenchanting is not available for quest or scripted items.
 
-- Arrow enchanting: Enchant arrows based on the number of uses from the enchantment or sigil stone, is the maximum number of arrows you will enchant, rounding down.
+- Arrow enchanting: Enchant arrows based on the number of uses from the enchantment or sigil stone, rounding down.
 
 - Instant weapon enchantment effects: if you press the right mouse button while in the enchanting menu, a message will appear informing you of the following: any enchantment effect you have added with 1 second duration will be set to 0 when the enchantment is done, making them instant effects like the ones you can find on the stock enchanted weapons.
 
