@@ -1,3 +1,36 @@
+## **2.0.4**
+
+**Added**
+- Better Underwater and Nighteye Shaders for Oblivion Reloaded
+- Improved Fighters Guild Patches
+- new snow and anvil street textures which blend much better
+
+**Updated**
+- OOO - Oscuro's Oblivion Overhaul - Updated ESPs
+- OOO - Oscuro's Oblivion Overhaul - Updated (Unofficial patch)
+
+**Removed**
+- All Natural
+- Interior View Distance
+- Disable Detect Life During Dialogue - doesn't work with Av Latta Magicka
+
+**Changes**
+- removed particle shader from detect life and detect dead to make it less obnoxious
+- maximum effectiveness of Charm spells is limited, depending on caster’s Illusion and Personality and target's Willpower
+- moving while having Invisibility effect will stop natural Magicka regeneration
+- nirnroot now has 100% harvest chance by default so Sinderion's quest isn't total ass
+
+**Bugfixes**
+- recentered UW hud preset
+- fixed level design conflicts in Sercen between The Ayleid Steps and Ayleid Ruins Overhaul
+- fixed warrior and tower powers being greater instead of lesser
+- fixed some starting choices still giving 10 instead of 5 healing potions
+- fixed clipping conflicts in bravil fighters guild basement
+- moved enemies in Rielle so player isn't gangbanged immediately upon entering
+- improved rain performance
+- fixed anvil notice board clipping with stone wall
+- remade city/draw distance settings, much lighter impact overall and potentially fixes excess string/save bloat
+
 ## **2.0.3**
 
 **Added**
