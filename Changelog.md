@@ -4,6 +4,7 @@
 - Better Underwater and Nighteye Shaders for Oblivion Reloaded
 - Improved Fighters Guild Patches
 - new snow and anvil street textures which blend much better
+- BAF - Beast Argonians Forever Early Version
 
 **Updated**
 - OOO - Oscuro's Oblivion Overhaul - Updated ESPs
