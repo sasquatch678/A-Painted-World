@@ -14,7 +14,7 @@
 - OOO Enhanced
 
 **Changes**
-- general shader/color improvements
+- general shader visual improvements
 - buffed secondary damage magicka and fatigue effects of elemental spells 4x. added extra second to fire burn duration
 - nerfed damage from elemental weapon spells by ~20%, increased base spellmaking cost 1.45 -> 2.0
 - nerfed enchantment damage by 30% ~ the difference between an enchanted and unenchanted weapon is extremely large, to the point most enchantments more than double your damage output. this change is intended to weaken the player in late game and move more power into the base weapon damage. it also makes non damaging enchantments more attractive since they were not touched. enchantments are still powerful, there is just less of a night and day difference.
