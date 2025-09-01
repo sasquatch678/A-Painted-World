@@ -14,10 +14,10 @@
 - OOO Enhanced
 
 **Changes**
-- increased moonlight brightness
 - general shader/color improvements
+- increased moonlight brightness
 - imperial legion battlemages will now wear red hoods
-- imperial legion foresters outfits consistency patched
+- imperial legion foresters outfits patched for consistency between different mods
 - replaced op items in the Thieves Guild HQ - Unhealthy Competition safehouse
 - nerfed speed bonus from the steed doomstone power so the camera doesn't bug out so much when using it
 - dungeon traps are now significantly more deadly
