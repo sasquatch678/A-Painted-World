@@ -26,7 +26,7 @@
 - resculpted the landscape around frostcrag spire so the mountain isn't so ugly when the tower is too far to display
 - kvatch sigil stone will no longer blast you with shock spells
 - removed "Punished Seducers" from leveled lists
-- recolored and added new grass to the gold coast
+- recolored existing and added one new grass type to the gold coast
 - buffed secondary damage magicka and fatigue effects of elemental spells 4x. added extra second to fire burn duration
 - nerfed damage from elemental weapon spells by ~20%, increased base spellmaking cost 1.45 -> 2.0
 - nerfed enchantment damage by 30% ~ the difference between an enchanted and unenchanted weapon is extremely large, to the point most enchantments more than double your damage output. this change is intended to weaken the player in late game and move more power into the base weapon damage. it also makes non damaging enchantments more attractive since they were not touched. enchantments are still powerful, there is just less of a night and day difference.
