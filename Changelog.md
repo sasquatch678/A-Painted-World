@@ -14,7 +14,7 @@
 - OOO Enhanced
 
 **Changes**
-- increased moonlight levels
+- increased moonlight brightness
 - general shader/color improvements
 - imperial legion battlemages will now wear red hoods
 - imperial legion foresters outfits consistency patched
