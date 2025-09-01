@@ -179,7 +179,7 @@ A Painted World also utilizes Root Builder alongside Stock Game to enable easier
 
 	Certain hardware also seems to have performance issues when it shouldn't with this being an older game, in particular AMD graphics cards. Experiment with setting the game to fullscreen in the Oblivion.ini in the 		profiles folder and disabling borderless in Oblivion Display Tweaks.ini in mods/A Painted World Configs/OBSE/plugins if you are experiencing this.
    
-3. Various issues related to reloading saves from within the game or exiting to the main menu and reloading from there. If you want the most bug free experience, always close and restart the game to load a save.
+3. Various issues related to reloading saves from within the game or exiting to the main menu and reloading from there. Certain scripts will not initialize if not loading from a fresh launch which can create a variety of issues. If you want the most bug free experience, always close and restart the game to load or start a new save.
 
 4. The Journeyman Alteration perk can occasionally cause spell magnitudes to multiply infinitely when reloading the game. Simply restart the game when loading rather than quickloading from within the game.
 
