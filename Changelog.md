@@ -15,6 +15,15 @@
 
 **Changes**
 - general shader/color improvements
+- buffed secondary damage magicka and fatigue effects of elemental spells 4x. added extra second to fire burn duration
+- nerfed damage from elemental weapon spells by ~20%, increased base spellmaking cost 1.45 -> 2.0
+- nerfed enchantment damage by 30% ~ the difference between an enchanted and unenchanted weapon is extremely large, to the point most enchantments more than double your damage output. this change is intended to weaken the player in late game and move more power into the base weapon damage. it also makes non damaging enchantments more attractive since they were not touched. enchantments are still powerful, there is just less of a night and day difference.
+- buffed base weapon damage by 10%
+- buffed arrow damage by 25%
+- marksman fatigue loss reworked. now scales 3 to 0 from novice to expert (was 5 to 0 from novice to master)
+- reduced player confidence from 100 to 65 (this affects how likely enemies are to flee on low health)
+- made block less op, base weapon block amount is now 50% (was 75%), hand to hand now 37.5% (was 75%), shields are now 50% more effective at blocking than no shield (was 25%), and timed block window reduced to 0.3s (was 0.5s)
+- reduced power attack fatigue mult from -50 to -35
 - increased moonlight brightness
 - imperial legion battlemages will now wear red hoods
 - imperial legion foresters outfits patched for consistency between different mods
@@ -27,15 +36,6 @@
 - kvatch sigil stone will no longer blast you with shock spells
 - removed "Punished Seducers" from leveled lists
 - recolored existing and added one new grass type to the gold coast
-- buffed secondary damage magicka and fatigue effects of elemental spells 4x. added extra second to fire burn duration
-- nerfed damage from elemental weapon spells by ~20%, increased base spellmaking cost 1.45 -> 2.0
-- nerfed enchantment damage by 30% ~ the difference between an enchanted and unenchanted weapon is extremely large, to the point most enchantments more than double your damage output. this change is intended to weaken the player in late game and move more power into the base weapon damage. it also makes non damaging enchantments more attractive since they were not touched. enchantments are still powerful, there is just less of a night and day difference.
-- buffed base weapon damage by 10%
-- buffed arrow damage by 25%
-- marksman fatigue loss reworked. now scales 3 to 0 from novice to expert (was 5 to 0 from novice to master)
-- reduced player confidence from 100 to 65 (this affects how likely enemies are to flee on low health)
-- made block less op, base weapon block amount is now 50% (was 75%), hand to hand now 37.5% (was 75%), shields are now 50% more effective at blocking than no shield (was 25%), and timed block window reduced to 0.3s (was 0.5s)
-- reduced power attack fatigue mult from -50 to -35
 
 **Bugfixes**
 - gave Meersmark (the dunmer vendor at the tent in the Waterfront) a new shirt so his skin seams won't be so apparent
