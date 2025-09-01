@@ -20,7 +20,7 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 
 - Knockdown: If the player runs out of fatigue, they will be knocked down. This is a vanilla mechanic, but I find it worth mentioning here.
 
-- Timed Block: If the player blocks an attack within 0.5s of holding the block key, then they will take no damage from the attack and potential stagger will be greatly reduced.
+- Timed Block: If the player blocks an attack within 0.3s of holding the block key, then they will take no damage from the attack and potential stagger will be greatly reduced.
 
 - Swing speed is determined by either Speed or Agility as a percentage from whichever is higher. This also applies to enemies, which opens up drain or absorb speed/agility as a way to counter very fast enemies.
 
