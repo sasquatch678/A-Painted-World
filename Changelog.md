@@ -50,7 +50,7 @@
 - fixed kotn priory mesh having purple windows
 - fixed lighting in Reaper's Sprawl in the kvatch oblivion gate
 - fixed bug which could cause Menien to be unable to leave his cage if the player chooses to rescue him
-- fixed issues with the camp outside kvatch after closing the oblivion gate and starting the quest for kvatch rebuilt
+- fixed issues with the camp outside kvatch not moving into the city after closing the oblivion gate and starting kvatch rebuilt
 - changed silver and gold nugget models to avoid ambient occlusion issues with ORC
 - fixed invisible gold bars in the IC bank
 - fixed landscape hole at Anvil cliffs
