@@ -1,3 +1,33 @@
+## **2.0.6**
+
+**Added**
+- Magic Magnitude Multipliers
+- Customizable Magic Progression
+- Night Sky Fire and Ice
+- Oblivion Stutter Remover - replaced the heap mode from ORC
+
+**Removed**
+- Decorator Assistant - redundant and can cause crashes with Enhanced Grabbing
+- Let People Speak - causes crashes
+- Channeling Staves - redundant
+- Glowing Plants & Mushrooms
+- Best Combined Night Sky
+
+**Changes**
+- Intelligence will now also scale spellcasting magnitude by a percentage. You can view the amount in the misc stats screen.
+- Willpower will now also scale magic resistance (or weakness if below 25) by a percentage. You can view the amount in the misc stats screen.
+- Spell magnitude is now increased by 10% when wielding any staff, and decreased by 10% when wielding a weapon or shield. There is no penalty or bonus when empty handed.
+- Hoarfrost Castle quest now will only start in Chorrol or Bruma, or if the player visits the castle
+- Highwood quest now will only start in Anvil or if the player visits the farm
+- nerfed essential death time from 60 to 15 seconds so you don't have to wait around if an essential quest npc goes down
+- readded old snow texture, edited snowy rock textures to blend better
+- renamed "tunic of the dead" and "hood of the dead" to "necromancer robe" and "necromancer hood"
+
+**Bugfixes**
+- silver veins no longer can drop platinum and gold veins can no longer drop copper
+- fixed bug preventing you from closing the inventory menu
+- removed follow dialogue from random nameless mages guild npcs
+
 ## **2.0.5**
 
 **Added**
