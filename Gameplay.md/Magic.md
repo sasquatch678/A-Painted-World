@@ -2,7 +2,7 @@
 
 Magic has been greatly expanded, with over 30 new magic effects and spell types thanks to Av Latta Magicka. Your starting magicka pool is determined by your total intelligence and your class specialization and major skills. Certain races start with higher or lower intelligence and certain birthsigns further increase the pool. Interacting with Ayleid Wells will each give a permanent and stacking +5 bonus to your magicka, until you interact with 35 total at which point you will gain a permanent +200 magicka and a +1/s magicka regeneration buff.
 
-In additon to increasing your total magicka pool, Intelligence now also scales the magnitude of your spells by a percentage. Willpower increases (or decreases, if below 25) resistance to magic by a percentage. There is also a 10% multiplier added to your spells when wielding a staff, and subtracted when wielding a weapon or shield. These effects apply to npcs as well as the player.
+In additon to increasing your total magicka pool, Intelligence now also scales the magnitude of your spells by a percentage. Willpower increases (or decreases, if below 25) resistance to magic by a percentage. There is also a 10% multiplier added to your spells when wielding a staff, and subtracted when wielding a weapon or shield. There is no penalty or bonus when empty handed. These effects apply to npcs as well as the player.
 
 ### Magic Sneak Attacks
 Touch spells start with a 1x sneak multiplier at novice sneak and increase up to 3x at a master level of sneak. (0.5x increase per level of sneak mastery).
