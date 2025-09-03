@@ -123,9 +123,7 @@ Modding tools and mod organizers are commonly flagged by antivirus software, inc
 
 ### Reshade (Optional)
 
-Due to the way Reshade interacts with DXVK/Vulkan, if you want to use the custom Reshade with the list it is required to install the Reshade binaries yourself. You can download it here. https://reshade.me/downloads/ReShade_Setup_6.4.0_Addon.exe
-When it asks, point it to the Oblivion.exe in the Stock Game folder wherever you installed the mod list. Select Vulkan when given the prompt, and uncheck all effects.
-That's it, it will automatically read the preset in the list.
+Due to the way Reshade interacts with DXVK/Vulkan, if you want to use the custom Reshade with the list it is required to install the Reshade binaries yourself. You can download it [here](https://reshade.me/). When it asks, point it to the Oblivion.exe in the Stock Game folder wherever you installed the mod list. Select Vulkan when given the prompt, and uncheck all effects as they are already included in MO2. That's it, it will automatically read the preset in the list.
 
 ## Starting up the list
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
