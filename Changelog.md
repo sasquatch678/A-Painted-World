@@ -21,7 +21,7 @@
 - Highwood quest now will only start in Anvil or if the player visits the farm
 - nerfed essential death time from 60 to 15 seconds so you don't have to wait around if an essential quest npc goes down
 - readded old snow texture, edited snowy rock textures to blend better
-- renamed "tunic of the dead" and "hood of the dead" to "necromancer robe" and "necromancer hood"
+- renamed "tunic of the dead" and "hood of the dead" to "necromancer robe" and "necromancer hood" since that is their base form and so it is more clear that's what you're meant to turn in at the necromancer robes box in the mages guild
 
 **Bugfixes**
 - silver veins no longer can drop platinum and gold veins can no longer drop copper
