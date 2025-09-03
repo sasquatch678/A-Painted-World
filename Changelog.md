@@ -9,6 +9,7 @@
 **Removed**
 - Decorator Assistant - redundant and can cause crashes with Enhanced Grabbing
 - Let People Speak - causes crashes
+- Ragdolls for Oblivion - pretty sure this can cause crashes
 - Channeling Staves - redundant
 - Glowing Plants & Mushrooms
 - Best Combined Night Sky
