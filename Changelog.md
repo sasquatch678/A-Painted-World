@@ -25,6 +25,7 @@
 - readded old snow texture, edited snowy rock textures to blend better
 - renamed "tunic of the dead" and "hood of the dead" to "necromancer robe" and "necromancer hood" since that is their base form and so it is more clear that's what you're meant to turn in at the necromancer robes box in the mages guild
 - can no longer close menus with space to allow using a space in naming custom enchanted items. now can use esc in addition to right click
+- buffed the infinitum compendium mages guild beast research boss to a minimum level of 15 instead of 1
 
 **Bugfixes**
 - silver veins no longer can drop platinum and gold veins can no longer drop copper
