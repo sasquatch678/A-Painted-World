@@ -31,6 +31,7 @@
 - silver veins no longer can drop platinum and gold veins can no longer drop copper
 - fixed bug preventing you from closing the inventory menu
 - removed follow dialogue from random nameless mages guild npcs
+- fixed remaining lighting/fog issues in cells that I missed after removing All Natural in 2.0.4 (mostly Oblivion Gate interiors)
 
 ## **2.0.5**
 
