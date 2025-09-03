@@ -17,8 +17,8 @@
 - Intelligence will now also scale spellcasting magnitude by a percentage. Attribute description adjusted accordingly. You can view the amount in the misc stats screen.
 - Willpower will now also scale magic resistance (or weakness if below 25) by a percentage. Attribute description adjusted accordingly. You can view the amount in the misc stats screen.
 - Spell magnitude is now increased by 10% when wielding any staff, and decreased by 10% when wielding a weapon or shield. There is no penalty or bonus when empty handed.
-- Hoarfrost Castle quest now will only start in Chorrol or Bruma, or if the player visits the castle
-- Highwood quest now will only start in Anvil or if the player visits the farm
+- Hoarfrost Castle quest will now only start if the player is in Chorrol or Bruma, or if the player visits the castle
+- Highwood quest will now only start if the player is in Anvil or if the player visits the farm
 - nerfed essential death time from 60 to 15 seconds so you don't have to wait around if an essential quest npc goes down
 - readded old snow texture, edited snowy rock textures to blend better
 - renamed "tunic of the dead" and "hood of the dead" to "necromancer robe" and "necromancer hood" since that is their base form and so it is more clear that's what you're meant to turn in at the necromancer robes box in the mages guild
