@@ -4,7 +4,7 @@
 - Magic Magnitude Multipliers
 - Customizable Magic Progression
 - Night Sky Fire and Ice
-- Oblivion Stutter Remover - replaced the heap mode from ORC
+- Oblivion Stutter Remover - replaced the heap mode from ORC as in testing it appears to be more stable
 
 **Removed**
 - Decorator Assistant - redundant and can cause crashes with Enhanced Grabbing
