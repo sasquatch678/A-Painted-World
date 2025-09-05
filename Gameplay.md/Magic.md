@@ -4,6 +4,8 @@ Magic has been greatly expanded, with over 30 new magic effects and spell types 
 
 In additon to increasing your total magicka pool, Intelligence now also scales the magnitude of your spells by a percentage. Willpower increases (or decreases, if below 25) resistance to magic by a percentage. There is also a 10% multiplier added to your spells when wielding a staff, and subtracted when wielding a weapon or shield. There is no penalty or bonus when empty handed. These effects apply to npcs as well as the player.
 
+Leveling magic skills now scales with magicka cost of the spell, so it is no longer the most efficient thing to do to craft a low cost spell and spam it a million times to level up.
+
 ### Magic Sneak Attacks
 Touch spells start with a 1x sneak multiplier at novice sneak and increase up to 3x at a master level of sneak. (0.5x increase per level of sneak mastery).
 Target spells start with a 1x sneak multiplier at novice sneak and increase up to 2x at a master level of sneak. (0.25x increase per level of sneak mastery).
