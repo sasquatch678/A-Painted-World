@@ -1,4 +1,4 @@
-![banner image](https://github.com/sasquatch678/A-Painted-World/blob/main/Oblivion%202025-02-08%2014-32-58.png)
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World/refs/heads/main/images/APW%20Background.md)
 
 <p align="center">
 An Oblivion Wabbajack Modlist by Sasquatch.
