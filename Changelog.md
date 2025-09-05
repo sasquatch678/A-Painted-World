@@ -1,3 +1,28 @@
+## **2.0.7**
+
+**Added**
+- Redguardians
+- Replacers for Redguardians and Better Looking Redguards
+- Retexture Diverse Female Faces for OCOv2 - And some cleaning to the others
+
+**Removed**
+- Waterfalls replacer
+- Remade Vanilla Male Undergarments
+- OCO Face Updater
+- Oblivion Stutter Removed, re-enabled ORC heap mode - needs more testing
+
+**Changes**
+- actors may no longer flee from combat on low hp as this is potentially causing crashes
+- actors may no longer follow the player through doors as this is potentially causing crashes
+
+**Bugfixes**
+- made Contingency (Mage's Brilliance) trigger more reliably and also fixed an issue that allowed the stored spell effect to stack per enemy that entered combat with the player
+- fixed argonians not using the tail and claws from enhanced beast races
+- cleaned up some clipping at the temple of the ancestor moths
+- cleaned a dozen various plugins to convert deleted records into disabled
+- potentially fixed Av Latta Magicka crash when trying to remove a stuck scripted effect on a deleted activator
+- fixed magical stones missing lods
+
 ## **2.0.6**
 
 **Added**
