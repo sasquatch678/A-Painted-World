@@ -20,7 +20,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/sasquatch678/A-Painted-World/refs/heads/main/images/APW%20Background.md",
+      "image": "https://raw.githubusercontent.com/sasquatch678/A-Painted-World/refs/heads/main/images/Oblivion%202025-09-04%2018-41-26%20-%20Copy.webp",
       "readme": "https://github.com/sasquatch678/A-Painted-World/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/A Painted World.wabbajack_c844de68-7e78-4b38-8b32-da7a17482229",
       "machineURL": "APaintedWorld",
@@ -41,4 +41,5 @@
     "dateUpdated": "2025-09-05T19:33:07.3661345Z",
     "repositoryName": ""
   }
+
 ]
