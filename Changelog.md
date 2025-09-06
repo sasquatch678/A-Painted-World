@@ -3,7 +3,7 @@
 **Added**
 - Redguardians
 - Replacers for Redguardians and Better Looking Redguards
-- Retexture Diverse Female Faces for OCOv2 - And some cleaning to the others
+- Retexture Diverse Female Faces for OCOv2
 
 **Removed**
 - Waterfalls replacer
