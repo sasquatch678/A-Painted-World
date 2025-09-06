@@ -44,7 +44,7 @@ If all else fails, use the ingame difficulty slider to fine tune the game to you
 🅰️ No, the list will no longer work and you will need to reinstall it through Wabbajack. 
 
 #### 🇶 How do I start the main quest?
-🅰️ Get arrested in the Imperial City
+🅰️ Get arrested in the Imperial City and go to jail, or die while resisting arrest.
 
 #### 🇶 How do you feed as a vampire?
 🅰️ Hold shift while activating sleeping NPCs to use vampire ability, otherwise talk/pickpocket.
