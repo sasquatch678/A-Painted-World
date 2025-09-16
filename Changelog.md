@@ -1,3 +1,35 @@
+## **2.0.8**
+
+**Added**
+- Enhanced Vegetation - Darker trunks
+- Race Balancing Project - just textures and meshes
+- Welkynd and Varla Stones Glow
+- Nirnroot Glows
+- Doomstones Glow
+- Ayleid Wells Glow
+
+**Removed**
+- Custom Enhanced Camera - redundant with ORC 3.0, buggy
+- Additional OR Effects - incompatible with ORC 3.0
+- Better Underwater and Night eye shader for OR - incompatible with ORC 3.0
+- WalkBlessed - incompatible with ORC 3.0
+- OOO Extended - buggy and outdated, most features have been replaced by OOO Enhanced
+- Glowing Wonders
+
+**Updated**
+- Crash Logger Improved
+- Oblivion Reloaded Combined
+
+**Changes**
+- added basic fishing rod and fishing guide to common clutter leveled lists
+- the ability of ayleid wells to restore health and magicka will now reset once per day even if the player has already collected the one time magicka buff, primarily for atronach players
+- cloaks now give frost resistance instead of frost shield
+
+**Bugfixes**
+- restored OOO wildlife decisions script
+- fixed crash which could occur east of anvil approaching the wayshrine of akatosh caused by corrupt pathgrid
+
+
 ## **2.0.7**
 
 **Added**
