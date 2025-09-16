@@ -24,6 +24,7 @@
 - added basic fishing rod and fishing guide to common clutter leveled lists
 - the ability of ayleid wells to restore health and magicka will now reset once per day even if the player has already collected the one time magicka buff, primarily for atronach players
 - cloaks now give frost resistance instead of frost shield
+- improved Oblivion realm visuals
 
 **Bugfixes**
 - restored OOO wildlife decisions script
