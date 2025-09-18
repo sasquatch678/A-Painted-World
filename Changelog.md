@@ -9,7 +9,7 @@
 
 **Changes**
 - improved shader visuals
-- improved some weapon enchantment visuals
+- improved some weapon enchantment visuals to be less bulky
 - recolored goblin skin to be more green and less yellow
 - recolored orcs to be more green and less grey/brown
 - recolored argonians to be more red and less orange/yellow
