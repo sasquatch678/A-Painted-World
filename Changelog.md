@@ -1,3 +1,27 @@
+## **2.0.9**
+
+**Added**
+- WalkBlessed
+- katkat TW3 Bears
+
+**Removed**
+- Fractional Magic Damage - crashes
+
+**Changes**
+- improved shader visuals
+- improved some weapon enchantment visuals
+- recolored goblin skin to be more green and less yellow
+- recolored orcs to be more green and less grey/brown
+- recolored argonians to be more red and less orange/yellow
+- recolored storm atronachs to be blue instead of orange
+- desaturated textures from rainbow argonians
+- adjusted lighting in the starting cell so you can better see character eyes
+
+**Bugfixes**
+- tweaked sneak settings so player won't aggro an entire cell as easily
+- set CSHook = 0 in ORC - maybe more stable?
+- edited some dialogue conditions referring to kvatch and the emperor's assassination so they can only occur when the player starts the mq
+
 ## **2.0.8**
 
 **Added**
