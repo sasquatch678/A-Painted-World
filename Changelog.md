@@ -19,6 +19,7 @@
 
 **Bugfixes**
 - tweaked sneak settings so player won't aggro an entire cell as easily
+- disabled first person body in ORC
 - set CSHook = 0 in ORC - maybe more stable?
 - edited some dialogue conditions referring to kvatch and the emperor's assassination so they can only occur when the player starts the mq
 
