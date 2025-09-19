@@ -3,9 +3,10 @@
 **Added**
 - WalkBlessed
 - katkat TW3 Bears
+- Ayleid Ruins Fixed - Mesh Replacer and Modder Resource - when did I even remove this?
 
 **Removed**
-- Fractional Magic Damage - crashes
+- No Inventory On Alt-Tab
 
 **Changes**
 - improved shader visuals
@@ -22,6 +23,7 @@
 - disabled first person body in ORC
 - set CSHook = 0 in ORC - maybe more stable?
 - edited some dialogue conditions referring to kvatch and the emperor's assassination so they can only occur when the player starts the mq
+- fixed crash that could occur when a disease was applied by an actor with 0 magicka (bears, wolves, etc.)
 
 ## **2.0.8**
 
