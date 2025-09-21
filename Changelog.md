@@ -1,3 +1,29 @@
+## **2.0.10**
+
+**Added**
+- High Fantasy Cyrodiil Caves
+- Join the Order of the Black Worm Voices (ElevenLabs)
+- Water 17
+- Emmett LaFave Oblivion Inspired Music
+
+**Updated**
+- Glowing Nirnroot
+
+**Removed**
+- 2020 Retexture Project - Caves
+- Retextured Caves and Mines Doors
+
+**Changes**
+- enabled dynamic window reflections
+- disabled ORC water & underwater shader (so many bugs)
+- reworked the quest "Witchcraft" in the Fighters Guild. The witch can no longer banish you to the labyrinth, and is a straightforward kill and collect quest with a reasonable amount of hp. Also gave her a new more witchy outfit instead of generic robes.
+- Glenmoril witches will now wear the "Shaman Robe" from OOO Enhanced instead of generic lower class clothing
+
+**Bugfixes**
+- fixed Anvil towers lod mesh using towers from Cheydinhal
+- removed animated sparkle from gems and nuggets to avoid ambient occlusion issues with OR
+- removed duplicate weapons from some skeleton enemies
+
 ## **2.0.9**
 
 **Added**
