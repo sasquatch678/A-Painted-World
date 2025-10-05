@@ -1,3 +1,19 @@
+## **2.0.11**
+
+**Updated**
+- ORC to 3.1
+- Join the Order of the Black Worm
+
+**Removed**
+- Emmett LaFave Oblivion Inspired Music
+
+**Changes**
+- disabled Skaal Werewolf hunters from spawning as scripts associated with this faction could cause the game to crash
+
+**Bugfixes**
+- fixed weird yellow reflections in Blackwood
+- fixed lighting in temple of the one
+
 ## **2.0.10**
 
 **Added**
