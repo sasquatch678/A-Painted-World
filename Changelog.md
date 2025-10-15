@@ -1,3 +1,11 @@
+## **2.0.12**
+
+**Updated**
+- ORC to 3.1.1
+
+**Bugfixes**
+- fixed bug which could cause Highwayman to spawn with infinite health if the player was below level 5
+
 ## **2.0.11**
 
 **Updated**
