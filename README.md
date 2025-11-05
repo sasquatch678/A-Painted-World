@@ -1,4 +1,4 @@
-![banner image]https://raw.githubusercontent.com/sasquatch678/A-Painted-World/refs/heads/main/images/Oblivion%202025-09-04%2018-41-26%20-%20Copy.webp
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World/refs/heads/main/images/Oblivion%202025-09-04%2018-41-26%20-%20Copy.webp)
 
 <p align="center">
 An Oblivion Wabbajack Modlist by Sasquatch.
