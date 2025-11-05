@@ -1,3 +1,16 @@
+## **2.0.13**
+
+**Updated**
+- Maskar's Oblivion Overhaul
+- OOO Enhanced
+
+**Changes**
+- replaced ORC's heap settings with MoreHeap as it appears to be more stable
+- replaced the "nix-hounds" in Caldera with durzogs from MOO - no more green skinned wolves
+
+**Bugfixes**
+- fixed arena having a black skybox
+
 ## **2.0.12**
 
 **Updated**
