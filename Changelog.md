@@ -1,3 +1,17 @@
+## **2.0.14**
+
+**Changes**
+- reworked many lore dialogue options, making the conditions more strict so that when they appear they are always relevant to that specific npc, and rewording the topics to not get in the way of actual important ones
+- the fighters guild members that appear during the Blackwood Company questline will now wear the fighters guild uniform and not random leveled armor
+- various shader/visual improvements
+- made culling settings stricter inside cities to improve performance
+- slightly improved performance in some interiors by adjusting shadow point light settings
+
+**Bugfixes**
+- fixed yellow/green flame effects
+- fixed missing meshes in sleepy creek village
+- fixed numerous issues with missing dialogue, stuck quest progress, crashes, and conflicts with other mods during the Blackwood Company questline
+
 ## **2.0.13**
 
 **Updated**
