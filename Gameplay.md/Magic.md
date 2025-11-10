@@ -68,7 +68,6 @@ A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - usi
 
 - Spell Absorption now behaves differently – instead of being chance-based, it always works and absorbs the percentage of incoming spell’s Magicka, but doesn’t protect from the spell itself
 
-- Rindir's Staffs in the Market District will now sell a variety of Channeling Staves, these staves have no spell attached but passively boost the power of all spells cast with the staff by a certain percentage. This is intended so that mages don't feel forced to always have a backup melee weapon.
 
 ### Necromancy and Lichdom
 
