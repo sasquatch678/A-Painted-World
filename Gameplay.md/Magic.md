@@ -63,11 +63,25 @@ A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - usi
 
 - Different spells with the same beneficial effect will no longer stack with each other, instead the total effect power will be no more than the strongest of the spells. Feather is the only exception to this.
 
+- Telekinesis spells have been overhauled into really useful utility spells. They can loot chests, open doors, loot dead bodies and pick up items. Additionally if you use without a target you can move yourself forward in the direction you are looking. Longer range spells move faster and further. If you cast on an npc or creature you will quickly move yourself behind their back which is great for pickpocketing or sneak attacks.
+
+- Detect life is a very useful tool in detecting enemies and provides a bit more information on the dangers around you.
+
+    -Orange an enemy character that is stronger than you
+    -Purple an enemy character that is similar in strength to you
+    -Blue an enemy character that is weaker than you
+    -Green the character appears to be friendly
+    -The undead are not actually alive so the effect will be weaker and harder to see on them.
+
+  During the effect if you place your crosshair over any friendly character it will indicate how strong they are.
+
 - Fire, Frost, Shock, and Poison Shield effects no longer provide physical armor bonus, instead they will damage attackers in melee range when struck, as well as provide elemental resistance. They will also add 25% of their effect as unarmed damage.
 
 - Potions will now restore over time. The total number of potions you can consume at once is determined by the following formula - (Endurance + Alchemy)/25
 
 - It is now possible to summon more than one minion at a time, once obtaining Master level Conjuration.
+
+- Elemental spells now have extra effects, inspired by Skyrim. Fire spells can cause a very small additional burning damage. Frost spells cause a small additional fatigue drain. Shock spells cause a small additional magicka drain.
 
 - At Destruction skill of 50 and 75, elemental magic effects will unlock impact effects. Chance to inflict them scales with Destruction skill and target’s resistance to particular element. At Journeyman level all effects have a chance to cause recoil; at Expert level Fire spells can knock back, Frost sometimes freezes the target in place, and Shock may inflict a short paralysis.
 
