@@ -44,17 +44,11 @@ A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - usi
 
 ### Enchanting
 
-There is a completely new skill added just for Enchanting with unique perks, among other new features. Enchanting experience is gained through creating magic items, disenchanting magic items, scribing scrolls, recharging magic items with soulgems, using magic items, and using scrolls.
+- Staff enchanting: while you could enchant staves in vanilla, the result was a staff that only fired on touch range. Now any staff you enchant yourself fires at target. Rindirs Staffs now sell unenchanted staffs so you can enchant staffs with your own effects when a member of the mages guild. Enchanted staffs may say touch or onstrike in the enchanting menu in some circumstances, but will be corrected once it has been enchanted.
 
-- Staff enchanting: while you could enchant staves in vanilla, the result was a staff that only fired on touch range. Now any staff you enchant yourself fires at target. There are also some unenchanted staves added to the staff loot lists. Their quality is tied to the level in which they start to appear, with wood staves appearing at level 1 and onwards and daedric staves at level 20. Since they are unenchanted, they will be useless until you enchant them.
+- Recharging enchantments - all weapons will now regain charge equal to your mysticism skill every ingame hour.
 
-- Magic item renaming and and disenchanting: While in the inventory menu, put any weapon, armor, clothing or self-made potion item under your cursor and hit C. Depending on the item's characteristics (whether its enchanted or not, and whether you have created it or it is from the game), you will have the option to rename it or disenchant it. Renaming is available for any weapon, armor, clothing or potion that you have enchanted or disenchanted yourself. Disenchanting is vailable for weapons, armor and clothes, whether they are created by you or not. You will have to pay the price difference between the enchanted and unenchanted item. Disenchanting is not available for quest or scripted items.
-
-- Arrow enchanting: Enchant arrows based on the number of uses from the enchantment or sigil stone, rounding down.
-
-- Instant weapon enchantment effects: if you press the right mouse button while in the enchanting menu, a message will appear informing you of the following: any enchantment effect you have added with 1 second duration will be set to 0 when the enchantment is done, making them instant effects like the ones you can find on the stock enchanted weapons.
-
-- Scroll scribing: In your spells menu, while you have a spell under your cursor, hit the RenameKey (again default C), and if the restrictions allow you, and you have at least one piece of regular blank parchment, the scribing begins. A text prompt will appear with the name of the spell and the name of the scroll which will result, and which you can edit. After hitting 'Scribe', another prompt appears informing you of the number of parchment pieces, and optionally inkwell uses, you have left. You can then enter the number of scrolls you want to scribe, allowing you to scribe them in batches. Hit scribe again and voila, that number of parchment pieces is removed and you get that number of scrolls with your spell in them. You can only scribe regular spells (no powers, etc).
+- Soul Trap: Soul trap is a bit tedious to use. So to help reduce the tedium every time you cast soul trap on an enemy it will recharge the current weapon by 1%. When the enemy dies under the effect whether you have a soul gem or not it will recharge your current weapon by 5%. Soul trap when first cast on an enemy will feedback the level of the soul under your crosshair.
 
 ### Various Changes to Magic Mechanics
 
