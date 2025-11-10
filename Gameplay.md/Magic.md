@@ -80,6 +80,9 @@ A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - usi
 
 - Night eye can be toggled with the "O" key and now also makes it easier to find items compared to previously and will illuminate traps, non-harvested flora, alchemy ingredients, magical items and non-empty containers/corpses. Items with magical properties can be detected through walls, while non magical items or empty soul gems will only be highlighted so they are easier to spot.
 
+- Extrication
+ Teleport spells used to be big in morrowind but became less useful with fast travel. Now the new Extrication spell allows you to teleport to your last known safe outdoor location. This allows you to quickly return to the entrance of dungeons or to escape from a combat encounter outdoors or indoors. The spell takes a number of seconds to cast and will leave you vulnerable during the effect. Some locations this will be unable to be used like jail, the arena or magical quest areas.
+
 - Burden spells in addition to adding additional weight now do what they are supposed to by having a chance to crush enemies and you to the ground for a short amount of time. The initial cast has a higher chance than subsequent casts of the spell.
 
 - Feather spells now protect against fall damage and can make you jump slightly higher.
