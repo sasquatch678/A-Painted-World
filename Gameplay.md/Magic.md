@@ -78,7 +78,7 @@ A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - usi
 
 - Mystic Hands - This is a spell that allows hand to hand attacks to cast your touch and target spells for a duration if you have the magicka instead of being a separate action. As you cannot enchant your hands this is the closest to providing a similar effect.
 
-- Night eye now makes it easier to find items compared to previously and will illuminate traps, non-harvested flora, alchemy ingredients, magical items and non-empty containers/corpses. Items with magical properties can be detected through walls, while non magical items or empty soul gems will only be highlighted so they are easier to spot.
+- Night eye can be toggled with the "O" key and now also makes it easier to find items compared to previously and will illuminate traps, non-harvested flora, alchemy ingredients, magical items and non-empty containers/corpses. Items with magical properties can be detected through walls, while non magical items or empty soul gems will only be highlighted so they are easier to spot.
 
 - Burden spells in addition to adding additional weight now do what they are supposed to by having a chance to crush enemies and you to the ground for a short amount of time. The initial cast has a higher chance than subsequent casts of the spell.
 
