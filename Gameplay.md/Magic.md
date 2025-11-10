@@ -60,7 +60,7 @@ A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - usi
 
 - Potions will now restore over time. The total number of potions you can consume at once is determined by the following formula - (Endurance + Alchemy)/25
 
-- It is now possible to summon more than one minion at a time, with sufficient Conjuration and Willpower. The number of creatures the player can simultaneously summon is calculated by the following formula: (Willpower + Conjuration)/60, rounded down - meaning that you can potentially have up to 3 summoned creatures at high levels. It is displayed in magic menu, below spell list.
+- It is now possible to summon more than one minion at a time, once obtaining Master level Conjuration.
 
 - At Destruction skill of 50 and 75, elemental magic effects will unlock impact effects. Chance to inflict them scales with Destruction skill and target’s resistance to particular element. At Journeyman level all effects have a chance to cause recoil; at Expert level Fire spells can knock back, Frost sometimes freezes the target in place, and Shock may inflict a short paralysis.
 
