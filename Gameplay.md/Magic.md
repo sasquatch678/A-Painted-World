@@ -38,9 +38,8 @@ Weather and location will affect elemental Destruction spells. All modifiers are
 | Inside Oblivion | Fire spells are 25% stronger
 
 ### Spellcrafting
-There are many new spellcrafting and enchanting altars all over Cyrodiil, it is no longer locked behind access to the Arcane University. First, each Mages Guild hall now has an enchanting altar. Second, magic shops like Mystic Emporium, Rindir's Staffs, and Warlock's Luck now have them added.  Third, a few private dwellings of mage characters have them added (Henantier, Fathis Aren, etc.)  Last, many have been added to necromancer and sorcerer dungeons.
 
-A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - using it allows creation of one custom spell for free.
+There are many new spellcrafting and enchanting altars all over Cyrodiil, it is no longer locked behind access to the Arcane University. First, each Mages Guild hall now has an enchanting altar. Second, magic shops like Mystic Emporium, Rindir's Staffs, and Warlock's Luck now have them added.  Third, a few private dwellings of mage characters have them added (Henantier, Fathis Aren, etc.)  Last, many have been added to necromancer and sorcerer dungeons.
 
 ### Enchanting
 
@@ -49,6 +48,14 @@ A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - usi
 - Recharging enchantments - all weapons will now regain charge equal to your mysticism skill every ingame hour.
 
 - Soul Trap: Soul trap is a bit tedious to use. So to help reduce the tedium every time you cast soul trap on an enemy it will recharge the current weapon by 1%. When the enemy dies under the effect whether you have a soul gem or not it will recharge your current weapon by 5%. Soul trap when first cast on an enemy will feedback the level of the soul under your crosshair.
+
+A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - using it allows creation of one custom spell for free.
+
+### Necromancy and Lichdom
+
+- Reanimation has been given a big expansion. Instead of being used on only one unique staff, this effect is now available in form of multiple spells, spread throughout the world and can also be used in spellmaking.
+
+- Necromancy and Lichdom introduces a new necromancy system where you create leveled undead followers using body parts, as well as the ability to transform into a Lich, complete with the accompanying animations. A Skeleton and Wraith form are also options. It begins when you pick up the Tome of Unlife during the quest "Where the Spirits have Lease" By reading different chapters of the book, you will gain the ability to harvest bodies for parts which you can use to create various undead followers. When you have the required parts you will be able to create the body, and then use magic to animate them to act as permanent followers. The spells are locked behind skill prerequisites, so I would recommend leveling your Restoration, Conjuration, and Mysticism if you want to be able to use them. All followers levels will be scaled to the player at the time of creation (e.g. If you create a skeleton at level 1 it will be a normal skeleton, but if you create a skeleton at level 20 it will be a skeleton champion.) In order to toggle whether a minion follows you or not just interact with them.
 
 ### Various Changes to Magic Mechanics
 
@@ -67,10 +74,3 @@ A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - usi
 - Chameleon is capped at 75%. Resist Magic and Reflect Damage are capped at 85%
 
 - Spell Absorption now behaves differently – instead of being chance-based, it always works and absorbs the percentage of incoming spell’s Magicka, but doesn’t protect from the spell itself
-
-
-### Necromancy and Lichdom
-
-- Reanimation has been given a big expansion. Instead of being used on only one unique staff, this effect is now available in form of multiple spells, spread throughout the world and can also be used in spellmaking.
-
-- Necromancy and Lichdom introduces a new necromancy system where you create leveled undead followers using body parts, as well as the ability to transform into a Lich, complete with the accompanying animations. A Skeleton and Wraith form are also options. It begins when you pick up the Tome of Unlife during the quest "Where the Spirits have Lease" By reading different chapters of the book, you will gain the ability to harvest bodies for parts which you can use to create various undead followers. When you have the required parts you will be able to create the body, and then use magic to animate them to act as permanent followers. The spells are locked behind skill prerequisites, so I would recommend leveling your Restoration, Conjuration, and Mysticism if you want to be able to use them. All followers levels will be scaled to the player at the time of creation (e.g. If you create a skeleton at level 1 it will be a normal skeleton, but if you create a skeleton at level 20 it will be a skeleton champion.) In order to toggle whether a minion follows you or not just interact with them.
