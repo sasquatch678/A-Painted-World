@@ -65,15 +65,14 @@ A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - usi
 
 - Telekinesis spells have been overhauled into really useful utility spells. They can loot chests, open doors, loot dead bodies and pick up items. Additionally if you use without a target you can move yourself forward in the direction you are looking. Longer range spells move faster and further. If you cast on an npc or creature you will quickly move yourself behind their back which is great for pickpocketing or sneak attacks.
 
-- Detect life is a very useful tool in detecting enemies and provides a bit more information on the dangers around you.
+- Detect life is a very useful tool in detecting enemies and provides a bit more information on the dangers around you. The undead are not actually alive so the effect will be weaker and harder to see on them. During the effect if you place your crosshair over any friendly character it will indicate how strong they are.
 
-    -Orange an enemy character that is stronger than you
-    -Purple an enemy character that is similar in strength to you
-    -Blue an enemy character that is weaker than you
-    -Green the character appears to be friendly
-    -The undead are not actually alive so the effect will be weaker and harder to see on them.
-
-  During the effect if you place your crosshair over any friendly character it will indicate how strong they are.
+| Color   | Effect | 
+|:--------------:|:-------------:|
+| Orange | an enemy character that is stronger than you
+| Purple | an enemy character that is similar in strength to you
+| Blue | an enemy character that is weaker than you
+| Green | the character appears to be friendly
 
 - Fire, Frost, Shock, and Poison Shield effects no longer provide physical armor bonus, instead they will damage attackers in melee range when struck, as well as provide elemental resistance. They will also add 25% of their effect as unarmed damage.
 
