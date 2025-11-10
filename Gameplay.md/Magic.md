@@ -67,12 +67,26 @@ A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - usi
 
 - Detect life is a very useful tool in detecting enemies and provides a bit more information on the dangers around you. The undead are not actually alive so the effect will be weaker and harder to see on them. During the effect if you place your crosshair over any friendly character it will indicate how strong they are.
 
-| Color   | Effect | 
-|:--------------:|:-------------:|
-| Orange | an enemy character that is stronger than you
-| Purple | an enemy character that is similar in strength to you
-| Blue | an enemy character that is weaker than you
-| Green | the character appears to be friendly
+  | Color   | Effect | 
+  |:--------------:|:-------------:|
+  | Orange | an enemy character that is stronger than you
+  | Purple | an enemy character that is similar in strength to you
+  | Blue | an enemy character that is weaker than you
+  | Green | the character appears to be friendly
+
+- Dispel - To allow mysticism to be used more offensively, dispel will damage summons you hit if you cannot hit the caster or your dispel effect is not strong enough.
+
+- Mystic Hands - This is a spell that allows hand to hand attacks to cast your touch and target spells for a duration if you have the magicka instead of being a separate action. As you cannot enchant your hands this is the closest to providing a similar effect.
+
+- Night eye now makes it easier to find items compared to previously and will illuminate traps, non-harvested flora, alchemy ingredients, magical items and non-empty containers/corpses. Items with magical properties can be detected through walls, while non magical items or empty soul gems will only be highlighted so they are easier to spot.
+
+- Burden spells in addition to adding additional weight now do what they are supposed to by having a chance to crush enemies and you to the ground for a short amount of time. The initial cast has a higher chance than subsequent casts of the spell.
+
+- Feather spells now protect against fall damage and can make you jump slightly higher.
+
+- Water breathing spells now cause you to swim faster during the effect.
+
+- At master skill your basic shield magic effects will protect your weapons and armor from damage based on the strength of the shield. At 100% effect your weapons and armor will take no damage.
 
 - Fire, Frost, Shock, and Poison Shield effects no longer provide physical armor bonus, instead they will damage attackers in melee range when struck, as well as provide elemental resistance. They will also add 25% of their effect as unarmed damage.
 
@@ -80,9 +94,7 @@ A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - usi
 
 - It is now possible to summon more than one minion at a time, once obtaining Master level Conjuration.
 
-- Elemental spells now have extra effects, inspired by Skyrim. Fire spells can cause a very small additional burning damage. Frost spells cause a small additional fatigue drain. Shock spells cause a small additional magicka drain.
-
-- At Destruction skill of 50 and 75, elemental magic effects will unlock impact effects. Chance to inflict them scales with Destruction skill and target’s resistance to particular element. At Journeyman level all effects have a chance to cause recoil; at Expert level Fire spells can knock back, Frost sometimes freezes the target in place, and Shock may inflict a short paralysis.
+- Elemental spells now have extra effects, inspired by Skyrim. Fire spells can cause a very small additional burning damage. Frost spells cause a small additional fatigue drain. Shock spells cause a small additional magicka drain. At Destruction skill of 50 and 75, elemental magic effects will unlock impact effects. Chance to inflict them scales with Destruction skill and target’s resistance to particular element. At Journeyman level all effects have a chance to cause recoil; at Expert level Fire spells can knock back, Frost sometimes freezes the target in place, and Shock may inflict a short paralysis.
 
 - Chameleon is capped at 75%. Resist Magic and Reflect Damage are capped at 85%
 
