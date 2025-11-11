@@ -41,15 +41,17 @@ Weather and location will affect elemental Destruction spells. All modifiers are
 
 There are many new spellcrafting and enchanting altars all over Cyrodiil, it is no longer locked behind access to the Arcane University. First, each Mages Guild hall now has an enchanting altar. Second, magic shops like Mystic Emporium, Rindir's Staffs, and Warlock's Luck now have them added.  Third, a few private dwellings of mage characters have them added (Henantier, Fathis Aren, etc.)  Last, many have been added to necromancer and sorcerer dungeons.
 
+A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - using it allows creation of one custom spell for free.
+
 ### Enchanting
+
+You can now place multiple enchantments on equipment, scaling with every 150 magicka.
 
 - Staff enchanting: while you could enchant staves in vanilla, the result was a staff that only fired on touch range. Now any staff you enchant yourself fires at target. Rindirs Staffs now sell unenchanted staffs so you can enchant staffs with your own effects when a member of the mages guild. Enchanted staffs may say touch or onstrike in the enchanting menu in some circumstances, but will be corrected once it has been enchanted.
 
 - Recharging enchantments - all weapons will now regain charge equal to your mysticism skill every ingame hour.
 
 - Soul Trap: Soul trap is a bit tedious to use. So to help reduce the tedium every time you cast soul trap on an enemy it will recharge the current weapon by 1%. When the enemy dies under the effect whether you have a soul gem or not it will recharge your current weapon by 5%. Soul trap when first cast on an enemy will feedback the level of the soul under your crosshair.
-
-A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - using it allows creation of one custom spell for free.
 
 ### Necromancy and Lichdom
 
