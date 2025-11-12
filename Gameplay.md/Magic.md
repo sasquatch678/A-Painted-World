@@ -47,7 +47,7 @@ A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - usi
 
 You can now place multiple enchantments on equipment, scaling with every 150 magicka.
 
-- Staff enchanting: while you could enchant staves in vanilla, the result was a staff that only fired on touch range. Now any staff you enchant yourself fires at target. Rindirs Staffs now sell unenchanted staffs so you can enchant staffs with your own effects when a member of the mages guild. Enchanted staffs may say touch or onstrike in the enchanting menu in some circumstances, but will be corrected once it has been enchanted.
+- Staff enchanting: while you could enchant staves in vanilla, the result was a staff that only fired on touch range. Now any staff you enchant yourself fires at target. Rindirs Staffs now sell unenchanted staffs so you can enchant staffs with your own effects. Enchanted staffs may say touch or onstrike in the enchanting menu in some circumstances, but will be corrected once it has been enchanted.
 
 - Recharging enchantments - all weapons will now regain charge equal to your mysticism skill every ingame hour.
 
