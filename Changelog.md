@@ -28,7 +28,7 @@
 - The Shadow lesser power now also grant telekinesis, which has many new applications thanks to Supreme Magicka
 - removed intelligence and willpower requirement from progressing in the mages guild as this was never an intended requirement
 - re-enabled heap mode in ORC
-- changed the texture used in the cliffs of anvil to use a beach rock texture instead of the jerral mountain rock texture so there aren't snow covered rocks on the beach
+- changed the rock texture used in the cliffs of anvil to use a beach rock texture instead of the jerral mountain rock texture so there aren't snow covered rocks on the beach
 - removed init message from AV Uncapper
 - removed diminishing returns on various magic effects since most of them are already hard capped to a certain value, also may solve some crashes with creatures that have 0 magicka applying diseases
 - removed some lights in the chorrol chapel of stendarr to improve performance in the cell
