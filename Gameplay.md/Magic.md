@@ -98,7 +98,7 @@ You can now place multiple enchantments on equipment, scaling with every 150 mag
 
 - It is now possible to summon more than one minion at a time, once obtaining Master level Conjuration.
 
-- Elemental spells now have extra effects, inspired by Skyrim. Fire spells can cause a very small additional burning damage. Frost spells cause a small additional fatigue drain. Shock spells cause a small additional magicka drain. At Destruction skill of 50 and 75, elemental magic effects will unlock impact effects. Chance to inflict them scales with Destruction skill and target’s resistance to particular element. At Journeyman level all effects have a chance to cause recoil; at Expert level Fire spells can knock back, Frost sometimes freezes the target in place, and Shock may inflict a short paralysis.
+- Elemental spells now have a chance to cause extra effects, inspired by Skyrim. Fire spells can cause a very small additional burning damage. Frost spells cause a small additional fatigue drain. Shock spells cause a small additional magicka drain. At Destruction skill of 50 and 75, elemental magic effects will unlock impact effects. Chance to inflict them scales with Destruction skill and target’s resistance to particular element. At Journeyman level all effects have a chance to cause recoil; at Expert level Fire spells can knock back, Frost sometimes freezes the target in place, and Shock may inflict a short paralysis.
 
 - Chameleon is capped at 75%. Resist Magic and Reflect Damage are capped at 85%
 
