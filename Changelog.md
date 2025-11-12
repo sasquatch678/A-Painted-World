@@ -1,3 +1,55 @@
+## **2.1.0**
+
+**Added**
+- Performance Sound
+- Combat Stance Reanimation - a custom preset
+- Mysticism Auto Recharges Weapons
+- Maskar's Unarmored Skill
+- Magicka based enchantment limits
+- Supreme Magicka Update
+- Simple Horse Utilities
+
+**Updated**
+- Better Cities
+
+**Removed**
+- MoreHeap
+- Fundament
+- PSO - Pickpocket Skill Overhaul
+- FEA - Fundament Enchanting Addons
+- Alex's Simple Mark and Recall Spells - redundant with Supreme Magicka
+- Fleshed out Necromancers - redundant with Supreme Magicka
+- Horse Gameplay Overhaul
+- Retexture Diverse Female Faces for OCOv2 - And some cleaning to the others
+
+**Changes**
+- downsides to shields now only buffs the player when they aren't using a shield, there is no more penalty to having a shield equipped
+- changed Lord sign passive to 75 points of fortify health instead of % regen as I believe the script that controlled the regen could cause crashes. also reduced weakness to fire to 25% (was 50%)
+- The Shadow lesser power now also grant telekinesis, which has many new applications thanks to Supreme Magicka
+- removed intelligence and willpower requirement from progressing in the mages guild as this was never an intended requirement
+- re-enabled heap mode in ORC
+- changed the texture used in the cliffs of anvil to use a beach rock texture instead of the jerral mountain rock texture so there aren't snow covered rocks on the beach
+- removed init message from AV Uncapper
+- removed diminishing returns on various magic effects since most of them are already hard capped to a certain value, also may solve some crashes with creatures that have 0 magicka applying diseases
+- removed some lights in the chorrol chapel of stendarr to improve performance in the cell
+- added new and reworded existing loading screens to explain some of the new magic mechanics ingame
+- improved fps in Leyawiin substantially by removing clutter objects placed outside the walls
+- pawnbrokers and general traders may now sell paint mixing bowls, blank canvases, and easels which act as supplies and a crafting station to make paintings
+- added over 100 new crafting recipes for furniture and decorations - furniture can be crafted at a workbench, and carpets and tapestries at loom stations
+- changed position of weapon and spell icon on hud to match the hand used in animations
+- removed the imperial furniture store, since the majority of the items can now be crafted
+- absorb effects are now part of the mysticism school, as in morrowind
+- replaced Great Helm model used on guards with the Plate Helmet model from OOO Enhanced
+
+**Bugfixes**
+- disabled LODCut in ORC as this could cause stutters and visual bugs
+- fixed floating ayleid castle east of Anvil
+- fixed an oblivion gate rock east of anvil that would appear regardless if that oblivion gate was active or not
+- fixed fletching jig appearing in leveled loot
+- removed tinkering kit recipe
+- consistency patched all NPCs (again) to make use of the update from OOO Enhanced - new gear should appear more often now
+- fixed water having no transparency near shoreline (set bUseWaterDepth=1 in oblivion.ini)
+
 ## **2.0.14**
 
 **Changes**
