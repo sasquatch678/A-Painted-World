@@ -86,9 +86,9 @@ You can now place multiple enchantments on equipment, scaling with every 150 mag
 
 - Burden spells in addition to adding additional weight now do what they are supposed to by having a chance to crush enemies and you to the ground for a short amount of time. The initial cast has a higher chance than subsequent casts of the spell.
 
-- Feather spells now protect against fall damage and can make you jump slightly higher.
+- Feather spells now also protect against fall damage and can make you jump slightly higher.
 
-- Water breathing spells now cause you to swim faster during the effect.
+- Water breathing spells now also cause you to swim faster during the effect.
 
 - At master skill your basic shield magic effects will protect your weapons and armor from damage based on the strength of the shield. At 100% effect your weapons and armor will take no damage.
 
