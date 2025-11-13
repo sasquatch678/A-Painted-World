@@ -1,3 +1,21 @@
+## **2.1.1**
+
+**Added**
+- Status Bars for Needs - Vanilla and Darn Retexture
+- Extended UI - Vanilla and Darn Boss Bar Retexture
+
+**Changes**
+- heavily reworked OblivionXP settings and it is now enabled by default - the curve scales much more evenly and is much lower overall at higher levels. Quests reward much more xp compared to anything else.
+- renamed "Thugs" from MOO to "Bandits" and "Looters" to "Marauders" to avoid inconsistencies with dialogue, quests, and level design from other mods
+- removed "The Luggage" system from Cobl
+- disabled all of the fake chalice's from that one mages guild quest
+- moved levelup icon to be beside the compass
+
+**Bugfixes**
+- fixed broken Mages Guild Pupil robe mesh
+- fixed player controls staying disabled after mankar camoran finishes his speech
+- reverted changes to the fighters guild Witchcraft quest from a few updates ago - if you get lost in the labyrinth, you can now follow the trail of lights for a guaranteed pathway through. added a quest stage to explain what happened and to suggest following the lights.
+
 ## **2.1.0**
 
 **Added**
