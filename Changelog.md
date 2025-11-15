@@ -1,3 +1,37 @@
+## **2.1.2**
+
+**Added**
+- Diverse Liches (Modders Resource)
+- OOO Enhanced Better Dungeons Patch
+- Menu Controls Modernized
+
+**Removed**
+- Supreme Magicka - Levitation Cloud Fix
+- Customizable Magic Progression - redundant with changes to Supreme Magicka ini
+- QZ Easy Menus Update - redundant with Menu Controls Modernized
+
+**Updated**
+- DXVK to 2.6.1 - leaving the old version available in case this causes issues for some people
+
+**Changes**
+- disabled Bloodmoon weather change
+- moved the Cyrodiil Transportation NPC at the Bravil, Anvil, and IC docks and disabled their boats to save draw calls in these areas
+- disabled clutter/nature across from the Bravil docks to reduce draw calls in the area
+- disabled a handful of lights in the exterior of Miscarcand to improve fps in the area
+- disabled a handful of lights in Leyawiin Castle to improve fps in the cell
+- Crazed and Mystical imps now just drop regular imp gall instead of crazed/mystical imp gall to cut down on the amount of random clutter items
+- City topics will now only appear for npcs who live in that city
+- reduced exploration xp by 25%
+- disabled glowing flame effect on summoned creatures from supreme magicka
+- enabled skill xp progression in Supreme Magicka, this will also make spamming spells out of combat to power level less effective than using in combat (only has an effect when oblivion xp is disabled)
+
+**Bugfixes**
+- disabled amazons and bandits residing in the mines overhauled by Productive Mines so they would stop murdering the miners
+- lowered an Ayleid altar outside Trumbe and a chest inside to no longer be floating
+- bears can no longer cause diseases, to prevent a rare crash
+- reverted bound armor appearance to that of vanilla as ooo enhanced replaces it with missing resources
+- fixed some cloaks hiding your characters hair
+
 ## **2.1.1**
 
 **Added**
