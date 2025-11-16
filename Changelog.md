@@ -9,6 +9,7 @@
 - Supreme Magicka - Levitation Cloud Fix
 - Customizable Magic Progression - redundant with changes to Supreme Magicka ini
 - QZ Easy Menus Update - redundant with Menu Controls Modernized
+- Loot Feed
 
 **Changes**
 - disabled Bloodmoon weather change
