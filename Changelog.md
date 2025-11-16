@@ -10,9 +10,6 @@
 - Customizable Magic Progression - redundant with changes to Supreme Magicka ini
 - QZ Easy Menus Update - redundant with Menu Controls Modernized
 
-**Updated**
-- DXVK to 2.6.1 - leaving the old version available in case this causes issues for some people
-
 **Changes**
 - disabled Bloodmoon weather change
 - moved the Cyrodiil Transportation NPC at the Bravil, Anvil, and IC docks and disabled their boats to save draw calls in these areas
