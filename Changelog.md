@@ -1,3 +1,26 @@
+## **2.1.3**
+
+**Added**
+- Combat Additions (only the optional animation files, third person only)
+
+**Updated**
+- SB - Arrow Master
+- Oscuro's Oblivion Overhaul Updated
+- OOO Enhanced
+
+**Changes**
+- reduced amount of food loss per hour to 5 (was 30)
+- reduced well fed threshold to 50 (was 60)
+- reduced power attack delay to 0.125 seconds (was 0.250)
+- looting coffins no longer gives you a point of infamy
+
+**Bugfixes**
+- greatly reduced the amount of lightbulbs in the bloodworks as this could cause a rare crash when re-entering after an arena match
+- the Frostcrag region can no longer have weather from the Shivering Isles
+- fixed typo in Blunt master perk description
+- fixed infinite summon limit
+- fixed grey seam on some female clothing that showed skin
+
 ## **2.1.2**
 
 **Added**
