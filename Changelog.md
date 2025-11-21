@@ -1,3 +1,20 @@
+## **2.1.4**
+
+**Added**
+- Simple Inheritance
+
+**Changes**
+- slightly modified detection settings - goal is to improve performance in areas with many actors and decrease chances of aggroing an entire cell
+- reduced attributes awarded on levelup when oblivion xp is disabled to 10 (was 12)
+- disabled lod shadows, noticeable performance improvement in cities and exteriors
+- buffed the altmer researchers in Belda
+
+**Bugfixes**
+- fixed missing desk mesh
+- fixed being unable to enter correct arena for infinitum compendium quests
+- fixed ayleid well light and sound not disappearing when activated
+- fixed landscape tear near rimmen
+
 ## **2.1.3**
 
 **Added**
