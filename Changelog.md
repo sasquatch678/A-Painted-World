@@ -1,3 +1,20 @@
+## **2.1.5**
+
+**Updated**
+- SB - Arrow Master
+- Simple Inheritance
+
+**Changes**
+- updated dremora seducer appearance and race description
+- reduced sprint fatigue cost to 15 (was 20)
+- improved underwater visibility
+- reduced minimum amount of athletics skill needed to avoid light attack penalty to 25 (was 50) and reworked the formula to determine the minimum amount to no longer have a base value, but instead scale more with weapon weight (0.35 * weight, was 10 + 0.15*weight)
+- increased power attack delay timer to 0.175 (was 0.125) to avoid instances triggering a power attack when you didn't intend to
+
+**Bugfixes**
+- fixed missing pond in the Arboretum
+- added block in combat script to re-enable left click if the player enters a menu, while keeping it disabled if the menu is a crafting menu to prevent freely withdrawing crafted items
+
 ## **2.1.4**
 
 **Added**
