@@ -13,7 +13,7 @@
 
 **Bugfixes**
 - fixed missing pond in the Arboretum
-- added block in combat script to re-enable left click if the player enters a menu, while keeping it disabled if the menu is a crafting menu to prevent freely withdrawing crafted items
+- added block in combat script to re-enable left click if the player enters a menu, while keeping it disabled if the menu is a crafting menu to prevent withdrawing infinite crafted items with no material cost
 
 ## **2.1.4**
 
