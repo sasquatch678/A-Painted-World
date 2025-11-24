@@ -40,5 +40,38 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-11-22T20:40:07.4306736Z",
     "repositoryName": ""
+  },
+  {
+    "title": "A Painted World - Remastered",
+    "description": "A Painted World is a vanilla friendly overhaul of Oblivion Remastered which enhances visuals, atmosphere, and immersion while honoring the heart of classic Oblivion.",
+    "author": "Sasquatch",
+    "maintainers": [
+      "github/sasquatch678"
+    ],
+    "game": "OblivionRemastered",
+    "tags": [
+      "SFW",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/44-1745615623-1831370669.webp",
+      "readme": "https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/A%20Painted%20World%20-%20Remastered.wabbajack_91f5fe20-7f3f-4a34-bff5-6f663b5c05c8",
+      "machineURL": "APaintedWorldRemastered",
+      "discordURL": "https://discord.gg/dGP9Vy7QMG"
+    },
+    "download_metadata": {
+      "Hash": "wIJUReu+rX0=",
+      "Size": 36678429,
+      "NumberOfArchives": 286,
+      "SizeOfArchives": 2411305771,
+      "NumberOfInstalledFiles": 5494,
+      "SizeOfInstalledFiles": 3491599708
+    },
+    "version": "1.0.0"
   }
 ]
