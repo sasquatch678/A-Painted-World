@@ -48,33 +48,37 @@
     "maintainers": [
       "github/sasquatch678"
     ],
-    "game": "OblivionRemastered",
+    "game": "oblivionremastered",
+    "official": false,
     "tags": [
       "SFW",
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/44-1745615623-1831370669.webp",
       "readme": "https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/A%20Painted%20World%20-%20Remastered.wabbajack_91f5fe20-7f3f-4a34-bff5-6f663b5c05c8",
+      "download": "https://authored-files.wabbajack.org/A Painted World - Remastered.wabbajack_0a408c67-c4bd-4fcd-84f3-ef34e408e203",
       "machineURL": "APaintedWorldRemastered",
-      "discordURL": "https://discord.gg/dGP9Vy7QMG"
+      "discordURL": "https://discord.gg/dGP9Vy7QMG",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "ZLBd6Jsx6sI=",
-      "Size": 36682741,
+      "Hash": "M2Kgw6I+78M=",
+      "Size": 36682779,
       "NumberOfArchives": 286,
       "SizeOfArchives": 2411305771,
       "NumberOfInstalledFiles": 5496,
-      "SizeOfInstalledFiles": 3491938775
+      "SizeOfInstalledFiles": 3491938775,
+      "TotalSize": 5903244546
     },
-    "version": "1.0.0"
+    "version": "1.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-11-25T00:49:23.8503778Z",
+    "repositoryName": ""
   }
 ]
-
-
-
