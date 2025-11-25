@@ -1,3 +1,26 @@
+## **2.1.6**
+
+**Updated**
+- SB Arrow Master
+- Maskar's Oblivion Overhaul
+
+**Changes**
+- renamed "Hell Hound" from OOO to "Kynhound" to better fit the setting
+- disabled key to toggle status bars for needs
+- the slaughterfish chowder recipe now requires corn instead of scales
+- reworked altar/wayshrine buffs, will no longer cure disease, restore health, or restore attributes. however, the pilgrim npcs added by OOO near each wayshrine will now offer healing, cure disease, and restoration services from Oblivifall - Losing My Religion
+- tamed pets are no longer essential
+- reduced npc per level health mult to 2x (was 3x)
+- reduced exploration xp by 33%
+- slightly reduced reading xp (books that gave 25xp will now give 15xp)
+- increased cap on attribute and skill points able to be spent per level-up on one attribute or skill to 10 (was 5) and up to 15 for skills (was 5). The intention is to create more interesting choices (do I put all my points into one thing, or diversify a bit?) rather than just slowly level up the same few things at once.
+- increased skill points rewarded on level up to 50 (was 35), however the amount of points required to increase a skill by 1 will now increase by 1 each time it reaches a new level of skill mastery (ie. a journeyman skill would cost 1 extra point compared to apprentice, an expert skill would cost 2 extra points, and master 3). The intention is to get builds going a bit sooner and allow a baseline level of proficiency in more skills but still require longterm commitment to truly master a skill.
+- nerfed damage and increased magicka cost of flame atronach fire balls
+
+**Bugfixes**
+- fixed nude Mythic Dawn Leader
+
+
 ## **2.1.5**
 
 **Updated**
