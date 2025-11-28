@@ -16,9 +16,9 @@ Eating or drinking any item considered to be food by the game contributes to you
 
 Sleeping in a bed provides a 'Well Rested' bonus that increases Fatigue by 50 points for a long period of time. Sleeping in a safe indoors location provides the bonus for 12 hours, and any other location provides it for 6 hours. You will also gain rested experience based on the amount of time slept.
 
-### Saddlebags
+### Horses
 
-Each owned horse gives access to saddlebags. They can be accessed by activating the horse while sneaking. Saddlebags capacity is limited to 500 units. Capacity is shown in container UI. Contents are shared between all owned horses. When a horse dies, all saddlebags contents are moved to it’s corpse. They can NOT be retrieved by accessing another horse’s bags at this point. An extra UI element shows saddlebags capacity while in inventory menu.
+Each owned horse gives access to saddlebags. They can be accessed by activating the horse while sneaking.Saddlebags have a limited capacity depending on your horse's Strength attribute. To access saddlebags, you must own the horse and it must be your last ridden horse. These checks prevent you from accessing the saddlebag inventory of a horse you’ve stolen or otherwise don't own. The saddlebag inventory is shared between horses, so you don't need to retrieve your items if your horse dies; all items will appear in your new horse's saddlebags.
 
 Whistle
 
