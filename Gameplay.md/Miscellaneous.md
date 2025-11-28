@@ -51,7 +51,7 @@ Other lore-appropriate shrines have been added:
 
 - Members of the Dark Brotherhood may have a shrine to the Night Mother in the guise of the Lucky Old Lady, hinting at their true allegiance.
 
-Each Divine Altar restores one attribute up to 100 points, cures disease, and restores health. The attribute restored is the same as their blessing. Altars of the Nine will restore all attributes. Blessings of the Divine have also been reworked, their bonuses are as follows:
+Altars/Wayshrines will no longer cure disease or restore attributes. Instead you must purchase these services from a priest in each chapel, or from a wandering priest near each wayshrine. The attribute restored is the same as their blessing. Altars of the Nine will restore all attributes. Blessings of the Divine have also been reworked, their bonuses are as follows:
 | Divine    | Blessing | 
 |:--------------:|:-------------:|
 | Akatosh | Fortify Speed 5 points for 6480 seconds.
