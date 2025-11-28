@@ -1,3 +1,15 @@
+## **2.1.7**
+
+**Added**
+- Harvest Containers (only the meshes, since OOO decided to remove them without updating the file paths for all containers)
+
+**Changes**
+- increased all weapon damage by 15% (enemies and player)
+- buffed the starting mysticism spell weak vitae siphon to absorb 6 points of health over 2 seconds (was just 6 points per cast)
+
+**Bugfixes**
+- fixed bug that could cause attribute and skill points to not be saved on levelup
+
 ## **2.1.6**
 
 **Updated**
