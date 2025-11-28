@@ -104,6 +104,9 @@ Have you ever wondered who the DEEP ONES really were? What secrets or treasures 
 ### Thieves Guild HQ - Unhealthy Competition
 This mod is both a player home and a full questline that continues the Thieves Guild story. After becoming the Gray Fox and assuming responsibility for the Thieves Guild, there is still more to be done. Complete contracts for clients and help your guild combat a new threat in Cyrodiil, while residing in a fully equipped hideout/player home. Steal valuable items, manage the Thieves Guild's operations, recruit new members to see an increase in profit, and solve the mystery that threatens the Thieves Guild and the rest of Cyrodiil.<br /> https://www.nexusmods.com/oblivion/mods/34465
 
+### Infinitum Compendium
+Radiant Content Systems for five major factions - The Arena, Dark Brotherhood, Fighter's Guild, Mages Guild, and Thieves Guild. Tons of new items, new monsters, new NPCs, new currencies, new rewards.Tons of reasons to keep exploring Cyrodiil.. but don't forget to deliver the Amulet of Kings! <br /> https://www.nexusmods.com/oblivion/mods/55242
+
 ### Companion Vilja
 The young nord alchemist Vilja has her own mission in Cyrodiil - but she needs your help! Will you let her tag along? Will you let your Cyrodiil life be changed by a talkative, curious and unpredictable girl who might be a nuisance at times, but who also will offer a strong, indepth friendship, and later on also optional romance. <br /> https://www.nexusmods.com/oblivion/mods/28977
 
@@ -149,13 +152,8 @@ The Inn of Iller Omen is an overhaul for everyone's favorite dingy little inn on
 ### Tales of Cyrodiil
 Tales of Cyrodiil adds 14 quests for you to embark on. The quests are not of epic scales, but more of a... local scale. You will deal with commoners, nobles and the underworld with their little problems, like adventurers always do. These adventures are inspired by some of Daggerfall's side quests you can get from innkeepers and shopkeepers. Unlike Daggerfall, the Tales of Cyrodiil are unique and not randomly generated. <br /> https://www.nexusmods.com/oblivion/mods/48792
 
-### Dark Brotherhood Continued
-This mod allows you to continue taking contracts for the Dark Brotherhood after you have completed the dark brotherhood questline. Arquen now actually trusts you with more important jobs then running from Bravil to Cheydinhal! <br /> https://www.nexusmods.com/oblivion/mods/25689
-
 ### Hoarfrost Castle
-Sitting high on a bluff above the steepest part of the Orange Road is Hoarfrost Castle. The keep and castle yard rest at the foot of the Jerall Mountains proper - at the edge of the snowfall. The yard is almost always half-covered with snow, ice and frost. The windswept keep tower provides an unsurpassed view over the Great Forest, the Heartlands, and the Nibenay basin: from Bruma, to Chorrol - to the Imperial City itself.
-
-Hoarfrost Castle is a cold place, but the roaring pit fire in the great hall always served to bar the chill from the keep itself. The keep and castle grounds played host to a chapel, graveyard, stables, master bedroom, dining chamber, kitchen, basement, smithy, servant's and guard's quarters, mage's study and workshop, display hall, and of course the warmest part of the keep: the great hall. A hive of activity and an outpost unto itself.
+Sitting high on a bluff above the steepest part of the Orange Road is Hoarfrost Castle. The keep and castle yard rest at the foot of the Jerall Mountains proper - at the edge of the snowfall. The yard is almost always half-covered with snow, ice and frost. The windswept keep tower provides an unsurpassed view over the Great Forest, the Heartlands, and the Nibenay basin: from Bruma, to Chorrol - to the Imperial City itself. Hoarfrost Castle is a cold place, but the roaring pit fire in the great hall always served to bar the chill from the keep itself. The keep and castle grounds played host to a chapel, graveyard, stables, master bedroom, dining chamber, kitchen, basement, smithy, servant's and guard's quarters, mage's study and workshop, display hall, and of course the warmest part of the keep: the great hall. A hive of activity and an outpost unto itself.
 
 At least, this was the case until the castle's previous occupants were lost to some malevolent force that rose up within the keep. Rumour has it that only the Castle Steward survived to tell the horrific tale; and is now willing to give ownership of the castle up to whoever proves powerful enough to wrest control of the keep from whatever monstrosities now dwell inside. He keeps a solitary watch over Hoarfrost Castle's gate; waiting for some brave soul to come, and offer their help. <br /> https://www.nexusmods.com/oblivion/mods/14714
 
