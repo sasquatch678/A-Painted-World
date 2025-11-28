@@ -16,26 +16,9 @@ Eating or drinking any item considered to be food by the game contributes to you
 
 Sleeping in a bed provides a 'Well Rested' bonus that increases Fatigue by 50 points for a long period of time. Sleeping in a safe indoors location provides the bonus for 12 hours, and any other location provides it for 6 hours. You will also gain rested experience based on the amount of time slept.
 
-### Horsemanship
-A brand new skill is added which gradually increases horse acceleration, handling and jump height. It is increased by simply riding horses, as well as some other interactions and has a full set of perks:
+### Saddlebags
 
-- Apprentice: Making small turns will no longer decrease galloping speed
-- Journeyman: Unlocks rearing.
-- Expert: Unlocks strafing.
-- Master: Horse can run on water, but only when galloping.
-
-Trainers, skill books, and enchanted items with Fortify Horsemanship can be found.
-  - Walking - default horse walking speed had been slightly increased, but otherwise unchanged.
-  - Trotting - a new motion, this is basically “fast walking” - a middle ground between walking and galloping.
-  - Galloping - this is the default “running” motion, heavily tweaked. Overall faster then in vanilla, and horse speed will gradually increase over time up to a certain maximum. Acceleration is based on Horsemanship skill. Top speed is based on horse breed.
-  - Turning - small turns will decrease max galloping speed, unless Horsemanship skill level is 25+. Holding turn controls for longer will decrease speed to trotting.
-  - Inertia - horses no longer instantly stop after galloping, instead a special stopping animation is performed.
-  - Rearing - a new motion, unlocked at Horsemanship skill level 50 and activated by jump key when standing. Rearing can be used to gain a starting speed boost and go straight to galloping.
-  - Strafing - a new motion, unlocked at Horsemanship skill level 75 - hold Block and use left/right controls to strafe.
-
-Saddlebags
-
-Each owned horse gives access to saddlebags. They can be accessed by pressing the inventory key, while having owned horse under the crosshair. Saddlebags capacity is limited to 500 units. Capacity is shown in container UI. Contents are shared between all owned horses. When a horse dies, all saddlebags contents are moved to it’s corpse. They can NOT be retrieved by accessing another horse’s bags at this point. An extra UI element shows saddlebags capacity while in inventory menu.
+Each owned horse gives access to saddlebags. They can be accessed by activating the horse while sneaking. Saddlebags capacity is limited to 500 units. Capacity is shown in container UI. Contents are shared between all owned horses. When a horse dies, all saddlebags contents are moved to it’s corpse. They can NOT be retrieved by accessing another horse’s bags at this point. An extra UI element shows saddlebags capacity while in inventory menu.
 
 Whistle
 
