@@ -62,23 +62,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/44-1745615623-1831370669.webp",
       "readme": "https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/A Painted World - Remastered.wabbajack_ad5d0a02-daa0-4e73-8f3e-e06bc2a79c60",
+      "download": "https://authored-files.wabbajack.org/A Painted World - Remastered.wabbajack_af86aa5a-a90c-4927-a2ef-d0f608dd7c7d",
       "machineURL": "APaintedWorldRemastered",
       "discordURL": "https://discord.gg/dGP9Vy7QMG",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "JL0PIQudv3Y=",
-      "Size": 36584575,
+      "Hash": "51cD5Row7JQ=",
+      "Size": 36588942,
       "NumberOfArchives": 245,
-      "SizeOfArchives": 1944766820,
-      "NumberOfInstalledFiles": 3275,
-      "SizeOfInstalledFiles": 2683890414,
-      "TotalSize": 4628657234
+      "SizeOfArchives": 1943553372,
+      "NumberOfInstalledFiles": 3281,
+      "SizeOfInstalledFiles": 2682710472,
+      "TotalSize": 4626263844
     },
     "version": "1.0.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-11-29T05:28:44.4939209Z",
+    "dateUpdated": "2025-11-29T06:11:08.7372624Z",
     "repositoryName": ""
   }
 ]
