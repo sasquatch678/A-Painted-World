@@ -1,3 +1,26 @@
+## **2.1.8**
+
+**Added**
+- Old BSA from OOO, since they removed several meshes from the new version that are still being used
+- s6o6t LORE - Oblivion Gates Replacer
+- s6o6t LORE - Storm Atronach Replacer
+- The Forgotten Isles - A Large Shivering Isles Expansion
+
+**Removed**
+- Rainbow Argonians
+- Skyrimized Followers
+
+**Updated**
+- OOO Enhanced
+
+**Changes**
+- greatly increased the effect of luck on the lockpicking formula (doesn't add rng, it's still a pass/fail. it just scales much better towards making you pass)
+
+**Bugfixes**
+- finally actually fixed giant blocky enchantment visuals
+- fixed SI intro quest initiating on game start
+- fixed ugly water in the shivering isles
+
 ## **2.1.7**
 
 **Added**
