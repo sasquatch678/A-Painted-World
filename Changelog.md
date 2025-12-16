@@ -1,3 +1,27 @@
+## **2.1.9**
+
+**Added**
+- Realistic Player Dialogue Overhaul - Remastered and Expanded
+- Devotion - Blessings Remastered
+- Diseased Bedrolls
+- s6o6t LORE - Ghost Replacer
+- QZ Easy Menus Update
+
+**Updated**
+- OOO Shivering Isles
+- The Forgotten Isles - A Large Shivering Isles Expansion
+- OOO - Oscuro's Oblivion Overhaul - Updated
+- OOO Enhanced Missing Resources
+
+**Removed**
+- Menu Controls Modernized
+
+**Changes**
+- removed individual quest log entries for each skill for the fighters and mages guild skill checks to prevent quest notification spam
+- disabled many repetitive and uninteresting extra dialogue topics from cluttering the dialogue window, reworded others
+- replaced all instances of the "Playing Dice" misc item added by Better Cities to a useable version of playing dice used by Gamblers of Cyrodiil
+- removed some lights from the chapel of julianos to improve fps in the cell
+
 ## **2.1.8**
 
 **Added**
