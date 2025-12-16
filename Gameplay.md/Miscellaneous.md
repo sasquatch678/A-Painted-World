@@ -51,20 +51,33 @@ Other lore-appropriate shrines have been added:
 
 - Members of the Dark Brotherhood may have a shrine to the Night Mother in the guise of the Lucky Old Lady, hinting at their true allegiance.
 
-Altars/Wayshrines will no longer cure disease or restore attributes. Instead you must purchase these services from a priest in each chapel, or from a wandering priest near each wayshrine. The attribute restored is the same as their blessing. Altars of the Nine will restore all attributes. Blessings of the Divine have also been reworked, their bonuses are as follows:
-| Divine    | Blessing | 
-|:--------------:|:-------------:|
-| Akatosh | Fortify Speed 5 points for 6480 seconds.
-| Arkay | Fortify Health 15 points for 6480 seconds.
-| Dibella | Fortify Personality 5 points for 6480 seconds.
-| Julianos | Fortify Intelligence 5 points for 6480 seconds.
-| Kynareth | Fortify Agility 5 points for 6480 seconds.
-| Mara | Fortify Willpower 5 points for 6480 seconds.
-| Stendarr | Fortify Endurance 5 points for 6480 seconds.
-| Talos | Fortify Strength 5 points for 6480 seconds.
-| Zenithar | Fortify Luck 5 points for 6480 seconds.
+Altars/Wayshrines will no longer cure disease or restore attributes. Instead you must purchase these services from a priest in each chapel, or from a wandering priest near each wayshrine. 
 
-Wayshrine Blessings are twice as potent. Additionally, once per day you can enhance a bandage at an Altar of the Nine, improving the effects. 
+Show devotion to a Divine by visiting their Altars and Praying out in the world. As your devotion grows, their blessing will be stronger the next time you visit a chapel altar. Betray a Divine by praying to another, repeated betrayals have consequences. Divine blessings and prayers now last for an entire day.
+
+#### Blessings
+Blessings are received by visiting an altar, and build up a moderate amount of Devotion. Works similarly to vanilla, but scale the more you use them. The bonuses for each tier of devotion are listed below.
+
+| Divine    | Tier 1 Blessing | Tier 2 Blessing | Tier 3 Blessing |
+|:--------------:|:-------------:|:-------------:|:-------------:|
+| Akatosh | +5 Speed | +10 Speed, Cure Disease & Restore Speed | +10 Speed, Cure Disease & Restore Speed, +10 Athletics, Acrobatics, Light Armor |
+| Arkay | +15 Health | +30 Health, Cure Disease & Restore Health | +50 Health, Cure Disease & +5 Armor Rating, Restore Heath 1/s |
+| Dibella | +5 Personality | +10 Personality, Cure Disease & Restore Personality | +10 Personality, Cure Disease & Restore Personality, +10 Mercantile, Speechcraft, Illusion |
+| Julianos | +5 Intelligence | +10 Intelligence, Cure Disease & Restore Intelligence | +10 Intelligence, Cure Disease & Restore Intelligence, +10 Alchemy, Conjuration, Mysticism |
+| Kynareth | +5 Agility | +10 Agility, Cure Disease & Restore Agility | +10 Agility, Cure Disease & Restore Agility, +10 Security, Sneak, Marksman |
+| Mara | +5 Willpower | +10 Willpower, Cure Disease & Restore Willpower | +10 Willpower, Cure Disease & Restore Willpower, +10 Alteration, Destruction, Restoration |
+| Stendarr | +5 Endurance | +10 Endurance, Cure Disease & Restore Endurance | +10 Endurance, Cure Disease & Restore Endurance, +10 Armorer, Block, Heavy Armor |
+| Talos | +5 Strength | +10 Strength, Cure Disease & Restore Strength | +10 Strength, Cure Disease & Restore Strength, +10 Blade, Blunt, Hand to Hand |
+| Zenithar | +5 Luck | +10 Luck, Cure Disease & Restore Luck | +10 Luck, Cure Disease & Restore Luck, +5 All skills
+
+#### Prayers
+Prayers are learned by visiting an altar, and can be used once a day. They grant a blessing of tier 1 strength and build up a small amount of Devotion. Praying while out on adventure will often increase the strength of your next altar blessing﻿﻿.
+
+#### Wayshrines
+Wayshrines give tier 1 blessings, and due to their remoteness may be taken in secret. Builds a small amount of Devotion. Less powerful than an altar blessing, but can be taken whenever you run across one on an adventure without fear of triggering a betrayal
+
+#### Betrayal
+Betrayals occur when you switch from one Divine to another. Betrayals reset your devotion and strip any existing blessings belonging to your previous Divine. Committing multiple betrayals against a Divine will cause them to leave the temple and require a new pilgrimage.
 
 Each Nine Divines faction and 2 Knightly Orders can be joined. Joining a faction requires you to have basic knowledge about one of the faction's required skills, and you must perform a pilgrimage to the god's wayshrine. Ask the priests to know where you may find a wayshrine.
 
