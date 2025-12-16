@@ -79,6 +79,7 @@ Wayshrines give tier 1 blessings, and due to their remoteness may be taken in se
 #### Betrayal
 Betrayals occur when you switch from one Divine to another. Betrayals reset your devotion and strip any existing blessings belonging to your previous Divine. Committing multiple betrayals against a Divine will cause them to leave the temple and require a new pilgrimage.
 
+#### Factions
 Each Nine Divines faction and 2 Knightly Orders can be joined. Joining a faction requires you to have basic knowledge about one of the faction's required skills, and you must perform a pilgrimage to the god's wayshrine. Ask the priests to know where you may find a wayshrine.
 
 You can join only ONE god faction OR one Knightly Order. You cannot join both a Knightly Order and its associated priesthood. The benefits of joining a faction are that you have reduced prices for the healing service, lodgings in the temple/HQ, access to privileged services (For some religions) and the god/Knightly Order's outfit. The friends of the god you worship are your friends. His enemies are your enemies. Ghosts in your faction's Undercroft will not attack you. Killing a member of your faction or stealing will result in being expelled. Once expelled, you cannot join again and you cannot switch to another god. There are no quests or possibility of advancements, it's just meant for roleplaying.
