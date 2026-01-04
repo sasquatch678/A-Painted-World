@@ -15,6 +15,7 @@
 **Changes**
 - tweaked shadow settings to improve performance in some interiors
 - made dungeon water look a bit better
+- reworked enemy health scaling to be less extreme
 
 ## **2.1.9**
 
