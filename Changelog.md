@@ -1,3 +1,21 @@
+## **2.1.10**
+
+**Added**
+- Loot Feed
+
+**Updated**
+- Unique Landscapes Compilation
+- Better Cities
+- OOO
+- OOO Enhanced
+- Hackdirt The Deep Ones
+- Crash Logger Improved
+- Simple Inheritance
+
+**Changes**
+- tweaked shadow settings to improve performance in some interiors
+- made dungeon water look a bit better
+
 ## **2.1.9**
 
 **Added**
