@@ -8,6 +8,7 @@
 - OCRAFT - Stations for Sale
 - Base Object Swapper
 - Oscuro's Oblivion Overhaul
+- OOO Enhanced
 - Join the Order of the Black Worm
 - Simple Inheritance
 - Companion Vilja - Non-Companion Voices
