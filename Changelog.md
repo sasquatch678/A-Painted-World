@@ -1,7 +1,7 @@
 ## **2.1.11**
 
 **Added**<br/>
--Fully integrated and supported controller profile with NorthernUI
+- Fully integrated and supported controller profile with NorthernUI
 
 **Updated**
 - Crash Logger Improved
