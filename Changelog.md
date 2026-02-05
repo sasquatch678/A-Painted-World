@@ -1,6 +1,6 @@
 ## **2.1.11**
 
-**Added**
+**Added**<br/>
 -Fully integrated and supported controller profile with NorthernUI
 
 **Updated**
