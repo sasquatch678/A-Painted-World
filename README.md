@@ -134,14 +134,9 @@ You will start the game in a ship cabin, here you can choose your race and creat
 
 ## Controller Support
 
-Copy and paste the following link to a web browser. Hit enter.
+There is a fully integrated and working controller profile using NorthernUI. To use this, first ensure steam input is disabled for Oblivion by going to the game in Steam, and clicking the small controller icon in the middle right, under the game banner. Then click the button that says disable steam input.
 
-steam://controllerconfig/22330/3299476272
-
-A prompt will appear to open it with Steam, select Open Link. An image of the layout will appear, use :stop_button: or X to import the layout. From here you can launch the list normally through MO2 and use the controller to play. 
-
-If no prompt appears or it does not take you to a Steam page to import the layout, you may need to use a different internet browser. Chrome and Firefox definitely work.
-
+Next swap to the controller profile in MO2 by clicking the drop down at the top of the application (by default it will say "A Painted World", you want to select "A Painted World - Controller"). Doing so will automatically enable several mods that enable controller support and patch various ui elements, and disable a handful of others that would conflict, cause the game to crash, or otherwise not work at all with a controller. Notably, I had to downgrade ORC to 1.9.3 for this profile so the game will look slightly different.
 ## Optional Mods - Ultrawide Support & Performance
 
 A Painted World comes with several customization options. 
