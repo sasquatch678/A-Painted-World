@@ -1,3 +1,17 @@
+## **2.1.11**
+
+**Added**
+-Fully integrated and supported controller profile with NorthernUI
+
+**Updated**
+- Crash Logger Improved
+- OCRAFT - Stations for Sale
+- Base Object Swapper
+- Oscuro's Oblivion Overhaul
+- Join the Order of the Black Worm
+- Simple Inheritance
+- Companion Vilja - Non-Companion Voices
+
 ## **2.1.10**
 
 **Added**
