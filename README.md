@@ -134,7 +134,9 @@ You will start the game in a ship cabin, here you can choose your race and creat
 
 ## Controller Support
 
-There is a fully integrated and working controller profile using NorthernUI. To use this, first ensure steam input is disabled for Oblivion by going to the game in Steam, and clicking the small controller icon in the middle right, under the game banner. Then click the button that says disable steam input.
+There is a fully integrated and working controller profile using NorthernUI. To use this, first import the custom controller layout specifically made for APW with Steam Input. Copy the link below into a web browser and select "Open Link with Steam" when prompted. If this isn't happening, try a different browser.
+
+steam://controllerconfig/22330/3662923605
 
 Next swap to the controller profile in MO2 by clicking the drop down at the top of the application (by default it will say "A Painted World", you want to select "A Painted World - Controller"). Doing so will automatically enable several mods that enable controller support and patch various ui elements, and disable a handful of others that would conflict, cause the game to crash, or otherwise not work at all with a controller. Notably, I had to downgrade ORC to 1.9.3 for this profile so the game will look slightly different.
 ## Optional Mods - Ultrawide Support & Performance
@@ -143,10 +145,7 @@ A Painted World comes with several customization options.
 
 There is 21x9 ultrawide support under the "ULTRAWIDE OPTIONALS (21x9)" section of Mod Organizer 2. 
 
-By default skills do not increase by using them and instead you get skill points you can distribute when leveling up. You can choose to enable skill based leveling again by disabling Oblivion XP Update. If you also want to avoid the vanilla leveling minmax, you should also consider enabling Skill Diary Undone and Attribute Progression Redesign.
-
-Special K enables quite a few features, however it needs to generate the ini during runtime so is disabled by default. If you choose to enable it, the first time you launch the game you will have a prompt to enable native DXVK support, select Yes. Anything else you may want to use it for can be read about on the wiki link here.
-https://wiki.special-k.info/FAQ
+By default skills do not increase by using them and instead you get skill points you can distribute when leveling up. You can choose to enable skill based leveling again by disabling Oblivion XP Update. If you want to use the leveling system the Remaster uses, you should enable Remastered Leveling. Otherwise leveling will work like vanilla.
 
 Food and Drink Quotes adds funny voicelines to your character when you eat or drink food/potions/ingredients. This can be safely disabled by disabling the mod in MO2.
 
