@@ -1,3 +1,41 @@
+## **2.1.12**
+
+**Added**
+- Fleshy Pod Retextured
+- NorthernUI (Imperial Theme) - Status Bars for Needs
+- Realistic Sprint and Gallop Fixed and Polished
+- DOWNPOUR - rain retexture
+- Horse HUD Bars - Standalone
+- Elsweyr Anequina - Khajiit Compatibility
+- OCO - Elsweyr Deserts of Anequina Patch
+
+**Updated**
+- Modern Security Overhaul
+
+**Changes**
+- ORC 1.9.3 is now used in both profiles, 3.1.1 has been removed
+- disabled ORC rain for more performance friendly vanilla rain with the DOWNPOUR retexture
+- small visual and consistency improvements to reshade/ORC preset
+- greatly decreased sleep/wait time
+- removed relation descriptions from race descriptions. They cause the description to be cut off for the controller profile and no one is ever choosing a race based on these at all anyway
+- reworked lockpicking to what I believe will be a best of both worlds. Security and Luck can still allow you to instantly unlock a locked object, however if you fail it will revert to the minigame, instead of forcing you to continue to sit there and spam interact.
+- various small tweaks and improvements to the controller profile and hud
+- reworked Shadow's Cloak (shadow sign passive) since the damage magicka portion is causing a bug with supreme magicka's sneak attacks and cancelling itself, and also pretty useless when you can use the lesser power for invisibility at will anyway. Now called Shadow's Embrace, it restores 1 point of health/s and fortifies 25 points of speed while crouching. I think this could be interesting as it gives an accessible way for stealth builds to restore health while also making the sign a bit more versatile and unique.
+- Mage's Brilliance (mage sign lesser power) now fortifies 100 points of intelligence rather than magicka since intelligence will also increase spell magnitudes for the duration
+- buffed Lover's Kiss to charm 35 points (was 15)
+- spell absorbption works again like vanilla where it will fully negate an attack when it absorbs a spell (rather than only restore magicka when it absorbs)
+- reworked hand to hand damage to be more viable at all stages of the game. the amount of damage added by gauntlet weight and elemental shields has been reduced, while the base damage has been buffed substantially, keeping in mind it also has the benefit of frequent knockdowns due to damaging fatigue.
+- nerfed snake & scorpion poison duration
+
+**Bugfixes**
+- added "allow repeated stages" to fighters and mages guild cert quest which should hopefully fix instances where the quest would stop progressing
+- fixed clipping enchanting station in anvil mages guild
+- fixed bug causing dismount animation to get stuck
+- removed bandit and maruader faction from foxes which was causing them to be aggressive
+- fixed a multitude of issues and inconsistencies introduced by the new religion system by conducting a massive script merge between multiple mods
+- fixed a variety of broken meshes in OOO Enhanced that would appear as missing in-game
+- fixed wandering priests at the wayshrines missing some voicelines and consistency patched their outfits to match those of the priests in each chapel
+
 ## **2.1.11**
 
 **Added**<br/>
