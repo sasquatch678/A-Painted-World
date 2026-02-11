@@ -15,6 +15,21 @@
 #### 🇶 My mouse isn’t working 
 🅰️ Restart steam
 
+#### 🇶 There are a lot of disabled plugins, should I enable them?
+🅰️ No, they are already part of a merged plugin to bypass the 255 limit. You should not enable or do anything with them.
+
+#### 🇶 How do I take screenshots? 
+🅰️ Use the Del key on the numpad to take screenshots with reshade. They are saved to Modding/screenshots. You can change the key and path in the reshade ui which is opened with Home. Using tm (toggles hud) or tfc (toggles free cam) might help when taking the shot.
+
+#### 🇶 There is an update in Mod Organizer 2, should I update it? 
+🅰️ No, the list will no longer work and you will need to reinstall it through Wabbajack. 
+
+#### 🇶 How do I start the main quest?
+🅰️ Get arrested in the Imperial City and go to jail, or die while resisting arrest.
+
+#### 🇶 How do you feed as a vampire?
+🅰️ Hold shift while activating sleeping NPCs to use vampire ability, otherwise talk/pickpocket.
+
 #### 🇶 I am moving very slowly 
 🅰️ By default you will walk, press X to toggle running. Hold shift while running to sprint.
 
@@ -33,18 +48,3 @@ As a melee or ranged character, make sure you are managing your fatigue as it af
 The world has been unleveled to no longer scale with the player and this is an open world rpg with no true ending. You can always leave and come back stronger. 
 
 If all else fails, use the ingame difficulty slider to fine tune the game to your tastes. 
-
-#### 🇶 There are a lot of disabled plugins, should I enable them?
-🅰️ No, they are already part of a merged plugin to bypass the 255 limit. You should not enable or do anything with them.
-
-#### 🇶 How do I take screenshots? 
-🅰️ Use the Del key on the numpad to take screenshots with reshade. They are saved to Modding/screenshots. You can change the key and path in the reshade ui which is opened with Home. Using tm (toggles hud) or tfc (toggles free cam) might help when taking the shot.
-
-#### 🇶 There is an update in Mod Organizer 2, should I update it? 
-🅰️ No, the list will no longer work and you will need to reinstall it through Wabbajack. 
-
-#### 🇶 How do I start the main quest?
-🅰️ Get arrested in the Imperial City and go to jail, or die while resisting arrest.
-
-#### 🇶 How do you feed as a vampire?
-🅰️ Hold shift while activating sleeping NPCs to use vampire ability, otherwise talk/pickpocket.
