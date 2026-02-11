@@ -9,9 +9,6 @@
 #### 🇶 I have a black screen on the main menu. 
 🅰️ Set bFullScreen to 0 in Oblivon.ini in the profiles folder of wherever you installed the list. Set the file to read-only so this doesn’t get reverted. Enable borderless windowed in mods/A Painted World Configs/oblivion__display_tweaks.ini. It's also possible that you enabled Special K and did not disable the Nvidia Overlay.
 
-#### 🇶 I am crashing or stuttering constantly
-🅰️ Some random crashes are expected, Oblivion is an old game and crashes even without mods. I am still trying to make improvements but nothing will get fixed if you don’t report it. If it can't be replicated it is very difficult to actually solve. Ensure you have followed all pre-install steps. Sometimes Wabbajack does not fully install everything how it's supposed to, so sometimes simply overwriting the installation can fix this if a random file gets corrupted or a config file is installed incorrectly. I've found if you truly stress the engine, such as go interior > exterior > interior repeatedly during hectic fights, travel all across the map in a single session, or repeatedly load a save after dying multiple times in the same cell, this can cause instability. It's also possible you may need to perform driver updates or rollbacks, or something else is wrong with your system. Check this link for other tweaks you can try. https://en.m.uesp.net/wiki/Oblivion:Tweaking
-
 #### 🇶 My mouse isn’t working 
 🅰️ Restart steam
 
@@ -33,8 +30,8 @@
 #### 🇶 I am moving very slowly 
 🅰️ By default you will walk, press X to toggle running. Hold shift while running to sprint.
 
-#### 🇶 Why aren't my stats regenerating faster?
-🅰️ Many birthsign/race combinations offer some form of stat regeneration. Out of combat you should sometimes use the wait function to restore stats. Health will only passively regenerate when you are well fed. Potions or spells should be used to restore stats in combat or when waiting is otherwise not possible. This is an intentional design choice. 
+#### 🇶 I am crashing or stuttering constantly
+🅰️ Some random crashes are expected, Oblivion is an old game and crashes even without mods. I am still trying to make improvements but nothing will get fixed if you don’t report it. If it can't be replicated it is very difficult to actually solve. Ensure you have followed all pre-install steps. Sometimes Wabbajack does not fully install everything how it's supposed to, so sometimes simply overwriting the installation can fix this if a random file gets corrupted or a config file is installed incorrectly. I've found if you truly stress the engine, such as go interior > exterior > interior repeatedly during hectic fights, travel all across the map in a single session, or repeatedly load a save after dying multiple times in the same cell, this can cause instability. It's also possible you may need to perform driver updates or rollbacks, or something else is wrong with your system. Check this link for other tweaks you can try. https://en.m.uesp.net/wiki/Oblivion:Tweaking
 
 #### 🇶 Combat is too hard 
 🅰️ Combat is lethal on both sides. Make good use of the added combat mechanics and utilize spacing and reach to avoid being hit. My goal is for combat to feel engaging and require some strategy but not be overly punishing. If you think I’ve missed the mark here let me know about it.
