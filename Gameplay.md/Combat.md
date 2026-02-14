@@ -4,8 +4,6 @@ Fatigue is like your second health bar and affects your damage dealt and swing s
 
 Moving is overall more restricted, and wearing heavier armor causes you to move more slowly. You move more slowly when strafing or backpedaling. These penalties are reduced based on agility - At high agility, going backwards will barely slow you at all compared to at low agility. Furthermore, NPCs will now actually be slowed by their equipped encumbrance. This also means Burden is more useful - as it will slow enemies down when the magnitude isn't enough to halt them completely.
 
-In vanilla Oblivion, your weapon skill affects your damage 3x as much as your Strength, but this is now normalized so that weapon skill and Strength affect melee damage equally.
-
 Hand to Hand damage now scales with the armor rating of your equipped gauntlets, and does additional elemental damage when an elemental shield effect is active.
 
 Blade, Blunt, Hand to Hand, Heavy Armor, and Light armor all have new and unique perks that will change how you play such as cleaving attacks, stacking bleeds, crushing enemies armor, or sending them flying away.
