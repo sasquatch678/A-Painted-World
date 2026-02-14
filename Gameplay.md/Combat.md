@@ -8,7 +8,7 @@ In vanilla Oblivion, your weapon skill affects your damage 3x as much as your St
 
 Hand to Hand damage now scales with the armor rating of your equipped gauntlets, and does additional elemental damage when an elemental shield effect is active.
 
-Blade, Blunt, Hand to Hand, Heavy Armor, and Light armor all have new and unique perks that will change how you play.
+Blade, Blunt, Hand to Hand, Heavy Armor, and Light armor all have new and unique perks that will change how you play such as cleaving attacks, stacking bleeds, crushing enemies armor, or sending them flying away.
 
 Additionally, there are many new mechanics to take advantage of, listed below.
 
