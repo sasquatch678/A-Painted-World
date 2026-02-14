@@ -92,7 +92,7 @@ You can now place multiple enchantments on equipment, scaling with every 150 mag
 
 - At master skill your basic shield magic effects will protect your weapons and armor from damage based on the strength of the shield. At 100% effect your weapons and armor will take no damage.
 
-- Fire, Frost, Shock, and Poison Shield effects no longer provide physical armor bonus, instead they will damage attackers in melee range when struck, as well as provide elemental resistance. They will also add 25% of their effect as unarmed damage.
+- Fire, Frost, Shock, and Poison Shield effects no longer provide physical armor bonus, instead they work similarly to cloak spells in Skyrim dealing damage in a small area around the caster, as well as provide elemental resistance. They will also add 25% of their effect as unarmed damage.
 
 - Potions will now restore over time. The total number of potions you can consume at once is determined by the following formula - (Endurance + Alchemy)/25
 
