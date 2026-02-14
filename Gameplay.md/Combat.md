@@ -24,7 +24,7 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 
 ## Resistances and Weaknesses
 
-Most enemies have some form of resistance or weakness to specific damage types ie. Undead are weak to silver weapons, spectral enemies are weak to shock damage. Racial bonuses apply the same way to enemies, so attacking a dunmer bandit with fire spells won't make much sense, and likewise a nord with frost. Fast and quickly attacking enemies can be countered by absorb speed or burden effects. If you normally use a one-handed blade, it might be worth still carrying around a two-handed blade for dangerous melee enemies so you can keep your distance. Enemies with high regeneration can be countered with one of the new magic effects from Av Latta Magicka that stops all healing.
+Most enemies have some form of resistance or weakness to specific damage types ie. Undead are weak to silver weapons but immune to poison, spectral enemies are weak to shock damage but immune to physical weapons. Racial bonuses apply the same way to enemies, so attacking a dunmer bandit with fire spells won't make much sense, and likewise a nord with frost. Fast and quickly attacking enemies can be countered by absorb speed or burden effects. If you normally use a one-handed blade, it might be worth still carrying around a two-handed blade for dangerous melee enemies so you can keep your distance. Enemies with high regeneration can be countered with one of the new magic effects from Av Latta Magicka that stops all healing.
 
 The list is designed in a way to reward using effective tactics against different types of enemies. There is almost always something you can adapt in your playstyle/loadout to make a specific combat encounter easier.
 
