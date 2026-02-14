@@ -40,6 +40,6 @@ The Path of the Warmage teaches both to push the limits of Destruction magic to 
 The Path of the Diviner takes its power from skirting the line between existence and non-existance, opening the way to many unusual spells.<br/>
 The Path of the Illusionist is one of subtle magic and surgical precision, seeking the open doors of the conciousness and using them to alter the mind to one's own advantage.<br/>
 ### Stealth
-The Path of the Spy guides one in remaining unseen and attacking from hiding.<br/>
+The Path of the Spy guides one in remaining unseen and attacking from the shadows.<br/>
 The Path of the Scout makes movement, in both speed and range, its purview, along with honing one's perception.<br/>
-The Path of the Manipulator hones one's personality into a tool, so that one they always receive help if they require it or change how they appear to others.<br/>
+The Path of the Manipulator hones one's personality into a tool, they always receive help if they require it or change how they appear to others.<br/>
