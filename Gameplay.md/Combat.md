@@ -31,7 +31,7 @@ Most enemies have some form of resistance or weakness to specific damage types i
 This is intentional to reward strategic thinking. There is almost always something you can adapt in your playstyle/loadout to make a specific combat encounter easier.
 
 ## Skill Specializations
-At level 5 the player will get a choice to go down three different paths, depending on their class specialization. These are listed below. There are 7 total abilities or upgrades for each path, and every 5 levels after up to level 35 you will gain a new one.
+At level 5 the player will get a choice to go down three different paths, depending on their class specialization. These are listed below. There are 7 total abilities or upgrades for each path, and every 5 levels up to level 35 you will gain a new one.
 
 ### Combat
 - **The Path of the Gladiator** focuses on using one's strength and stamina to their fullest extent, knocking enemies off-balance and exhausting them. <br/>
