@@ -29,17 +29,7 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 Most enemies have some form of resistance or weakness to specific damage types ie. Undead are weak to silver weapons, spectral enemies are weak to shock damage. Fast and quickly attacking enemies can be countered by absorb speed or burden effects. This is to reward strategic thinking, there is almost always something else you can do to make combat encounters easier.
 
 ## Skill Specializations
-At level 5 the player will get a choice to go down three different paths, depending on their class specialization. These are listed below. Every 5 levels after up to level 35, they will gain a new unique ability or passive related to that path, or upgrade an existing ability. Some examples of these are:
-- **Diehard:** Guardian togglable Power. Gives a huge Fortify Health effect while draining Fatigue, and the effect automatically ends if Fatigue gets too low. If this happens while the Fortify effect is the only thing keeping the player alive, they can die anyways.
-- **Parry:** Duelist Touch Power. Casting it on an opponent in mid-attack will knock them off balance.
-- **Solid Defense:** Guardian passive ability. Standing still for a few seconds allows the player to dig in, making them more durable in every way.
-- **Metamagic Fire:** Warmage togglable Spell. Any Fire Damage effects the player casts (Traditional Spells only. No Powers or Scrolls) cost more Magicka, but can knock targets to the ground depending on the effect's Magnitude and the target's Agility.
-- **Arcane Turret:** Warmage togglable Spell. Conjures a spellcasting turret similar to those found in the plane of Oblivion, but smaller and quicker. It draws from the player's Magicka pool, casting a spell (chosen from any of the player's On Target ones) at any enemies who get too close.
-- **Blink:** Diviner Spell. Causes the caster to wink in and out of a physical state at random. While non-physical, the caster can't be hit. They will always be physical for the duration of any attacks or spells they perform themselves, however.
-- **Disorientation:** Illusionist Spell. Garbles the immediate memory of the target, making it hard for them to react properly in melee combat. Better Illusionists will recieve greater effect from this, and intelligent and adaptible targets will suffer less from it.
-- **Trapmaking:** Spy togglable Power. Drives a series of two-sided spikes into the ground, spaced far apart enough to be avoided by anyone who knows they're there. Anyone who steps into them without knowing they're there will experience sharp pain and extreme caution when moving.
-- **High Jump:** Scout passive ability. The player jumps significantly higher when starting from a crouching (sneaking) position.
-- **Helping Hand:** Manipulator passive ability. When in combat, friends of the Manipulator are more likely to come to their aid.
+At level 5 the player will get a choice to go down three different paths, depending on their class specialization. These are listed below. Every 5 levels after up to level 35, they will gain a new unique ability or passive related to that path, or upgrade an existing ability.
 
 ### Combat
 **The Path of the Gladiator** focuses on using one's strength and stamina to their fullest extent, knocking enemies off-balance and exhausting them. <br/>
@@ -61,3 +51,15 @@ At level 5 the player will get a choice to go down three different paths, depend
 **The Path of the Scout** makes movement, in both speed and range, its purview, along with honing one's perception.<br/>
 
 **The Path of the Manipulator** hones one's personality into a tool, they always receive help if they require it or change how they appear to others.<br/>
+
+Some examples of abilities you may unlock are:
+- **Diehard:** Guardian togglable Power. Gives a huge Fortify Health effect while draining Fatigue, and the effect automatically ends if Fatigue gets too low. If this happens while the Fortify effect is the only thing keeping the player alive, they can die anyways.
+- **Parry:** Duelist Touch Power. Casting it on an opponent in mid-attack will knock them off balance.
+- **Solid Defense:** Guardian passive ability. Standing still for a few seconds allows the player to dig in, making them more durable in every way.
+- **Metamagic Fire:** Warmage togglable Spell. Any Fire Damage effects the player casts (Traditional Spells only. No Powers or Scrolls) cost more Magicka, but can knock targets to the ground depending on the effect's Magnitude and the target's Agility.
+- **Arcane Turret:** Warmage togglable Spell. Conjures a spellcasting turret similar to those found in the plane of Oblivion, but smaller and quicker. It draws from the player's Magicka pool, casting a spell (chosen from any of the player's On Target ones) at any enemies who get too close.
+- **Blink:** Diviner Spell. Causes the caster to wink in and out of a physical state at random. While non-physical, the caster can't be hit. They will always be physical for the duration of any attacks or spells they perform themselves, however.
+- **Disorientation:** Illusionist Spell. Garbles the immediate memory of the target, making it hard for them to react properly in melee combat. Better Illusionists will recieve greater effect from this, and intelligent and adaptible targets will suffer less from it.
+- **Trapmaking:** Spy togglable Power. Drives a series of two-sided spikes into the ground, spaced far apart enough to be avoided by anyone who knows they're there. Anyone who steps into them without knowing they're there will experience sharp pain and extreme caution when moving.
+- **High Jump:** Scout passive ability. The player jumps significantly higher when starting from a crouching (sneaking) position.
+- **Helping Hand:** Manipulator passive ability. When in combat, friends of the Manipulator are more likely to come to their aid.
