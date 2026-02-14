@@ -27,3 +27,19 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 ## Resistances and Weaknesses
 
 Most enemies have some form of resistance or weakness to specific damage types ie. Undead are weak to silver weapons, spectral enemies are weak to shock damage. Fast and quickly attacking enemies can be countered by absorb speed or burden effects. This is to reward strategic thinking, there is almost always something else you can do to make combat encounters easier.
+
+## Skill Specializations
+At level 5 the player will get a choice to go down three different paths, depending on their class specialization. These are listed below. Every 5 levels after up to level 35, they will gain a new unique ability or passive related to that path, or upgrade an existing ability.
+
+### Combat
+The Path of the Gladiator focuses on using one's strength and stamina to their fullest extent, knocking enemies off-balance and exhausting them.
+The Path of the Duelist hones ones reflexes, teaching them to be in exactly the right place at exactly the right time for both offensive and defensive purposes.
+The Path of the Guardian emphasizes sturdy defense to the point of untouchability, and how to best strike when one's opponent is stopped by it.
+### Magic
+The Path of the Warmage teaches both to push the limits of Destruction magic to achieve new effects, and to manipulate the flow of Magicka to alter the attributes of all one's spells.
+The Path of the Diviner takes its power from skirting the line between existence and non-existance, opening the way to many unusual spells.
+The Path of the Illusionist is one of subtle magic and surgical precision, seeking the open doors of the conciousness and using them to alter the mind to one's own advantage.
+### Stealth
+The Path of the Spy guides one in remaining unseen and attacking from hiding.
+The Path of the Scout makes movement, in both speed and range, its purview, along with honing one's perception.
+The Path of the Manipulator hones one's personality into a tool, so that one they always receive help if they require it or change how they appear to others.
