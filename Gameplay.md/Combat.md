@@ -26,10 +26,12 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 
 ## Resistances and Weaknesses
 
-Most enemies have some form of resistance or weakness to specific damage types ie. Undead are weak to silver weapons, spectral enemies are weak to shock damage. Fast and quickly attacking enemies can be countered by absorb speed or burden effects. This is to reward strategic thinking, there is almost always something else you can do to make combat encounters easier.
+Most enemies have some form of resistance or weakness to specific damage types ie. Undead are weak to silver weapons, spectral enemies are weak to shock damage. Racial bonuses apply the same way to enemies, so attacking a dunmer bandit with fire spells won't make much sense, and likewise a nord with frost.
+
+Fast and quickly attacking enemies can be countered by absorb speed or burden effects. This is to reward strategic thinking, there is almost always something else you can do to make combat encounters easier.
 
 ## Skill Specializations
-At level 5 the player will get a choice to go down three different paths, depending on their class specialization. These are listed below. There are 7 total abilities or upgrades for each path, and every 5 levels after up to level 35, you will gain a new one.
+At level 5 the player will get a choice to go down three different paths, depending on their class specialization. These are listed below. There are 7 total abilities or upgrades for each path, and every 5 levels after up to level 35 you will gain a new one.
 
 ### Combat
 - **The Path of the Gladiator** focuses on using one's strength and stamina to their fullest extent, knocking enemies off-balance and exhausting them. <br/>
