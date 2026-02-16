@@ -143,4 +143,4 @@ A 10 Septim bet is made on either an odd or even roll. Player rolls 1 die.
 Same as Parity, but two dice are rolled. If a double is rolled the bet is doubled to 20.
 
 - High Stakes:
-Any NPC with a luck higher than 60 will give the option to play games at higher stakes. As far as I know all default NPCs in Oblivion have a luck of 50. So this should only affect the new gamblers with luck higher than 60 (or any other mod added NPC who has high luck and happens to be hanging in a tavern or inn. The options are 2x, 3x, 4x and one special gambler has 10x option. These option only show up if both parties can afford the larger transactions.
+Any NPC with a luck higher than 60 will give the option to play games at higher stakes. The options are 2x, 3x, 4x and one special gambler has 10x option. These option only show up if both parties can afford the larger transactions.
