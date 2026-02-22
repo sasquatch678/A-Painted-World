@@ -68,6 +68,7 @@ Notes: my idea of what a Mage should be is a highly versatile glass cannon with 
 - reworked magicka regen formula - lower regen overall, more dependent on willpower than before
 - reduced amount of magicka per point of intelligence from 3 to 2 - in addition to magicka, intelligence also grants spellpower so it shouldn't be so good at giving raw magicka
 - added global 10% cost increase to all spells
+- reduced damage from enchanted staves by 15%
 - starting destruction spells for frost and fire are now on target instead of on touch - this should help mostly in the early game when you are squishiest to stay at range
 - spell projectile speed buffed by 10%
 - non-crafted on touch and target spells now have a small 2yd radius just to make aiming a bit easier
