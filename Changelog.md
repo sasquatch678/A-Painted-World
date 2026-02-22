@@ -30,8 +30,7 @@
 - Reshade shaders to 6.7.1 version of Reshade
 - Guild Advancement
 
-**Changes**
-GENERAL CHANGES
+**GENERAL CHANGES**
 - enabled ORC's dialog patch to allow an easier time reading subtitles for unvoiced dialogue - dialog won't automatically proceed and requires a mouse click
 - removed annoying sound that occured when sneaking with a chameleon effect active
 - Simple Crafts item removed from starting inventory
@@ -55,7 +54,7 @@ GENERAL CHANGES
 - consistency patched all Conjurer npcs added by OOO and MOO with Better Oblivion Crisis - Cultists Replace Conjurers - the Mythic Dawn will feel far more integrated into the world as a proper faction
 - further refined/reduced available extra dialogue options - the menu will no longer be cluttered when your disposition for a topic isn't high enough, now extra dialogue topics will only appear when they actually have an answer
 
-BIRTHSIGN CHANGES
+**BIRTHSIGN CHANGES**
 Notes: some birthsigns had too much overlap with another, these changes seek to make each more unique
 - the Atronach sign no longer has stunted magicka, nor fortifies magicka. instead they gain 15 points of each elemental shield and 15 points of normal shield. Buffed magicka siphon by 2x for all weapon types.
 - the Lord lesser power now restores 8 health/s (was 6), passive now grants 50 health (was 75)
@@ -63,7 +62,7 @@ Notes: some birthsigns had too much overlap with another, these changes seek to 
 - Tower's Vigilance (lesser power) no longer grants reflect damage or resist normal weapons, instead it grants 50 points of shield. also fixed the taunt effect so it actually works
 - reduced the reflect amount on Lady's Riposte to 30% (was 40%)
 
-MAGIC
+**MAGIC**
 Notes: my idea of what a Mage should be is a highly versatile glass cannon with high damage spells, but low defense and some downtime. Previously they were very tanky thanks to the unarmored skill and magicka was basically a non-issue, these changes seek to address that.
 - reworked magicka regen formula - lower regen overall, more dependent on willpower than before
 - reduced amount of magicka per point of intelligence from 3 to 2 - in addition to magicka, intelligence also grants spellpower so it shouldn't be so good at giving raw magicka
@@ -73,13 +72,13 @@ Notes: my idea of what a Mage should be is a highly versatile glass cannon with 
 - spell projectile speed buffed by 10%
 - non-crafted on touch and target spells now have a small 2yd radius just to make aiming a bit easier
 
-COMBAT
+**COMBAT**
 - slightly increased weapon swing speed multiplier
 - no more penalty debuff to using a shield, but the bonus to not using one has been increased to 10 speed and agility (the bonus to using a shield being a higher block %, armor rating, and extra enchantment slot). The bonus also no longer applies when a 2h, bow, or staff are equipped. Only 1h + empty hand.
 - buffed amount of damage blocked without a shield to 70% effectiveness (~15% increase)
 - nerfed archery headshot damage to 50% bonus damage and 100% while sneaking (was 100% and 200%)
 
-STEALTH
+**STEALTH**
 - each stealth major skill now also grants 2% passive chameleon in addition to the fatigue bonus
 - reduced aggro radius of enemies slightly so you shouldn't have to fight an entire cell as often
 - arrows no longer give a huge detection bonus to enemies when fired
