@@ -1,3 +1,100 @@
+## **2.2.0**
+
+**Added**
+- Skill Specialization
+- Kragenirs Death Quest + voice addon
+- Oblivion Collectible Cards + voice addon
+- Shroud Over Stalrous Manor
+- Order of the Dragon + voice addon
+- Smoking Firesources BETA - Project Ambience
+- Healing the Bald Ghost Npc's
+- Elden Ring-Inspired Dodge Animations - Vanilla Conversion
+- Remastered Attributes (optional) - not sure why this disappeared?
+- Leveling through training only (optional)
+- GPEngineFixes
+- Wayshrine Map Markers - Redux
+- A Champions Death - Death Alternative System (optional)
+- Harvest Containers xOBSE
+- Harvest Flora but using the xOBSE patch to not brick your save over time
+- Better Injured and Death Bear Sound
+
+**Removed**
+- ODOS - Oblivion Display and Organization System - I have reason to suspect this mod contributes to instability, and almost all it's capability is introduced with more customization through the crafting system.
+- Player Home Displays (ODOS) - ^
+- Maskar's Unarmored Skill - as cool as it is to have a new skill, this mod severely imbalances the game by allowing mages, an already very strong class, to gain a permanent 70 armor. What's the point of heavy or light armor when you can get the same protection with no penalty to spell effectiveness? This is what shield and reflect/resist damage spells/enchantments are for, but instead you can put all your power into offense because you get almost max armor rating for free, and with a chance to avoid attacks on top. Not to mention how out of place it is when playing with OblivionXP.
+- Loot Feed - it's kinda neat but I don't need to see what I already just looted pop up on the screen again - just not worth an esp slot
+- Women Class Portraits - redundant since Class portraits diversified already includes class portraits of all genders and races
+- s6o6t LORE - Oblivion Gates Replacer
+
+**Updated**
+- Reshade shaders to 6.7.1 version of Reshade
+- Guild Advancement
+
+**Changes**
+GENERAL CHANGES
+- enabled ORC's dialog patch to allow an easier time reading subtitles for unvoiced dialogue - dialog won't automatically proceed and requires a mouse click
+- removed annoying sound that occured when sneaking with a chameleon effect active
+- Simple Crafts item removed from starting inventory
+- mildly increased interior brightness
+- disabled MOO's dynamic dungeons - these are just terrible content
+- re-enabled ability for actors to follow the player through loading screen doors (max 2) - originally disabled since I suspected it was contributing to instability but I'd like to try it again now
+- increased base amount of bribe costs - to make speech just a bit more enticing and otherwise add a small gold sink
+- decreased health of enemies below level 10 by 10% and increased health of enemies above level 10 by 10%
+- disabled MOO's overwrite of min and max movement speed - this allows the formula from Combat Reshoveled to take effect based on movement direction tldr; it will be harder to infinitely kite enemies by running backwards and overall movement (especially in armor) is a bit faster
+- disabled MOO's overwrite of min and max jump height
+- increased effect of the strength of MOO's imperial legion faction on barter prices by 15%
+- reduced available merchant gold by 25%
+- increased value of repair hammers - again adding a tiny bit more gold sink
+- reduced amount of automatic recharge on enchanted items from 100% of mysticism per hour to 25% - the auto recharge just completely invalidates soul gems which ends up removing a much needed gold sink from the economy
+- reduced maximum skill points allowed in one skill per level to 10 (was 15)
+- buffed each soulgems enchantment limit by ~15%
+- reduced fortify attributes given from class specialization to 5 each (was 10)
+- each point of endurance now gives 2.5 health (was 2)
+- reduced barter value of most positive enchantment effects by ~15-20% - getting rich will take longer, but buying magic items in shops will also be a bit cheaper
+- increased fast travel costs 3x
+- consistency patched all Conjurer npcs added by OOO and MOO with Better Oblivion Crisis - Cultists Replace Conjurers - the Mythic Dawn will feel far more integrated into the world as a proper faction
+- further refined/reduced available extra dialogue options - the menu will no longer be cluttered when your disposition for a topic isn't high enough, now extra dialogue topics will only appear when they actually have an answer
+
+BIRTHSIGN CHANGES
+Notes: some birthsigns had too much overlap with another, these changes seek to make each more unique
+- the Atronach sign no longer has stunted magicka, nor fortifies magicka. instead they gain 15 points of each elemental shield and 15 points of normal shield. Buffed magicka siphon by 2x for all weapon types.
+- the Lord lesser power now restores 8 health/s (was 6), passive now grants 50 health (was 75)
+- Mage's Brilliance now fortifies 50 points of intelligence instead of 100
+- Tower's Vigilance (lesser power) no longer grants reflect damage or resist normal weapons, instead it grants 50 points of shield. also fixed the taunt effect so it actually works
+- reduced the reflect amount on Lady's Riposte to 30% (was 40%)
+
+MAGIC
+Notes: my idea of what a Mage should be is a highly versatile glass cannon with high damage spells, but low defense and some downtime. Previously they were very tanky thanks to the unarmored skill and magicka was basically a non-issue, these changes seek to address that.
+- reworked magicka regen formula - lower regen overall, more dependent on willpower than before
+- reduced amount of magicka per point of intelligence from 3 to 2 - in addition to magicka, intelligence also grants spellpower so it shouldn't be so good at giving raw magicka
+- added global 10% cost increase to all spells
+- starting destruction spells for frost and fire are now on target instead of on touch - this should help mostly in the early game when you are squishiest to stay at range
+- spell projectile speed buffed by 10%
+- non-crafted on touch and target spells now have a small 2yd radius just to make aiming a bit easier
+
+COMBAT
+- slightly increased weapon swing speed multiplier
+- no more penalty debuff to using a shield, but the bonus to not using one has been increased to 10 speed and agility (the bonus to using a shield being a higher block %, armor rating, and extra enchantment slot). The bonus also no longer applies when a 2h, bow, or staff are equipped. Only 1h + empty hand.
+- buffed amount of damage blocked without a shield to 70% effectiveness (~15% increase)
+- nerfed archery headshot damage to 50% bonus damage and 100% while sneaking (was 100% and 200%)
+
+STEALTH
+- each stealth major skill now also grants 2% passive chameleon in addition to the fatigue bonus
+- reduced aggro radius of enemies slightly so you shouldn't have to fight an entire cell as often
+- arrows no longer give a huge detection bonus to enemies when fired
+
+**Bugfixes**
+- werewolf invasions have been disabled to prevent a specific crash. Random one off werewolves can still spawn
+- actually properly disabled Supreme Magicka's sneak attacks via script edits instead of just configs to prevent weird issues, you can continue using magic sneak attacks from Av Latta Magicka as always
+- consistency patched ghosts from OOO and MOO to use the new model replacer
+- Black Hand clothing should no longer appear in random marauder boss chests
+- fixed ambient occlusion issues with animated ingredients (fire/frost/void salts, ectoplasm, etc.)
+- big container consistency patch fixing several quests that require you to put something back into a container - now that the dust has settled from when OOO decided to removed Harvest Containers I found some major consistency issues with my patching to fix it back then - missing/broken scripts, missing sounds, random mesh changes, etc. I took the time to re-patch every container in the game from scratch to ensure there are no more unwanted side effects.
+- fixed mages and fighters guild cert quest no longer updating actually for real
+- fixed bug where Delmar wouldn't finish making your staff for the Mages Staff quest
+- fixed class skill perk bonuses not being re-added if you changed your race in the starting ship
+- fixed bald hair bug on AMD gpus (thanks @ClarSco)
+
 ## **2.1.12**
 
 **Added**
