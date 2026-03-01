@@ -25,6 +25,8 @@
 - Bounty quests no longer complete when declining them so they cannot be exploited for experience
 - new balancing philosophy for enchanting - caps are raised, but price is also increased substantially
 - removed chameleon bonus from stealth skills, increased fatigue to +10 per skill (was +5)
+- added 5 points of drain speed to backpack enchantment
+- greatly reduced the value of capes and cloaks
 
 **Bugfixes**
 - fixed broken landscape near Leyawiin gold horse courier
