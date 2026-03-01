@@ -1,3 +1,41 @@
+## **2.2.1**
+
+**Added**
+- Fire retexture and ENB box remover for Shivering Isles
+- Unequip Broken Gear
+- s6o6t LORE - Oblivion Anymore - Creatures Overhaul - partially (no clanfears or dremora), also consistency patched with OOO and MOO creatures
+- Honorable Arena
+- Twohanded Sneak Attacks
+
+**Updated**
+- Improved Fighters Guild ENG
+- Fighters Guild Quests Voices (ElevenLabs)
+
+**Changes**
+- actually no more giga detection bonus when sneaking with arrows
+- backpacks no longer take an amulet slot and are also invisible - these effects are intertwined, cannot do just one so if you hate this make it known since many people asked me to make them wearable with an amulet
+- tamed creatures are now essential
+- different tiers of skeletal summons are now meaningfully different beyond stat changes - summon skeletal warriors, archers, mages, and a bone colossus
+- blood spray/decals will be a bit larger/brighter
+- reduced sun size
+- increased magic skill gain outside combat by 50% for remastered leveling users
+- Benirus Manor Basement now plays dungeon music
+- removed all mod message spam in the top left corner when starting a new game
+- removed recoil added by Supreme Magicka to destruction spells since there is a lot of overlap with Av Latta Magicka's perks and it was kind of annoying to fight against
+- Bounty quests no longer complete when declining them so they cannot be exploited for experience
+- new balancing philosophy for enchanting - caps are raised, but price is also increased substantially
+- removed chameleon bonus from stealth skills, increased fatigue to +10 per skill (was +5)
+
+**Bugfixes**
+- fixed broken landscape near Leyawiin gold horse courier
+- fixed player missing Whistle power
+- fixed a few instances of record corruption in the bashed patch
+- fixed sound spam from the Eye Adaptation power from the Spy path
+- fixed npcs from newly added quest mods who had faces not compatible with OCOv2
+- actually fixed guild advancement skill checks again for real actually
+- removed Black Hand boots and gloves from marauder boss chests
+- fixed random missing mesh on orc adamantium war mace (it's actually a 1h mace now)
+
 ## **2.2.0**
 
 **Added**
