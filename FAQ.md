@@ -16,7 +16,7 @@
 🅰️ No, they are already part of a merged plugin to bypass the 255 limit. You should not enable or do anything with them.
 
 #### 🇶 How do I take screenshots? 
-🅰️ Use the Del key on the numpad to take screenshots with reshade. They are saved to Modding/screenshots. You can change the key and path in the reshade ui which is opened with Home. Using tm (toggles hud) or tfc (toggles free cam) in the console might help when taking the shot.
+🅰️ Use the Del key on the numpad to take screenshots with reshade. They are saved to the overwrite/Root folder. You can change the key and path in the reshade ui which is opened with Home. Using tm (toggles hud) or tfc (toggles free cam) in the console might help when taking the shot.
 
 #### 🇶 There is an update in Mod Organizer 2, should I update it? 
 🅰️ No, the list will no longer work and you will need to reinstall it through Wabbajack. 
