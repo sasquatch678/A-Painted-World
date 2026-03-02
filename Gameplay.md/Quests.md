@@ -1,8 +1,8 @@
-# Quests 
+# <p align="center"> Quests 
 
 Most quests will show up in the new Progress Tracker menu, which can be accessed in the stats or map menu. This will give you an overview of your current total progress in the game as well as a small blurb on each questline and how they may be started.
 
-## Main Quest
+## <p align="center"> Main Quest
 
 The player begins the game on board a ship rather than starting in the Imperial Prison. You can choose from a variety of starting options which will affect what equipment you start with (choosing a wealthier background will give you better starting equipment and therefore make the start of the game easier; to start with no equipment or spells, choose the "beggar" option), and then choose a city in which to dock -- Anvil, Bravil, the Imperial City, or Leyawiin. You can also choose to start the game as a vampire.
 
