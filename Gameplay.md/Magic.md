@@ -1,4 +1,4 @@
-## MAGIC
+## <p align="center"> MAGIC
 
 Magic has been greatly expanded, with over 30 new magic effects and spell types thanks to Av Latta Magicka and Supreme Magicka. Your starting magicka pool is determined by your total intelligence and your class specialization and major skills. Certain races start with higher or lower intelligence and certain birthsigns further increase the pool. Interacting with Ayleid Wells will each give a permanent and stacking +5 bonus to your magicka, until you interact with 35 total at which point you will gain a permanent +200 magicka and a +1/s magicka regeneration buff.
 
@@ -6,14 +6,14 @@ In additon to increasing your total magicka pool, Intelligence now also scales t
 
 Leveling magic skills now scales with magicka cost of the spell, so it is no longer the most efficient thing to do to craft a low cost spell and spam it a million times to level up.
 
-### Magic Sneak Attacks
+## <p align="center"> Magic Sneak Attacks
 Touch spells start with a 1x sneak multiplier at novice sneak and increase up to 3x at a master level of sneak. (0.5x increase per level of sneak mastery).
 Target spells start with a 1x sneak multiplier at novice sneak and increase up to 2x at a master level of sneak. (0.25x increase per level of sneak mastery).
 
-### Spell Favoriting 
+## <p align="center"> Spell Favoriting 
 You can favorite spells by pressing F on them in the magic menu. Outside of the menu, pressing F will open the favorites menu which you can scroll through with the mouse wheel. 
 
-### Magic Effect Combinations
+## <p align="center"> Magic Effect Combinations
 These occur when the same target is hit by 2 interacting effects. The first time that happens, you'll see a tutorial message.
 
 #### Convulsions:
@@ -28,7 +28,7 @@ Poison + Fire Damage
 #### Meltdown:
 Elemental Weapons + Disintegrate Weapon
 
-### Environmental Effects
+## <p align="center"> Environmental Effects
 Weather and location will affect elemental Destruction spells. All modifiers are multiplicative.
 | Weather    | Effect | 
 |:--------------:|:-------------:|
@@ -37,13 +37,13 @@ Weather and location will affect elemental Destruction spells. All modifiers are
 | Swimming | Fire spells are 75% weaker; Frost spells are 25% stronger; Shock spells are 35% stronger
 | Inside Oblivion | Fire spells are 25% stronger
 
-### Spellcrafting
+## <p align="center"> Spellcrafting
 
 There are many new spellcrafting and enchanting altars all over Cyrodiil, it is no longer locked behind access to the Arcane University. First, each Mages Guild hall now has an enchanting altar. Second, magic shops like Mystic Emporium, Rindir's Staffs, and Warlock's Luck now have them added.  Third, a few private dwellings of mage characters have them added (Henantier, Fathis Aren, etc.)  Last, many have been added to necromancer and sorcerer dungeons.
 
 A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - using it allows creation of one custom spell for free.
 
-### Enchanting
+## <p align="center"> Enchanting
 
 You can now place multiple enchantments on equipment, scaling with every 150 magicka.
 
@@ -53,13 +53,13 @@ You can now place multiple enchantments on equipment, scaling with every 150 mag
 
 - Soul Trap: Soul trap is a bit tedious to use. So to help reduce the tedium every time you cast soul trap on an enemy it will recharge the current weapon by 1%. When the enemy dies under the effect whether you have a soul gem or not it will recharge your current weapon by 5%. Soul trap when first cast on an enemy will feedback the level of the soul under your crosshair.
 
-### Necromancy and Lichdom
+## <p align="center"> Necromancy and Lichdom
 
 - Reanimation has been given a big expansion. Instead of being used on only one unique staff, this effect is now available in form of multiple spells, spread throughout the world and can also be used in spellmaking.
 
 - Necromancy and Lichdom introduces a new necromancy system where you create leveled undead followers using body parts, as well as the ability to transform into a Lich, complete with the accompanying animations. A Skeleton and Wraith form are also options. It begins when you pick up the Tome of Unlife during the quest "Where the Spirits have Lease" By reading different chapters of the book, you will gain the ability to harvest bodies for parts which you can use to create various undead followers. When you have the required parts you will be able to create the body, and then use magic to animate them to act as permanent followers. The spells are locked behind skill prerequisites, so I would recommend leveling your Restoration, Conjuration, and Mysticism if you want to be able to use them. All followers levels will be scaled to the player at the time of creation (e.g. If you create a skeleton at level 1 it will be a normal skeleton, but if you create a skeleton at level 20 it will be a skeleton champion.) In order to toggle whether a minion follows you or not just interact with them.
 
-### Various Changes to Magic Mechanics
+## <p align="center"> Various Changes to Magic Mechanics
 
 - New Concentration Spells will continue their effects as long as Cast key is held or until Magicka runs out.
 
