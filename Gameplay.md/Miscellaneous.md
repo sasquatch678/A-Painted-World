@@ -1,22 +1,24 @@
-## MISC CHANGES
+## <p align="center"> MISC CHANGES
 For new mechanics which don't fit cleanly into another section.
 
-### Travel
+## <p align="center"> Travel
 Fast traveling costs gold, to simulate the amount you would spend resting at inns and cost of resources. It is generally more expensive than using the alternative methods mentioned below as it is far more convenient. The amount of gold it costs is just the number of hours it takes to travel x 20. This takes into account your characters own movement speed, so if you want to game the system you could use a short duration fortify athletics and speed spell before fast traveling. Fast traveling while on a horse will cut the time and cost in half.
 
 As an alternative to fast travel, there are also npcs at each stable who will take you to other stables by carriage, and npcs at each dock location who will transport you by boat. You can unlock guides in each Mages Guild by completing one of the new mod added quests in Integration: A Stranded Light.
 
-### Lock Bashing
+## <p align="center"> Lock Bashing & Security
 Locks can be bashed by attacking them with your weapon or fists. Your weapon or gloves/you will be damaged. Blunt and heavy weapons are best suited to the task. Player strength, weapon skill, and current fatigue are all accounted for in the formula. Power attacks give a 3x  bonus, but deal more damage back to the weapon/gloves/you. Bashing locks is a crime and can't be attempted while sneaking.
 
-### Needs
+Otherwise there is a chance based on your security and luck to immediately unlock something when you interact with it, breaking a lockpick in the process. If this check fails, you will enter the default minigame.
+
+## <p align="center"> Needs
 The list has simple and balanced bonuses for eating, drinking, and sleeping regularly. Encourages roleplaying, without burdening you with negative effects if you don't. 
 
 Eating or drinking any item considered to be food by the game contributes to your 'food pool', based on the weight and value of the item. Once your food pool reaches a threshold, you will be considered Well Fed. Whist 'Well Fed', you will gain slow Health regeneration outside of combat, which makes eating a meal before setting off on a dungeon crawl very beneficial. Your food pool depletes over time and when it reaches zero, you will no longer be Well Fed. Cooked foods crafted from the Cooking Pot also offer long lasting attribute buffs, in addition to filling your hunger meter.
 
 Sleeping in a bed provides a 'Well Rested' bonus that increases Fatigue by 50 points for a long period of time. Sleeping in a safe indoors location provides the bonus for 12 hours, and any other location provides it for 6 hours. You will also gain rested experience based on the amount of time slept.
 
-### Horses
+## <p align="center"> Horses
 
 Each owned horse gives access to saddlebags. They can be accessed by activating the horse while sneaking.Saddlebags have a limited capacity depending on your horse's Strength attribute. To access saddlebags, you must own the horse and it must be your last ridden horse. These checks prevent you from accessing the saddlebag inventory of a horse you’ve stolen or otherwise don't own. The saddlebag inventory is shared between horses, so you don't need to retrieve your items if your horse dies; all items will appear in your new horse's saddlebags.
 
@@ -24,7 +26,7 @@ Whistle
 
 - A lesser power is added which can whistle to call your horse, or other companions to you in an instant.
 
-### Gods and Worship
+## <p align="center"> Gods and Worship
 You will often find shrines to different divines in homes and public spaces depending on the region. The Colovians, a militaristic and rustic people, comprise of the bulk of the Legion. The martial Colovians may have shrines to the Nine Divines, but these are scarcer than in the Heartlands. Cities dominated by Colovian subculture include Chorrol, Anvil, and Skingrad (Kvatch has been left untouched).     
 
 The cosmopolitan Nibenese, by contrast, are esoteric, philosophizing, and religious.  The Nibenese will have often a multitude of shrines in their homes and businesses.  Many Nibenese will have shrines related to more obscure cults, such as shrines to Cuhlecain (the Cult of Emperor Zero), Reman Cyrodiil (founder of the 2nd Empire), Alessia and Morihaus (leaders of the rebellion against the Ayleids), and shrines to various hero and animal cults.   Cities dominated by Nibenese subculture include Leyawiin, Bravil, Cheydinhal, Bruma, and the Imperial City.
@@ -84,7 +86,7 @@ Each Nine Divines faction and 2 Knightly Orders can be joined. Joining a faction
 
 You can join only ONE god faction OR one Knightly Order. You cannot join both a Knightly Order and its associated priesthood. The benefits of joining a faction are that you have reduced prices for the healing service, lodgings in the temple/HQ, access to privileged services (For some religions) and the god/Knightly Order's outfit. The friends of the god you worship are your friends. His enemies are your enemies. Ghosts in your faction's Undercroft will not attack you. Killing a member of your faction or stealing will result in being expelled. Once expelled, you cannot join again and you cannot switch to another god. There are no quests or possibility of advancements, it's just meant for roleplaying.
 
-### Magical Stones
+## <p align="center"> Magical Stones
 
 Doom Stones each have a unique greater power thematic with the birthsign they correspond to and a kiss/curse design, as a sort of ultimate ability you unlock through exploration. You may only have one doomstone power at a time. The effects of each stone are as follows.
 
@@ -119,12 +121,12 @@ Rune Stones no longer give a piece of bound armor and a bound weapon, but instea
 - Hestra - The boon grants you a passive 35% elemental shield to either Fire, Frost, or Shock. The elemental shield changes whenever you cast a spell featuring Fire, Frost, or Shock damage, to reflect the element used (cast a fire damage spell and it changes to fire shield, for example). If the spell features multiple damage types then it chooses what element based on priority (earliest in the list governs the resistance): Fire > Frost > Shock.
 - Sidri-Ashak - After spending an uninterrupted span of 10 seconds in darkness, you gain 25 points of Chameleon. This effect lasts until you've spent 6 uninterrupted seconds outside of darkness.
 
-### Drugs & Alcohol
+## <p align="center"> Drugs & Alcohol
 Alcohol offers a variety of benefits. Wine tends to buff magicka and personality while hard liquor and beers tend to buff fatigue and physical traits.
 
 Your character can now become addicted to Skooma. Most effects have been removed from the actual potion and added via script. The only effects you will see on the potion bottle are positive. In theory, it seems perfectly harmless on the outside, until you find out about the addiction and other effects. As you become addicted, there should be an "Addicts Diary" added to your Inventory. This will give you key insights into what level you are at, and how long you have until you absolutely must consume before going into withdrawal. You will gain an increasing fortify speed effect while at the same time increasingly draining your willpower. Each addiction level has a requirement for skooma to be consumed, thus addiction can get quite expensive and without feeding that addiction the player goes into withdrawal. However it can be refined using a recipe at the Cooking pot. If you become addicted and do not continue to drink Skooma, you will begin to suffer withdrawals. There are 5 levels of withdrawal symptoms, with each progressively draining more of your attributes. The higher level your addiction is, the higher level of withdrawals you will suffer. The only real cure of Skooma Addiction is to go through the levels of withdrawal and cure yourself. It's a choice that has to be made...although judicious use of WAIT and SLEEP can reduce the impact if you really want to disrupt the immersion.
 
-### Gambling
+## <p align="center"> Gambling
 There are NPCs in all the main cities that will play chance games with the player. Look for them around plazas, around city landmarks or at taverns and inns. They have individual AI schedules, different levels of difficulty and available gold. Once they run out off gold they will go to work at certain times unless the player donates them money or until they gain their own gold back. You can also ask "In the mood for a game?" to any NPC at a tavern or inn, provided they like you enough and that they have at least ten septims. The gold on these NPCs is handled by the game itself via leveled lists. There are 5 potential games they can play, which is completely random. 
 
 - Guess How Many Septims:
