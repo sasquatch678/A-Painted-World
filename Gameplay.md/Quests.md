@@ -10,34 +10,34 @@ To start the main quest, simply get arrested in the Imperial City and choose to 
 
 References to the player’s imprisonment and the Emperor’s death will be blocked until the main quest begins. The Dragonfires burn in the Temple of the One, the Emperor attends court every day in the Elder Council Chambers, Jauffre lives peacefully at Weynon Priory, and Slythe Seringi wanders around his farm, terrified of the Sunken One’s imminent wrath. Kvatch has no Oblivion gate before the Crisis starts.
 
-## Faction Quests
+## <p align="center"> Faction Quests
 
 One of the quirks of Oblivion is that it's possible to become the Arch-mage of Cyrodiil without ever casting a single spell. Or, less likely but still possible, to become head of the Fighters Guild with scarcely more than novice combat skills. You will now need to meet minimum standards in certain skills to advance in rank and continue each questline.
+<br/>
+### <p align="center"> FIGHTERS GUILD
 
-Each guild is also greatly expanded with many new optional handcrafted and radiant style quests. 
-
-There is also an alternative faction the player may join for the Mages and Fighters Guild, either the Necromancers or the Blackwood Company, with a fully featured questline that mirrors the results of the original guilds.
-
-### Fighters Guild
-
+#### Skill Requirements
 You will need to focus on training a few of your combat skills to high levels: Blade, Blunt, Block, Hand to Hand, Athletics, Heavy Armor,  and Armorer. Your skills will be certified automatically via quest update when you reach a new threshold. Consult the quest in your journal if you are uncertain what is required next.
-
-Here are the ranks for the Fighters Guild, the total # of additional quests required to achieve that rank, and the skill certifications required.
 
 | Rank   | Skill Requirements
 |:--------------:|:-------------:|
 |Associate| |
 |Apprentice| 3 Apprentice
-|Journeyman| 3 Apprentice, 1 Journeyman
-|Swordsman| 3 Apprentice, 2 Journeyman
-|Protector| 3 Apprentice, 3 Journeyman
-|Defender|	3 Apprentice, 3 Journeyman, 1 Expert
-|Warder	| 3 Apprentice, 3 Journeyman, 2 Expert
-|Guardian| 3 Apprentice, 3 Journeyman, 3 Expert
-|Champion| 3 Apprentice, 3 Journeyman, 3 Expert, 1 Master
+|Journeyman| 1 Journeyman
+|Swordsman|  2 Journeyman
+|Protector|  3 Journeyman
+|Defender|	 1 Expert
+|Warder	|  2 Expert
+|Guardian|  3 Expert
+|Champion|  1 Master
 
-### Mages Guild
+#### Radiant Quests
+Once you join the Fighter's Guild, you can start accepting Contracts from small wooden tables in every Fighter's Guild Hall in Cyrodiil. On each table will be a Contract to hunt a Notorious Monster, and a Contract to hunt a Notorious Daedra. Both Contract types reward 1 Fighter's Commendation, and a leveled Gold reward. Both Contract types can be accepted simultaneously, and are infinitely repeatable with 200 unique possible targets.
+- Fighter's Commendations can be used in the Training Hall of the Leyawiin Fighter's Guild Basement to train up your Combat Skills. These are not limited by level like regular Training sessions, and require four Fighter's Commendations per session. Once you have enough Commendations, you can activate the Sign-Up Sheet for any of the Combat Skills you'd like to train - Armorer, Athletics, Blade, Block, Blunt, Hand to Hand, and Heavy Armor. <br/>
 
+### <p align="center"> MAGES GUILD
+
+#### Skill Requirements
 You will need to focus on training your magic skills to high levels. Your skills will be certified automatically via quest update when you reach a new threshold. Consult the quest in your journal if you are uncertain what is required next. Here are the ranks for the Mages Guild and the skill certifications required.
 
 |Rank	|Skill Requirements
@@ -53,6 +53,50 @@ You will need to focus on training your magic skills to high levels. Your skills
 |Master Wizard|1 Master
 |Arch-Mage| |
 
+#### Radiant Quests
+In every Mages Guild Hall as well as the Arcane University, the player can find a Sealed Letter of priority Worm Cult targets identified by the Mages Council. These quests function exactly the same as Fighter's Guild Notorious Monster and Daedra Contracts. There are 100 unique targets, and the quest will reward filled leveled soul gems upon completion.
+- Elixir Crafting and Deliveries can be done from the Library at the Anvil Mages Guild. Instructions on how to craft Elixirs are in a book on the Elixir Crafting table. Activating the Sealed Elixir Order will randomly assign the player 1 of 20 potential radiant quest objectives. Craft the requested number of whichever specific Elixir, then deliver it to the Delivery Box marked with a Quest Marker to receive a leveled Gold reward.
+- Beast Research is a more intricate but also very rewarding questline, which will unlock a system where the player can earn permanent Attribute buffs from studying the various different Monsters and Animals in Cyrodiil and beyond.
+- Finally, every Mages Guild Hall and the Arcane University has a receptacle for Necromancer Robe Recycling. Activating the chest will remove all Necromancer Robes from the player's inventory, and give them 100 (unleveled) Gold per Robe. <br/>
+
+### <p align="center"> THIEVES GUILD
+#### Independent Thievery
+You will need to fence a higher value in stolen goods to progress in the Thieves Guild. The Thieves Guild works a little differently in that progressing the Independent Thievery quest unlocks a new special job at each stage, not necessarily a new rank. As such, each special job and the fenced amount requirement is listed below.
+
+|Special Job |Fence Requirements (gold)
+|:--------------:|:-------------:|
+|Untaxing the Poor|500|
+|The Elven Maiden|	1,000|
+|Ahdarji's Heirloom|	1,500
+|Misdirection|2,000
+|Lost Histories|2,500
+|Taking Care of Lex|3,000
+|Turning a Blind Eye|4,000
+|Arrow of Extrication|6,000
+|Boots of Springheel Jak|8,000
+|The Ultimate Heist| 10,000|
+
+#### Radiant Quests
+Once you join the Thieves Guild, you can start accepting Jobs from the small wooden table tucked away in the Garden of Dareloth, hidden from the ever-watchful and steely gaze of The Imperial Legion. On the table are three items  - the Thieves Guild Drop Box, a sheet for Numbers Jobs, and a sheet for Special Requests.
+- Special Requests are - as they are named - special requests made by clients that have paid the Thieves Guild to "obtain" specific requested items.
+- Numbers Jobs are commissions the Thieves Guild has received from certain clients looking the cook the books for various businesses and other organizations.
+ <br/>
+Both Job types will reward the player with leveled gold, and 1 Fox's Favor. Both of these operations are overseen by the Master Thief Winston Mallory, right hand of the Gray Fox himself. If you speak with Winston as a Thieves Guild member, he offers various helpful services in exchange for Fox's Favor. He also offers explanations regarding Special Requests and Numbers Jobs, in-case the player is curious how they work. If you speak with Winston as The Gray Fox, he will not offer his regular services, and will instead have special dialogue. If you speak with Winston as a non-member of the Thieves Guild, he will have nothing special to tell you. <br/>
+
+### <p align="center"> DARK BROTHERHOOD
+There are no new requirements to progress in the Dark Brotherhood, however there are 200 new radiant contracts. Once you've officially joined The Dark Brotherhood and have gained access to the Dark Brotherhood Sanctuary, near the Well exit you will find a small table, two Sealed Contract documents, and a Bonus Reward chest. Regardless of your Rank in The Dark Brotherhood, or the status of the Sanctuary's inhabitants, you can always accept a new Contract from this table. You can accept a regular Contract and a High Priority Contract at the same time. Upon completion, two sacks of gold are waiting on the same small table where you accepted the Contracts to begin with. Interacting with the bags will give gold, and make the next Contracts available. <br/>
+
+Additionally, when you grab each reward bag RNG decides whether or not you receive a Bonus Item for either Contract. The chance is low, but If you turn in both Contracts at the same time, there is a 50% chance at least one item will be given as a Bonus. If you're ever really lucky, you'll receive multiple items as a Bonus. Not all Bonus items are as awesome as others. Some are great, some are not. Keep doing Contracts to see what you get in addition to your gold - if anything.
+<br/>
+### <p align="center"> THE ARENA
+You may now loot your opponents in the Arena, however it is seen as dishonorable by the spectators and you will gain a point of infamy by doing so.
+#### Radiant Quests
+Once the player becomes the Grand Champion of The Imperial City Arena, they gain access to infinitely repeatable arena fights for leveled gold. Go to The Imperial City Arena Bloodworks in The Imperial City and speak with Blademaster Owyn. Once the Ceaseless Combat quest begins and you speak with Owyn, he will have a brand new dialogue option available. Going through this new dialogue will grant the player access to Arena - Infinitum's endless Combatant and Monster Arena Match-Ups. <br/>
+
+﻿After speaking with Owyn, the player will be able to interact with the two brand new Match Registration Forms. These two separate forms will allow the player to sign up for a Match with either Human Combatants or Monsters. Activating the Combatant Match Registration Form presents the player with the above menu -
+and asks them how many Combatants they'd like to sign up to face in the Arena. You get paid more gold based on how many opponents you choose to face. <br/>
+
+After finishing a match, on the wooden table where the Match Registration Forms are found, a sack of coins will appear. Activating the Sack will give you the gold you've earned, and also signal the Custodians to get to work cleaning up the Arena.
 ## DLC Quests
 
 All of the DLC's have new triggers so the player isn't spammed with new quests on starting a new game. Most/all of these will only trigger after you've completed the tutorial mission in the sewers.
