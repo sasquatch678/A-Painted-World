@@ -97,7 +97,7 @@ Once the player becomes the Grand Champion of The Imperial City Arena, they gain
 and asks them how many Combatants they'd like to sign up to face in the Arena. You get paid more gold based on how many opponents you choose to face. <br/>
 
 After finishing a match, on the wooden table where the Match Registration Forms are found, a sack of coins will appear. Activating the Sack will give you the gold you've earned, and also signal the Custodians to get to work cleaning up the Arena.
-## DLC Quests
+## <p align="center"> DLC Quests
 
 All of the DLC's have new triggers so the player isn't spammed with new quests on starting a new game. Most/all of these will only trigger after you've completed the tutorial mission in the sewers.
 
@@ -130,7 +130,7 @@ Player's level >= 10 and in the Elven Gardens District.<br />
 ### Orrery<br />
 Player must be at least an Associate in the Mages guild and within 200 units of Bothiel.<br />
 
-## Modded Quests
+## <p align="center"> Modded Quests
 
 If you get stuck or are unsure how to start any of these quests, please consult the mod page or readme file inside the mod before asking for help.
 
