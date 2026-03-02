@@ -7,7 +7,7 @@
 🅰️ You didn't set your resolution in the Oblivion.ini in the profiles folder, like it tells you to in the Post-installation steps of the readme.
 
 #### 🇶 I have a black screen on the main menu. 
-🅰️ Set bFullScreen to 0 in Oblivon.ini in the profiles folder of wherever you installed the list. Set the file to read-only so this doesn’t get reverted. Enable borderless windowed in mods/A Painted World Configs/oblivion__display_tweaks.ini. It's also possible that you enabled Special K and did not disable the Nvidia Overlay.
+🅰️ Set bFullScreen to 0 in Oblivon.ini in the profiles folder of wherever you installed the list. Set the file to read-only so this doesn’t get reverted. Enable borderless windowed in mods/A Painted World Configs/oblivion__display_tweaks.ini.
 
 #### 🇶 My mouse isn’t working 
 🅰️ Restart steam
