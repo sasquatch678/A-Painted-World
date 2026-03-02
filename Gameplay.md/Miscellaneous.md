@@ -1,5 +1,4 @@
 ## <p align="center"> MISC CHANGES
-For new mechanics which don't fit cleanly into another section.
 
 ## <p align="center"> Travel
 Fast traveling costs gold, to simulate the amount you would spend resting at inns and cost of resources. It is generally more expensive than using the alternative methods mentioned below as it is far more convenient. The amount of gold it costs is just the number of hours it takes to travel x 20. This takes into account your characters own movement speed, so if you want to game the system you could use a short duration fortify athletics and speed spell before fast traveling. Fast traveling while on a horse will cut the time and cost in half.
