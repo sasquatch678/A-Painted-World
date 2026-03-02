@@ -1,4 +1,4 @@
-## COMBAT
+## <p align="center"> COMBAT
 
 Fatigue is like your second health bar and affects your damage dealt and swing speed. At high fatigue you should look to go in and be aggressive while at low fatigue it’s usually preferable to hang back and play more defensively. Your regeneration rate is determined by your equipped armor and perks with that armor. At low fatigue you won't be able to use light or power attacks at all until you regenerate back over a certain threshold. The minimum amount required scales with the weight of your equipped weapon. This minimum requirement is removed for light attacks at Journeyman Athletics.
 
@@ -22,13 +22,13 @@ Additionally, there are many new mechanics to take advantage of, listed below.
 
 - Swing speed is determined by weapon weight and either Speed or Agility as a percentage from whichever is higher. This also applies to enemies, which opens up drain or absorb speed/agility as a way to counter very fast enemies.
 
-## Resistances and Weaknesses
+## <p align="center"> Resistances and Weaknesses
 
 Most enemies have some form of resistance or weakness to specific damage types ie. Undead are weak to silver weapons but immune to poison, spectral enemies are weak to shock damage but immune to physical weapons. Racial bonuses apply the same way to enemies, so attacking a dunmer bandit with fire spells won't make much sense, and likewise a nord with frost. Fast and quickly attacking enemies can be countered by absorb speed or burden effects. If you normally use a one-handed blade, it might be worth still carrying around a two-handed blade for dangerous melee enemies so you can keep your distance. Enemies with high regeneration can be countered with one of the new magic effects from Av Latta Magicka that stops all healing.
 
 The list is designed in a way to reward using effective tactics against different types of enemies. There is almost always something you can adapt in your playstyle/loadout to make a specific combat encounter easier.
 
-## Skill Specializations
+## <p align="center"> Skill Specializations
 At level 5 the player will get a choice to go down three different paths, depending on their class specialization. These are listed below. There are 7 total abilities or upgrades for each path, and every 5 levels up to level 35 you will gain a new one.
 
 ### Combat
