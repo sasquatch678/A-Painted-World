@@ -65,16 +65,16 @@ You will need to fence a higher value in stolen goods to progress in the Thieves
 
 |Special Job |Fence Requirements (gold)
 |:--------------:|:-------------:|
-|Untaxing the Poor|500|
-|The Elven Maiden|	1,000|
-|Ahdarji's Heirloom|	1,500
+|Untaxing the Poor|100|
+|The Elven Maiden|	500|
+|Ahdarji's Heirloom|	1,000
 |Misdirection|2,000
-|Lost Histories|2,500
-|Taking Care of Lex|3,000
-|Turning a Blind Eye|4,000
-|Arrow of Extrication|6,000
-|Boots of Springheel Jak|8,000
-|The Ultimate Heist| 10,000|
+|Lost Histories|3,000
+|Taking Care of Lex|4,000
+|Turning a Blind Eye|5,000
+|Arrow of Extrication|7,500
+|Boots of Springheel Jak|10,000
+|The Ultimate Heist| 15,000|
 
 #### Radiant Quests
 Once you join the Thieves Guild, you can start accepting Jobs from the small wooden table tucked away in the Garden of Dareloth, hidden from the ever-watchful and steely gaze of The Imperial Legion. On the table are three items  - the Thieves Guild Drop Box, a sheet for Numbers Jobs, and a sheet for Special Requests.
