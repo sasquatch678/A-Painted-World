@@ -43,7 +43,7 @@ You will need to focus on training your magic skills to high levels. Your skills
 |Rank	|Skill Requirements
 |:--------------:|:-------------:|
 |Associate||
-|Apprentice|	|	3 Apprentice
+|Apprentice|	3 Apprentice
 |Journeyman|	1 Journeyman
 |Evoker|2 Journeyman
 |Conjurer	|3 Journeyman
