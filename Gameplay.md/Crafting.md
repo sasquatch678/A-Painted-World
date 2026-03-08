@@ -2,7 +2,7 @@
 
 Many different and useful items can be crafted using various crafting tools. Crafting rewards experience based on the material cost of the item. Wells, kegs, tanning racks, cooking pots, and anvils are automatically converted into usable objects and can be found all over the world. There are also smelters and workbenches placed in each blacksmith shop, tanning racks in each Fighters guildhall, and sewing stations in each Mages guildhall. These stations can also all be purchased from miscellaneous vendors, or crafted into a placeable item ie. to put in player homes and are all used for crafting.
 
-There are also some smaller crafting tools like the shears, pickaxe, etc. These are requirements to harvest a specific resource used at the larger stations ie. wool.
+There are also some smaller crafting tools like the shears, pickaxe, etc. These are requirements to harvest a specific resource used at the larger stations ie. wool or stones.
 
 ## <p align="center"> Resource Gathering
 
