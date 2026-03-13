@@ -32,10 +32,10 @@ Elemental Weapons + Disintegrate Weapon
 Weather and location will affect elemental Destruction spells. All modifiers are multiplicative.
 | Weather    | Effect | 
 |:--------------:|:-------------:|
-| Rain | Fire spells are 25% weaker; Frost spells are 15% stronger; Shock spells are 25% stronger
-| Snow | Fire spells are 25% weaker; Frost spells are 25% stronger;
-| Swimming | Fire spells are 75% weaker; Frost spells are 25% stronger; Shock spells are 35% stronger
-| Inside Oblivion | Fire spells are 25% stronger
+| Rain | Fire spells are 15% weaker; Shock spells are 15% stronger
+| Snow | Fire spells are 15% weaker; Frost spells are 15% stronger;
+| Swimming | Fire spells are 15% weaker; Frost spells are 15% stronger; Shock spells are 15% stronger
+| Inside Oblivion | Fire spells are 15% stronger
 
 ## <p align="center"> Spellcrafting
 
