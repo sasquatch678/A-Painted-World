@@ -119,7 +119,7 @@ Player must be at least Journeyman rank in the Mages guild, and have a sum of at
 Player must be at least Bandit rank in the Thieves Guild, and have a sum of at least 200 in any Stealth skills.<br />
 
 ### Vile Lair (Deepscorn Hollow)<br />
-Player must be at least Eliminator rank in the Dark Brotherhood, and have an infamy of at least 10.<br />
+Player must be at least Eliminator rank in the Dark Brotherhood, or have an infamy of at least 50.<br />
 
 ### Horse Armor Pack<br />
 Player must be at least level 4, have at least 2,000 gold, have a minimum fame of 4, and be within the Talos Plaza District.<br />
