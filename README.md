@@ -134,11 +134,8 @@ You will start the game in a ship cabin, here you can choose your race and creat
 
 ## Controller Support
 
-There is a fully integrated and working controller profile using NorthernUI. To use this, first import the custom controller layout specifically made for APW with Steam Input. Copy the link below into a web browser and select "Open Link with Steam" when prompted. If this isn't happening, try a different browser.
+Swap to the controller profile in MO2 by clicking the drop down at the top of the application (by default it will say "A Painted World", you want to select "A Painted World - Controller"). Doing so will automatically enable several mods that enable controller support and patch various ui elements, and disable a handful of others that would conflict, cause the game to crash, or otherwise not work at all with a controller.
 
-steam://controllerconfig/22330/3662923605
-
-Next swap to the controller profile in MO2 by clicking the drop down at the top of the application (by default it will say "A Painted World", you want to select "A Painted World - Controller"). Doing so will automatically enable several mods that enable controller support and patch various ui elements, and disable a handful of others that would conflict, cause the game to crash, or otherwise not work at all with a controller. Notably, I had to downgrade ORC to 1.9.3 for this profile so the game will look slightly different.
 ## Optional Mods - Ultrawide Support & Performance
 
 A Painted World comes with several customization options. 
