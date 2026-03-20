@@ -1,3 +1,116 @@
+## **2.3.0**
+
+**Added**
+- Join the Blackwood Company + voice addon
+- Join the Mythic Dawn + voice addon
+- Join the Morag Tong + voice addon
+- Oblivion Collectible Cards - Missing Cards Fix
+- KillerHell Steel Shield Replacer
+- Ronnie's Blade of Woe Replacer
+- Aleswell No Refraction Fix
+- Knights Infamy and Delay DLC patch
+- Beggars Blessing - A Gift for Generosity
+- Book Tracker Updated
+- Grip of Steel - No Player Disarm
+- Thievery in the Imperial City Voices (ElevenLabs)
+- LootMenu NorthernUI DPad Menu Navigation Fix (Controller Profile)
+- Scuffed De-Nock Arrows for NorthernUI (Controller Profile)
+
+**Updated**
+- Simple Inheritance
+- Knights of the Nine - Revelation - Reasonable Flavor
+- OOO Enhanced
+- Unequip Broken Gear
+
+**Removed**
+- Mages Guild Quests
+- Fighters Guild Quests
+- Snowy Road to Bruma - causes a shit ton of landscape conflicts and it doesn't make sense for a traveled roadway to be covered in snow anyway. in the real world snow mixes with dirt to make mud/slush as people walk over it
+- The Blackwood Company
+- Muggrug's Bar & Grill
+- Deadlier Creatures V2 - can cause crashes, also lowkey obnoxious
+- Wilderness Monstrosities
+- Guild Advancement
+- NM's Nickorasu's 4K Mysterium Xarxes
+- Cyrodiil Map with Elsweyr for Dynamic Map
+- Bookworm - Mark Books as Read and Pick up Skill Books - really heavy mod for what it is, also breaks certain quests
+- Nirnroot Glows - adding this many extra lights to an already busy scene is a recipe for performance disasters
+- Cyrodiil Transportation Network - making city map markers available at the start of the game instead, serves little purpose with fast travel costing gold anyway and I think most people aren't even aware of this as an option
+
+**Balance**
+COMBAT
+- spell cost scaling now has diminishing returns, no longer can you cast master spells for 1 magicka with high luck and magic skill
+- rebalanced enemy hp and player damage to make early game a bit less punishing
+- increased passive fatigue regen but also slightly increased costs for light attacks, jump, dodge, bash, and sprint - intent is to make waiting around for fatigue to occur less often while still keeping it something you think about
+- reduced effect weather/setting has on elemental spell damage to 15% increase or decrease (was 25% in most cases) - while the mechanic is fine I think the effect swung too much both ways
+- fatigue no longer regenerates while blocking or sprinting
+- reduced maximum scaling allowed by the uncapper mod to 150 (was 200)
+- casting spells now makes some noise, making them detectable by enemies
+- reduced maximum magnitude in spellmaking menu to 150 (was 200)
+- the Spy path spike traps can now be disabled after placing by activating them, and Concealment standing still timer shortened to 5 seconds, invisibility shortened to 15s but no longer is dispelled when moving
+- detect life will no longer work on undead targets - use detect dead for this
+- turn undead will no longer deal damage over time to undead - use damage for this
+- feather will no longer prevent fall damage, or increase jump height - use slowfall, levitate, fortify acrobatics, or play one of the 5 variants of khajiit for this
+- night-eye will now highlight flora, magical items, soulgems, scrolls, and traps in addition to it's normal effects
+- reduced magnitude and duration of all turn undead spells
+- the Solid Defense ability from the Guardian skill path now grants Shield and Resistance to Normal Weapons instead of Fortifying Block and Heavy/Light Armor to prevent leveling bugs with OblivionXP
+
+RESISTANCES & WEAKNESSES
+- Spriggans no longer have a chance to reflect spells
+- Spider Daedra no longer have a small reflect damage/spells
+- "Hard" trolls no longer have spell reflect, or reflect damage
+- "bone" and "flesh" undead now have a weakness to fire. "bone" undead no longer restore health
+- liches no longer reflect damage
+- many enemies which had some form of passive constant regeneration had this reduced by 50%
+
+RACES & BIRTHSIGNS
+- Tower's Vigilance no longer burdens for 1000 points, instead it drains 50 points of speed and athletics. Reflect damage reduced to 10 points - the large burden effect could cause you to no longer be able to move even after the effect ended. this change ends up letting you still move, just very slowly for the duration
+- Atronach's Thirst now has stunted magicka, passive reduced to 10 points of elemental & physical shield
+
+**General Changes**
+- added additional controller support without steam input - can now bash, timed dodge, timed block, and have intended fatigue drain holding a shot with a bow while using a controller ( still no favorites menu, but this is enough for me to discontinue steam input usage/support )
+- arena raiments no longer have value
+- set fBarterSellBase to -40 (was -20)
+- add controller support for weapon bashing, iframes on dodge, and the intended fatigue drain while holding a drawn bow
+- alternate death mod will now check your infamy and fame, if your infamy is greater than your fame you will be teleported to the Hall of Lorkhan and take a toll from one of the daedric lords, otherwise you will respawn in the current hall of Shezarr and pick a penance from one of the Nine Divines
+- Forgotten Isles quest no longer starts after you finish the sewer tutorial, instead it now starts after you begin the shivering isles
+- vastly improved nighttime brightness
+- increased brightness and radius of torches and lanterns by 25%
+- huge creature drop and ingredient consistency patch between OOO/OOO Enhanced, MOO, and Cobl - no more duplicates of the same item, all unified
+- removed the poorly placed smelters from OCRAFT I previously smashed into vanilla blacksmith shops. Made a new activator with the vanilla forge and bellows model, gave it the OCRAFT smelter script, and a base object swapper ini to turn every forge in the game to an interactable OCRAFT forge
+- all city map markers will now be unlocked at the start of a new game - this is a replacement for Cyrodiil Transportation Network being removed
+- added 8 new simple cooking recipes - these are 1 ingredient recipes using common items. still give an attribute buff but don't fill you up as much as the more complex recipes
+- attribute buffs from food now fortify two attributes by 5 for 30m (was 10 for 10m)
+- milk and sugar can now be purchased from publican merchants
+- cows from MOO can be interacted with for milk
+- total rework of the Amazon faction from OOO - now called the Briarborn, they are a faction of hedge witches and rangers who worship Hircine, with themes of ritualism and nature. They have new equipment, titles, and some also have the ability to transform into a werewolf
+- removed normal maps from Oblivion Upscaled Textures BSA to reduce vram usage with little loss in visuals - 1.63gb of files removed
+- shader visual and performance improvements
+
+**Bugfixes**
+- fixed invisible DB guardian
+- fixed invisible spectral sailors in that one Anvil quest
+- hand to hand damage now properly displays in the skill description
+- "Recycling the Rubbish" quest from Kragenirs Death Quest will be properly marked as completed in the Progress Tracker.
+- fixed several bugs related to the metamagic: empower ability from the warmage path
+- added Porkchop (boar in Bloodworks) to player faction so he should no longer randomly become hostile and cause the entire cell to aggro to him
+- disabled ORC's underwater culling - can cause objects only partially underwater to vanish
+- fixed messed up UV's on goldbrand
+- fixed vampires always being considered to be in sunlight no matter the time of day or whether they were in an interior
+- alternate death mod now places you at the map marker of the wayshrine rather than the middle of the wayshrine itself, to prevent being stuck inside decorative static objects
+- player is no longer forced to level up when loading a save with a level up pending
+- fast travel is correctly disabled if you have no gold, and can no longer fast travel while sprinting as this gave a big discount due to the speed boost
+- fixed Highwood quest being impossible to start, will start when you enter the Anvil worldspace for the first time
+- DLC quests no longer require completing the sewer tutorial
+- the birthsign menu will no longer reappear in the sewer tutorial since you chose this during character creation
+- Frostcrag spire actually checks your skills and rank as intended instead of just joining the mages guild and sleeping
+- fixed a unique warhammer that was floating in the last room of miscarcand and added its texture which was missing
+- removed animated sparkles from metal bars as they have issues with OR ambient occlusion
+- removed No Low Level Processing flag from Fighters Guild Porters added by the UOP, so they will unlock the fighters guild doors as they should
+- MOO will no longer replace all parchments in the game with its own version as it's unused anyway, for compatibility with mods that rely on the vanilla parchment item
+- enemies can no longer benefit from the master blade and blunt perk to execute the player as 1: being oneshot with little counterplay is terrible and 2: it bypasses the alternate death mod which is not intended
+- added "IsOnGround" check to sprint script so player cannot just hold sprint while in the air while at low fatigue and use the animation reset as a way to avoid fall damage
+
 ## **2.2.1**
 
 **Added**
