@@ -38,7 +38,6 @@
 - Cyrodiil Transportation Network - making city map markers available at the start of the game instead, serves little purpose with fast travel costing gold anyway and I think most people aren't even aware of this as an option
 
 **Balance**
-COMBAT
 - spell cost scaling now has diminishing returns, no longer can you cast master spells for 1 magicka with high luck and magic skill
 - rebalanced enemy hp and player damage to make early game a bit less punishing
 - increased passive fatigue regen but also slightly increased costs for light attacks, jump, dodge, bash, and sprint - intent is to make waiting around for fatigue to occur less often while still keeping it something you think about
@@ -54,16 +53,12 @@ COMBAT
 - night-eye will now highlight flora, magical items, soulgems, scrolls, and traps in addition to it's normal effects
 - reduced magnitude and duration of all turn undead spells
 - the Solid Defense ability from the Guardian skill path now grants Shield and Resistance to Normal Weapons instead of Fortifying Block and Heavy/Light Armor to prevent leveling bugs with OblivionXP
-
-RESISTANCES & WEAKNESSES
 - Spriggans no longer have a chance to reflect spells
 - Spider Daedra no longer have a small reflect damage/spells
 - "Hard" trolls no longer have spell reflect, or reflect damage
 - "bone" and "flesh" undead now have a weakness to fire. "bone" undead no longer restore health
 - liches no longer reflect damage
 - many enemies which had some form of passive constant regeneration had this reduced by 50%
-
-RACES & BIRTHSIGNS
 - Tower's Vigilance no longer burdens for 1000 points, instead it drains 50 points of speed and athletics. Reflect damage reduced to 10 points - the large burden effect could cause you to no longer be able to move even after the effect ended. this change ends up letting you still move, just very slowly for the duration
 - Atronach's Thirst now has stunted magicka, passive reduced to 10 points of elemental & physical shield
 
