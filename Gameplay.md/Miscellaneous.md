@@ -3,7 +3,7 @@
 ## <p align="center"> Travel
 Fast traveling costs gold, to simulate the amount you would spend resting at inns and cost of resources. It is generally more expensive than using the alternative methods mentioned below as it is far more convenient. The amount of gold it costs is just the number of hours it takes to travel x 20. This takes into account your characters own movement speed, so if you want to game the system you could use a short duration fortify athletics and speed spell before fast traveling. Fast traveling while on a horse will cut the time and cost in half.
 
-As an alternative to fast travel, there are also npcs at each stable who will take you to other stables by carriage, and npcs at each dock location who will transport you by boat. You can unlock guides in each Mages Guild by completing one of the new mod added quests in Integration: A Stranded Light.
+You can unlock guild guides in each Mages Guild by completing one of the new mod added quests in Integration: A Stranded Light.
 
 ## <p align="center"> Lock Bashing & Security
 Locks can be bashed by attacking them with your weapon or fists. Your weapon or gloves/you will be damaged. Blunt and heavy weapons are best suited to the task. Player strength, weapon skill, and current fatigue are all accounted for in the formula. Power attacks give a 3x  bonus, but deal more damage back to the weapon/gloves/you. Bashing locks is a crime and can't be attempted while sneaking.
