@@ -49,7 +49,7 @@ You can now place multiple enchantments on equipment, scaling with every 150 mag
 
 - Staff enchanting: while you could enchant staves in vanilla, the result was a staff that only fired on touch range. Now any staff you enchant yourself fires at target. Rindirs Staffs now sell unenchanted staffs so you can enchant staffs with your own effects. Enchanted staffs may say touch or onstrike in the enchanting menu in some circumstances, but will be corrected once it has been enchanted.
 
-- Recharging enchantments - all weapons will now regain charge equal to your mysticism skill every ingame hour.
+- Recharging enchantments - all weapons will now regain charge equal to 25% of your mysticism skill every ingame hour.
 
 - Soul Trap: Soul trap is a bit tedious to use. So to help reduce the tedium every time you cast soul trap on an enemy it will recharge the current weapon by 1%. When the enemy dies under the effect whether you have a soul gem or not it will recharge your current weapon by 5%. Soul trap when first cast on an enemy will feedback the level of the soul under your crosshair.
 
@@ -83,10 +83,6 @@ You can now place multiple enchantments on equipment, scaling with every 150 mag
 - Levitation comes to Oblivion! A group of mages from Morrowind brought it with them to Cyrodiil and have taught their secret to a few select members of the mages guild. This alteration spell allows you to take the battle to the skies and fire at enemies down below. This is a master level spell and not available for spell making due to its rarity (and potentially game breaking) If you don't move at all you will gently float up and down. Look up/down while moving to rise upwards and down faster. Enemies will freak out when you are levitating and cannot reach you making it difficult to snipe enemies off. Levitation can only be bought from the most skilled magic vendor or found by magic spell tomes in loot.
 
 - Extrication - Teleport spells used to be big in morrowind but became less useful with fast travel. Now the new Extrication spell allows you to teleport to your last known safe outdoor location. This allows you to quickly return to the entrance of dungeons or to escape from a combat encounter outdoors or indoors. The spell takes a number of seconds to cast and will leave you vulnerable during the effect. Some locations this will be unable to be used like jail, the arena or magical quest areas.
-
-- Burden spells in addition to adding additional weight now do what they are supposed to by having a chance to crush enemies and you to the ground for a short amount of time. The initial cast has a higher chance than subsequent casts of the spell.
-
-- Feather spells now also protect against fall damage and can make you jump slightly higher.
 
 - Water breathing spells now also cause you to swim faster during the effect.
 
