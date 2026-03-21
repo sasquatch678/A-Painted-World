@@ -12,8 +12,6 @@ References to the player’s imprisonment and the Emperor’s death will be bloc
 
 ## <p align="center"> Faction Quests
 
-One of the quirks of Oblivion is that it's possible to become the Arch-mage of Cyrodiil without ever casting a single spell. Or, less likely but still possible, to become head of the Fighters Guild with scarcely more than novice combat skills. You will now need to meet minimum standards in certain skills to advance in rank and continue each questline.
-<br/>
 ### <p align="center"> FIGHTERS GUILD
 
 #### Radiant Quests
