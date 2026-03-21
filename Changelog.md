@@ -66,7 +66,6 @@
 - added additional controller support without steam input - can now bash, timed dodge, timed block, and have intended fatigue drain holding a shot with a bow while using a controller ( still no favorites menu, but this is enough for me to discontinue steam input usage/support )
 - arena raiments no longer have value
 - set fBarterSellBase to -40 (was -20)
-- add controller support for weapon bashing, iframes on dodge, and the intended fatigue drain while holding a drawn bow
 - alternate death mod will now check your infamy and fame, if your infamy is greater than your fame you will be teleported to the Hall of Lorkhan and take a toll from one of the daedric lords, otherwise you will respawn in the current hall of Shezarr and pick a penance from one of the Nine Divines
 - Forgotten Isles quest no longer starts after you finish the sewer tutorial, instead it now starts after you begin the shivering isles
 - vastly improved nighttime brightness
