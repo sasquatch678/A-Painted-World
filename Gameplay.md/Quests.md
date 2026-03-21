@@ -16,42 +16,11 @@ One of the quirks of Oblivion is that it's possible to become the Arch-mage of C
 <br/>
 ### <p align="center"> FIGHTERS GUILD
 
-#### Skill Requirements
-You will need to focus on training a few of your combat skills to high levels: Blade, Blunt, Block, Hand to Hand, Athletics, Heavy Armor,  and Armorer. Your skills will be certified automatically via quest update when you reach a new threshold. Consult the quest in your journal if you are uncertain what is required next.
-
-| Rank   | Skill Requirements
-|:--------------:|:-------------:|
-|Associate| |
-|Apprentice| 3 Apprentice
-|Journeyman| 1 Journeyman
-|Swordsman|  2 Journeyman
-|Protector|  3 Journeyman
-|Defender|	 1 Expert
-|Warder	|  2 Expert
-|Guardian|  3 Expert
-|Champion|  1 Master
-
 #### Radiant Quests
 Once you join the Fighter's Guild, you can start accepting Contracts from small wooden tables in every Fighter's Guild Hall in Cyrodiil. On each table will be a Contract to hunt a Notorious Monster, and a Contract to hunt a Notorious Daedra. Both Contract types reward 1 Fighter's Commendation, and a leveled Gold reward. Both Contract types can be accepted simultaneously, and are infinitely repeatable with 200 unique possible targets.
 - Fighter's Commendations can be used in the Training Hall of the Leyawiin Fighter's Guild Basement to train up your Combat Skills. These are not limited by level like regular Training sessions, and require four Fighter's Commendations per session. Once you have enough Commendations, you can activate the Sign-Up Sheet for any of the Combat Skills you'd like to train - Armorer, Athletics, Blade, Block, Blunt, Hand to Hand, and Heavy Armor. <br/>
 
 ### <p align="center"> MAGES GUILD
-
-#### Skill Requirements
-You will need to focus on training your magic skills to high levels. Your skills will be certified automatically via quest update when you reach a new threshold. Consult the quest in your journal if you are uncertain what is required next. Here are the ranks for the Mages Guild and the skill certifications required.
-
-|Rank	|Skill Requirements
-|:--------------:|:-------------:|
-|Associate||
-|Apprentice|	3 Apprentice
-|Journeyman|	1 Journeyman
-|Evoker|2 Journeyman
-|Conjurer	|3 Journeyman
-|Magician	|1 Expert
-|Warlock	|2 Expert
-|Wizard	|3 Expert
-|Master Wizard|1 Master
-|Arch-Mage| |
 
 #### Radiant Quests
 In every Mages Guild Hall as well as the Arcane University, the player can find a Sealed Letter of priority Worm Cult targets identified by the Mages Council. These quests function exactly the same as Fighter's Guild Notorious Monster and Daedra Contracts. There are 100 unique targets, and the quest will reward filled leveled soul gems upon completion.
@@ -60,21 +29,6 @@ In every Mages Guild Hall as well as the Arcane University, the player can find 
 - Finally, every Mages Guild Hall and the Arcane University has a receptacle for Necromancer Robe Recycling. Activating the chest will remove all Necromancer Robes from the player's inventory, and give them 100 (unleveled) Gold per Robe. <br/>
 
 ### <p align="center"> THIEVES GUILD
-#### Independent Thievery
-You will need to fence a higher value in stolen goods to progress in the Thieves Guild. The Thieves Guild works a little differently in that progressing the Independent Thievery quest unlocks a new special job at each stage, not necessarily a new rank. As such, each special job and the fenced amount requirement is listed below.
-
-|Special Job |Fence Requirements (gold)
-|:--------------:|:-------------:|
-|Untaxing the Poor|100|
-|The Elven Maiden|	500|
-|Ahdarji's Heirloom|	1,000
-|Misdirection|2,000
-|Lost Histories|3,000
-|Taking Care of Lex|4,000
-|Turning a Blind Eye|5,000
-|Arrow of Extrication|7,500
-|Boots of Springheel Jak|10,000
-|The Ultimate Heist| 15,000|
 
 #### Radiant Quests
 Once you join the Thieves Guild, you can start accepting Jobs from the small wooden table tucked away in the Garden of Dareloth, hidden from the ever-watchful and steely gaze of The Imperial Legion. On the table are three items  - the Thieves Guild Drop Box, a sheet for Numbers Jobs, and a sheet for Special Requests.
@@ -84,7 +38,7 @@ Once you join the Thieves Guild, you can start accepting Jobs from the small woo
 Both Job types will reward the player with leveled gold, and 1 Fox's Favor. Both of these operations are overseen by the Master Thief Winston Mallory, right hand of the Gray Fox himself. If you speak with Winston as a Thieves Guild member, he offers various helpful services in exchange for Fox's Favor. He also offers explanations regarding Special Requests and Numbers Jobs, in-case the player is curious how they work. If you speak with Winston as The Gray Fox, he will not offer his regular services, and will instead have special dialogue. If you speak with Winston as a non-member of the Thieves Guild, he will have nothing special to tell you. <br/>
 
 ### <p align="center"> DARK BROTHERHOOD
-There are no new requirements to progress in the Dark Brotherhood, however there are 200 new radiant contracts. Once you've officially joined The Dark Brotherhood and have gained access to the Dark Brotherhood Sanctuary, near the Well exit you will find a small table, two Sealed Contract documents, and a Bonus Reward chest. Regardless of your Rank in The Dark Brotherhood, or the status of the Sanctuary's inhabitants, you can always accept a new Contract from this table. You can accept a regular Contract and a High Priority Contract at the same time. Upon completion, two sacks of gold are waiting on the same small table where you accepted the Contracts to begin with. Interacting with the bags will give gold, and make the next Contracts available. <br/>
+There are 200 new radiant contracts. Once you've officially joined The Dark Brotherhood and have gained access to the Dark Brotherhood Sanctuary, near the Well exit you will find a small table, two Sealed Contract documents, and a Bonus Reward chest. Regardless of your Rank in The Dark Brotherhood, or the status of the Sanctuary's inhabitants, you can always accept a new Contract from this table. You can accept a regular Contract and a High Priority Contract at the same time. Upon completion, two sacks of gold are waiting on the same small table where you accepted the Contracts to begin with. Interacting with the bags will give gold, and make the next Contracts available. <br/>
 
 Additionally, when you grab each reward bag RNG decides whether or not you receive a Bonus Item for either Contract. The chance is low, but If you turn in both Contracts at the same time, there is a 50% chance at least one item will be given as a Bonus. If you're ever really lucky, you'll receive multiple items as a Bonus. Not all Bonus items are as awesome as others. Some are great, some are not. Keep doing Contracts to see what you get in addition to your gold - if anything.
 <br/>
@@ -134,13 +88,18 @@ Player must be at least an Associate in the Mages guild and within 200 units of 
 
 If you get stuck or are unsure how to start any of these quests, please consult the mod page or readme file inside the mod before asking for help.
 
-### [The Blackwood Company](https://www.nexusmods.com/oblivion/mods/17448)
-You can join the Blackwood Company by talking first to Ja'Fazir, the Khajiit in the Blackwood Company Hall in Leyawiin, or Jeetum-Ze, the Argonian in the same place. You will also receive a journal update if you read the Black Horse Courier article about the Blackwood Company and are not already in the Fighters Guild; one of these can be found in the Leyawiin Mages Guild Hall. Membership is mutually exclusive with the Fighters Guild, so you cannot join the Fighters Guild if you are a member of the Blackwood Company, and vice versa. Features 18 main quests and up to 13 additional sidequests depending on your choices in the main quests.
+### [Join the Blackwood Company](https://www.nexusmods.com/oblivion/mods/55285)
+This mod upgrades the Blackwood Company into a joinable faction and a questline with over a dozen new quests that pits you against the Fighters Guild as well as taking a variety of morally questionable contracts.
 
 ### [Join the Order of the Black Worm](https://www.nexusmods.com/oblivion/mods/54847)
 Have you ever been playing through the Mages Guild questline and thought, "I wonder what it would be like to join the Order of the Black Worm and become a necromancer working for the King of Worms?" 
 This mod lets you join the Necromancer faction, the Order of the Black Worm, part way through the Mages Guild questline. It has around a dozen new quests, which mostly mirror the Mages Guild quests but with you helping the necromancers instead. If you decide to stay loyal to the Mages Guild, the questline should be unaffected, as should the rest of the game. But if you do join the Order of the Black Worm, you leave the Mages Guild and all of its benefits, but the necromancers will provide you with equivalent benefits.
 
+### [Join the Mythic Dawn](https://www.nexusmods.com/oblivion/mods/55756)
+This mod allows you to join the Mythic Dawn and work against Martin and the Blades as an alternative questline to the Main Quest. This mod adds a dozen new quests (though a few of them are hidden side quests you have to find by talking to certain Mythic Dawn members) and ends with Mehrunes Dagon's plan to invade Tamriel coming to fruition.
+
+### [Join the Morag Tong](https://www.nexusmods.com/oblivion/mods/55771)
+This mod adds a joinable faction and a questline with around two dozen new quests that pits you against the Dark Brotherhood and has you commit various assassinations across Cyrodiil. To join the Morag Tong, you first have to find out about them, which is done via asking for Rumors in Cheydinhal (unfortunately, if you've completed the Main Quest, its aftermath rumors will take precedence over my rumor for an in-game week after completing the Main Quest), or you could just find out where they're hiding by yourself and bypass all the Rumors stuff.
 
 ### [Hackdirt The Deep Ones](https://www.nexusmods.com/oblivion/mods/36224)
 Have you ever wondered who the DEEP ONES really were? What secrets or treasures to they hold in their caverns? Now you can, but beware of what you may find, a secret so terrible that it could shake Tamriel apart.
