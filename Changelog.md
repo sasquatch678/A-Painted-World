@@ -1,3 +1,42 @@
+## **2.3.1**
+
+**Added**
+- The Forgotten Isles Voices (ElevenLabs)
+- Seamless - Robert Male - patches to support Seamless with armor/clothing from various mods
+- Seamless - HGEC Female - patches to support Seamless with armor/clothing from various mods
+- The Hist Rebodied
+- Switchable Lightsources
+
+**Updated**
+- Join the Mythic Dawn Voices (ElevenLabs)
+- Modern Security Overhaul
+- AveSithis Engine Fixes
+- Simple Inheritance
+
+**Removed**
+- Unequip Broken Gear - seems to have some issues
+- Skip Vampire Popup - doesn't work well when auto run/sprint are also on shift
+- Magic Magnitude Multipliers - unstable
+
+**Changes**
+- various improvements to sky, weather, and exterior lighting (especially at sunrise/sunset) - also affects water slightly since it reflects the sky color
+- NPCs are less likely to use torches at night - should help performance in cities
+- new blade sheathe/unsheathe sounds
+- reduced skill points rewarded per level to 40 (was 50)
+- increased skill point cost of increasing expert skills by 2, and master skills by 4
+- removed highlight of objects from night eye
+- intelligence now uses a progressive formula where the more you have, the more you will gain, with soft caps at 100 and 125. this results in lower magicka pools across the board
+
+**Bugfixes**
+- removed Take or Equip from controller profile
+- fixed issue where npcs would treat Restore Health as a counter effect to fire/frost/shock damage
+- fixed missing underwater log mesh
+- fixed a couple random wilderness cells in Blackwood that didn't have the right water height, resulting in chunks of missing water
+- Alval Uvani is no longer considered essential so he can be killed during the quest A Matter of Honor
+- fixed bug that disabled left click in menus if you enetered the menu at low fatigue and below 25 athletics
+- disabled container animations to fix conflict with loot menu requiring you to activate them twice to open the container menu
+- fixed bug where Vicente Valtieri wouldn't give the polymorphic hemophilia disease to infect the player with vampirism during the Darkness Eternal quest
+
 ## **2.3.0**
 
 **Added**
