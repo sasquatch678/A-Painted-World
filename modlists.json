@@ -26,7 +26,12 @@
       "machineURL": "APaintedWorld",
       "discordURL": "https://discord.gg/dGP9Vy7QMG",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "432030",
+        "slug": "zznpcp",
+        "domainName": "oblivion",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "gJeFEk6TiPc=",
