@@ -9,7 +9,7 @@
 - re-enabled keyboard navigation in the inventory menu for the normal profile
 - reduced base run speed a bit, and reduced sprint fatigue drain to -1/s (was -3/s)
 - reduced min jump height - requiring more of an investment in acrobatics (or fortifying it) to jump great distances
-- reduced baseline attack speeds - keep in mind this also affects enemies, giving you more reaction time to counter attacks by dodging, blocking, or bashing
+- reduced baseline attack speeds - keep in mind this also affects enemies, giving you more reaction time to counter attacks by dodging, blocking, or bashing. However the player can improve this overtime throughout a playthrough, while enemies attack speed stays relatively static.
 - fatigue now only starts to have an effect on the attack speed formula when below 50% fatigue (was 85%)
 - increased the combat hit cone to 40 degrees (was 35) so that attacks that look like they should have landed will actually land more often
 - slightly increased base magicka regen and the multiplier it receives from willpower
