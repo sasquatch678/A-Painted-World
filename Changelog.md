@@ -1,3 +1,32 @@
+## **2.3.2**
+
+**Added**
+- Spirit Stones
+- Fewer Random Oblivion gates
+
+**Changes**
+- restored flicker and pulse lighting to many light sources - doesn't have much of a performance impact as previously thought
+- re-enabled keyboard navigation in the inventory menu for the normal profile
+- reduced base run speed a bit, and reduced sprint fatigue drain to -1/s (was -3/s)
+- reduced min jump height - requiring more of an investment in acrobatics (or fortifying it) to jump great distances
+- reduced baseline attack speeds - keep in mind this also affects enemies, giving you more reaction time to counter attacks by dodging, blocking, or bashing
+- fatigue now only starts to have an effect on the attack speed formula when below 50% fatigue (was 85%)
+- increased the combat hit cone to 40 degrees (was 35) so that attacks that look like they should have landed will actually land more often
+- slightly increased base magicka regen and the multiplier it receives from willpower
+- reduced the chance of random enemy encounters on roads by 10%
+- summon skeleton archer is no longer considered a starting spell, as the magicka cost is far greater than you can possibly obtain at an early level - you already have summon imp as an early game summon
+- reduced penance attribute and skill drains to -5 (was -10). Penance of Arkay now drains Health 15 points and fatigue 25 points (was 25 and 50). Zenithar no longer drains all skills by a lesser amount, just Luck by 8.
+- reduced penance durations to 1200s (was 12000)
+- increased fDamageSkillBase and fDamageStrengthBase to 0.6 (was 0.4) - I think currently weapons can do good damage *IF* you fully invest into them with the combat specialization and a combat oriented birthsign. For hybrid builds your weapon can feel like a bit of a noodle early on if you didn't go for a class with combat specialization, so increasing the base amount your attribute/skill contributes should help this scenario without overbuffing pure combat builds.
+
+**Bugfixes**
+- fixed some inconsistencies with toggling some light sources - much more should be toggleable now
+- fixed a bunch of mounted goblin heads clipping into the wall of the skingrad fighters guild
+- fixed issue that caused actor shadows to not be rendered in interiors
+- fixed an issue that caused exterior actor shadows to not render the actors head
+- replaced the spell projectile for absorb health (and any other effect using destruction.nif) as the orb would weirdly linger and also had issues with ORC's ambient occlusion
+- greatly improved fps in fighters guildhalls by removing overlapping lights caused by the switchable lightsources mod causing previously "fake" lights to act as real lightsources. this might be a problem in more cells, but the issue was especially bad here due to the mod overhauling the fighters guild interiors.
+
 ## **2.3.1**
 
 **Added**
