@@ -20,7 +20,7 @@
 - increased fDamageSkillBase and fDamageStrengthBase to 0.6 (was 0.4) - I think currently weapons can do good damage *IF* you fully invest into them with the combat specialization and a combat oriented birthsign. For hybrid builds your weapon can feel like a bit of a noodle early on if you didn't go for a class with combat specialization, so increasing the base amount your attribute/skill contributes should help this scenario without overbuffing pure combat builds.
 
 **Bugfixes**
-- fixed some inconsistencies with toggling some light sources - much more should be toggleable now
+- fixed an issue that prevented toggling some light sources that should have been - much more should be toggleable now
 - fixed a bunch of mounted goblin heads clipping into the wall of the skingrad fighters guild
 - fixed issue that caused actor shadows to not be rendered in interiors
 - fixed an issue that caused exterior actor shadows to not render the actors head
