@@ -17,7 +17,7 @@
 - summon skeleton archer is no longer considered a starting spell, as the magicka cost is far greater than you can possibly obtain at an early level - you already have summon imp as an early game summon
 - reduced penance attribute and skill drains to -5 (was -10). Penance of Arkay now drains Health 15 points and fatigue 25 points (was 25 and 50). Zenithar no longer drains all skills by a lesser amount, just Luck by 8.
 - reduced penance durations to 1200s (was 12000)
-- increased fDamageSkillBase and fDamageStrengthBase to 0.6 (was 0.4) - I think currently weapons can do good damage *IF* you fully invest into them with the combat specialization and a combat oriented birthsign. For hybrid builds your weapon can feel like a bit of a noodle early on if you didn't go for a class with combat specialization, so increasing the base amount your attribute/skill contributes should help this scenario without overbuffing pure combat builds.
+- increased fDamageSkillBase and fDamageStrengthBase to 0.6 (was 0.4) - I think currently weapons can do good damage *IF* you fully invest into them with the combat specialization and a combat oriented birthsign. For hybrid builds your weapon can feel like a bit of a noodle early on if you didn't go for a class with combat specialization, so increasing the base amount your attribute/skill contributes should help this scenario without overbuffing the scaling of pure combat builds.
 
 **Bugfixes**
 - fixed an issue that prevented toggling some light sources that should have been - much more should be toggleable now
