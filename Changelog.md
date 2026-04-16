@@ -1,3 +1,37 @@
+## **2.3.3**
+
+**Added**
+- OCOv2 Orsimer overhaul
+- Brutish Male Orcs
+- Groundcover for no grass textures
+- Living Oblivion
+- John Cyrodiil's beef soup (upscale dump)
+
+**Removed**
+- Oblivion Grass Overhaul
+- Oblivion Upscaled Textures BSA
+- Oblivion AI Textures (OAT)
+- Bomret's Texture Pack for Shivering Isles BSA
+
+**Updated**
+- Better Cities
+- OOO Enhanced
+
+**Changes**
+- alternate death mod will now respawn you at the place you last rested (ie. slept or used the wait menu) instead of a random shrine. There is a fallback location at the Temple of the One in the Imperial City, in case the player has yet to rest.
+- no longer using progressive formula for magicka pools as it's way too restrictive early on, instead intelligence just gives 2 points of magicka again
+- changes to how magicka costs scale with skill level with the intent to flatten costs - early game should stay relatively unchanged/cheaper, while late game costs will be higher as the cost reduction doesn't scale as hard as before
+- increased base magicka regen to 0.25 (was 0.15)
+- reduced the fortify attack bonus on the Warrior's Rage lesser power to +5 (was +10)
+- small overhaul of blackwood region, removed all coconut palms and replaced cypress "cluster" models with a more leafy tropical one
+- argonians now use the base OCO texture instead of the one from seamless - there is a very tiny  neck seam, but it's hard to notice and the face itself looks so much better I don't care
+- enabled ORC's underwater shader to eliminate the transparent "seam" as you submerge
+- replaced some grass textures/models
+
+**Bugfixes**
+- fixed refraction shader not working
+- fixed broken landscape on beach of the gold coast
+
 ## **2.3.2**
 
 **Added**
