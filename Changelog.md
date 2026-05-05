@@ -1,3 +1,35 @@
+## **2.3.4**
+
+**Updated**
+- Simple Inheritance
+- OOO Enhanced
+- OOO - Oscuro's Oblivion Overhaul - Updated
+- Join the Mythic Dawn
+- Modern Security Overhaul
+
+**Removed**
+- Brutish Male Orcs for OCOv2 - clipping with beards/floating hair
+
+**Changes**
+- major texture reshuffle and decisions on what overwrites what - end result is many detailed and bumpy textures instead of smooth and flat - in some cases the texture only fidelity might be a bit worse than before, but I think in context of the total visual package (colors, texture, shaders) really makes a huge immersion difference
+- there's also been a pretty major shader overhaul to enhance the effects of the texture changes above
+- Argonians now use a more detailed head mesh - in the process they have lost the ability to use different colors for spines/horns (can still use color on feathered hairstyles)
+- removed the fork quest at Sheogorath's Shrine for the Spear of Bitter Mercy - the quest itself is not good, the spear is actually a reskinned staff and as such does no damage on its own, all of it is heavily scripted and a mess and just not implemented well. also randomly uses player.modav to give you 1000 health and magicka for some reason??
+- removed model replacer for trolls - looks out of place, doesn't feel "Oblivion"
+- reworked Sidri-Ashak Runestone since the refraction shader is enabled for Chameleon now, and being permanently invisible is kind of annoying. The stone now grants 25 points of Speed while in the shadows (was 25 Chameleon).
+- Mazken no longer have passive chameleon for the same reason as the change to the Sidri Ashak runestone
+
+**Bugfixes**
+- finally figured out a way to fix the alt khajiit female body texture quality, looks much better now
+- replaced/removed some op loot in the Caldera Mage's Guild
+- fixed Saint Jiub's statue in Caldera using the wrong skin texture
+- removed a copy of Azura's Star from Yana's House in Bravil as it could be pulled through the bars with telekinesis
+- fixed a crash that could occur whenever a cell with a specific Steel Staff from OOO Enhanced was loaded
+- fixed a crash that could occur when selling a mortar and pestle to Felen Relas in the Anvil Mages Guild
+- fixed a random underwater treasure chest that was missing a model
+- fixed a gold brick that was inaccessible and is needed for the Counterfeit Gold quest from Tales of Cyrodiil
+- fixed issue preventing some voices from Kotn Revelations from working
+
 ## **2.3.3**
 
 **Added**
