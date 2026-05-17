@@ -65,7 +65,7 @@ Player must be at least Journeyman rank in the Fighters guild, and have a sum of
 Also starts if the player finds castle and attackers.<br />
 
 ### Frostcrag Spire (Wizard's Tower)<br />
-Player must be at least Journeyman rank in the Mages guild, and have a sum of at least 200 in any Magic skills.<br />
+Player must be at least Evoker rank in the Mages guild, and have a sum of at least 200 in any Magic skills.<br />
 
 ### Thieves Den (Black Flag Ship)<br />
 Player must be at least Bandit rank in the Thieves Guild, and have a sum of at least 200 in any Stealth skills.<br />
