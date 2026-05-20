@@ -1,3 +1,28 @@
+## **2.3.5**
+
+**Added**
+- Classic Sword Replacers - Retextured
+- Modern Engine Fixes
+- Shroud Over Stalrous Manor Voices (ElevenLabs)
+
+**Updated**
+- Unofficial Oblivion Patch - UOP
+- Unofficial Oblivion DLC Patches - UODP
+- Unofficial Shivering Isles Patch - USIP
+- Knights of the Nine Revelation - Unvoiced Voices (ElevenLabs)
+- Kragenir's Death Quest Voices (ElevenLabs)
+- Order of the Dragon EV Voices (ElevenLabs)
+- Tales of Cyrodiil Voices (ElevenLabs)
+- Maskar's Oblivion Overhaul
+
+**Changes**
+- improved unique visual appearance of Peryite's Realm
+- changed color palette of Boethiah's Realm to be more unique
+- changed overall merchant gold multiplier to 2x (was 1.5x) and changed merchant gold cap to 40,000 (was 20,000)
+
+**Bugfixes**
+- fixed bug causing tamed creature slots to not match the perk description
+
 ## **2.3.4**
 
 **Updated**
