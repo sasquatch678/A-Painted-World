@@ -1,3 +1,22 @@
+## **2.3.6**
+
+**Added**
+- EditorIDMapper
+- Custom Animation Framework
+- True Spears
+- Oblivion Performance Runtime
+- Oblivion Magic Extender Fix
+
+**Removed**
+- RuntimeEditorIDs
+
+**Changes**
+- elemental shield effects no longer deal aoe damage around you. Instead they only apply the damage when struck while these effects are active (requires new game to take effect, or increase the elemental shield multiplier in the ingame mods menu for Av Latta Magicka to 0.1)
+
+**Bugfixes**
+- fixed a package on Shuravi (the innkeeper of the Three Sisters Lodge) that could not be completed, causing her to spazz out constantly and not provide services
+- removed several light sources in the chapel of dibella to greatly improve fps in the cellfggdfgsdgsadfsdfsd
+
 ## **2.3.5**
 
 **Added**
