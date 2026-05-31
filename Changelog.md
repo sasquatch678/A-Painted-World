@@ -15,7 +15,7 @@
 
 **Bugfixes**
 - fixed a package on Shuravi (the innkeeper of the Three Sisters Lodge) that could not be completed, causing her to spazz out constantly and not provide services
-- removed several light sources in the chapel of dibella to greatly improve fps in the cellfggdfgsdgsadfsdfsd
+- removed several light sources in the chapel of dibella to greatly improve fps in the cell
 
 ## **2.3.5**
 
