@@ -72,7 +72,12 @@
       "machineURL": "APaintedWorldRemastered",
       "discordURL": "https://discord.gg/dGP9Vy7QMG",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "459726",
+        "slug": "e3ojze",
+        "domainName": "oblivionremastered",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "VvRzV+vFA8s=",
