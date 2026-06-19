@@ -15,7 +15,6 @@
 **Removed**
 - Switchable Lightsources - suspected to cause ctds
 - Custom Animation Framework - suspected to be causing ctds
-- EditorIDMapper - no need for it with dependencies removed
 - True Spears - no need for it with dependencies removed
 
 **Changes**
