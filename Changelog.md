@@ -1,3 +1,32 @@
+## **2.3.7**
+
+**Added**
+- One-Handed Overhand Strike
+- Better Cities Lite
+- AddActorValues Fix
+
+**Updated**
+- De Rerum Dirennis - Alchemy Overhaul
+- Infinitum Compendium
+- Infinitum Voiced Addons
+- Races Reshoveled
+- Extended UI
+
+**Removed**
+- Switchable Lightsources - suspected to cause ctds
+- Custom Animation Framework - suspected to be causing ctds
+- EditorIDMapper - no need for it with dependencies removed
+- True Spears - no need for it with dependencies removed
+
+**Changes**
+- alternate death mod no longer teleports you to a death cell or gives you a penalty. You just respawn where you last slept or rested. That's it.
+- slightly increased base run speed
+
+**Bugfixes**
+- fixed a bug causing Altmer spell sensitivity (both the positive and negative part of it) to be 50% rather than 35%
+- fixed a bug that caused the master light armor perk to not actually do anything
+- reworked the metamagic empower ability so that it will no longer crash the game. when toggled on, it now fortifies spellpower by 50% but damages 10 points of magicka/s
+
 ## **2.3.6**
 
 **Added**
