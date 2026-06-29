@@ -132,5 +132,134 @@ Death is frequent early on—but mastery is rewarding.
 
 ### RESOLUTION FIX
 
-Edit:
+Edit: profiles/A Painted World/Oblivion.ini
 
+Match:
+- iSize W  
+- iSize H  
+
+to your monitor resolution.
+
+---
+
+### ANTIVIRUS EXCEPTION
+
+Required for stable operation. Add modlist folder to exclusions.
+
+---
+
+### RESHADE (OPTIONAL)
+
+- Install from reshade.me  
+- Target `Oblivion.exe` (Stock Game folder)  
+- Select Vulkan  
+- Effects already included via MO2 preset  
+
+---
+
+## STARTING THE GAME
+
+Launch via `ModOrganizer.exe`
+
+- Select **Oblivion profile**
+- Press Run
+
+You will begin in a ship cabin:
+- Create character  
+- Loot starting supplies  
+- Use passport to adjust choices  
+- Sleep to finalize start location  
+
+World progression begins immediately after.
+
+---
+
+## CONTROLLER SUPPORT
+
+Switch MO2 profile:
+- “A Painted World - Controller”
+
+Enables:
+- Controller UI patches  
+- Input remapping  
+- Disabled conflicting mods  
+
+---
+
+## OPTIONAL FEATURES
+
+### Ultrawide Support
+Enable under “ULTRAWIDE OPTIONALS (21x9)”
+
+### Leveling Systems
+- Oblivion XP → skill-based leveling  
+- Remastered Leveling → APW system  
+- Vanilla leveling also supported  
+
+### Extras
+- Food & Drink voice quotes (toggleable)  
+
+---
+
+## SUPPORT POLICY
+
+Modlist is heavily integrated:
+- External edits may break stability  
+- In-game mod menu changes unsupported  
+
+---
+
+## FAQ
+
+See:  
+https://github.com/sasquatch678/A-Painted-World/blob/main/FAQ.md  
+
+---
+
+## GAMEPLAY OVERVIEW
+
+See:
+https://github.com/sasquatch678/A-Painted-World/tree/main/Gameplay.md  
+
+---
+
+## STOCK GAME / ROOT BUILDER
+
+- Uses Stock Game isolation system  
+- Keeps base Oblivion clean  
+- Uses Root Builder for ENB / ReShade / hooks  
+
+---
+
+## KNOWN ISSUES
+
+- Performance drops in dense NPC areas (engine limitation)  
+- Save reloading may break scripts  
+- Certain perks can bug on quickload  
+- DXVK may cause visual anomalies  
+
+Restart game for best stability.
+
+---
+
+## UPDATING
+
+- Backup saves recommended  
+- Overwrites existing installation  
+- May require new game after major updates  
+- Custom mods without `[NoDelete]` will be removed  
+
+---
+
+## REMOVAL
+
+Delete folder to uninstall.
+
+---
+
+## CREDITS
+
+- YOU, for reading this  
+- Wabbajack team  
+- Discord community testers  
+- Biggie_Boss for guidance and inspiration  
