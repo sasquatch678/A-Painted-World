@@ -96,7 +96,7 @@ Death is frequent early on—but mastery is rewarding.
 3. Disable OneDrive and file sync tools  
 4. Install Oblivion outside Program Files (e.g. `C:\Games`)  
 5. Launch once and exit  
-6. Apply 4GB patch to `Oblivion.exe`  
+6. Apply [4GB patch](https://www.nexusmods.com/oblivion/mods/45576) to `Oblivion.exe`  
 7. Disable antivirus or add exclusions  
 8. Disable overlays (Steam / Nvidia / Discord)  
 9. Cap FPS to 60  
