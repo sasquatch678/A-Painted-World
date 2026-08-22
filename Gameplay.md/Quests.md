@@ -51,7 +51,7 @@ and asks them how many Combatants they'd like to sign up to face in the Arena. Y
 After finishing a match, on the wooden table where the Match Registration Forms are found, a sack of coins will appear. Activating the Sack will give you the gold you've earned, and also signal the Custodians to get to work cleaning up the Arena.
 ## <p align="center"> DLC Quests
 
-All of the DLC's have new triggers so the player isn't spammed with new quests on starting a new game. Most/all of these will only trigger after you've completed the tutorial mission in the sewers.
+All of the DLC's have new triggers so the player isn't spammed with new quests on starting a new game.
 
 ### Shivering Isles <br />
 Player level >= 15<br />
