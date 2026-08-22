@@ -4,7 +4,7 @@ Most quests will show up in the new Progress Tracker menu, which can be accessed
 
 ## <p align="center"> Main Quest
 
-The player begins the game on board a ship rather than starting in the Imperial Prison. You can choose from a variety of starting options which will affect what equipment you start with (choosing a wealthier background will give you better starting equipment and therefore make the start of the game easier; to start with no equipment or spells, choose the "beggar" option), and then choose a city in which to dock -- Anvil, Bravil, the Imperial City, or Leyawiin. You can also choose to start the game as a vampire.
+The player begins the game on board a ship rather than starting in the Imperial Prison. You can choose from a variety of starting options which will affect what equipment you start with (choosing a wealthier background will give you better starting equipment and therefore make the start of the game easier; to start with no equipment, choose the "beggar" option), and then choose a city in which to dock -- Anvil, Bravil, the Imperial City, or Leyawiin.
 
 To start the main quest, simply get arrested in the Imperial City and choose to go to jail (as long as "Scheduled for Execution" is not currently active). The Emperor and his entourage will find you in your cell and you will go through the usual tutorial dungeon; the enemies are now leveled and the special "tutorial" versions of items have been replaced with the real deal. Please note that the goblins will probably be rather difficult for a character who relies heavily on equipment – it may be preferable to simply pick the lock and follow the Blades and the Emperor as soon as you first part.
 
