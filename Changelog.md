@@ -1,4 +1,4 @@
-# <p align="center">2.4.0</p> / Revision 10
+# <p align="center">2.4.0</p> / Revision 6
 
 ***
 
