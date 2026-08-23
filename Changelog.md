@@ -1,3 +1,183 @@
+# <p align="center">2.4.0</p>
+
+***
+
+## ADDED
+- Mage Equipment Improved Staff Meshes
+- Boxow Simple Dodge Fix
+- Boxow Simple Arrow Denock
+- Physical Techniques
+- UL Dark Forest Lighter
+- Vanilla Gear Redux - Reasonable Flavor
+- Reverb Support EAXtensions
+- Reverb Support for Oblivion
+- DSOAL - True 3D Sound for Headphones (HRTF mod)
+- Class Warfare
+- Character Specific Saves
+- Boxow Always Run By Default
+- Improved Moons
+- Better Vanilla Leveling - optional
+- Extended UI Descriptions Addon
+- Unique Chapels
+- Unique Chapels Revisited
+- Unique Chapels Improved Meshes
+- OCRAFT Cooking Recipes For Cobl
+- Join the Imperial Legion
+- Soulgem Magic
+- Pay fine without processing
+- Grimbots DLC Book Jackets
+- Book Jackets Oblivion High Res BAIN
+- Reflect damage reflect spells and spell absorbtion no mitigation
+- Weapon Enchantment Tweaks - Recharge Over Time and Balanced Azura's Star
+- Mages Guild Skip Recommendations
+- MOO Bandages Unusable In-combat
+- Frostcrag Reborn - OOO Adaptation
+- Hoarfrost Castle - OOO Adaptation
+- Citizen Empire Bank
+- Skyrim Style Food
+- Runestones for Later - Bankable Bound Items
+- Oblivion Movement Overhaul
+
+***
+
+## UPDATED
+- OOO
+- OOO Enhanced
+- Av Latta Magicka
+- Maskar's Oblivion Overhaul
+- MOO Non ES Franchise Recolors
+- Artifacts Reshoveled
+- The Ayleid Steps
+- Thievery in the Imperial City - Tweaks and Fixes
+- Artifacts Redone
+- Unique Artifacts for Unique People
+- Ducks and Swans-Scripts Patched-UL Compatible
+- Vampires Reshoveled
+- Simple Inheritance
+- Star's Extended Dialogue
+- Living Oblivion
+- Better Cities - OOO Adaptation
+
+***
+
+## REMOVED
+- Oblivifall - Losing My Religion
+- OCOv2 Orsimer Overhaul
+- Lore Dialogue 300 Updated
+- Skill Specialization
+- Vilja
+- Better Cities Lite
+- Put it in its Place - Enhanced Grabbing
+- Simple Primary Needs - redundant with changes to health regen and food system detailed below
+- Status Bars for Needs
+- New Eye and Crosshair for UI
+- Skooma Refining & Addiction Enhanced 
+- CPU Affinity - redundant
+- Better recoil and stagger - this is what made melee combat feel so weightless and floaty
+- Ayleid Wells Revamped - More Useful Ayleid Well Mod
+- MOO - katkat's TW 3 Wolves Patch
+- Katkat TW3 Bears
+- Dynamic Map - the lag when opening the map menu is too annoying
+- Properly equipped vampires
+- Boon Stones
+
+***
+
+## CHANGES
+
+Performance
+- reworked shadow settings to be much more performance friendly and improve AMD compatibility
+- disabled ORC skin shader for improved AMD compatibility
+- greatly improved rainy weather performance
+- optimized lods for improved performance
+- downscaled many textures - down to 109gb total list size
+
+User Interface
+- removed UI sounds from Performance Sound mod, no more static in menus
+- HUD bars now stack on the left instead of centered
+- replaced Darn fonts with the larger style so they are a bit easier to read
+
+General Gameplay
+- there is now a small innate health regen while out of combat
+- each starting attribute for all races is now 5 points higher
+- disabled speech mechanics from Supreme Overhaul - I think these are confusing for most people and not interesting anyway
+- increased bribe costs substantially
+- OblivionXP now rewards 45 skill points on level up (was 40)
+- rested XP now applies to skill leveling rate for other leveling options, not just experience gained in Oblivion XP
+- enabled small xp rewards from the following actions that previously did not award xp - picking locks, raising disposition with npcs, pickpocketing npcs, brewing potions, and stealing
+- increased the amount of xp rewarded for each location discovered and each point of fame/infamy gained
+- increased xp rewarded from kills, and added the ability for it to scale with player level
+- slightly reduced base quest xp rewarded but added the ability for quest experience to scale with the player's level
+- removed the non-unique items added by Nosferat's loot mod so vendor inventories should be much less cluttered
+- the magnitude of player created potions is now more dependent on the player's alchemy skill, rather than their alchemy equipment
+- there are many new recipes for food, split between the oven and cooking pot
+- uncooked foods now restore a small amount of health instead of restoring fatigue, like in Skyrim
+- simpler cooking recipes restore more health, in addition to their other alchemical effects
+- the highest tier of cooked food requires many ingredients, and fortifies two attributes by 10 points for 10 minutes. There are four types in this tier - cooked meat, cooked seafood, cooked vegetables, and baked. Each fortifies a unique set of attributes.
+- "Beggar's Blessing" now fortifies personality and speechcraft by 20 (was just mercantile by 10) - I wanted to make the bonus more worthwhile and give characters less skilled in speech and illusion magic a decent and accessible way to help obtain information. higher speechcraft also just raises your max disposition cap, so you still have to actually put in work in the minigame.
+- merchants will now only completely refuse service if disposition is below 15 (was 30) - they have to reaaally not like you now to not even want to make money off of you
+- the quest "An Unexpected Voyage" is now available from level 1 (was 3)
+- attribute descriptions now include the skills they govern, for when Oblivion XP is disabled
+- increased base skill leveling rates, for when Oblivion XP is disabled
+- improved the appearance of sewer water
+
+Races
+- Breton passive magic resistance reduced to 15%
+- Altmer spell sensitivity reduced to 15% (was 35%) - the fact that this also affects enchantments is incredibly potent, and while I don't want to remove that feature the previous value was too high.
+
+Birthsigns
+- Shadow passive no longer restores health, now grants 25% chameleon while crouched (in addition to the movement speed)
+- Tower passive increased to 20% reflect damage (was 10%) since reflect damage no longer also reduces damage taken
+- Steed lesser power now fortifies speed and athletics by 100 points (was 200)
+- Lord lesser power reduced to 50% weakness to magic and weapons (was 100%). Health regen reduced to 3/s (was 8/s), and now also restores the same amount of fatigue. Duration increased to 30s (was 15s)
+- Warrior lesser power now grants 15 points of Shield for the duration instead of restoring fatigue, mostly to avoid overlap with the new Lord power.
+
+Magic
+- staves crafted through Infinitum Compendium no longer have infinite charges (really op with paralysis staff)
+- increased base magicka regen by 50%
+- increased the base cost of fire, frost, shock, and poison damage so it is more difficult/requires more magicka to create giga one-tap spells
+- reduced the effect of willpower on magicka regen as especially when going past 100 willpower, it was incredibly fast
+- Personality now influences the max effectiveness of illusion spells
+- Charm spells can no longer be resisted
+- can add one enchantment per 100 magicka (was 150)
+- increased the base cost of Fortify Attack, Fortify Elemental Weapons, and Concentration: Restore Health by 50%
+- reverted bound weapons to their vanilla appearance
+- reflect damage and reflect spell now have a cap of 100% (was 85%) since they no longer also prevent damage (affects enemies and player)
+- ayleid wells no longer give a permanent fortify magicka buff. instead they restore magicka 2 points and increase the rate at which your enchanted weapons recharge for 5 minutes
+- low and medium level staves no longer have an intelligence requirement to use
+
+Combat
+- the dodge unlocked from acrobatics at 50 skill can now be used with one button press (alt on keyboard, X/Square on controller)
+- reduced the amount of fatigue spent by jumping by 30%
+- recoil and stagger actually work consistently now, previously they were so short it made combat feel very floaty and like hits had no impact
+- increased the power attack delay to avoid accidentally triggering power attacks
+- bashing now costs 30% of your max fatigue, not a flat cost of 75 fatigue points
+- timed blocks now play a unique sound when triggered to better differentiate from regular blocks
+- improved attack speed formula so that certain enemies are less comically slow while still being reactable
+
+...and many more small changes here and there!
+
+***
+
+## BUG FIXES
+- fixed savage trolls being invisible
+- fixed parallax warping on exterior fort meshes
+- reverted argonian head mesh to base OCOv2/Seamless to avoid clipping with hoods
+- alt death mod will no longer knockback the player after respawn which in some cases could delay/prevent controls being re-enabled
+- fixed issues with the Mages Staff quest not progressing
+- Highwaymen will no longer run up to you just to tell you not to speak with them, they'll just try to rob you like normal
+- fixed clipping in a few of the mages guilds with infinitum compendium content
+- fixed bug which could cause vampires to permanently affect max health if the player respawned while under the effects of their drain spell
+- removed a bunch of spectators in the arena to improve performance
+- deleted Better Cities dll file - supposedly this is outdated and no longer needed, can sometimes cause crashes on save/load transitions
+- removed summon spells from OOO's Bosmer and Sylvan NPCs around the Gold Coast - hopefully this will resolve crashes in the area
+- clams will no longer have multiple pearls
+- fixed issues related to fortifying attributes and losing permanent health/fatigue/mag when the effects expired
+- fixed a bug in which gambling dialogue could get stuck, resulting in an infinite loop with the player being unable to leave the dialogue
+
+***
+
+
 ## **2.3.7**
 
 **Added**
