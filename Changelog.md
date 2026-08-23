@@ -1,4 +1,4 @@
-# <p align="center">2.4.0</p>
+# <p align="center">2.4.0</p> / Revision 10
 
 ***
 
@@ -36,7 +36,6 @@
 - Citizen Empire Bank
 - Skyrim Style Food
 - Runestones for Later - Bankable Bound Items
-- Oblivion Movement Overhaul
 
 ***
 
