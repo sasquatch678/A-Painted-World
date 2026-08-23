@@ -22,7 +22,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/sasquatch678/A-Painted-World/refs/heads/main/images/Oblivion%202025-09-04%2018-41-26%20-%20Copy.webp",
       "readme": "https://github.com/sasquatch678/A-Painted-World/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/A Painted World.wabbajack_e4a4982e-c2b5-4f39-ae16-2a10a908b340",
+      "download": "https://authored-files.wabbajack.org/A Painted World.wabbajack_164c1be9-cd38-49d7-8c74-86270f68e0f3",
       "machineURL": "APaintedWorld",
       "discordURL": "https://discord.gg/dGP9Vy7QMG",
       "websiteURL": "",
@@ -34,17 +34,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "MIEpIka7cDk=",
-      "Size": 3736389889,
-      "NumberOfArchives": 1035,
-      "SizeOfArchives": 56521939828,
-      "NumberOfInstalledFiles": 355343,
-      "SizeOfInstalledFiles": 65647004424,
-      "TotalSize": 122168944252
+      "Hash": "e5Pz0y2Q48g=",
+      "Size": 3736390657,
+      "NumberOfArchives": 1036,
+      "SizeOfArchives": 56521952351,
+      "NumberOfInstalledFiles": 355346,
+      "SizeOfInstalledFiles": 65647063972,
+      "TotalSize": 122169016323
     },
     "version": "2.4.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-23T01:24:54.103518Z",
+    "dateUpdated": "2026-08-23T02:29:47.012436Z",
     "repositoryName": ""
   },
   {
