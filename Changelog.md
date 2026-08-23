@@ -99,7 +99,7 @@ User Interface
 General Gameplay
 - there is now a small innate health regen while out of combat
 - each starting attribute for all races is now 5 points higher
-- disabled speech mechanics from Supreme Overhaul - I think these are confusing for most people and not interesting anyway
+- disabled speech mechanics from Supreme Overhaul - I think these are confusing for most people (including me) and not interesting anyway
 - increased bribe costs substantially
 - OblivionXP now rewards 45 skill points on level up (was 40)
 - rested XP now applies to skill leveling rate for other leveling options, not just experience gained in Oblivion XP
