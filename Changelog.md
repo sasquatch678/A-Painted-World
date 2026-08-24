@@ -18,7 +18,7 @@
 - fixed a severe bug with rested xp when oblivion XP is disabled which could cause a stack overflow with skill levels
 - fixed font section of the oblivion.ini on the normal profile
 - can now disable all mods under the voice addons separator without causing the load order to shift
-- can no longer drop av latta magicka's bound items
+- can no longer drop av latta magicka's bound items so they can't become permanent
 - vanilla bound weapons now use the same enchantment that av latta magicka adds to its bound weapons (soul trap + banish)
 
 ***
