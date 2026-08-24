@@ -1,3 +1,28 @@
+# <p align="center">2.4.1 / Revision 7</p>
+
+***
+
+## ADDED
+- Oblivion Movement Overhaul
+- The Ayleid Steps - OOO Adaptation
+
+***
+
+## CHANGES
+- replaced some rock and landscape textures
+- removed mythic dawn armor and hood models from vanilla gear redux
+
+***
+
+## BUG FIXES
+- fixed a severe bug with rested xp when oblivion XP is disabled which could cause a stack overflow with skill levels
+- fixed font section of the oblivion.ini on the normal profile
+- can now disable all mods under the voice addons separator without causing the load order to shift
+- can no longer drop av latta magicka's bound items
+- vanilla bound weapons now use the same enchantment that av latta magicka adds to its bound weapons (soul trap + banish)
+
+***
+
 # <p align="center">2.4.0 / Revision 6</p>
 
 ***
