@@ -1,3 +1,69 @@
+# <p align="center">2.4.2 / Revision 11</p>
+
+***
+
+## ADDED
+- No Menu Pause - configured to only unpause during book menus to avoid bugs when other menus are unpaused, but you can at least use this to read books to pass time naturally instead of just waiting
+- Knights of the Nine Revelation - OOO Adaptation
+- ILOO - Interior Lighting Oblivion Overhaul
+- Mannimarco Revisited - Patched and Bug Fixed
+- Elsweyr Mysteries Voices (ElevenLabs)
+- No Daedric Quest Level Locks
+- No Hermaeus Mora Daedric Quest Requirement
+
+***
+
+## UPDATED
+- Base Object Swapper
+
+***
+
+## REMOVED
+- Redguardians
+- Arena Poster
+
+***
+
+## CHANGES
+- enabled ORC shadows again, reworked to be easier on performance
+- disabled ORC terrain and DOF shader
+- enabled a few new hairstyles for human/elf races
+- increased sleep/wait time to 500ms (was 150) to allow time for scripts to catch up/run properly when sleeping/waiting. this is still 50% faster than vanilla.
+- replaced most grasses with those from the 2020 Retexture Project mod
+- reduced frequency of the tall weed groundcover grass
+- disposition increases no longer reward xp in oblivionXP
+- increased the level cap in oblivionXP to 100
+- reduced the fatigue drain of holding a drawn bow by 50% at all skill levels
+- running out of fatigue while holding a drawn bow no longer knocks you down
+- reduced the fatigue regen penalty of your equipped armor weight by 20%
+- executing a timed block will now give you 5 points of fortify attack for 3 seconds. if you have a staff equipped, a timed block will give 10% spellpower for 5 seconds instead
+- reduced the volume of the timed block sound effect
+- increased min jump height
+- reduced the amount of valuable ingredients which could be found as random dungeon loot
+- reduced the spawn chance of harpies
+- vanilla creatures now have more variety - some use the s6o6t model replacer and some use their vanilla model
+- cleaned up the premade class screen by disabling classes which were already extremely similar to another premade class
+- minor improvements to the world map texture
+- Death and his horse Binkie have been removed from the game
+- the White Rabbit and Red Queen have been removed from the game
+
+***
+
+## BUG FIXES
+- fixed the bug which caused severe performance degradation when approaching certain cities, but was immediately fixed aftering entering an interior and leaving
+- fixed a bug with actor shadows where both the shadows from ORC and the vanilla shadows would render after transitioning from an interior cell->small worldspace->large worldspace
+- fixed lighting issues in the temple of the one during the main quest
+- fixed bug preventing horses and other creatures from regenerating fatigue
+- removed mismatched argonian head normals from Seamless
+- removed minimum fatigue requirements to attack which also fixes a bug that could sometimes prevent using left click in menus
+- removed female clothing meshes from Vanilla Gear Redux due to buggy and unwanted physics
+- the athletics buff gained by sprinting will no longer trigger the Athletics lesser power Second Wind to be upgraded
+- fixed three morningstar mace meshes from OOO Enhanced to be properly tagged as 1handed weapons so that they will actually be wielded/appear equipped by the wielder
+- removed the duplicate version of Fieldhouse Cave created by OOO Enhanced, for better compatibility with modded quests
+- updated folder structure of all base object swapper mods which have been broken and non-functional since Base Object Swapper was updated in 2.1.11 of February of this year
+
+***
+
 # <p align="center">2.4.1 / Revision 8</p>
 
 ***
