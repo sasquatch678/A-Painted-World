@@ -202,25 +202,37 @@ A Painted World also utilizes Root Builder alongside Stock Game to enable easier
 ***
 
 ## Known Issues
-1. The game can stutter or fps can drop heavily in certain areas even on a powerful system. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Any area with a large cluster of npcs can cause this. Torches and light spells can cause fps to dip very heavily as well. This is unfortunately just an engine limitation which gets worsened by some of the mods adding more objects and detail to the landscape. There is no real solution except to avoid using lights in these areas.
 
-	Certain hardware also seems to have performance issues when it shouldn't with this being an older game, in particular AMD graphics cards. Experiment with setting the game to fullscreen in the Oblivion.ini in the 		profiles folder and disabling borderless in Oblivion Display Tweaks.ini in mods/A Painted World Configs/OBSE/plugins if you are experiencing this.
-   
-3. Various issues related to reloading saves from within the game or exiting to the main menu and reloading from there. Certain scripts will not initialize if not loading from a fresh launch which can create a variety of issues. If you want the most bug free experience, always close and restart the game to load or start a new save.
+1. **Stuttering and FPS drops**
 
+   The game can stutter or experience significant FPS drops in certain areas, even on powerful systems. Oblivion is an old game running on a 32-bit engine, and I have done and continue to do what I can to mitigate these issues as much as possible.
 
+   Areas with large clusters of NPCs can be particularly demanding. Torches and light spells can also cause severe FPS drops. Unfortunately, these are largely limitations of the engine that can be made worse by mods that add additional objects and detail to the landscape. There is no reliable fix for these situations, so avoiding the use of additional lights in particularly demanding areas may be necessary.
 
+   Certain hardware configurations can also experience unexpected performance issues with an older game like Oblivion, particularly AMD graphics cards. If you are experiencing unusually poor performance, try setting the game to fullscreen in `Oblivion.ini` located in the `profiles` folder and disabling borderless mode in `Oblivion Display Tweaks.ini` located in `mods/A Painted World Configs/OBSE/plugins`.
 
+2. **Reloading saves without restarting the game**
 
+   There are various issues that can occur when reloading saves from within the game or exiting to the main menu and loading from there. Certain scripts may fail to initialize correctly unless the game is launched fresh, which can cause a variety of unexpected issues.
 
+   For the most stable and bug-free experience, always completely close and restart the game when loading a save or starting a new game.
 
+3. **Journeyman Alteration perk**
 
+   The Journeyman Alteration perk can occasionally cause spell magnitudes to multiply indefinitely after reloading the game. If this occurs, completely restart the game before loading your save rather than using an in-game quickload.
 
-4. The Journeyman Alteration perk can occasionally cause spell magnitudes to multiply infinitely when reloading the game. Simply restart the game when loading rather than quickloading from within the game.
+4. **DXVK**
 
-5. DXVK can sometimes cause weird visual anomalies or random crashes, if your performance is good enough without it you can keep it disabled. Please note that DXVK is the only way to use Reshade with Oblivion Reloaded Combined, so Reshade will not work with it disabled.
+   DXVK can occasionally cause visual anomalies or random crashes. If your performance is good enough without it, you may want to keep it disabled.
 
-Naturally, with a game and list of this scope, not even my thousands of hours ingame can cover every plausible scenario. One of the founding principles of QA is no one person can find every bug in a piece of software. If you find problems that aren't down to installation-error or missing certain advice above, let's discuss it in Discord.
+   Keep in mind that DXVK is currently required to use ReShade with Oblivion Reloaded Combined. If you disable DXVK, ReShade will not work.
+
+### Reporting Issues
+
+Naturally, with a game and modlist of this scope, not even my thousands of hours in-game can account for every possible scenario. One of the fundamental principles of QA is that no single person can find every bug in a piece of software.
+
+If you encounter an issue that is not caused by an installation error and does not fall under one of the known issues or recommendations above, please bring it up in the Discord. Providing as much information as possible about what happened, what you were doing when it occurred, and whether you can reproduce it will make it much easier to investigate.
+
 
 
 
