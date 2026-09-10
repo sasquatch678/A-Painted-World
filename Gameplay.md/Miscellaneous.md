@@ -47,8 +47,6 @@ A new **Lesser Power** allows you to whistle for your horse or other companions,
 
 Shrines to the Divines and other deities can be found throughout Cyrodiil in homes, public spaces, and other locations, with their prevalence varying depending on the region and its people.
 
-The Colovians, a militaristic and rustic people who make up much of the Imperial Legion, tend to have fewer shrines to the Nine Divines than the people of the Heartlands. Cities with strong Colovian cultural influences include **Chorrol, Anvil, and Skingrad**, while Kvatch has been left unchanged.
-
 ### Devotion
 
 You can show devotion to a Divine by visiting their altars and praying throughout the world. As your **Devotion** grows, the strength of that Divine's blessing increases the next time you visit a chapel altar.
