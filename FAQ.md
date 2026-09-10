@@ -32,7 +32,7 @@ You can change the screenshot key and save location through the ReShade UI, whic
 
 ### How do I start the main quest?
 
-Commit a crime,[ or become falsely accused of one](https://en.uesp.net/wiki/Oblivion:Imperial_Corruption), and get arrested by an Imperial Legion guard. You will begin the tutorial in your prison cell.
+Commit a crime, [or become falsely accused of one](https://en.uesp.net/wiki/Oblivion:Imperial_Corruption), and get arrested by an Imperial Legion guard. You will begin the tutorial in your prison cell.
 
 After completing the sewer sequence, you can retrieve your belongings from the evidence chest back in the Prison District.
 
