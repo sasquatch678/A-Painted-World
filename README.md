@@ -155,11 +155,15 @@ Open the installation folder and double-click on the program called `ModOrganize
 
 Make sure the dropdown box on the right is set to `Oblivion` and press the `Run` button.
 
+You will begin the game aboard a ship, in a cabin where you can choose your race and create your character as normal. Once you have finished all of the prompts, give the game around 30 seconds to finish loading the scripts it needs.
 
+You are free to loot anything you want to take with you from the ship. There is a table with some food and bottles of wine on the dresser.
 
+When you are finished creating your character, find the passport on the table across from the dresser. Interact with it once to review and change any of the choices you have already made, then use it again to finalize your character.
 
+Finally, sleep in the bed. You will be given a prompt to choose your starting city. Depending on your class and skill selections, you will also receive appropriate starting equipment and spells.
 
-You will start the game in a ship cabin, here you can choose your race and create your character like normal. Once you are finished with all of the prompts give the game a good 30 seconds to finish loading all the scripts it needs to. You can loot whatever you want to bring with you in the ship, there is a table with some food and bottles of wine on a dresser. Once finished, there is a passport on a table across from the dresser. Interact with the passport once to change any of the choices you already made, and then use it to finalize your character. Finally, sleep in the bed and you will be given a prompt for a starting city. Depending on your class/skill selection you will be given some starting equipment and spells. What happens next is entirely up to you, the world is open for you to explore.
+What happens next is entirely up to you. The world is open for you to explore, so choose your path and begin your adventure.
 
 ## Controller Support
 
