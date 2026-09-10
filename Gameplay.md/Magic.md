@@ -1,95 +1,226 @@
-## <p align="center"> MAGIC
+## <p align="center">MAGIC</p>
 
-Magic has been greatly expanded, with over 30 new magic effects and spell types thanks to a custom patch combining Av Latta Magicka and Supreme Magicka. Your starting magicka pool is determined by your total intelligence and your class specialization and major skills. Certain races start with higher or lower intelligence and certain birthsigns further increase the pool.
+Magic has been significantly expanded with over 30 new magic effects and spell types through a custom patch combining Av Latta Magicka and Supreme Magicka.
 
-Leveling magic skills now scales with magicka cost of the spell, so it is no longer the most efficient thing to do to craft a low cost spell and spam it a million times to level up.
+Your starting Magicka pool is now determined by your total Intelligence, class specialization, and Major Skills. Certain races have naturally higher or lower Intelligence, while some Birthsigns can further increase your Magicka pool.
 
-## <p align="center"> Magic Sneak Attacks
-Touch spells start with a 1x sneak multiplier at novice sneak and increase up to 3x at a master level of sneak. (0.5x increase per level of sneak mastery).
-Target spells start with a 1x sneak multiplier at novice sneak and increase up to 2x at a master level of sneak. (0.25x increase per level of sneak mastery).
+Magic skill progression has also been reworked. The amount of skill experience gained from casting a spell now scales with its Magicka cost, eliminating the need to create extremely cheap spells and spam them repeatedly to level a skill.
 
-## <p align="center"> Spell Favoriting 
-You can favorite spells by pressing F on them in the magic menu. Outside of the menu, pressing F will open the favorites menu which you can scroll through with the mouse wheel. 
+## <p align="center">MAGIC SNEAK ATTACKS</p>
 
-## <p align="center"> Magic Effect Combinations
-These occur when the same target is hit by 2 interacting effects. The first time that happens, you'll see a tutorial message.
+Casting spells from stealth now provides sneak attack multipliers.
 
-#### Convulsions:
-Paralyze + Shock Damage
+* **Touch spells:** 1x at Novice Sneak, increasing to 3x at Master, with a 0.5x increase per Sneak mastery level.
+* **Target spells:** 1x at Novice Sneak, increasing to 2x at Master, with a 0.25x increase per Sneak mastery level.
 
-#### Deep Freeze:
-Burden + Frost Damage
+## <p align="center">SPELL FAVORITING</p>
 
-#### Ignition:
-Poison + Fire Damage
+Favorite your most frequently used spells by pressing **F** while highlighting them in the Magic menu. Outside of the menu, pressing **F** opens the Favorites menu, which can be navigated using the mouse wheel.
 
-#### Meltdown:
-Elemental Weapons + Disintegrate Weapon
+## <p align="center">MAGIC EFFECT COMBINATIONS</p>
 
-## <p align="center"> Environmental Effects
-Weather and location will affect elemental Destruction spells. All modifiers are multiplicative.
-| Weather    | Effect | 
-|:--------------:|:-------------:|
-| Rain | Fire spells are 15% weaker; Shock spells are 15% stronger
-| Snow | Fire spells are 15% weaker; Frost spells are 15% stronger;
-| Swimming | Fire spells are 15% weaker; Frost spells are 15% stronger; Shock spells are 15% stronger
-| Inside Oblivion | Fire spells are 15% stronger
+Certain magic effects can interact when two compatible effects strike the same target. The first time you trigger one of these combinations, a tutorial message will explain the effect.
 
-## <p align="center"> Spellcrafting
+#### Convulsions
 
-There are many new spellcrafting and enchanting altars all over Cyrodiil, it is no longer locked behind access to the Arcane University. First, each Mages Guild hall now has an enchanting altar. Second, magic shops like Mystic Emporium, Rindir's Staffs, and Warlock's Luck now have them added.  Third, a few private dwellings of mage characters have them added (Henantier, Fathis Aren, etc.)  Last, many have been added to necromancer and sorcerer dungeons.
+**Paralyze + Shock Damage**
 
-A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - using it allows creation of one custom spell for free.
+#### Deep Freeze
 
-## <p align="center"> Enchanting
+**Burden + Frost Damage**
 
-You can now place multiple enchantments on equipment, scaling with every 100 magicka.
+#### Ignition
 
-- Staff enchanting: while you could enchant staves in vanilla, the result was a staff that only fired on touch range. Now any staff you enchant yourself fires at target. Rindirs Staffs now sell unenchanted staffs so you can enchant staffs with your own effects. Enchanted staffs may say touch or onstrike in the enchanting menu in some circumstances, but will be corrected once it has been enchanted.
+**Poison + Fire Damage**
 
-- Recharging enchantments - your equipped weapon's enchantment will now regenerate charge slowly over time, like in Morrowind. The rate scales with your Mysticism skill, from the equivalent of a Petty soul per day for a Novice to a Common soul per day for a Master. If you are under the effect of the Ayleid Well spell, the rate of enchantment recharge will also be increased.
+#### Meltdown
 
-- Soul Trap: Soul trap is a bit tedious to use. So to help reduce the tedium every time you cast soul trap on an enemy it will recharge the current weapon by 1%. When the enemy dies under the effect whether you have a soul gem or not it will recharge your current weapon by 5%. Soul trap when first cast on an enemy will feedback the level of the soul under your crosshair.
+**Elemental Weapons + Disintegrate Weapon**
 
-## <p align="center"> Necromancy and Lichdom
+## <p align="center">ENVIRONMENTAL EFFECTS</p>
 
-- Reanimation has been given a big expansion. Instead of being used on only one unique staff, this effect is now available in form of multiple spells, spread throughout the world and can also be used in spellmaking.
+The weather and environment can influence elemental Destruction spells. All modifiers are multiplicative.
 
-- Necromancy and Lichdom introduces a new necromancy system where you create leveled undead followers using body parts, as well as the ability to transform into a Lich, complete with the accompanying animations. A Skeleton and Wraith form are also options. It begins when you pick up the Tome of Unlife during the quest "Where the Spirits have Lease" By reading different chapters of the book, you will gain the ability to harvest bodies for parts which you can use to create various undead followers. When you have the required parts you will be able to create the body, and then use magic to animate them to act as permanent followers. The spells are locked behind skill prerequisites, so I would recommend leveling your Restoration, Conjuration, and Mysticism if you want to be able to use them. All followers levels will be scaled to the player at the time of creation (e.g. If you create a skeleton at level 1 it will be a normal skeleton, but if you create a skeleton at level 20 it will be a skeleton champion.) In order to toggle whether a minion follows you or not just interact with them.
+| Weather / Location |                                Effect                               |
+| :----------------: | :-----------------------------------------------------------------: |
+|        Rain        |      Fire spells are 15% weaker; Shock spells are 15% stronger      |
+|        Snow        |      Fire spells are 15% weaker; Frost spells are 15% stronger      |
+|      Swimming      | Fire spells are 15% weaker; Frost and Shock spells are 15% stronger |
+|   Inside Oblivion  |                     Fire spells are 15% stronger                    |
 
-## <p align="center"> Various Changes to Magic Mechanics
+## <p align="center">SPELLCRAFTING</p>
 
-- New Concentration Spells will continue their effects as long as Cast key is held or until Magicka runs out.
+Spellmaking and enchanting are no longer locked behind access to the Arcane University. New spellcrafting and enchanting altars can be found throughout Cyrodiil, including:
 
-- Different spells with the same beneficial effect will no longer stack with each other, instead the total effect power will be no more than the strongest of the spells. Feather is the only exception to this.
+* Every Mages Guild hall
+* Magic shops such as the Mystic Emporium, Rindir's Staffs, and Warlock's Luck
+* The private residences of certain mage characters, including Henantier and Fathis Aren
+* Necromancer and Sorcerer dungeons
 
-- Telekinesis spells have been overhauled into really useful utility spells. They can loot chests, open doors, loot dead bodies and pick up items. Additionally if you use without a target you can move yourself forward in the direction you are looking. Longer range spells move faster and further. If you cast on an npc or creature you will quickly move yourself behind their back which is great for pickpocketing or sneak attacks.
+A new rare item, **Welkynd Essence**, can also be found in select Ayleid ruins. Using one allows you to create a single custom spell for free.
 
-- Detect life is a very useful tool in detecting enemies and provides a bit more information on the dangers around you. The undead are not actually alive so the effect will be weaker and harder to see on them. During the effect if you place your crosshair over any friendly character it will indicate how strong they are.
+## <p align="center">ENCHANTING</p>
 
-  | Color   | Effect | 
-  |:--------------:|:-------------:|
-  | Orange | an enemy character that is stronger than you
-  | Purple | an enemy character that is similar in strength to you
-  | Blue | an enemy character that is weaker than you
-  | Green | the character appears to be friendly
+Enchanting has been expanded with several new mechanics. The number of enchantments you can place on equipment scales with your Magicka, increasing with every 100 points of Magicka.
 
-- Dispel - To allow mysticism to be used more offensively, dispel will damage summons you hit if you cannot hit the caster or your dispel effect is not strong enough.
+### Staff Enchanting
 
-- Mystic Hands - This is a spell that allows hand to hand attacks to cast your touch and target spells for a duration if you have the magicka instead of being a separate action. As you cannot enchant your hands this is the closest to providing a similar effect.
+While vanilla Oblivion allows you to enchant staves, self-enchanted staves were limited to touch-range effects. Staves you enchant yourself can now fire at targets instead.
 
-- Levitation comes to Oblivion! A group of mages from Morrowind brought it with them to Cyrodiil and have taught their secret to a few select members of the mages guild. This alteration spell allows you to take the battle to the skies and fire at enemies down below. This is a master level spell and not available for spell making due to its rarity (and potentially game breaking) If you don't move at all you will gently float up and down. Look up/down while moving to rise upwards and down faster. Enemies will freak out when you are levitating and cannot reach you making it difficult to snipe enemies off. Levitation can only be bought from the most skilled magic vendor or found by magic spell tomes in loot.
+Rindir's Staffs now sells unenchanted staves specifically so you can enchant them with your own effects. Enchanted staves may occasionally display "Touch" or "OnStrike" in the enchanting menu, but their range will be corrected once the staff is enchanted.
 
-- Extrication - Teleport spells used to be big in morrowind but became less useful with fast travel. Now the new Extrication spell allows you to teleport to your last known safe outdoor location. This allows you to quickly return to the entrance of dungeons or to escape from a combat encounter outdoors or indoors. The spell takes a number of seconds to cast and will leave you vulnerable during the effect. Some locations this will be unable to be used like jail, the arena or magical quest areas.
+### Recharging Enchantments
 
-- Water breathing spells now also cause you to swim faster during the effect.
+Weapon enchantments now slowly regenerate charge over time, similar to Morrowind.
 
-- At master skill your basic shield magic effects will protect your weapons and armor from damage based on the strength of the shield. At 100% effect your weapons and armor will take no damage.
+The recharge rate scales with Mysticism, ranging from approximately the equivalent of a Petty soul per day for Novices to a Common soul per day for Masters. Being under the effect of an Ayleid Well spell will further increase the recharge rate.
 
-- Fire, Frost, Shock, and Poison Shield effects no longer provide physical armor bonus, instead they work similarly to cloak spells in Skyrim dealing damage in a small area around the caster, as well as provide elemental resistance. They will also add 25% of their effect as unarmed damage.
+### Soul Trap
 
-- Potions will now restore over time. The total number of potions you can consume at once is determined by the following formula - (Endurance + Alchemy)/25
+Soul Trap has been streamlined to reduce the tedium of constantly recharging enchanted weapons.
 
-- It is now possible to summon more than one minion at a time, once obtaining Master level Conjuration.
+* Casting Soul Trap on an enemy immediately restores **1%** charge to your currently equipped weapon.
+* If the enemy dies while Soul Trap is active, your weapon is restored by an additional **5%**, regardless of whether you have an appropriate soul gem.
+* The first time you cast Soul Trap on an enemy, feedback will indicate the size of the soul available.
 
-- Elemental spells now have a chance to cause extra effects, inspired by Skyrim. Fire spells can cause a very small additional burning damage. Frost spells cause a small additional fatigue drain. Shock spells cause a small additional magicka drain. At Destruction skill of 50 and 75, elemental magic effects will unlock impact effects. Chance to inflict them scales with Destruction skill and target’s resistance to particular element. At Journeyman level all effects have a chance to cause recoil; at Expert level Fire spells can knock back, Frost sometimes freezes the target in place, and Shock may inflict a short paralysis.
+## <p align="center">NECROMANCY & LICHDOM</p>
+
+Reanimation has been greatly expanded. Rather than being restricted to a single unique staff, the effect is now available through multiple spells found throughout the world and can also be used through spellmaking.
+
+**Necromancy and Lichdom** introduces a complete necromancy system centered around creating permanent undead followers from harvested body parts. It also allows you to transform yourself into a **Lich**, with accompanying animations, or take on **Skeleton** and **Wraith** forms.
+
+The system begins when you acquire the **Tome of Unlife** during the quest *Where the Spirits have Lease*. Reading its various chapters unlocks the ability to harvest bodies for parts, which can then be assembled into different types of undead followers.
+
+Once you have gathered the required components, you can create an undead body and use magic to animate it into a permanent follower. The spells required to create and animate undead are gated behind skill prerequisites, so aspiring necromancers should develop their **Restoration, Conjuration, and Mysticism** skills.
+
+Undead followers are scaled to your level when they are created. For example, a skeleton created at level 1 will be a normal Skeleton, while one created at level 20 can become a Skeleton Champion.
+
+You can toggle whether an undead follower follows you simply by interacting with them.
+
+## <p align="center">MAGIC MECHANICS</p>
+
+### Concentration Spells
+
+New Concentration spells continue their effects for as long as you hold the Cast key, or until you run out of Magicka.
+
+### Beneficial Effect Stacking
+
+Multiple spells providing the same beneficial effect can no longer stack their full values. Instead, the total strength of the effect is capped at the strength of the most powerful active spell.
+
+**Feather** is the sole exception.
+
+### Telekinesis
+
+Telekinesis has been completely overhauled into a versatile utility spell.
+
+Depending on how it is used, Telekinesis can:
+
+* Loot chests
+* Open doors
+* Loot corpses
+* Pick up items
+* Pull yourself forward in the direction you are looking
+* Move you behind an NPC or creature, making it useful for pickpocketing and sneak attacks
+
+Longer-range Telekinesis spells move you faster and farther.
+
+### Detect Life
+
+Detect Life has been expanded into a useful tool for assessing nearby threats. Undead are not technically alive, so they appear weaker and are more difficult to detect.
+
+While Detect Life is active, aiming your crosshair at a friendly character will also indicate how powerful they are relative to you.
+
+|  Color | Effect                           |
+| :----: | :------------------------------- |
+| Orange | Enemy stronger than you          |
+| Purple | Enemy similar in strength to you |
+|  Blue  | Enemy weaker than you            |
+|  Green | Character appears friendly       |
+
+### Dispel
+
+To make Mysticism more useful offensively, Dispel can now damage summoned creatures when you cannot reach their caster or when your Dispel effect is not powerful enough to affect them directly.
+
+### Mystic Hands
+
+**Mystic Hands** allows you to perform hand-to-hand attacks that simultaneously cast your equipped touch or target spells for a limited duration, provided you have enough Magicka.
+
+Since your hands cannot normally be enchanted, this provides a way to achieve a similar effect while fighting unarmed.
+
+### Levitation
+
+Levitation returns to Oblivion.
+
+A group of mages from Morrowind brought the technique to Cyrodiil and have taught it to a select few members of the Mages Guild. This Alteration spell allows you to take battles into the air and attack enemies from above.
+
+Levitation is a **Master-level spell** and cannot be created through spellmaking due to its rarity and potentially game-breaking applications. It can only be purchased from the most skilled magic vendors or discovered as a spell tome in loot.
+
+While levitating, looking up or down while moving allows you to rise or descend. If you remain still, you will gently float up and down.
+
+Enemies will react to your levitation when they cannot reach you, allowing you to attack from positions that would otherwise be inaccessible.
+
+### Extrication
+
+Teleportation spells were once a major part of Morrowind's magic system, but became less useful in Oblivion with the introduction of fast travel.
+
+**Extrication** provides a new purpose for teleportation by transporting you to your last known safe outdoor location.
+
+This can be used to quickly return to a dungeon entrance or escape a dangerous encounter, whether you are indoors or outdoors. The spell takes several seconds to cast, leaving you vulnerable during the process.
+
+Extrication cannot be used in certain locations, including prisons, the Arena, and specific magical quest areas.
+
+### Water Breathing
+
+Water Breathing spells now also increase your swimming speed for the duration of the effect.
+
+### Shield
+
+At Master-level skill, basic Shield effects also protect your weapons and armor from durability damage. The amount protected scales with the strength of the Shield effect, reaching complete protection at **100% Shield**.
+
+### Elemental Shields
+
+Fire, Frost, Shock, and Poison Shield effects no longer provide a physical armor bonus.
+
+Instead, they function similarly to Skyrim's Cloak spells, dealing damage in a small area around the caster while providing resistance to their respective element.
+
+Elemental Shields also convert **25% of their effect strength into unarmed damage**.
+
+### Potions
+
+Potions now restore their effects gradually over time rather than all at once.
+
+The number of potions you can have actively restoring at once is determined by:
+
+**(Endurance + Alchemy) / 25**
+
+### Multiple Summons
+
+Master-level Conjuration now allows you to summon more than one minion at a time.
+
+## <p align="center">ELEMENTAL MAGIC</p>
+
+Elemental Destruction spells have been expanded with additional effects inspired by Skyrim.
+
+### Fire
+
+Fire spells have a chance to inflict a small amount of additional burning damage.
+
+### Frost
+
+Frost spells have a chance to inflict a small additional Fatigue drain.
+
+### Shock
+
+Shock spells have a chance to inflict a small additional Magicka drain.
+
+### Impact Effects
+
+At **50 and 75 Destruction**, additional elemental impact effects become available. Their chance to trigger scales with your Destruction skill and the target's resistance to the corresponding element.
+
+At **Journeyman** level, all elemental spells have a chance to cause recoil.
+
+At **Expert** level, additional effects become available:
+
+* **Fire:** Chance to knock the target backward
+* **Frost:** Chance to briefly freeze the target in place
+* **Shock:** Chance to briefly paralyze the target
