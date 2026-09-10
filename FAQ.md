@@ -4,7 +4,7 @@
 [Go back to pre-installation and try again.](<https://github.com/sasquatch678/A-Painted-World/blob/main/README.md#pre-installation>)
 
 ### Failed to initialize renderer. Desired render mode not found on Adapter.
-[Go back to pre-installation and try again.](<https://github.com/sasquatch678/A-Painted-World/blob/main/README.md#pre-installation>)
+[Go back to post-installation and try again.](<https://github.com/sasquatch678/A-Painted-World/blob/main/README.md#resolution>)
 
 ### There are a lot of disabled plugins, should I enable them?
 No, they are already part of a merged plugin to bypass the 255 limit. You should not enable or do anything with them.
