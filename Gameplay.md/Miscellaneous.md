@@ -1,97 +1,203 @@
-## <p align="center"> MISC CHANGES
+## <p align="center">MISCELLANEOUS CHANGES</p>
 
-## <p align="center"> Travel
-Fast traveling costs gold, to simulate the amount you would spend resting at inns and cost of resources. It is generally more expensive than using the alternative methods mentioned below as it is far more convenient. The amount of gold it costs is just the number of hours it takes to travel x 20. This takes into account your characters own movement speed, so if you want to game the system you could use a short duration fortify athletics and speed spell before fast traveling. Fast traveling while on a horse will cut the time and cost in half.
+## <p align="center">TRAVEL</p>
 
-You can unlock guild guides in each Mages Guild by completing one of the new mod added quests in Integration: A Stranded Light.
+Fast travel now costs gold, representing the time, lodging, and resources you would otherwise spend traveling normally. The cost is calculated as:
 
-## <p align="center"> Lock Bashing & Security
-Locks can be bashed by attacking them with your weapon or fists. Your weapon or gloves/you will be damaged. Blunt and heavy weapons are best suited to the task. Player strength, weapon skill, and current fatigue are all accounted for in the formula. Power attacks give a 3x  bonus, but deal more damage back to the weapon/gloves/you. Bashing locks is a crime and can't be attempted while sneaking.
+**Travel Time in Hours × 20 Gold**
 
-## <p align="center"> Horses
+The travel time accounts for your character's movement speed, meaning Athletics and Speed effects can reduce the cost of fast travel. If you want to make the most of this, a short-duration Fortify Athletics and Fortify Speed spell can be used before fast traveling.
 
-Each owned horse gives access to saddlebags. They can be accessed by activating the horse while sneaking.Saddlebags have a limited capacity depending on your horse's Strength attribute. To access saddlebags, you must own the horse and it must be your last ridden horse. These checks prevent you from accessing the saddlebag inventory of a horse you’ve stolen or otherwise don't own. The saddlebag inventory is shared between horses, so you don't need to retrieve your items if your horse dies; all items will appear in your new horse's saddlebags.
+Fast traveling while on horseback cuts both the travel time and cost in half.
 
-Whistle
+### Guild Guides
 
-- A lesser power is added which can whistle to call your horse, or other companions to you in an instant.
+Guild Guides can be unlocked at each Mages Guild by completing one of the new quests added by **Integration: A Stranded Light**.
 
-## <p align="center"> Gods and Worship
-You will often find shrines to different divines and other dieties in homes and public spaces depending on the region and the people who live in that location. The Colovians, a militaristic and rustic people, comprise of the bulk of the Legion. The martial Colovians may have shrines to the Nine Divines, but these are scarcer than in the Heartlands. Cities dominated by Colovian subculture include Chorrol, Anvil, and Skingrad (Kvatch has been left untouched).     
+## <p align="center">LOCK BASHING & SECURITY</p>
 
-Show devotion to a Divine by visiting their Altars and Praying out in the world. As your devotion grows, their blessing will be stronger the next time you visit a chapel altar. Betray a Divine by praying to another, repeated betrayals have consequences. Divine blessings and prayers now last for an entire day.
+Locks can now be forcibly bashed open by attacking them with your weapon or fists. Doing so damages the weapon or gauntlets you use, with **Blunt and Heavy weapons** being particularly effective.
 
-#### Blessings
-Blessings are received by visiting an altar, and build up a moderate amount of Devotion. Works similarly to vanilla, but scale the more you use them. The bonuses for each tier of devotion are listed below.
+The effectiveness of lock bashing is determined by your **Strength, relevant weapon skill, and current Fatigue**.
 
-| Divine    | Tier 1 Blessing | Tier 2 Blessing | Tier 3 Blessing |
-|:--------------:|:-------------:|:-------------:|:-------------:|
-| Akatosh | +5 Speed | +10 Speed, Cure Disease & Restore Speed | +10 Speed, Cure Disease & Restore Speed, +10 Athletics, Acrobatics, Light Armor |
-| Arkay | +15 Health | +30 Health, Cure Disease & Restore Health | +50 Health, Cure Disease & +5 Armor Rating, Restore Heath 1/s |
-| Dibella | +5 Personality | +10 Personality, Cure Disease & Restore Personality | +10 Personality, Cure Disease & Restore Personality, +10 Mercantile, Speechcraft, Illusion |
-| Julianos | +5 Intelligence | +10 Intelligence, Cure Disease & Restore Intelligence | +10 Intelligence, Cure Disease & Restore Intelligence, +10 Alchemy, Conjuration, Mysticism |
-| Kynareth | +5 Agility | +10 Agility, Cure Disease & Restore Agility | +10 Agility, Cure Disease & Restore Agility, +10 Security, Sneak, Marksman |
-| Mara | +5 Willpower | +10 Willpower, Cure Disease & Restore Willpower | +10 Willpower, Cure Disease & Restore Willpower, +10 Alteration, Destruction, Restoration |
-| Stendarr | +5 Endurance | +10 Endurance, Cure Disease & Restore Endurance | +10 Endurance, Cure Disease & Restore Endurance, +10 Armorer, Block, Heavy Armor |
-| Talos | +5 Strength | +10 Strength, Cure Disease & Restore Strength | +10 Strength, Cure Disease & Restore Strength, +10 Blade, Blunt, Hand to Hand |
-| Zenithar | +5 Luck | +10 Luck, Cure Disease & Restore Luck | +10 Luck, Cure Disease & Restore Luck, +5 All skills
+Power Attacks provide a **3x bonus** to your ability to bash a lock, but also cause significantly more damage to your weapon or gauntlets.
 
-#### Prayers
-Prayers are learned by visiting an altar, and can be used once a day. They grant a blessing of tier 1 strength and build up a small amount of Devotion. Praying while out on adventure will often increase the strength of your next altar blessing﻿﻿.
+Lock bashing is considered a **crime** and cannot be attempted while sneaking.
 
-#### Wayshrines
-Wayshrines give tier 1 blessings, and due to their remoteness may be taken in secret. Builds a small amount of Devotion. Less powerful than an altar blessing, but can be taken whenever you run across one on an adventure without fear of triggering a betrayal
+## <p align="center">HORSES</p>
 
-#### Betrayal
-Betrayals occur when you switch from one Divine to another. Betrayals reset your devotion and strip any existing blessings belonging to your previous Divine. Committing multiple betrayals against a Divine will cause them to leave the temple and require a new pilgrimage.
+Owned horses now provide access to **saddlebags**, giving you additional storage while traveling.
 
-## <p align="center"> Magical Stones
+Saddlebags can be accessed by activating your horse while sneaking. Their capacity is determined by the horse's **Strength**.
 
-Doom Stones each have a unique greater power thematic with the birthsign they correspond to and a kiss/curse design, as a sort of ultimate ability you unlock through exploration. You may only have one doomstone power at a time. The effects of each stone are as follows.
+To access a horse's saddlebags, you must:
 
-- Lady- Womb of Rebirth - Through the Lady you are given a chance at rebirth, fully restoring all your attributes. However, the process of rebirth leaves you weakened for a time, draining all of your attributes by 25 for 15s.
-- Lord - Rallying Cry - Rally yourself, fortifying endurance by 150 and becoming immune to fear for 120 seconds. However, you become 100% weaker to disease and poison for the duration, the bane of all kings.
-- Steed - Icarian Flight - Call upon the Steed to gallop across the sky, fortifying your speed by 1,000 and your acrobatics by 25,000 for 30s. Hopefully you land before the blessing wanes.
-- Warrior - Berserker Rage - Become a whirlwind of flesh and steel, fortifying your strength, blade, blunt, and hand to hand by 50 for 120 seconds. Each time you succumb to your rage you lose some of your humanity and become no better than the mindless beasts, damaging your intelligence by 10 points.
-- Apprentice - Arcane Fracture - Unleash a nova of pure arcane energy, causing enemies to be 100% weaker to magic in a 100 yard radius for 60 seconds. However, due to your reckless spellcasting you also become 100% weaker to magic for the duration.
-- Atronach - Null Field - Create a zone of no magicka, silencing, dispelling, and fully depleting magicka of all targets (including yourself) in a 100 yard radius for 60 seconds.
-- Mage - Elemental Triune - Conjure a massive storm of elemental power, dealing 10 points of fire, frost, and shock damage in a 75 yard radius for 60 seconds. The storm batters your own defenses, causing you to be 50% weaker to the elements for the duration.
-- Ritual - Profane Ritual - Drain 25 points of your own health for 120s while conjuring a full suit of bound armor, a mace, and a shield, and reanimate on touch for the duration of the drain effect.
-- Lover- Infatuation - Command any humanoid and restore their health, magicka, and fatigue by 3 for 120s. However when the command ends they will be frenzied for another 30s, attacking anything in sight including you.
-- Shadow- Aspect of Terror - Demoralize targets in a 100 yard radius causing them to run in fear for 60s. In doing so you lose your ability to sneak, creating a 600 yard area of light centered on yourself for the duration.
-- Thief - Dance with Fate - Make a deal with fate, becoming 100% resistant to magic and normal weapons for 30s, but draining your luck by 50 points for the duration.
-- Tower -  Fortified Walls - Envelop yourself with spiked and impenetrable walls, reflecting 85% of incoming damage for 30s, but paralyze yourself for 15s.
-- Serpent - Star Curse - Curse a target with 500% weakness to poison for 60s and paralyze them for 15s, but halt your natural regeneration, damaging your health, magicka, and fatigue by 1/s for 60s.
+* Own the horse
+* Have it be your last-ridden horse
 
-Heaven Stones give a unique passive effect that stacks with the effects from other Heaven Stones, however have a fame requirement to activate. The effects of each stone are as follows.
+These restrictions prevent you from accessing the saddlebags of stolen or otherwise unowned horses.
 
-- Aetherius - Resist Magic 5 points
-- Dragon - Fortify Health, Magicka, Fatigue 10 points
-- Jode - Fortify Health 20 points
-- Jone - Fortify Sneak & Acrobatics 10 points
-- Magnus - Fortify every magic skill 5 points
-- Shezarr - Fortify Block, Heavy & Light Armor, and Armorer 5 points
-- Sithian - Fortify Speech & Mercantile 15 points
+Saddlebag storage is shared between your horses, so you don't need to recover your belongings if your horse dies. Any items stored in the saddlebags will appear in the saddlebags of your next horse.
 
-Activating a Runestone provides a one-use greater power for the relevant bound-items, rather than providing them on the spot like in vanilla. You’re able to bank up one power for each type of stone and using the power causes it to disappear from your spell list. You can always revisit the stones to get the power back. If you activate a Runestone with a power still banked, your hand quivers with power and the effect overflows—you’re granted the bound items immediately, like in vanilla.
+## <p align="center">WHISTLE</p>
 
-## <p align="center"> Gambling
-There are NPCs in all the main cities that will play chance games with the player. Look for them around plazas, around city landmarks or at taverns and inns. They have individual AI schedules, different levels of difficulty and available gold. Once they run out off gold they will go to work at certain times unless the player donates them money or until they gain their own gold back. You can also ask "In the mood for a game?" to any NPC at a tavern or inn, provided they like you enough and that they have at least ten septims. The gold on these NPCs is handled by the game itself via leveled lists. There are 5 potential games they can play, which is completely random. 
+A new **Lesser Power** allows you to whistle for your horse or other companions, calling them to your location instantly.
 
-- Guess How Many Septims:
-Pretty much what the title suggests. There are two variations of the game. One where the NPCs hide up to five Septims in their hand and another version where you hide up to five Septims in your hand. The first version depends on your real life luck, meaning there is only one right choice. The second version depends on the NPCs luck. The payout is the choice selected, not the actual septims in hand. Meaning if you thought he had 3 septims, you will pay 3 septims and vice versa.
+## <p align="center">GODS & WORSHIP</p>
 
-- Double or Nothing:
-Basically a coin flip. Both parties bet 10 septims. Either you or the NPC will get to flip the coin. Whoever doesn't flip the coin calls heads or tails. If you get a match you get 20 septims. Depends on the caller's luck.
+Shrines to the Divines and other deities can be found throughout Cyrodiil in homes, public spaces, and other locations, with their prevalence varying depending on the region and its people.
 
-- Dice: Blates:
-The game is played with a pair of six-sided dice and centers on various forms of the sum quantity 8. The score is the sum of the two face up values of the dice. The player with the lowest score wins. The various forms of the sum 8 have special meaning. 4 and 4 is "Blates", and is worth 0. Certain victory, unless the opponent also rolls Blates. 3 and 5 form a "Gentleman's Eight" which is worth 1, making it the best roll in the game besides Blates. 2 and 6 form a "Pauper's Eight" which is worth 13, making it the worst roll in the game. It is impossible to actually roll 8 in Blates. If any players roll the same value in a round, they should take turns rolling against each other until the tie is broken. This is commonly referred to as a "roll off".
+The Colovians, a militaristic and rustic people who make up much of the Imperial Legion, tend to have fewer shrines to the Nine Divines than the people of the Heartlands. Cities with strong Colovian cultural influences include **Chorrol, Anvil, and Skingrad**, while Kvatch has been left unchanged.
 
-- Dice: Parity:
-A 10 Septim bet is made on either an odd or even roll. Player rolls 1 die.
+### Devotion
 
-- Dice: Double Parity:
-Same as Parity, but two dice are rolled. If a double is rolled the bet is doubled to 20.
+You can show devotion to a Divine by visiting their altars and praying throughout the world. As your **Devotion** grows, the strength of that Divine's blessing increases the next time you visit a chapel altar.
 
-- High Stakes:
-Any NPC with a luck higher than 60 will give the option to play games at higher stakes. The options are 2x, 3x, 4x and one special gambler has 10x option. These option only show up if both parties can afford the larger transactions.
+However, devotion comes with a cost. Praying to another Divine is considered a **betrayal**, and repeatedly betraying a Divine has consequences.
+
+Divine blessings and prayers now last for an entire day.
+
+### Blessings
+
+Blessings are received by visiting an altar and provide a moderate increase to Devotion. Their effects grow stronger as your devotion to that Divine increases.
+
+|    Divine    | Tier 1 Blessing | Tier 2 Blessing                                       | Tier 3 Blessing                                                                            |
+| :----------: | :-------------- | :---------------------------------------------------- | :----------------------------------------------------------------------------------------- |
+|  **Akatosh** | +5 Speed        | +10 Speed, Cure Disease & Restore Speed               | +10 Speed, Cure Disease & Restore Speed, +10 Athletics, Acrobatics, Light Armor            |
+|   **Arkay**  | +15 Health      | +30 Health, Cure Disease & Restore Health             | +50 Health, Cure Disease, +5 Armor Rating, Restore Health 1/s                              |
+|  **Dibella** | +5 Personality  | +10 Personality, Cure Disease & Restore Personality   | +10 Personality, Cure Disease & Restore Personality, +10 Mercantile, Speechcraft, Illusion |
+| **Julianos** | +5 Intelligence | +10 Intelligence, Cure Disease & Restore Intelligence | +10 Intelligence, Cure Disease & Restore Intelligence, +10 Alchemy, Conjuration, Mysticism |
+| **Kynareth** | +5 Agility      | +10 Agility, Cure Disease & Restore Agility           | +10 Agility, Cure Disease & Restore Agility, +10 Security, Sneak, Marksman                 |
+|   **Mara**   | +5 Willpower    | +10 Willpower, Cure Disease & Restore Willpower       | +10 Willpower, Cure Disease & Restore Willpower, +10 Alteration, Destruction, Restoration  |
+| **Stendarr** | +5 Endurance    | +10 Endurance, Cure Disease & Restore Endurance       | +10 Endurance, Cure Disease & Restore Endurance, +10 Armorer, Block, Heavy Armor           |
+|   **Talos**  | +5 Strength     | +10 Strength, Cure Disease & Restore Strength         | +10 Strength, Cure Disease & Restore Strength, +10 Blade, Blunt, Hand-to-Hand              |
+| **Zenithar** | +5 Luck         | +10 Luck, Cure Disease & Restore Luck                 | +10 Luck, Cure Disease & Restore Luck, +5 All Skills                                       |
+
+### Prayers
+
+Prayers can be learned by visiting an altar and used **once per day**. They provide a Tier 1 blessing and build a small amount of Devotion.
+
+Praying while adventuring can also increase the strength of your next altar blessing.
+
+### Wayshrines
+
+Wayshrines provide a Tier 1 blessing and a small amount of Devotion. Because they are scattered throughout the wilderness, they can be used privately while adventuring without risking a betrayal.
+
+Their blessings are weaker than those received from altars, but they offer a convenient way to maintain your devotion while away from civilization.
+
+### Betrayal
+
+Betrayal occurs when you switch your devotion from one Divine to another.
+
+Betraying a Divine will:
+
+* Reset your Devotion
+* Remove all existing blessings from your previous Divine
+
+Repeatedly betraying the same Divine will eventually cause them to leave the temple, at which point you must undertake a new **pilgrimage** to regain their favor.
+
+## <p align="center">MAGICAL STONES</p>
+
+### Doom Stones
+
+Each Doom Stone provides a unique Greater Power themed around its associated Birthsign. These powerful abilities follow a **kiss/curse** design, offering significant benefits alongside a corresponding drawback.
+
+You can only have **one Doom Stone power active at a time**.
+
+* **Lady – Womb of Rebirth:** Fully restores all attributes, but drains all attributes by 25 for 15 seconds.
+* **Lord – Rallying Cry:** Fortifies Endurance by 150 and grants immunity to Fear for 120 seconds, but makes you 100% more vulnerable to Disease and Poison.
+* **Steed – Icarian Flight:** Fortifies Speed by 1,000 and Acrobatics by 25,000 for 30 seconds.
+* **Warrior – Berserker Rage:** Fortifies Strength, Blade, Blunt, and Hand-to-Hand by 50 for 120 seconds. Each time the rage takes hold, Intelligence is damaged by 10.
+* **Apprentice – Arcane Fracture:** Makes enemies 100% weaker to Magic within 100 yards for 60 seconds, but also makes you 100% weaker to Magic.
+* **Atronach – Null Field:** Creates a 100-yard zone that silences, dispels, and completely drains the Magicka of all targets, including yourself, for 60 seconds.
+* **Mage – Elemental Triune:** Creates a massive elemental storm dealing 10 Fire, Frost, and Shock damage within 75 yards for 60 seconds, but makes you 50% weaker to the elements.
+* **Ritual – Profane Ritual:** Drains 25 Health for 120 seconds while granting a full suit of Bound Armor, a Bound Mace, and a Bound Shield, as well as Reanimate on Touch.
+* **Lover – Infatuation:** Commands a humanoid and restores their Health, Magicka, and Fatigue by 3 for 120 seconds. When the effect ends, they become Frenzied for another 30 seconds and attack everything around them, including you.
+* **Shadow – Aspect of Terror:** Causes targets within 100 yards to flee in fear for 60 seconds, but prevents you from sneaking and creates a 600-yard area of light centered on you.
+* **Thief – Dance with Fate:** Grants 100% resistance to Magic and normal weapons for 30 seconds, but drains 50 Luck for the duration.
+* **Tower – Fortified Walls:** Surrounds you with impenetrable, damaging walls that reflect 85% of incoming damage for 30 seconds, but paralyzes you for 15 seconds.
+* **Serpent – Star Curse:** Gives a target 500% weakness to Poison for 60 seconds and paralyzes them for 15 seconds, but halts your natural regeneration and damages your Health, Magicka, and Fatigue by 1 per second for 60 seconds.
+
+### Heaven Stones
+
+Heaven Stones provide unique **passive effects** that stack with the effects of other Heaven Stones. Each stone requires a certain amount of **Fame** before its effect can be activated.
+
+* **Aetherius:** Resist Magic 5
+* **Dragon:** Fortify Health, Magicka, and Fatigue 10
+* **Jode:** Fortify Health 20
+* **Jone:** Fortify Sneak and Acrobatics 10
+* **Magnus:** Fortify every Magic skill 5
+* **Shezarr:** Fortify Block, Heavy Armor, Light Armor, and Armorer 5
+* **Sithian:** Fortify Speech and Mercantile 15
+
+### Runestones
+
+Activating a Runestone now provides a **one-use Greater Power** associated with its bound items rather than immediately granting the bound equipment as it does in vanilla.
+
+You can store one power from each type of Runestone. Once used, the power disappears from your spell list, but you can revisit the corresponding Runestone at any time to reclaim it.
+
+If you activate a Runestone while you already have its power stored, the excess energy overflows and you receive the bound items immediately, just as you would in vanilla.
+
+## <p align="center">GAMBLING</p>
+
+Gambling is now available throughout Cyrodiil, with NPCs in every major city offering a variety of games of chance.
+
+Look for gamblers around city plazas, landmarks, taverns, and inns. Each gambler has their own **AI schedule, difficulty, and available gold**.
+
+When a gambler runs out of money, they will return to work at certain times unless you give them money or wait for them to earn more.
+
+You can also approach any NPC at a tavern or inn and ask:
+
+**"In the mood for a game?"**
+
+They must like you enough and have at least **10 Septims** to accept.
+
+There are five possible games, selected randomly.
+
+### Guess How Many Septims
+
+There are two variations of this game.
+
+In one, the NPC hides up to five Septims in their hand and you must guess how many they have. This version depends on your real-life luck, meaning there is only one correct answer.
+
+In the other, you hide up to five Septims and the NPC guesses. This version depends on the NPC's Luck.
+
+The amount you pay or receive is based on the number selected, not the actual number of Septims in the hand.
+
+### Double or Nothing
+
+Both players wager **10 Septims**. One player flips a coin while the other calls Heads or Tails.
+
+If the call matches the result, the winner receives 20 Septims. The outcome is influenced by the Luck of the player making the call.
+
+### Dice: Blates
+
+Blates is played with two six-sided dice, with the goal centered around different variations of the number eight.
+
+The score is the sum of the two dice, and the **lowest score wins**.
+
+* **4 + 4 – Blates:** Worth 0 and is an automatic victory unless the opponent also rolls Blates.
+* **3 + 5 – Gentleman's Eight:** Worth 1, making it the second-best roll.
+* **2 + 6 – Pauper's Eight:** Worth 13, making it the worst possible roll.
+
+An actual score of 8 is impossible in Blates.
+
+If both players roll the same value, they continue rolling against each other until the tie is broken. This is known as a **roll off**.
+
+### Dice: Parity
+
+Bet **10 Septims** on either an odd or even result, then roll a single die.
+
+### Dice: Double Parity
+
+The same rules as Parity, but two dice are rolled instead.
+
+Rolling a double increases the bet to **20 Septims**.
+
+### High Stakes
+
+NPCs with **Luck above 60** can offer higher-stakes versions of the available games.
+
+Available stakes are **2x, 3x, and 4x**, with one special gambler offering a **10x** option.
+
+Higher-stakes options are only available when both players can afford the larger wager.
