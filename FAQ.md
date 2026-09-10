@@ -13,7 +13,7 @@ No, they are already part of a merged plugin to bypass the 255 limit. You should
 Launch Steam.
 
 ### My mouse isn’t working
-Open the oblivion.ini in the profiles folder of wherever you installed the modlist and change bBackground Mouse=1.
+Open the oblivion.ini in the profiles folder of wherever you installed the modlist and change bBackground Mouse to 1.
 
 ### The game crashes on launch
 Try disabling DXVK in mo2. If this works, update your drivers and re-enable DXVK. If it still crashes, use a different version of DXVK or play without it.
