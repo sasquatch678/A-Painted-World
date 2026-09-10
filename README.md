@@ -119,17 +119,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 	- Either buy the game or go back to the [Pre-Installation](#pre-installation) step.
 
-
-
-
-
-
-
 - Antivirus reports a virus:
 	- You did not follow the steps in [Pre-Installation](#pre-installation). Go back and follow it.
 	- If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
-
-
 
 
 ## Post-Installation :warning: **IMPORTANT**: YOUR GAME WILL NOT WORK OR CONSTANTLY CRASH UNLESS YOU DO THIS :warning:
@@ -141,10 +133,6 @@ In the directory you installed the list to, open profiles/A Painted World/Oblivi
 ### Antivirus Exception
 
 Modding tools and mod organizers are commonly flagged by antivirus software, including Windows Defender, as false positives. To get around this, you must set an exception for the modlist folder. For Windows Defender, follow these instructions (https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
-
-
-
-
 
 ### Reshade (Optional)
 
@@ -191,11 +179,6 @@ Please consult the  [FAQ](https://github.com/sasquatch678/A-Painted-World/blob/m
 
 A Painted World plays very differently from vanilla Oblivion, please review [Gameplay](https://github.com/sasquatch678/A-Painted-World/tree/main/Gameplay.md) for an overview of some of the new systems and mechanics.
 
-## Stock Game & Root Builder
-
-A Painted World utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Oblivion installation within the installation location of the list. This enables greater compatibility with other mod-lists and keeps your original game folder clean of any outside files.
-
-A Painted World also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and other mods which would ordinarily require being installed to the game folder. Please see this guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
 ***
 
 ## Known Issues
@@ -226,20 +209,11 @@ Naturally, with a game and modlist of this scope, not even my thousands of hours
 
 If you encounter an issue that is not caused by an installation error and does not fall under one of the known issues or recommendations above, please bring it up in the Discord. Providing as much information as possible about what happened, what you were doing when it occurred, and whether you can reproduce it will make it much easier to investigate.
 
-
-
-
-
-
-
 ## Updating the modlist
 
 Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
 
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. You may also need to reset your resolution in the Oblivion.ini in the profiles folder. **Note**: Any mods you have added will be deleted when updating unless prefixed with [NoDelete].
-
-
-
 
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
