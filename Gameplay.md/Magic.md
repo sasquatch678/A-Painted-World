@@ -55,7 +55,7 @@ Spellmaking and enchanting are no longer locked behind access to the Arcane Univ
 * Every Mages Guild hall
 * Magic shops such as the Mystic Emporium, Rindir's Staffs, and Warlock's Luck
 * The private residences of certain mage characters, including Henantier and Fathis Aren
-* Necromancer and Sorcerer dungeons
+* some Necromancer and Conjurer dungeons
 
 A new rare item, **Welkynd Essence**, can also be found in select Ayleid ruins. Using one allows you to create a single custom spell for free.
 
