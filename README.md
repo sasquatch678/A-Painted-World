@@ -189,7 +189,7 @@ Please consult the  [FAQ](https://github.com/sasquatch678/A-Painted-World/blob/m
 
 ## Gameplay Changes
 
-A Painted World plays very differently from vanilla Oblivion, please review [Gameplay](https://github.com/sasquatch678/A-Painted-World/tree/main/Gameplay.md) for an overview of some of the new mechanics.
+A Painted World plays very differently from vanilla Oblivion, please review [Gameplay](https://github.com/sasquatch678/A-Painted-World/tree/main/Gameplay.md) for an overview of some of the new systems and mechanics.
 
 ## Stock Game & Root Builder
 
