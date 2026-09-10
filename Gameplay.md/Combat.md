@@ -1,29 +1,79 @@
-## <p align="center"> COMBAT
+## <p align="center">COMBAT</p>
 
-Fatigue is like your second health bar and affects your damage dealt and swing speed. At high fatigue you should look to go in and be aggressive while at low fatigue it’s usually preferable to hang back and play more defensively. Your regeneration rate is determined by your equipped armor and perks with that armor. At low fatigue you won't be able to use light or power attacks at all until you regenerate back over a certain threshold. The minimum amount required scales with the weight of your equipped weapon. This minimum requirement is removed for light attacks at Journeyman Athletics.
+Combat has been significantly reworked to make positioning, stamina management, equipment, and enemy weaknesses much more important. Enemies are more dangerous when approached without preparation, but nearly every encounter has weaknesses you can exploit with the right tactics or equipment. Sometimes you may encounter enemies who are too high level for your character. That's okay, they aren't going anywhere and you can return once you've found some new equipment and gained a few levels.
 
-Moving is overall more restricted, and wearing heavier armor causes you to move more slowly. You move more slowly when strafing or backpedaling. These penalties are reduced based on agility - At high agility, going backwards will barely slow you at all compared to at low agility. Furthermore, NPCs will now actually be slowed by their equipped encumbrance. This also means Burden is more useful - as it will slow enemies down when the magnitude isn't enough to halt them completely.
+## <p align="center">FATIGUE</p>
 
-Hand to Hand damage now scales with the armor rating of your equipped gauntlets, and does additional elemental damage when an elemental shield effect is active.
+Fatigue acts as your second health bar, directly affecting both your damage output and swing speed. Managing it is essential to effective combat.
 
-Blade, Blunt, Hand to Hand, Heavy Armor, and Light armor all have new and unique perks that will change how you play such as cleaving attacks, stacking bleeds, crushing enemies armor, or sending them flying away.
+At high Fatigue, you can afford to be aggressive and make use of powerful attacks. At low Fatigue, it is generally safer to hang back and fight defensively while you recover.
 
-Additionally, there are many new mechanics to take advantage of, listed below.
+Your Fatigue regeneration rate is determined by your equipped armor and the perks associated with that armor. When your Fatigue falls too low, you will be unable to perform Light or Power Attacks until you recover above a certain threshold.
 
-- Sprinting: Hold shift to sprint.
+The minimum Fatigue required to attack scales with the weight of your equipped weapon. This requirement is removed for Light Attacks once you reach **Journeyman Athletics**.
 
-- Dodge: At 50 acrobatics the player can dodge roll by holding block and pressing space bar. This dodge roll contains i-frames.
+Running out of Fatigue will also knock you down. This is a vanilla mechanic, but it is particularly important with the expanded Fatigue system.
 
-- Bashing: You can bash by holding block and using left click. This consumes fatigue but drains fatigue from the opponent and can stagger or knock them back.
+## <p align="center">MOVEMENT</p>
 
-- Knockdown: If the player runs out of fatigue, they will be knocked down. This is a vanilla mechanic, but I find it worth mentioning here.
+Movement has been made more deliberate and restrictive. Heavier armor slows you down, while strafing and backpedaling are also slower than moving forward.
 
-- Timed Block: If the player blocks an attack within 0.3s of holding the block key, then they will take no damage from the attack and potential stagger will be greatly reduced.
+Your **Agility** determines how severe these movement penalties are. At high Agility, moving backward will barely slow you down, while characters with low Agility will be significantly hindered.
 
-- Swing speed is determined by weapon weight and either Speed or Agility as a percentage from whichever is higher. This also applies to enemies, which opens up drain or absorb speed/agility as a way to counter very fast enemies.
+NPCs are also affected by the encumbrance of their equipped armor and equipment. This makes **Burden** considerably more useful, as it can slow enemies even when the magnitude is not high enough to stop them completely.
 
-## <p align="center"> Resistances and Weaknesses
+## <p align="center">WEAPONS & ARMOR</p>
 
-Most enemies have some form of resistance or weakness to specific damage types ie. Undead are weak to fire and silver weapons but immune to poison, spectral enemies are weak to shock damage but immune to physical weapons. Racial bonuses apply the same way to enemies, so attacking a dunmer bandit with fire spells won't make much sense, and likewise a nord with frost. Fast and quickly attacking enemies can be countered by absorb speed or burden effects. If you normally use a one-handed blade, it might be worth still carrying around a two-handed blade for dangerous melee enemies so you can keep your distance. Enemies with high regeneration can be countered with one of the new magic effects from Av Latta Magicka that stops all healing, and vampires can additionally have their regeneration reduced when afflicted with a light effect, increasing based on the strength of the effect.
+Swing speed is determined by your weapon's weight and your **Speed or Agility**, using whichever attribute is higher as a percentage modifier.
 
-The list is designed in a way to reward using effective tactics against different types of enemies. There is almost always something you can adapt in your playstyle/loadout to make a specific combat encounter easier.
+This applies to NPCs as well, creating additional ways to counter particularly fast enemies. Effects such as **Drain Speed/Agility**, **Absorb Speed/Agility**, and **Burden** can be used to bring fast opponents down to a more manageable pace.
+
+Hand-to-Hand damage now scales with the armor rating of your equipped gauntlets. When an elemental Shield effect is active, Hand-to-Hand attacks will also deal additional elemental damage.
+
+**Blade, Blunt, Hand-to-Hand, Heavy Armor, and Light Armor** all have new and unique perks that can fundamentally change how each playstyle works. These include mechanics such as:
+
+* Cleaving attacks
+* Stacking bleeds
+* Crushing enemy armor
+* Knocking enemies away
+
+## <p align="center">COMBAT MECHANICS</p>
+
+### Sprinting
+
+Hold **Shift** to sprint.
+
+### Dodge
+
+At **50 Acrobatics**, you can perform a dodge roll by pressing Alt (or X/Square on controller). Dodge rolls include brief invulnerability frames, allowing you to avoid incoming attacks with well-timed movement.
+
+### Bashing
+
+Hold Block and press the attack button to bash.
+
+Bashing consumes your own Fatigue while draining Fatigue from your opponent. A successful bash can also stagger or knock an enemy backward.
+
+### Timed Block
+
+Raise your block within **0.3 seconds** of an incoming attack to perform a Timed Block.
+
+A successful Timed Block completely negates the attack's damage and greatly reduces the resulting stagger, while also giving you a short duration attack and spellpower buff.
+
+## <p align="center">RESISTANCES & WEAKNESSES</p>
+
+Enemies have a wide variety of resistances and weaknesses that reward adapting your approach to the opponent.
+
+Undead, for example, are weak to **Fire and Silver weapons** but immune to **Poison**. Spectral enemies are vulnerable to **Shock** but immune to physical weapons.
+
+Racial resistances and weaknesses also apply to NPCs. A Dunmer bandit is naturally resistant to Fire, while a Nord is resistant to Frost, so relying on the same elemental attack against every enemy is not always effective.
+
+Different enemies can also be countered through specialized mechanics:
+
+* **Fast enemies:** Drain Speed, Absorb Speed, or Burden can reduce their attack and movement speed.
+* **Dangerous melee opponents:** A two-handed weapon can provide additional reach and allow you to maintain distance from enemies that are difficult to fight up close.
+* **Enemies with high regeneration:** New magic effects from Av Latta Magicka can completely prevent healing.
+* **Vampires:** Light effects can reduce their regeneration, with the reduction scaling with the strength of the effect.
+
+The result is a combat system that rewards preparation and adaptation rather than relying on a single weapon, spell, or strategy.
+
+There is almost always something you can change about your equipment, abilities, or tactics to make a difficult encounter more manageable.
