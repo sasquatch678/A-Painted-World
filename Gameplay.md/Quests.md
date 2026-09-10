@@ -111,6 +111,9 @@ This mod lets you join the Necromancer faction, the Order of the Black Worm, par
 ### [Join the Mythic Dawn](https://www.nexusmods.com/oblivion/mods/55756)
 This mod allows you to join the Mythic Dawn and work against Martin and the Blades as an alternative questline to the Main Quest. This mod adds a dozen new quests (though a few of them are hidden side quests you have to find by talking to certain Mythic Dawn members) and ends with Mehrunes Dagon's plan to invade Tamriel coming to fruition.
 
+### [Join the Imperial Legion](https://www.nexusmods.com/oblivion/mods/56133)
+This mod allows you to join the Imperial Legion and sees you rise through the ranks, working to thwart those who would see the Empire fall and strengthen the primary protecting force of Cyrodiil.
+
 ### [Join the Morag Tong](https://www.nexusmods.com/oblivion/mods/55771)
 This mod adds a joinable faction and a questline with around two dozen new quests that pits you against the Dark Brotherhood and has you commit various assassinations across Cyrodiil. To join the Morag Tong, you first have to find out about them, which is done via asking for Rumors in Cheydinhal (unfortunately, if you've completed the Main Quest, its aftermath rumors will take precedence over my rumor for an in-game week after completing the Main Quest), or you could just find out where they're hiding by yourself and bypass all the Rumors stuff.
 
@@ -122,9 +125,6 @@ This mod is both a player home and a full questline that continues the Thieves G
 
 ### [Infinitum Compendium](https://www.nexusmods.com/oblivion/mods/55242)
 Radiant Content Systems for five major factions - The Arena, Dark Brotherhood, Fighter's Guild, Mages Guild, and Thieves Guild. Tons of new items, new monsters, new NPCs, new currencies, new rewards.Tons of reasons to keep exploring Cyrodiil.. but don't forget to deliver the Amulet of Kings!
-
-### [Companion Vilja](https://www.nexusmods.com/oblivion/mods/28977)
-The young nord alchemist Vilja has her own mission in Cyrodiil - but she needs your help! Will you let her tag along? Will you let your Cyrodiil life be changed by a talkative, curious and unpredictable girl who might be a nuisance at times, but who also will offer a strong, indepth friendship, and later on also optional romance.
 
 ### [Knights of the Nine Revelation](https://www.nexusmods.com/oblivion/mods/42490)
 Umaril has been vanquished and the people of Cyrodiil hail you as the Divine Crusader. But little do they know that Pelinal's relics hold the key to protecting the freedom of all humankind... or enslaving it.
