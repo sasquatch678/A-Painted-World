@@ -2,13 +2,28 @@
 
 Most quests will show up in the new Progress Tracker menu, which can be accessed in the stats or map menu. This will give you an overview of your current total progress in the game as well as a small blurb on each questline and how they may be started.
 
+Quest markers have also been modified. It is somewhat unimmersive and detrimental to roleplaying for the player character to have the clairvoyant ability to see a quest item in a cave on the other side of Tamriel. That said, the quest marker system can be helpful and saves the player from a lot of frustration. Searching for Radiant AI-driven NPCs or hovering over every map marker on the map is not THAT fun. The issue is that the current available options are either to keep all quest markers or to have no markers at all.
+
+This modlist tries to strike a balance. It removes some of the quest markers only when it makes sense, both in terms of common sense and gameplay. Some markers have been tweaked to remain helpful without breaking immersion. Almost every vanilla quest has been reworked.
+
+---
+
+**How do quest markers work now?**
+
+- If you need to find an item or kill something in a cave or dungeon, the quest marker will show the location of the dungeon but will not point to the item or enemy directly; the quest marker will not be shown inside the dungeon.
+- For finding items in houses and other public areas, the quest marker will guide you to the building but not the exact item position. Exceptions: when the stuff you need to find is too generic, like a specific desk you need to place an item in which is not really different from other containers in the location
+- If a quest requires you to investigate an area or find something in the worldspace, the marker will show an approximate location and will disappear when you are within the search area.
+- For quests where the exact target location is unknown (e.g., finding a cave on a river shore and a map marker is not given), the marker will be in an area close to your destination.
+- Markers will generally show the location of quest givers or NPCs in town if it is implied that their current location is known to the player and is not a secret. This avoids the annoyance of searching for NPCs following their daily schedules or hovering over cell names in the local map.
+- If you have to find an NPC but it is implied that you don't know their exact location, frequent locations where the NPC can be found might be shown for some quests.
+
 ## <p align="center"> Main Quest
 
-The player begins the game on board a ship rather than starting in the Imperial Prison. You can choose from a variety of starting options which will affect what equipment you start with (choosing a wealthier background will give you better starting equipment and therefore make the start of the game easier; to start with no equipment, choose the "beggar" option), and then choose a city in which to dock -- Anvil, Bravil, the Imperial City, or Leyawiin.
+You will begin the game on board a ship rather than starting in the Imperial Prison. You can choose from a variety of starting options which will affect what equipment you start with (choosing a wealthier background will give you better starting equipment and therefore make the start of the game easier; to start with no equipment, choose the "beggar" option), and then choose a city in which to dock -- Anvil, Bravil, the Imperial City, or Leyawiin.
 
 To start the main quest, simply get arrested in the Imperial City and choose to go to jail (as long as "Scheduled for Execution" is not currently active). The Emperor and his entourage will find you in your cell and you will go through the usual tutorial dungeon; the enemies are now leveled and the special "tutorial" versions of items have been replaced with the real deal. Please note that the goblins will probably be rather difficult for a character who relies heavily on equipment – it may be preferable to simply pick the lock and follow the Blades and the Emperor as soon as you first part.
 
-References to the player’s imprisonment and the Emperor’s death will be blocked until the main quest begins. The Dragonfires burn in the Temple of the One, the Emperor attends court every day in the Elder Council Chambers, Jauffre lives peacefully at Weynon Priory, and Slythe Seringi wanders around his farm, terrified of the Sunken One’s imminent wrath. Kvatch has no Oblivion gate before the Crisis starts.
+References to the player’s imprisonment and the Emperor’s death will be blocked until the main quest begins. The Dragonfires burn in the Temple of the One, the Emperor attends court every day in the Elder Council Chambers, Jauffre lives peacefully at Weynon Priory, and Slythe Seringi wanders around his farm, terrified of the Sunken One’s imminent wrath. Kvatch is a real city and has no Oblivion gate until the Crisis starts.
 
 ## <p align="center"> Faction Quests
 
