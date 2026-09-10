@@ -213,19 +213,15 @@ A Painted World also utilizes Root Builder alongside Stock Game to enable easier
 
 2. **Reloading saves without restarting the game**
 
-   There are various issues that can occur when reloading saves from within the game or exiting to the main menu and loading from there. Certain scripts may fail to initialize correctly unless the game is launched fresh, which can cause a variety of unexpected issues.
+   There are various issues that can occur when reloading saves from within the game or exiting to the main menu and loading from there. Certain scripts may fail to initialize correctly unless the game is launched fresh, which can cause a variety of unexpected issues. The alternate death mod exists to mitigate this as best as possible.
 
    For the most stable and bug-free experience, always completely close and restart the game when loading a save or starting a new game.
 
-3. **Journeyman Alteration perk**
-
-   The Journeyman Alteration perk can occasionally cause spell magnitudes to multiply indefinitely after reloading the game. If this occurs, completely restart the game before loading your save rather than using an in-game quickload.
-
-4. **DXVK**
+3. **DXVK**
 
    DXVK can occasionally cause visual anomalies or random crashes. If your performance is good enough without it, you may want to keep it disabled.
 
-   Keep in mind that DXVK is currently required to use ReShade with Oblivion Reloaded Combined. If you disable DXVK, ReShade will not work.
+   Keep in mind that DXVK is a big performance boost on most systems (particularly in performance intensive areas) and is currently required to use ReShade with Oblivion Reloaded Combined. If you disable DXVK, ReShade will not work.
 
 ### Reporting Issues
 
