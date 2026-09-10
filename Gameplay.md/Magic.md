@@ -1,8 +1,6 @@
 ## <p align="center"> MAGIC
 
-Magic has been greatly expanded, with over 30 new magic effects and spell types thanks to Av Latta Magicka and Supreme Magicka. Your starting magicka pool is determined by your total intelligence and your class specialization and major skills. Certain races start with higher or lower intelligence and certain birthsigns further increase the pool. Interacting with Ayleid Wells will each give a permanent and stacking +5 bonus to your magicka, until you interact with 35 total at which point you will gain a permanent +200 magicka and a +1/s magicka regeneration buff.
-
-In additon to increasing your total magicka pool, Intelligence now also scales the magnitude of your spells by a percentage. Willpower increases (or decreases, if below 25) resistance to magic by a percentage. There is also a 10% multiplier added to your spells when wielding a staff, and subtracted when wielding a weapon or shield. There is no penalty or bonus when empty handed. These effects apply to npcs as well as the player.
+Magic has been greatly expanded, with over 30 new magic effects and spell types thanks to a custom patch combining Av Latta Magicka and Supreme Magicka. Your starting magicka pool is determined by your total intelligence and your class specialization and major skills. Certain races start with higher or lower intelligence and certain birthsigns further increase the pool.
 
 Leveling magic skills now scales with magicka cost of the spell, so it is no longer the most efficient thing to do to craft a low cost spell and spam it a million times to level up.
 
@@ -45,11 +43,11 @@ A new rare item called Welkynd Essence is handplaced in a few Ayleid ruins - usi
 
 ## <p align="center"> Enchanting
 
-You can now place multiple enchantments on equipment, scaling with every 150 magicka.
+You can now place multiple enchantments on equipment, scaling with every 100 magicka.
 
 - Staff enchanting: while you could enchant staves in vanilla, the result was a staff that only fired on touch range. Now any staff you enchant yourself fires at target. Rindirs Staffs now sell unenchanted staffs so you can enchant staffs with your own effects. Enchanted staffs may say touch or onstrike in the enchanting menu in some circumstances, but will be corrected once it has been enchanted.
 
-- Recharging enchantments - all weapons will now regain charge equal to 25% of your mysticism skill every ingame hour.
+- Recharging enchantments - your equipped weapon's enchantment will now regenerate charge slowly over time, like in Morrowind. The rate scales with your Mysticism skill, from the equivalent of a Petty soul per day for a Novice to a Common soul per day for a Master. If you are under the effect of the Ayleid Well spell, the rate of enchantment recharge will also be increased.
 
 - Soul Trap: Soul trap is a bit tedious to use. So to help reduce the tedium every time you cast soul trap on an enemy it will recharge the current weapon by 1%. When the enemy dies under the effect whether you have a soul gem or not it will recharge your current weapon by 5%. Soul trap when first cast on an enemy will feedback the level of the soul under your crosshair.
 
@@ -95,5 +93,3 @@ You can now place multiple enchantments on equipment, scaling with every 150 mag
 - It is now possible to summon more than one minion at a time, once obtaining Master level Conjuration.
 
 - Elemental spells now have a chance to cause extra effects, inspired by Skyrim. Fire spells can cause a very small additional burning damage. Frost spells cause a small additional fatigue drain. Shock spells cause a small additional magicka drain. At Destruction skill of 50 and 75, elemental magic effects will unlock impact effects. Chance to inflict them scales with Destruction skill and target’s resistance to particular element. At Journeyman level all effects have a chance to cause recoil; at Expert level Fire spells can knock back, Frost sometimes freezes the target in place, and Shock may inflict a short paralysis.
-
-- Chameleon is capped at 75%. Resist Magic and Reflect Damage are capped at 85%
