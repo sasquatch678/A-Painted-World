@@ -167,7 +167,7 @@ What happens next is entirely up to you. The world is open for you to explore, s
 
 ## Controller Setup
 
-To use a controller, switch to the controller profile in MO2 by clicking the profile dropdown at the top of the application. By default, this will be set to **A Painted World**. Select **A Painted World - Controller** instead. Each profile uses a separate Oblivion.ini, so ensure you have applied your resolution for this profile following the steps in Post Installation.
+To use a controller, switch to the controller profile in MO2 by clicking the profile dropdown at the top of the application. By default, this will be set to **A Painted World**. Select **A Painted World - Controller** instead. Each profile uses a separate Oblivion.ini, so ensure you have applied your resolution for this profile following the steps in [Post Installation](https://github.com/sasquatch678/A-Painted-World/blob/main/README.md#resolution).
 
 Switching profiles will automatically enable several mods that add controller support and patch various UI elements for controller use. It will also disable a handful of mods that would conflict with controller support, cause crashes, or otherwise not function correctly when using a controller.
 
