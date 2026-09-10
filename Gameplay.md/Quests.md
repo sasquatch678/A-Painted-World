@@ -1,188 +1,346 @@
-# <p align="center"> Quests 
+# <p align="center">QUESTS</p>
 
-Most quests will show up in the new Progress Tracker menu, which can be accessed in the stats or map menu. This will give you an overview of your current total progress in the game as well as a small blurb on each questline and how they may be started.
+A Painted World greatly expands and reworks Cyrodiil's quest content. Almost every vanilla quest has been reworked, while numerous new questlines, radiant activities, factions, and DLC integrations have been added throughout the world.
 
-Quest markers have also been modified. It is somewhat unimmersive and detrimental to roleplaying for the player character to have the clairvoyant ability to see a quest item in a cave on the other side of Tamriel. That said, the quest marker system can be helpful and saves the player from a lot of frustration. Searching for Radiant AI-driven NPCs or hovering over every map marker on the map is not THAT fun. The issue is that the current available options are either to keep all quest markers or to have no markers at all.
+Most quests are tracked through the new **Progress Tracker** menu, accessible from the Stats or Map menu. The Progress Tracker provides an overview of your overall progress, along with a brief description of each questline and information on how it can be started.
 
-This modlist tries to strike a balance. It removes some of the quest markers only when it makes sense, both in terms of common sense and gameplay. Some markers have been tweaked to remain helpful without breaking immersion. Almost every vanilla quest has been reworked.
+## <p align="center">QUEST MARKERS</p>
 
----
+Quest markers have been reworked to strike a balance between immersion and convenience.
 
-**How do quest markers work now?**
+Vanilla's quest markers can be overly precise, effectively giving the player a supernatural ability to locate an object or person they have no reasonable way of knowing the location of. On the other hand, removing quest markers entirely can make certain quests unnecessarily frustrating, particularly when dealing with Radiant AI NPCs and their daily schedules.
 
-- If you need to find an item or kill something in a cave or dungeon, the quest marker will show the location of the dungeon but will not point to the item or enemy directly; the quest marker will not be shown inside the dungeon.
-- For finding items in houses and other public areas, the quest marker will guide you to the building but not the exact item position. Exceptions: when the stuff you need to find is too generic, like a specific desk you need to place an item in which is not really different from other containers in the location
-- If a quest requires you to investigate an area or find something in the worldspace, the marker will show an approximate location and will disappear when you are within the search area.
-- For quests where the exact target location is unknown (e.g., finding a cave on a river shore and a map marker is not given), the marker will be in an area close to your destination.
-- Markers will generally show the location of quest givers or NPCs in town if it is implied that their current location is known to the player and is not a secret. This avoids the annoyance of searching for NPCs following their daily schedules or hovering over cell names in the local map.
-- If you have to find an NPC but it is implied that you don't know their exact location, frequent locations where the NPC can be found might be shown for some quests.
+A Painted World takes a middle ground. Markers have been removed or adjusted when appropriate, while still providing enough information to keep quests from becoming tedious.
 
-## <p align="center"> Main Quest
+### How Quest Markers Work
 
-You will begin the game on board a ship rather than starting in the Imperial Prison. You can choose from a variety of starting options which will affect what equipment you start with (choosing a wealthier background will give you better starting equipment and therefore make the start of the game easier; to start with no equipment, choose the "beggar" option), and then choose a city in which to dock -- Anvil, Bravil, the Imperial City, or Leyawiin.
+* **Dungeons:** If you need to find an item or kill an enemy inside a cave or dungeon, the marker will point to the dungeon itself rather than the exact target. The marker disappears once you enter.
+* **Houses & Public Areas:** Markers will guide you to the appropriate building rather than directly to the item. Exceptions are made when the objective is something particularly difficult to distinguish from other objects in the area.
+* **Investigation:** When investigating an area or searching for something in the world, the marker indicates an approximate location and disappears once you enter the search area.
+* **Unknown Locations:** When the exact location of a destination is unknown, such as being told to find a cave somewhere along a river, the marker will indicate an approximate area rather than the precise location.
+* **Known NPCs:** Quest givers and NPCs in towns will generally have markers when their current location is reasonably known to the player. This prevents the need to search their daily schedules or manually inspect every location on the map.
+* **Unknown NPCs:** When an NPC's exact whereabouts are not known, some quests may instead provide markers for locations where they are frequently found.
 
-To start the main quest, simply get arrested in the Imperial City and choose to go to jail (as long as "Scheduled for Execution" is not currently active). The Emperor and his entourage will find you in your cell and you will go through the usual tutorial dungeon; the enemies are now leveled and the special "tutorial" versions of items have been replaced with the real deal. Please note that the goblins will probably be rather difficult for a character who relies heavily on equipment – it may be preferable to simply pick the lock and follow the Blades and the Emperor as soon as you first part.
+## <p align="center">MAIN QUEST</p>
 
-References to the player’s imprisonment and the Emperor’s death will be blocked until the main quest begins. The Dragonfires burn in the Temple of the One, the Emperor attends court every day in the Elder Council Chambers, Jauffre lives peacefully at Weynon Priory, and Slythe Seringi wanders around his farm, terrified of the Sunken One’s imminent wrath. Kvatch is a real city and has no Oblivion gate until the Crisis starts.
+The game no longer begins in the Imperial Prison.
 
-## <p align="center"> Faction Quests
+Instead, you begin aboard a ship and choose both your starting background and the city where you will dock: **Anvil, Bravil, the Imperial City, or Leyawiin**.
 
-### <p align="center"> FIGHTERS GUILD
+Your chosen background determines your starting equipment. Wealthier backgrounds provide better equipment and an easier start, while the **Beggar** option allows you to begin with nothing.
 
-#### Radiant Quests
-Once you join the Fighter's Guild, you can start accepting Contracts from small wooden tables in every Fighter's Guild Hall in Cyrodiil. On each table will be a Contract to hunt a Notorious Monster, and a Contract to hunt a Notorious Daedra. Both Contract types reward 1 Fighter's Commendation, and a leveled Gold reward. Both Contract types can be accepted simultaneously, and are infinitely repeatable with 200 unique possible targets.
-- Fighter's Commendations can be used in the Training Hall of the Leyawiin Fighter's Guild Basement to train up your Combat Skills. These are not limited by level like regular Training sessions, and require four Fighter's Commendations per session. Once you have enough Commendations, you can activate the Sign-Up Sheet for any of the Combat Skills you'd like to train - Armorer, Athletics, Blade, Block, Blunt, Hand to Hand, and Heavy Armor. <br/>
+### Starting the Main Quest
 
-### <p align="center"> MAGES GUILD
+To begin the Main Quest, get arrested in the Imperial City and choose to go to jail, provided **Scheduled for Execution** is not currently active.
 
-#### Radiant Quests
-In every Mages Guild Hall as well as the Arcane University, the player can find a Sealed Letter of priority Worm Cult targets identified by the Mages Council. These quests function exactly the same as Fighter's Guild Notorious Monster and Daedra Contracts. There are 100 unique targets, and the quest will reward filled leveled soul gems upon completion.
-- Elixir Crafting and Deliveries can be done from the Library at the Anvil Mages Guild. Instructions on how to craft Elixirs are in a book on the Elixir Crafting table. Activating the Sealed Elixir Order will randomly assign the player 1 of 20 potential radiant quest objectives. Craft the requested number of whichever specific Elixir, then deliver it to the Delivery Box marked with a Quest Marker to receive a leveled Gold reward.
-- Beast Research is a more intricate but also very rewarding questline, which will unlock a system where the player can earn permanent Attribute buffs from studying the various different Monsters and Animals in Cyrodiil and beyond.
-- Finally, every Mages Guild Hall and the Arcane University has a receptacle for Necromancer Robe Recycling. Activating the chest will remove all Necromancer Robes from the player's inventory, and give them 100 (unleveled) Gold per Robe. <br/>
+The Emperor and his entourage will then find you in your cell, beginning the familiar tutorial dungeon. However, the dungeon has been adjusted:
 
-### <p align="center"> THIEVES GUILD
+* Enemies are now leveled.
+* The special tutorial versions of items have been replaced with their normal versions.
+* The goblins can be particularly dangerous for equipment-dependent characters.
 
-#### Radiant Quests
-Once you join the Thieves Guild, you can start accepting Jobs from the small wooden table tucked away in the Garden of Dareloth, hidden from the ever-watchful and steely gaze of The Imperial Legion. On the table are three items  - the Thieves Guild Drop Box, a sheet for Numbers Jobs, and a sheet for Special Requests.
-- Special Requests are - as they are named - special requests made by clients that have paid the Thieves Guild to "obtain" specific requested items.
-- Numbers Jobs are commissions the Thieves Guild has received from certain clients looking the cook the books for various businesses and other organizations.
- <br/>
-Both Job types will reward the player with leveled gold, and 1 Fox's Favor. Both of these operations are overseen by the Master Thief Winston Mallory, right hand of the Gray Fox himself. If you speak with Winston as a Thieves Guild member, he offers various helpful services in exchange for Fox's Favor. He also offers explanations regarding Special Requests and Numbers Jobs, in-case the player is curious how they work. If you speak with Winston as The Gray Fox, he will not offer his regular services, and will instead have special dialogue. If you speak with Winston as a non-member of the Thieves Guild, he will have nothing special to tell you. <br/>
+If you are struggling, it may be safer to pick the lock and follow the Blades and Emperor when you first become separated.
 
-### <p align="center"> DARK BROTHERHOOD
-There are 200 new radiant contracts. Once you've officially joined The Dark Brotherhood and have gained access to the Dark Brotherhood Sanctuary, near the Well exit you will find a small table, two Sealed Contract documents, and a Bonus Reward chest. Regardless of your Rank in The Dark Brotherhood, or the status of the Sanctuary's inhabitants, you can always accept a new Contract from this table. You can accept a regular Contract and a High Priority Contract at the same time. Upon completion, two sacks of gold are waiting on the same small table where you accepted the Contracts to begin with. Interacting with the bags will give gold, and make the next Contracts available. <br/>
+Until the Main Quest begins, references to your imprisonment and the Emperor's death are suppressed. The Dragonfires still burn in the Temple of the One, the Emperor continues attending court in the Elder Council Chambers, Jauffre lives peacefully at Weynon Priory, and Slythe Seringi remains at his farm, terrified of the Sunken One's impending wrath.
 
-Additionally, when you grab each reward bag RNG decides whether or not you receive a Bonus Item for either Contract. The chance is low, but If you turn in both Contracts at the same time, there is a 50% chance at least one item will be given as a Bonus. If you're ever really lucky, you'll receive multiple items as a Bonus. Not all Bonus items are as awesome as others. Some are great, some are not. Keep doing Contracts to see what you get in addition to your gold - if anything.
-<br/>
-### <p align="center"> THE ARENA
-You may now loot your opponents in the Arena, however it is seen as dishonorable by the spectators and you will gain a point of infamy by doing so.
-#### Radiant Quests
-Once the player becomes the Grand Champion of The Imperial City Arena, they gain access to infinitely repeatable arena fights for leveled gold. Go to The Imperial City Arena Bloodworks in The Imperial City and speak with Blademaster Owyn. Once the Ceaseless Combat quest begins and you speak with Owyn, he will have a brand new dialogue option available. Going through this new dialogue will grant the player access to Arena - Infinitum's endless Combatant and Monster Arena Match-Ups. <br/>
+Most importantly, **Kvatch remains a functioning city** until the Oblivion Crisis begins.
 
-﻿After speaking with Owyn, the player will be able to interact with the two brand new Match Registration Forms. These two separate forms will allow the player to sign up for a Match with either Human Combatants or Monsters. Activating the Combatant Match Registration Form presents the player with the above menu -
-and asks them how many Combatants they'd like to sign up to face in the Arena. You get paid more gold based on how many opponents you choose to face. <br/>
+## <p align="center">FACTION QUESTS</p>
 
-After finishing a match, on the wooden table where the Match Registration Forms are found, a sack of coins will appear. Activating the Sack will give you the gold you've earned, and also signal the Custodians to get to work cleaning up the Arena.
-## <p align="center"> DLC Quests
+### FIGHTERS GUILD
 
-All of the DLC's have new triggers so the player isn't spammed with new quests on starting a new game.
+#### Radiant Contracts
 
-### Shivering Isles <br />
-Player level >= 15<br />
-Also starts if the player finds the Strange Door on their own.<br />
+After joining the Fighters Guild, you can accept contracts from wooden tables found in every Fighters Guild Hall.
 
-### Knights of the Nine<br />
-Player must be at least level 10, overall Fame (Fame - Infamy) is greater than 15, and must not be in any Anvil related cell.<br />
+Two contracts are available:
 
-### Battlehorn Castle (Fighters Stronghold)<br />
-Player must be at least Journeyman rank in the Fighters guild, and have a sum of at least 200 in any Combat skills.<br />
-Also starts if the player finds castle and attackers.<br />
+* **Notorious Monster**
+* **Notorious Daedra**
 
-### Frostcrag Spire (Wizard's Tower)<br />
-Player must be at least Evoker rank in the Mages guild, and have a sum of at least 200 in any Magic skills.<br />
+Both reward **1 Fighter's Commendation** and a leveled Gold reward. They can be accepted simultaneously and are infinitely repeatable, with **200 unique possible targets**.
 
-### Thieves Den (Black Flag Ship)<br />
-Player must be at least Bandit rank in the Thieves Guild, and have a sum of at least 200 in any Stealth skills.<br />
+#### Fighter's Commendations
 
-### Vile Lair (Deepscorn Hollow)<br />
-Player must be at least Eliminator rank in the Dark Brotherhood, or have an infamy of at least 50.<br />
+Fighter's Commendations can be exchanged for combat training in the Training Hall beneath the Leyawiin Fighters Guild.
 
-### Horse Armor Pack<br />
-Player must be at least level 4, have at least 2,000 gold, have a minimum fame of 4, and be within the Talos Plaza District.<br />
+Training is not restricted by the normal level requirements and costs **4 Fighter's Commendations per session**.
 
-### Mehrunes Razor<br />
-Player's level >= 10 and in the Elven Gardens District.<br />
+You can train:
 
-### Orrery<br />
-Player must be at least an Associate in the Mages guild and within 200 units of Bothiel.<br />
+* Armorer
+* Athletics
+* Blade
+* Block
+* Blunt
+* Hand-to-Hand
+* Heavy Armor
 
-## <p align="center"> Modded Quests
+### MAGES GUILD
 
-If you get stuck or are unsure how to start any of these quests, please consult the mod page or readme file inside the mod before asking for help.
+#### Radiant Contracts
+
+Every Mages Guild Hall and the Arcane University contains a **Sealed Letter** identifying priority targets for the Worm Cult.
+
+These function similarly to the Fighters Guild's Notorious Monster and Daedra Contracts. There are **100 unique targets**, and completing these contracts rewards filled, leveled Soul Gems.
+
+#### Elixir Crafting
+
+The Anvil Mages Guild Library contains an **Elixir Crafting** station and delivery system.
+
+Instructions can be found in a book on the crafting table. Activating the Sealed Elixir Order randomly assigns one of **20 radiant objectives** requiring you to craft a specific number of a particular Elixir.
+
+Deliver the requested Elixirs to the marked Delivery Box to receive a leveled Gold reward.
+
+#### Beast Research
+
+**Beast Research** is a more involved questline that unlocks a system for studying the various Monsters and Animals found throughout Cyrodiil and beyond.
+
+Completing research allows you to earn **permanent Attribute bonuses**.
+
+#### Necromancer Robe Recycling
+
+Every Mages Guild Hall and the Arcane University contains a receptacle for recycling Necromancer Robes.
+
+Activating the chest removes all Necromancer Robes from your inventory and awards **100 Gold per robe**.
+
+### THIEVES GUILD
+
+#### Radiant Jobs
+
+After joining the Thieves Guild, you can accept jobs from the wooden table hidden within the Garden of Dareloth.
+
+Three items are found on the table:
+
+* Thieves Guild Drop Box
+* Numbers Jobs sheet
+* Special Requests sheet
+
+**Special Requests** are jobs from clients who have paid the Thieves Guild to obtain specific items.
+
+**Numbers Jobs** are commissions to manipulate the books of various businesses and organizations.
+
+Both job types reward **leveled Gold and 1 Fox's Favor**.
+
+The operations are overseen by **Winston Mallory**, Master Thief and right hand of the Gray Fox. Winston offers various services in exchange for Fox's Favor and can explain how the different jobs work.
+
+### DARK BROTHERHOOD
+
+The Dark Brotherhood gains **200 new radiant contracts**.
+
+Once you have officially joined the Brotherhood and gained access to the Sanctuary, you can find a small table near the Well exit containing two sealed contracts and a Bonus Reward chest.
+
+You can accept both a regular Contract and a High Priority Contract simultaneously, regardless of your rank or the status of the Sanctuary's inhabitants.
+
+After completing your contracts, two reward bags will appear on the same table. Collecting them awards your Gold and makes the next contracts available.
+
+Each reward bag also has a chance to contain a **Bonus Item**. The chance is low, but turning in both contracts simultaneously gives you a **50% chance of receiving at least one bonus item**. You can occasionally receive multiple items.
+
+### THE ARENA
+
+You can now loot defeated opponents in the Arena, although doing so is considered dishonorable by the spectators and increases your **Infamy by 1**.
+
+#### Radiant Arena Matches
+
+After becoming the **Grand Champion**, you gain access to infinitely repeatable Arena matches for leveled Gold.
+
+Speak with **Blademaster Owyn** in the Imperial City Arena Bloodworks after beginning the *Ceaseless Combat* quest. A new dialogue option will grant access to **Arena - Infinitum**.
+
+Two Match Registration Forms allow you to choose between:
+
+* **Human Combatants**
+* **Monsters**
+
+When registering for a Combatant match, you can choose how many opponents you want to face. Taking on more opponents increases your reward.
+
+After completing a match, a sack of coins will appear on the registration table. Collecting it awards your Gold and signals the Arena custodians to clean up.
+
+## <p align="center">DLC QUESTS</p>
+
+The DLC questlines have been given new activation conditions so that the player is not immediately bombarded with quests at the beginning of a new game.
+
+### Shivering Isles
+
+**Level 15+**
+
+The quest can also begin if you discover the Strange Door on your own.
+
+### Knights of the Nine
+
+**Level 10+**
+**Fame - Infamy > 15**
+Must not be in an Anvil-related cell.
+
+### Battlehorn Castle
+
+**Journeyman Fighters Guild rank**
+**200+ combined Combat skills**
+
+The quest can also begin if you discover the castle and its attackers yourself.
+
+### Frostcrag Spire
+
+**Evoker Mages Guild rank**
+**200+ combined Magic skills**
+
+### Thieves Den
+
+**Bandit Thieves Guild rank**
+**200+ combined Stealth skills**
+
+### Vile Lair
+
+**Eliminator Dark Brotherhood rank** or **50+ Infamy**
+
+### Horse Armor
+
+**Level 4+**
+**2,000+ Gold**
+**4+ Fame**
+Must be in the Talos Plaza District.
+
+### Mehrunes Razor
+
+**Level 10+**
+Must be in the Elven Gardens District.
+
+### Orrery
+
+**Associate Mages Guild rank**
+Must be within **200 units of Bothiel**.
+
+## <p align="center">MODDED QUESTS</p>
+
+A Painted World also includes a large collection of additional questlines and new content integrated into Cyrodiil.
+
+If you become stuck or are unsure how to begin one of these quests, consult the corresponding mod page or the readme included with the mod before asking for assistance.
 
 ### [Join the Blackwood Company](https://www.nexusmods.com/oblivion/mods/55285)
-This mod upgrades the Blackwood Company into a joinable faction and a questline with over a dozen new quests that pits you against the Fighters Guild as well as taking a variety of morally questionable contracts.
+
+Join the Blackwood Company as a new faction and take on more than a dozen quests that put you directly at odds with the Fighters Guild while sending you on a variety of morally questionable contracts.
 
 ### [Join the Order of the Black Worm](https://www.nexusmods.com/oblivion/mods/54847)
-Have you ever been playing through the Mages Guild questline and thought, "I wonder what it would be like to join the Order of the Black Worm and become a necromancer working for the King of Worms?" 
-This mod lets you join the Necromancer faction, the Order of the Black Worm, part way through the Mages Guild questline. It has around a dozen new quests, which mostly mirror the Mages Guild quests but with you helping the necromancers instead. If you decide to stay loyal to the Mages Guild, the questline should be unaffected, as should the rest of the game. But if you do join the Order of the Black Worm, you leave the Mages Guild and all of its benefits, but the necromancers will provide you with equivalent benefits.
+
+Join the Order of the Black Worm partway through the Mages Guild questline and experience an alternative path through the conflict between the Mages Guild and the Necromancers.
+
+The questline contains around a dozen quests that largely mirror the Mages Guild storyline from the Necromancers' perspective. Joining the Order causes you to leave the Mages Guild and lose its benefits, but the Necromancers provide equivalent benefits in return.
 
 ### [Join the Mythic Dawn](https://www.nexusmods.com/oblivion/mods/55756)
-This mod allows you to join the Mythic Dawn and work against Martin and the Blades as an alternative questline to the Main Quest. This mod adds a dozen new quests (though a few of them are hidden side quests you have to find by talking to certain Mythic Dawn members) and ends with Mehrunes Dagon's plan to invade Tamriel coming to fruition.
+
+Join the Mythic Dawn and work against Martin and the Blades as an alternative path through the Main Quest.
+
+The questline contains around a dozen quests, including several hidden side quests, and ultimately allows Mehrunes Dagon's invasion of Tamriel to come to fruition.
 
 ### [Join the Imperial Legion](https://www.nexusmods.com/oblivion/mods/56133)
-This mod allows you to join the Imperial Legion and sees you rise through the ranks, working to thwart those who would see the Empire fall and strengthen the primary protecting force of Cyrodiil.
+
+Join the Imperial Legion, rise through its ranks, and work to protect the Empire from those who would see it fall.
 
 ### [Join the Morag Tong](https://www.nexusmods.com/oblivion/mods/55771)
-This mod adds a joinable faction and a questline with around two dozen new quests that pits you against the Dark Brotherhood and has you commit various assassinations across Cyrodiil. To join the Morag Tong, you first have to find out about them, which is done via asking for Rumors in Cheydinhal (unfortunately, if you've completed the Main Quest, its aftermath rumors will take precedence over my rumor for an in-game week after completing the Main Quest), or you could just find out where they're hiding by yourself and bypass all the Rumors stuff.
 
-### [Hackdirt The Deep Ones](https://www.nexusmods.com/oblivion/mods/36224)
-Have you ever wondered who the DEEP ONES really were? What secrets or treasures to they hold in their caverns? Now you can, but beware of what you may find, a secret so terrible that it could shake Tamriel apart.
+Join the Morag Tong and take on around two dozen quests centered around assassinations throughout Cyrodiil and the organization's conflict with the Dark Brotherhood.
+
+The Morag Tong must first be discovered through rumors in Cheydinhal or by finding their hideout yourself.
+
+### [Hackdirt: The Deep Ones](https://www.nexusmods.com/oblivion/mods/36224)
+
+Uncover the truth behind Hackdirt's Deep Ones and explore the secrets and treasures hidden within their caverns.
 
 ### [Thieves Guild HQ - Unhealthy Competition](https://www.nexusmods.com/oblivion/mods/34465)
-This mod is both a player home and a full questline that continues the Thieves Guild story. After becoming the Gray Fox and assuming responsibility for the Thieves Guild, there is still more to be done. Complete contracts for clients and help your guild combat a new threat in Cyrodiil, while residing in a fully equipped hideout/player home. Steal valuable items, manage the Thieves Guild's operations, recruit new members to see an increase in profit, and solve the mystery that threatens the Thieves Guild and the rest of Cyrodiil.
+
+Continue the Thieves Guild storyline after becoming the Gray Fox. Take on new contracts, manage Guild operations, recruit members, increase profits, and investigate a new threat to the Guild.
+
+The questline also provides a fully equipped Thieves Guild hideout and player home.
 
 ### [Infinitum Compendium](https://www.nexusmods.com/oblivion/mods/55242)
-Radiant Content Systems for five major factions - The Arena, Dark Brotherhood, Fighter's Guild, Mages Guild, and Thieves Guild. Tons of new items, new monsters, new NPCs, new currencies, new rewards.Tons of reasons to keep exploring Cyrodiil.. but don't forget to deliver the Amulet of Kings!
+
+Adds radiant content systems to five major factions:
+
+* Arena
+* Dark Brotherhood
+* Fighters Guild
+* Mages Guild
+* Thieves Guild
+
+The systems introduce new items, monsters, NPCs, currencies, and rewards, providing additional reasons to continue exploring Cyrodiil.
 
 ### [Knights of the Nine Revelation](https://www.nexusmods.com/oblivion/mods/42490)
-Umaril has been vanquished and the people of Cyrodiil hail you as the Divine Crusader. But little do they know that Pelinal's relics hold the key to protecting the freedom of all humankind... or enslaving it.
+
+Continue the story of the Divine Crusader after Umaril's defeat and uncover the secrets hidden within Pelinal's relics.
 
 ### [The Ayleid Steps](https://www.nexusmods.com/oblivion/mods/16316)
-Discover the ancient Ayleid teleporting network of Step stones, find out how to activate it, and then use the Steps to discover a new way of traveling around Cyrodiil, and search for new unknown Ayleid sites.
+
+Discover the ancient Ayleid network of teleporting Step stones, learn how to activate them, and use the network to explore Cyrodiil and uncover hidden Ayleid locations.
 
 ### [Mudwater](https://www.nexusmods.com/oblivion/mods/35434)
-This mod adds an Argonian village called Mudwater to the Blackwood Forest. The village is made almost completely from new meshes and comes with four quests. The quests are rather short, but they are hopefully fun - there is much more to see than just the village.
+
+Discover the Argonian village of Mudwater in the Blackwood Forest. The village is built almost entirely from new assets and includes four quests.
 
 ### [Bounty Quests Fixed and Polished](https://www.nexusmods.com/oblivion/mods/48330)
-In the lower-class inns in each city (except the Imperial City – see below), you'll find a bounty board with a notice on it. Activate it, and you'll receive a random bounty – either Kill, Exterminate, or Recovery. The inns are: The Flowing Bowl in Anvil; The Lonely Suitor Lodge in Bravil; Olav's Tap and Tack in Bruma; Newlands Lodge in Cheydinhal; The Grey Mare in Chorrol; Luther Broad's Boarding House in the IC Elven Gardens District; Five Claws Lodge in Leyawiin; Two Sisters Lodge in Skingrad.
+
+Bounty boards can be found in lower-class inns throughout Cyrodiil. Accept randomly generated **Kill, Exterminate, or Recovery** bounties for various targets.
 
 ### [Kvatch Rebuilt](https://www.nexusmods.com/oblivion/mods/15412)
-Rebuild Kvatch, become the new count(ess) or find the rightful heir of the throne. Get your own statue in the city and fight in the arena to become the new champion! And just as you thought it was all done, uncover the dark secrets of old Kvatch!
+
+Rebuild Kvatch, become its new Count or Countess, or help the rightful heir reclaim the throne. Establish your legacy, fight in the Arena, and uncover the darker secrets buried beneath the city.
 
 ### [Thievery in the Imperial City](https://www.nexusmods.com/oblivion/mods/52785)
-Not all merchants in the Imperial City are through and through honest. Derrien Venoit runs the Discount Merchandise in the market district; not only has he no qualms about buying stolen goods, the thieves in the Imperial City know that Derrien even gives tips about where to find worthwhile loot.
+
+Not every merchant in the Imperial City is honest. Discover a merchant willing to purchase stolen goods and provide information about valuable targets worth stealing.
 
 ### [The Well of Minlorada](https://www.nexusmods.com/oblivion/mods/38816)
-Deep beneath the surface of Cyrodiil lies a long-lost Ayleid Ruin known as Minlorada. It is a legendary location, and it is said that a special Ayleid Well resides inside. This well is said to have been a gift to the Ayleids from Meridia, and it grants extended or eternal life to whoever draws from its power. Discover the lost ruins of Minlorada. Reveal the truth in the legends. Find the many secrets inside its walls!
+
+Discover the legendary Ayleid ruin of Minlorada and the mysterious well said to have been gifted to the Ayleids by Meridia.
 
 ### [Into The Void](https://www.nexusmods.com/oblivion/mods/52365)
-On the shores of Niben Bay, the scenic Cadlew Chapel hides underneath itself a dark secret... Will you enter the hallowed halls and uncover the mysteries laid before you by an ancient evil? Into The Void offers a unique horror experience in Oblivion. Explore dark dungeons and traverse surreal hellscapes in this quest-driven mod which focuses on themes of madness, humanity, the passing of time, power and the corruption which often follows said power. To start the quest simply enter Cadlew Chapel and go from there.
 
-### [Elsweyr the Deserts of Anequina](https://www.nexusmods.com/oblivion/mods/25023)
-High beyond the hills of the Niben lies the great desert plateau of central Elsweyr. From sandy desert wastes to rocky, red badlands, from grassy savannah to jungle coast, the lands of Anequina beckon. This new region, spanning the section of Elsweyr between Skingrad and Leyawiin, includes four new landscapes (desert to jungle), four new towns, several villages, a couple of dozen small quests, three small player homes and a monster-filled wilderness to explore.
+Uncover the dark secret beneath Cadlew Chapel in a horror-focused quest involving madness, humanity, time, power, and corruption.
+
+### [Elsweyr: The Deserts of Anequina](https://www.nexusmods.com/oblivion/mods/25023)
+
+Explore the diverse region of Anequina, spanning the area between Skingrad and Leyawiin. The region includes deserts, badlands, savannahs, jungles, four towns, several villages, numerous quests, player homes, and a dangerous wilderness filled with new creatures.
 
 ### [Frostcrag Reborn](https://www.nexusmods.com/oblivion/mods/9769?tab=description)
-A complete overhaul of Frostcrag, replete with added backstory, massive quests, and rewards galore. What secrets await within the wizard tower?
+
+A complete overhaul of Frostcrag Spire featuring new backstory, quests, and rewards.
 
 ### [Vampire Hunting - Order of the Virtuous Blood](https://www.nexusmods.com/oblivion/mods/30568)
-Cyrodiil is suffering from a plague of vampirism. With the Oblivion crisis, the attentions of the authorities have been focused elsewhere, and things are starting to get out of hand.  You may encounter vampires at night on isolated country roads, and even walking the streets of the cities. Vampire hunting is not without its risks. It really isn't safe to get infected with porphyric hemophilia over and over. You must have a pure heart and a steadfast resolve if you are to avoid turning into one of the things you are fighting so hard against. If the work does not destroy your body, it still might destroy your mind and your soul. But if nobody is willing to take the risks and make the sacrifices, things may become very bad for Cyrodiil indeed.
+
+Hunt vampires throughout Cyrodiil as vampirism spreads across the province. Vampires can now be encountered in the wilderness and even within cities, making the work of the Virtuous Blood more important than ever.
 
 ### [Render Unto Them Their Desert - An Inn of Ill Omen Overhaul](https://www.nexusmods.com/oblivion/mods/54579)
-The Inn of Iller Omen is an overhaul for everyone's favorite dingy little inn on the Green Road. This mod expands upon the Ill Omen in a number of ways. It also adds a highly detailed, open-ended story with a horror theme, taking place in an abandoned dungeon of the Imperial Empire. To start, find and interact with the skull hidden among the weeds in the ruins in front of the inn.
+
+Explore the expanded Inn of Ill Omen and uncover a dark story hidden beneath the familiar roadside inn.
 
 ### [Tales of Cyrodiil](https://www.nexusmods.com/oblivion/mods/48792)
-Tales of Cyrodiil adds 14 quests for you to embark on. The quests are not of epic scales, but more of a... local scale. You will deal with commoners, nobles and the underworld with their little problems, like adventurers always do. These adventures are inspired by some of Daggerfall's side quests you can get from innkeepers and shopkeepers. Unlike Daggerfall, the Tales of Cyrodiil are unique and not randomly generated.
+
+Experience 14 locally focused quests inspired by Daggerfall's smaller-scale adventures. Help commoners, nobles, and members of Cyrodiil's underworld with their problems.
 
 ### [Order of the Dragon](https://www.nexusmods.com/oblivion/mods/45258)
-Have you already left Cyrodiil behind? Then you do not know what happened after the death of the Emperor's son, do you? The Oblivion gates are closed, the Amulet of Kings shattered, but the Empire is not saved. Rebels spread fear and terror in the counties of Cyrodiil. Meanwhile, talk about the old sword prophecy is getting ever louder. Will the hero of Kvatch again prove worthy and be able to save the Empire from chaos?
 
-### [Kragenirs Death Quest](https://www.nexusmods.com/oblivion/mods/26219)
-Many years ago, Kragenir's tower had been sealed by the Knights of the Silver Nose, but as they die, the seals weaken... Can you find the keys required to break the seals so you can face Kragenir inside the tower before he escapes? Or... Are you going to help him? Aside from a main quest series KDQ offers tons of new miscellaneous quests in Cyrodiil's original cities, villages and locations. Many generic vanilla NPCs and dungeons will now be a lot more interesting.
+Discover what happened to the Empire after the Emperor's death. With the Oblivion Crisis over, rebels threaten Cyrodiil and an ancient sword prophecy begins to resurface.
+
+### [Kragenir's Death Quest](https://www.nexusmods.com/oblivion/mods/26219)
+
+Investigate the sealed tower of Kragenir and decide whether to stop him or help him escape. The questline also adds numerous miscellaneous quests throughout Cyrodiil, making existing towns, villages, and dungeons more interesting.
 
 ### [Hoarfrost Castle](https://www.nexusmods.com/oblivion/mods/14714)
-Sitting high on a bluff above the steepest part of the Orange Road is Hoarfrost Castle. The keep and castle yard rest at the foot of the Jerall Mountains proper - at the edge of the snowfall. The yard is almost always half-covered with snow, ice and frost. The windswept keep tower provides an unsurpassed view over the Great Forest, the Heartlands, and the Nibenay basin: from Bruma, to Chorrol - to the Imperial City itself. Hoarfrost Castle is a cold place, but the roaring pit fire in the great hall always served to bar the chill from the keep itself. The keep and castle grounds played host to a chapel, graveyard, stables, master bedroom, dining chamber, kitchen, basement, smithy, servant's and guard's quarters, mage's study and workshop, display hall, and of course the warmest part of the keep: the great hall. A hive of activity and an outpost unto itself.
 
-At least, this was the case until the castle's previous occupants were lost to some malevolent force that rose up within the keep. Rumour has it that only the Castle Steward survived to tell the horrific tale; and is now willing to give ownership of the castle up to whoever proves powerful enough to wrest control of the keep from whatever monstrosities now dwell inside. He keeps a solitary watch over Hoarfrost Castle's gate; waiting for some brave soul to come, and offer their help.
+Discover the abandoned Hoarfrost Castle overlooking the Jerall Mountains. Explore its extensive grounds and uncover the malevolent force that drove its former inhabitants to their deaths.
 
 ### [Shroud Over Stalrous Manor](https://www.nexusmods.com/oblivion/mods/52408)
- A shroud looms over the Jerall Mountains and County Bruma. In a series of unusual circumstances you find yourself in the possession of the deed to Stalrous Manor. The manor does not have a welcoming appeal however and bears the scars of an eerie and cold history scorned by a series of disappearances. Unbeknownst to you, the estate holds a dark mystery that has yet to be unearthed. Explore the Stalrous Estate and the surrounding wilderness in search of clues that will uncover the mystery that has plagued County Bruma's past and threatens to plague its future. Confront sinister psychogenic horrors and delve into the darkest depths and dungeons of the Jerall Mountains in search of answers.
+
+Take possession of the mysterious Stalrous Manor and investigate the disappearances and disturbing history surrounding the estate. Explore the manor and surrounding wilderness while confronting supernatural horrors hidden within the Jerall Mountains.
 
 ### [Integration - The Stranded Light](https://www.nexusmods.com/oblivion/mods/22320)
-Integration: The Stranded Light includes more than 80 quests with a strong emphasis on thinking, character interaction, choices, consequences, and lore. It delivers a seamless integration of Cyrodiil and Shivering Isles along with other lore races. A new, joinable guild plays an important role in many of the quests, which are unlike any in Vanilla Oblivion: A bit of thinking, often multiple solutions, quite heavy on social skills. It also reaches beyond the typical mold of quest mods, seeking to enrich the existing game world as whole.
 
-The quests in Integration: The Stranded Light don't all follow a single storyline. It's more like a collection of somewhat intertwined short stories than an epic novel.
+Integration: The Stranded Light adds more than **80 quests** focused on character interaction, choices, consequences, lore, and problem-solving.
+
+Its interconnected stories seamlessly integrate new content into Cyrodiil and the Shivering Isles, including a new joinable guild and numerous quests with multiple solutions and a strong emphasis on social skills.
+
+Rather than following one continuous storyline, the quests form a collection of interconnected short stories that enrich the existing world.
 
 ### [Shadowcrest Vineyard](https://www.nexusmods.com/oblivion/mods/22810)
-Unlock the secret past of Shadowbanish Wine to obtain a large interactive vineyard and manor, located in rich fields surrounded by waterfalls and lakes. So come on over and have a drink...or are you scared of what lurks in the shadows? To start the quest visit the Chapel of Julianos, in Skingrad. On the first pew there is a note that you must read. The note is located on pew to the left if you are facing the altar.
+
+Uncover the secrets of Shadowbanish Wine to obtain an interactive vineyard and manor surrounded by waterfalls and lakes.
+
+Begin the quest at the Chapel of Julianos in Skingrad by finding and reading the note on the left pew when facing the altar.
