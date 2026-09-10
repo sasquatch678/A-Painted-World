@@ -165,14 +165,11 @@ Finally, sleep in the bed. You will be given a prompt to choose your starting ci
 
 What happens next is entirely up to you. The world is open for you to explore, so choose your path and begin your adventure.
 
-## Controller Support
+## Controller Setup
 
-Swap to the controller profile in MO2 by clicking the drop down at the top of the application (by default it will say "A Painted World", you want to select "A Painted World - Controller"). Doing so will automatically enable several mods that enable controller support and patch various ui elements, and disable a handful of others that would conflict, cause the game to crash, or otherwise not work at all with a controller.
+To use a controller, switch to the controller profile in MO2 by clicking the profile dropdown at the top of the application. By default, this will be set to **A Painted World**. Select **A Painted World - Controller** instead. Each profile uses a separate Oblivion.ini, so ensure you have applied your resolution for this profile following the steps in Post Installation.
 
-
-
-
-
+Switching profiles will automatically enable several mods that add controller support and patch various UI elements for controller use. It will also disable a handful of mods that would conflict with controller support, cause crashes, or otherwise not function correctly when using a controller.
 
 ## Optional Mods - Ultrawide Support & Performance
 
