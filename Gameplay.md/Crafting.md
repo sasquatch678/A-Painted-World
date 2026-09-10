@@ -32,6 +32,10 @@ Any tree in the world can be chopped using an **axe**. After several swings, a l
 
 Logs can be processed into **boards** at a workbench, which are used in many crafting recipes.
 
+### Harvesting
+
+Swinging a harvest scythe will allow you to harvest all alchemical plants in an area around you.
+
 ### Water
 
 Wells throughout Cyrodiil can be used to collect water. Simply interact with a well while carrying an **empty bucket**, and it will be filled with water.
