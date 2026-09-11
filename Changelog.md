@@ -1,3 +1,48 @@
+# <p align="center">2.4.3 / Revision 13</p>
+
+***
+
+## ADDED
+- Pick Me - lockpicking interface retexture
+- No Lockpick Activate
+- s6o6t LORE - Oblivion Gates Replacer - fixed conflict with AWLS
+- Statues of Cyrodiil for Oblivion Classic
+
+***
+
+## UPDATED
+- OCRAFT - Stations for Sale
+- Crash Logger Improved - crash logs finally work on the controller profile!
+
+***
+
+## REMOVED
+- Modern Security Overhaul
+- Pay fine no process - incompatible with Join the Imperial Legion
+
+***
+
+## CHANGES
+- to better benefit spellswords and the physical techniques all combat skills have access to, the counter attack mechanic now grants 10% spellpower for 3 seconds in addition to the attack damage buff. The staff version now grants 15% spell power for 5 seconds (was 10%)
+- the Skeleton Key now fortifies 10 points of Luck (was 40 Security)
+- reduced xp awarded in OblivionXP from lockpicking
+- nirnroot quest no longer gives an annoying quest popup the first time you loot one, now just adds a topic you can choose to follow up on to begin the quest instead
+- tentatively enabled autosaves on wait/rest - so that respawn points will always be synced to a recent save location, and you no longer have to remember to do both or treat them as their own separate mechanic (still best practice to make occasional hard saves)
+
+***
+
+## BUG FIXES
+- removed the particles from the Ayleid Statues of Magical Fortitude in Frostcrag Spire as the particles would cause fps to plummet
+- fixed a floating magic pillar in anutwyll
+- mowed the remaining grass growing through the cobblestone in the arena district
+- fixed clipping landscape in the palace district
+- fixed a crash which could occur after selling a mortar and pestle to Angalmo in the Chorrol Mages Guild and saving the game
+- removed bwfern01.nif from the 2020 Retexture Project mod as this could cause a crash when loading an exterior cell
+- finished fully integrating and patching the Join the Imperial Legion questline
+- fixed bug which could cause player controls to remain disabled after respawning with the alternate death mod which would soft-lock the game and force the player to restart
+- corrected description of the Altmer spell sensitivity passive to correctly reflect that it is a 15% bonus - not 35%
+
+
 # <p align="center">2.4.2 / Revision 11</p>
 
 ***
